@@ -66,7 +66,7 @@ def main():
     parser.add_argument('--output_stream', help='output stream key for tracklets', type=str, default="camera:0:mot")
     parser.add_argument('--checkpoint', help='checkpoint file')
     parser.add_argument('--device', default='cuda:0', help='device used for inference')
-    parser.add_argument('--redis', help='Redis URL', type=str, default='redis://172.0.0.1:6379') # Changed 172.0.0.1(port forwarding)
+    parser.add_argument('--redis', help='Redis URL', type=str, default='redis://172.0.0.1:6379')
     parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
 
     args = parser.parse_args()
