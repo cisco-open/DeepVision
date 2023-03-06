@@ -92,11 +92,11 @@ def main():
                     outs_track = results2outs(bbox_results=result.get('track_bboxes', None))
                     bboxes = outs_track.get('bboxes', None)
                     ids = outs_track.get('ids', None)
-                    tracklet_list = []
+                    objects_list = []
                     for (i, id) in enumerate(ids):
-                        tracklet_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
-                        tracklet_list.append(tracklet_dict)
-                    frame_dict = {'frameId': frameId, 'tracking_info': tracklet_list}
+                        object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
+                        objects_list.append(object_dict)
+                    frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
                     conn.xadd(args.output_stream, {'refId': last_id , 'tracking': json.dumps(frame_dict, cls=NpEncoder)})
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
