@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "main", "develop", "feature/ci-pipeline" ]
+    branches: [ "main", "develop" ]
   pull_request:
-    branches: [ "main" , "develop" ]
+    branches: [ "main", "develop" ]
 
 permissions:
   contents: read
