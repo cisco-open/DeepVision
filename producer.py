@@ -6,8 +6,6 @@ import time
 import pickle
 from urllib.parse import urlparse
 
-redis_client = redis.StrictRedis('172.22.0.6', 6379)
-
 class SimpleMovingAverage(object):
     """ Simple moving average """
 
@@ -61,13 +59,6 @@ class Video:
 
     def __next__(self):
         self.count += 1
-
-        #Respect FPS for files
-        if self.isFile:
-            delta = time.time() - self.ts
-            self.sma.add(delta)
-            time.sleep(max(0, (1.0 - self.sma.current * self.fps) / self.fps))
-            self.ts = time.time()
 
 
         # Read image
@@ -123,7 +114,6 @@ if __name__ == '__main__':
                 'image': pickle.dumps(img)
             }
             _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
-            redis_client.execute_command('ts.add framerate * {}'.format(frame_id)) #sending messages to redis time series
             if args.verbose:
                 print('frame: {} id: {}'.format(frame_id, _id))
             frame_id += 1
