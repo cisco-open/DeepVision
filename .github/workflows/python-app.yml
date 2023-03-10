@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "main", "develop" ]
+    branches: ["**"]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main", "develop" ]
 
 permissions:
   contents: read
@@ -37,3 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         python -m unittest discover -s ./unittests
+
