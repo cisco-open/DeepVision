@@ -27,7 +27,7 @@ class SimpleMovingAverage(object):
 class Video:
     def __init__(self, infile=0, fps=30.0):
         self.isFile = not str(infile).isdecimal()
-        self.ts = time.time()
+        self.ts = time.time() 
         self.infile = infile
         self.cam = cv2.VideoCapture(self.infile)
         if not self.isFile:
@@ -59,6 +59,13 @@ class Video:
 
     def __next__(self):
         self.count += 1
+
+        #Respect FPS for files
+        if self.isFile:
+            delta = time.time() - self.ts
+            self.sma.add(delta)
+            time.sleep(max(0, (1.0 - self.sma.current * self.fps) / self.fps))
+            self.ts = time.time()
 
 
         # Read image
