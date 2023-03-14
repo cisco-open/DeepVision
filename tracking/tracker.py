@@ -95,6 +95,7 @@ def main():
                 if data:
                     frameId = int(data.get(b'frameId').decode())
                     img = pickle.loads(data[b'image'])
+                    redis_client.execute_command('ts.add framerate * {}'.format(frameId)) #sending messages to redis time series
                     model_run_latency.start_timer()
                     result = inference_mot(model, img, frame_id=frameId)
                     model_run_latency.end_timer()

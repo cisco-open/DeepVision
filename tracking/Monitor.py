@@ -44,3 +44,4 @@ class MMTMonitor:
             self.average_latency = 0
         else:
             self.average_latency = self.average_latency + latency
+
