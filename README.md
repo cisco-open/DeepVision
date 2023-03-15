@@ -21,4 +21,9 @@ Incase it is not running, use Command: python3 server.py
 when you access the link from port 5001, add /video as a path to the end of URL to see the results.
 
 For Grafana Dashboard:
-See Dashboard/readme.md for detailed instruction to set up grafana.
+Step1:
+Run these commands to spin up grafana and redis time series container.
+Command: sudo docker run -d --name=grafana -p 3000:3000 --net redisconnection grafana/grafana 
+Command: sudo docker run --name redis -p 6380:6379 --network redis-connection redislabs/redistimeseries
+Step 2:
+See Dashboard/grafana_readme.md for detailed instruction to set up grafana.
