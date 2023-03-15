@@ -26,4 +26,4 @@ Run these commands to spin up grafana and redis time series container.
 Command: sudo docker run -d --name=grafana -p 3000:3000 --net redisconnection grafana/grafana 
 Command: sudo docker run --name redis -p 6380:6379 --network redisconnection redislabs/redistimeseries
 Step 2:
-See Dashboard/grafana_readme.md for detailed instruction to set up grafana.
+See wiki/grafana_readme.docx for detailed instruction to set up grafana.
