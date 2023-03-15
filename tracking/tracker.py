@@ -6,7 +6,14 @@ import numpy as np
 import json
 import mmcv
 from redis import Redis
+import redis
+from Monitor import GPUCalculator , MMTMonitor
+redis_client = redis.StrictRedis('redistimeseries', 6379)
 
+#GPUCalculator and MMTMonitor variables
+model_run_latency = MMTMonitor(redis_client,'model_run_latency')
+bounding_boxes_latency = MMTMonitor(redis_client,'bounding_boxes_latency')
+gpu_calculation = GPUCalculator(redis_client)
 
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -88,9 +95,15 @@ def main():
                 if data:
                     frameId = int(data.get(b'frameId').decode())
                     img = pickle.loads(data[b'image'])
+                    redis_client.execute_command('ts.add framerate * {}'.format(frameId)) #sending messages to redis time series
+                    model_run_latency.start_timer()
                     result = inference_mot(model, img, frame_id=frameId)
+                    model_run_latency.end_timer()
+                    bounding_boxes_latency.start_timer()
                     outs_track = results2outs(bbox_results=result.get('track_bboxes', None))
                     bboxes = outs_track.get('bboxes', None)
+                    bounding_boxes_latency.end_timer()
+                    gpu_calculation.add()
                     ids = outs_track.get('ids', None)
                     objects_list = []
                     for (i, id) in enumerate(ids):
