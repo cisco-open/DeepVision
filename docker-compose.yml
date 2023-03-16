@@ -1,4 +1,4 @@
-version: "3.8"
+version: "3.3"
 services:
   redis:
     image: redis
@@ -10,6 +10,16 @@ services:
       interval: 1s
       timeout: 3s
       retries: 5
+  redistimeseries:
+    image: redislabs/redistimeseries
+    container_name: "redistimeseries"
+    ports:
+      - "6380:6379"
+  grafana:
+    image: grafana/grafana
+    container_name: "grafana"
+    ports:
+      - "3000:3000"
   tracker:
     build: ./tracking
     container_name: "tracker"
