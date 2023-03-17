@@ -1,4 +1,5 @@
 ##Cloning the repo
+
 While cloning the repo use the command:
 git clone --recurse-submodules "link"
 
@@ -12,7 +13,9 @@ Launch 2nd command for run
 
 ##For grafana dashboard
 Import the dashboards from dashboards folder. Json file is present. 
+
 To import the json file, please see wiki/grafana/grafana_dashboard for further information
+
 Make sure ports: 5001, 3000, 6379 and 6380 are forwarded.
 
 Open the browser and go to `localhost:5002/video` and see the result  
