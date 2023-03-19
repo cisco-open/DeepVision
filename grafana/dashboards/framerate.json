@@ -24,111 +24,14 @@
     "editable": true,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 0,
-    "id": 16,
+    "id": 15,
     "links": [],
     "liveNow": false,
     "panels": [
       {
         "datasource": {
           "type": "redis-datasource",
-          "uid": "sQGsGUa4k"
-        },
-        "fieldConfig": {
-          "defaults": {
-            "color": {
-              "mode": "palette-classic"
-            },
-            "custom": {
-              "axisCenteredZero": false,
-              "axisColorMode": "text",
-              "axisLabel": "",
-              "axisPlacement": "auto",
-              "barAlignment": 0,
-              "drawStyle": "line",
-              "fillOpacity": 0,
-              "gradientMode": "none",
-              "hideFrom": {
-                "legend": false,
-                "tooltip": false,
-                "viz": false
-              },
-              "lineInterpolation": "linear",
-              "lineWidth": 1,
-              "pointSize": 5,
-              "scaleDistribution": {
-                "type": "linear"
-              },
-              "showPoints": "auto",
-              "spanNulls": false,
-              "stacking": {
-                "group": "A",
-                "mode": "none"
-              },
-              "thresholdsStyle": {
-                "mode": "off"
-              }
-            },
-            "mappings": [],
-            "thresholds": {
-              "mode": "absolute",
-              "steps": [
-                {
-                  "color": "green",
-                  "value": null
-                },
-                {
-                  "color": "red",
-                  "value": 80
-                }
-              ]
-            }
-          },
-          "overrides": []
-        },
-        "gridPos": {
-          "h": 8,
-          "w": 12,
-          "x": 0,
-          "y": 0
-        },
-        "id": 4,
-        "options": {
-          "legend": {
-            "calcs": [
-              "min",
-              "max",
-              "mean"
-            ],
-            "displayMode": "list",
-            "placement": "bottom",
-            "showLegend": true
-          },
-          "tooltip": {
-            "mode": "single",
-            "sort": "none"
-          }
-        },
-        "targets": [
-          {
-            "command": "ts.get",
-            "datasource": {
-              "type": "redis-datasource",
-              "uid": "sQGsGUa4k"
-            },
-            "keyName": "model_run_latency",
-            "query": "",
-            "refId": "A",
-            "streaming": true,
-            "type": "timeSeries"
-          }
-        ],
-        "title": "Tracker Latency",
-        "type": "timeseries"
-      },
-      {
-        "datasource": {
-          "type": "redis-datasource",
-          "uid": "sQGsGUa4k"
+          "uid": "redis_uid"
         },
         "fieldConfig": {
           "defaults": {
@@ -186,14 +89,14 @@
           "h": 9,
           "w": 12,
           "x": 0,
-          "y": 8
+          "y": 0
         },
         "id": 2,
         "options": {
           "legend": {
             "calcs": [
-              "min",
               "max",
+              "min",
               "mean"
             ],
             "displayMode": "list",
@@ -207,22 +110,24 @@
         },
         "targets": [
           {
-            "command": "ts.get",
+            "aggregation": "range",
+            "bucket": 1000,
+            "command": "ts.range",
             "datasource": {
               "type": "redis-datasource",
-              "uid": "sQGsGUa4k"
+              "uid": "redis_uid"
             },
-            "keyName": "bounding_boxes_latency",
+            "keyName": "framerate",
             "query": "",
             "refId": "A",
-            "streaming": true,
             "type": "timeSeries"
           }
         ],
-        "title": "Bounding Box Latency",
+        "title": "FrameRate",
         "type": "timeseries"
       }
     ],
+    "refresh": "5s",
     "schemaVersion": 37,
     "style": "dark",
     "tags": [],
@@ -235,8 +140,8 @@
     },
     "timepicker": {},
     "timezone": "",
-    "title": "LatencyMetrics",
-    "uid": "D5tMyl-Vk",
+    "title": "FrameRate",
+    "uid": "3m4qPla4z",
     "version": 3,
     "weekStart": ""
   }

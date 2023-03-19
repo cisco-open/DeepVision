@@ -31,7 +31,7 @@
       {
         "datasource": {
           "type": "redis-datasource",
-          "uid": "sQGsGUa4k"
+          "uid": "redis_uid"
         },
         "fieldConfig": {
           "defaults": {
@@ -80,7 +80,7 @@
             "command": "ts.get",
             "datasource": {
               "type": "redis-datasource",
-              "uid": "jhyXOKx4z"
+              "uid": "redis_uid"
             },
             "keyName": "gpu_temp",
             "query": "",
@@ -95,7 +95,7 @@
       {
         "datasource": {
           "type": "redis-datasource",
-          "uid": "sQGsGUa4k"
+          "uid": "redis_uid"
         },
         "fieldConfig": {
           "defaults": {
@@ -146,7 +146,7 @@
             "command": "ts.get",
             "datasource": {
               "type": "redis-datasource",
-              "uid": "jhyXOKx4z"
+              "uid": "redis_uid"
             },
             "keyName": "gpu_utilization",
             "query": "",
@@ -161,7 +161,7 @@
       {
         "datasource": {
           "type": "redis-datasource",
-          "uid": "sQGsGUa4k"
+          "uid": "redis_uid"
         },
         "fieldConfig": {
           "defaults": {
@@ -212,7 +212,7 @@
             "command": "ts.get",
             "datasource": {
               "type": "redis-datasource",
-              "uid": "jhyXOKx4z"
+              "uid": "redis_uid"
             },
             "keyName": "memory_utilization",
             "query": "",
@@ -227,7 +227,7 @@
       {
         "datasource": {
           "type": "redis-datasource",
-          "uid": "sQGsGUa4k"
+          "uid": "redis_uid"
         },
         "fieldConfig": {
           "defaults": {
@@ -305,7 +305,7 @@
             "command": "ts.get",
             "datasource": {
               "type": "redis-datasource",
-              "uid": "jhyXOKx4z"
+              "uid": "redis_uid"
             },
             "keyName": "memory_used",
             "query": "",

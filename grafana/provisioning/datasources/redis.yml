@@ -1,0 +1,21 @@
+apiVersion: 1
+
+datasources:
+  - name: Redis
+    type: redis-datasource
+    access: proxy
+    orgId: 1
+    uid: redis_uid
+    isDefault: true
+    version: 1
+    url: redis://redistimeseries:6379
+    allowUiUpdates: true
+    jsonData:
+      client: standalone
+      poolSize: 5
+      timeout: 10
+      pingInterval: 0
+      pipelineWindow: 0
+    editable: true
+    secureJsonData:
+      password: ""
