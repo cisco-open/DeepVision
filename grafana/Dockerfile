@@ -9,9 +9,13 @@ ENV GF_AUTH_ANONYMOUS_ORG_ROLE "Admin"
 # Install plugins here our in your own config file
 ENV GF_INSTALL_PLUGINS="redis-app,redis-explorer-app"
 
+
 # Add provisioning
-ADD provisioning /etc/grafana/provisioning
+ADD --chmod=755 provisioning /etc/grafana/provisioning
+
 # Add configuration file
-ADD grafana.ini /etc/grafana/grafana.ini
+ADD --chmod=755 grafana.ini /etc/grafana/grafana.ini
+
 # Add dashboard json files
-ADD dashboards /etc/grafana/dashboards
+ADD --chmod=755 dashboards /etc/grafana/dashboards
+
