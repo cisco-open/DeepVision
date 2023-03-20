@@ -1,21 +1,23 @@
 ## Cloning the repo
 
 While cloning the repo use the command:
-git clone --recurse-submodules "link"
+```bash
+git clone --recurse-submodules https://github.com/CiscoDeepVision/CiscoDeepVision.git
+```
 
 ## Running  and building
 
-Launch 1st command for build and run  
-Launch 2nd command for run  
+Launch docker compose
 
-1.`docker-compose up --build`  
-2.`docker-compose up`  
+ ```bash
+    docker-compose up --build
+```
 
-## For grafana dashboard
+## For grafana dashboard and Webserver
 
-Import the dashboards from dashboards folder. Json file is present. 
-To import the json file, please see wiki/grafana/grafana_dashboard for further information
-Make sure ports: 5001, 3000, 6379 and 6380 are forwarded.
+Make sure ports: 5002, 3000, 6379 and 6380 are forwarded.
+
+To see grafana dashboards to go
+`localhost:3000`
 
 Open the browser and go to `localhost:5002/video` and see the result  
-If it does not work, try `localhost:5001/video`
