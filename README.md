@@ -22,4 +22,3 @@ To see grafana dashboards to go
 
 Open the browser and go to `localhost:5002/video` and see the result  
 
-If it does not work, try `localhost:5001/video`
