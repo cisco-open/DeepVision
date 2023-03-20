@@ -29,6 +29,22 @@
     "liveNow": false,
     "panels": [
       {
+        "content": "<img src=\"http://localhost:5002/video?\">",
+        "gridPos": {
+          "h": 9,
+          "w": 11,
+          "x": 0,
+          "y": 0
+        },
+        "id": 6,
+        "links": [],
+        "mode": "html",
+        "timeFrom": null,
+        "timeShift": null,
+        "title": "camera:0",
+        "type": "text"
+      },
+      {
         "datasource": {
           "type": "redis-datasource",
           "uid": "redis_uid"
@@ -87,7 +103,7 @@
         },
         "gridPos": {
           "h": 9,
-          "w": 12,
+          "w": 11,
           "x": 0,
           "y": 0
         },
