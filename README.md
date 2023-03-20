@@ -19,5 +19,3 @@ Make sure ports: 5002, 3000, 6379 and 6380 are forwarded.
 
 To see grafana dashboards to go
 `localhost:3000`
-
-Open the browser and go to `localhost:5002/video` and see the result  
