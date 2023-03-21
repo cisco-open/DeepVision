@@ -32,7 +32,7 @@ class RedisImageStream(object):
         if tracking_stream:
             last_frame_refId = tracking_stream[0][1][b'refId'].decode("utf-8")  # Frame reference i
             tracking = json.loads(tracking_stream[0][1][b'tracking'].decode('utf-8'))
-            resp = p.xread({self.camera: last_frame_refId}, count=1)
+            resp = conn.xread({self.camera: last_frame_refId}, count=1)
             key, messages = resp[0]
             frame_last_id, data = messages[0]
 
