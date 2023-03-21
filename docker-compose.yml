@@ -1,0 +1,50 @@
+version: "3.8"
+services:
+  redis:
+    image: redis
+    container_name: "redis_vision"
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: [ "CMD-SHELL", "redis-cli ping | grep PONG" ]
+      interval: 10s
+      timeout: 10s
+      retries: 10
+  redistimeseries:
+    image: redislabs/redistimeseries
+    container_name: "redistimeseries_vision"
+    ports:
+      - "6380:6379"
+  grafana:
+    build: ./grafana
+    container_name: "grafana_vision"
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana-data:/var/lib/grafana
+  tracker:
+    build: ./tracking
+    container_name: "tracker_vision"
+    command: bash -c "python tracker.py mmtracking/configs/mot/deepsort/deepsort_faster-rcnn_fpn_4e_mot17-private-half.py --redis redis://redis_vision:6379"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    depends_on:
+      redis:
+        condition: service_healthy
+  producer:
+    build: .
+    container_name: "producer_vision"
+    ports:
+      - "5002:5001"
+    command: bash -c "python3 producer.py --verbose True -u redis://redis_vision:6379 data/race.mp4 & python3 server.py -u redis://redis_vision:6379"
+    depends_on:
+      redis:
+        condition: service_healthy
+volumes:
+  grafana-data:
+    name: grafana-data
