@@ -13,9 +13,7 @@ Launch docker compose
     docker-compose up --build
 ```
 
-## For grafana dashboard and Webserver
-
-Make sure ports: 5002, 3000, 6379 and 6380 are forwarded.
+## For grafana dashboard and Webserver  
 
 To see grafana dashboards to go
 `localhost:3000`
