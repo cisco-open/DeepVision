@@ -24,14 +24,14 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 1,
+  "id": 12,
   "links": [],
   "liveNow": false,
   "panels": [
     {
       "datasource": {
         "type": "redis-datasource",
-        "uid": "redis_uid"
+        "uid": "jhyXOKx4z"
       },
       "fieldConfig": {
         "defaults": {
@@ -74,13 +74,13 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "9.4.3",
+      "pluginVersion": "9.3.2",
       "targets": [
         {
           "command": "ts.get",
           "datasource": {
             "type": "redis-datasource",
-            "uid": "redis_uid"
+            "uid": "jhyXOKx4z"
           },
           "keyName": "gpu_temp",
           "query": "",
@@ -95,7 +95,7 @@
     {
       "datasource": {
         "type": "redis-datasource",
-        "uid": "redis_uid"
+        "uid": "jhyXOKx4z"
       },
       "fieldConfig": {
         "defaults": {
@@ -140,13 +140,13 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.4.3",
+      "pluginVersion": "9.3.2",
       "targets": [
         {
           "command": "ts.get",
           "datasource": {
             "type": "redis-datasource",
-            "uid": "redis_uid"
+            "uid": "jhyXOKx4z"
           },
           "keyName": "gpu_utilization",
           "query": "",
@@ -155,13 +155,13 @@
           "type": "timeSeries"
         }
       ],
-      "title": "GPU Utilization (%)",
+      "title": "GPU Utilization",
       "type": "stat"
     },
     {
       "datasource": {
         "type": "redis-datasource",
-        "uid": "redis_uid"
+        "uid": "jhyXOKx4z"
       },
       "fieldConfig": {
         "defaults": {
@@ -186,7 +186,7 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 9,
+        "h": 8,
         "w": 12,
         "x": 0,
         "y": 8
@@ -206,13 +206,13 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.4.3",
+      "pluginVersion": "9.3.2",
       "targets": [
         {
           "command": "ts.get",
           "datasource": {
             "type": "redis-datasource",
-            "uid": "redis_uid"
+            "uid": "jhyXOKx4z"
           },
           "keyName": "memory_utilization",
           "query": "",
@@ -221,13 +221,13 @@
           "type": "timeSeries"
         }
       ],
-      "title": "Memory Utilization (%)",
+      "title": "Memory Utilization",
       "type": "stat"
     },
     {
       "datasource": {
         "type": "redis-datasource",
-        "uid": "redis_uid"
+        "uid": "jhyXOKx4z"
       },
       "fieldConfig": {
         "defaults": {
@@ -305,7 +305,7 @@
           "command": "ts.get",
           "datasource": {
             "type": "redis-datasource",
-            "uid": "redis_uid"
+            "uid": "jhyXOKx4z"
           },
           "keyName": "memory_used",
           "query": "",
@@ -318,9 +318,7 @@
       "type": "timeseries"
     }
   ],
-  "refresh": "",
-  "revision": 1,
-  "schemaVersion": 38,
+  "schemaVersion": 37,
   "style": "dark",
   "tags": [],
   "templating": {
@@ -334,6 +332,6 @@
   "timezone": "",
   "title": "GPU Metrics",
   "uid": "aJEqM4a4z",
-  "version": 6,
+  "version": 5,
   "weekStart": ""
 }
