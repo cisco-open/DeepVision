@@ -9,7 +9,7 @@ import cv2
 from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
-from flask import Flask, render_template, Response
+from flask import Flask, Response
 
 
 
@@ -42,8 +42,6 @@ class RedisImageStream(object):
             
             tracking_info = tracking['tracking_info']
             for tracking_entry in tracking_info:
-                objectId = tracking_entry['objectId']
-                classId = tracking_entry['class']
                 object_bbox = tracking_entry['object_bbox']
                 x1 = object_bbox[0]
                 y1 = object_bbox[1]
@@ -64,6 +62,9 @@ class RedisImageStream(object):
             print("No tracking info")
             frame_img_data = frame[0][1][b'image']
             img_data = pickle.loads(frame_img_data)
+            label = f'{self.camera}:{frame_last_id}'
+            img = Image.fromarray(img_data)
+            arr = np.array(img)
             cv2.putText(arr, 'label', (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
             return img.tobytes()
