@@ -5,11 +5,14 @@ import numpy as np
 import redis
 import pickle 
 import cv2
+import random
+import seaborn as sns
 
 from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
 from flask import Flask, render_template, Response
+
 
 
 
@@ -20,6 +23,13 @@ class RedisImageStream(object):
         self.boxes = args.boxes
         self.field = args.field.encode('utf-8')
 
+
+    def random_color(self, object_id):
+        """Random a color according to the input seed."""
+        random.seed(object_id)
+        colors = sns.color_palette().as_hex()
+        color = random.choice(colors)
+        return color
 
     def get_last(self):
         """ Gets latest from camera and model """
@@ -39,11 +49,10 @@ class RedisImageStream(object):
             img_data = pickle.loads(data[b'image'])
             label = f'{self.camera}:{frame_last_id}'
             img = Image.fromarray(img_data)
-            
+          
             tracking_info = tracking['tracking_info']
             for tracking_entry in tracking_info:
                 objectId = tracking_entry['objectId']
-                classId = tracking_entry['class']
                 object_bbox = tracking_entry['object_bbox']
                 x1 = object_bbox[0]
                 y1 = object_bbox[1]
@@ -53,8 +62,8 @@ class RedisImageStream(object):
                 
                 if score > 0.8:
                     draw = ImageDraw.Draw(img)
-                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline='red')
-                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=(255, 0, 0, 1))
+                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
+                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
