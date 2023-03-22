@@ -62,8 +62,8 @@ class RedisImageStream(object):
                 
                 if score > 0.8:
                     draw = ImageDraw.Draw(img)
-                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.get_color(objectId))
-                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.get_color(objectId))
+                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
+                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
