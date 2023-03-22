@@ -24,205 +24,31 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 1,
+  "id": 4,
   "links": [],
   "liveNow": false,
   "panels": [
     {
-      "datasource": {
-        "type": "redis-datasource",
-        "uid": "redis_uid"
-      },
-      "fieldConfig": {
-        "defaults": {
-          "color": {
-            "mode": "thresholds"
-          },
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
       "gridPos": {
-        "h": 8,
+        "h": 10,
         "w": 12,
         "x": 0,
         "y": 0
-      },
-      "id": 8,
-      "options": {
-        "orientation": "auto",
-        "reduceOptions": {
-          "calcs": [
-            "lastNotNull"
-          ],
-          "fields": "",
-          "values": false
-        },
-        "showThresholdLabels": false,
-        "showThresholdMarkers": true
-      },
-      "pluginVersion": "9.4.3",
-      "targets": [
-        {
-          "command": "ts.get",
-          "datasource": {
-            "type": "redis-datasource",
-            "uid": "redis_uid"
-          },
-          "keyName": "gpu_temp",
-          "query": "",
-          "refId": "A",
-          "streaming": true,
-          "type": "timeSeries"
-        }
-      ],
-      "title": "GPU Temp",
-      "type": "gauge"
-    },
-    {
-      "datasource": {
-        "type": "redis-datasource",
-        "uid": "redis_uid"
-      },
-      "fieldConfig": {
-        "defaults": {
-          "color": {
-            "mode": "thresholds"
-          },
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 8,
-        "w": 12,
-        "x": 12,
-        "y": 0
-      },
-      "id": 4,
-      "options": {
-        "colorMode": "value",
-        "graphMode": "area",
-        "justifyMode": "auto",
-        "orientation": "auto",
-        "reduceOptions": {
-          "calcs": [
-            "lastNotNull"
-          ],
-          "fields": "",
-          "values": false
-        },
-        "textMode": "auto"
-      },
-      "pluginVersion": "9.4.3",
-      "targets": [
-        {
-          "command": "ts.get",
-          "datasource": {
-            "type": "redis-datasource",
-            "uid": "redis_uid"
-          },
-          "keyName": "gpu_utilization",
-          "query": "",
-          "refId": "A",
-          "streaming": true,
-          "type": "timeSeries"
-        }
-      ],
-      "title": "GPU Utilization (%)",
-      "type": "stat"
-    },
-    {
-      "datasource": {
-        "type": "redis-datasource",
-        "uid": "redis_uid"
-      },
-      "fieldConfig": {
-        "defaults": {
-          "color": {
-            "mode": "thresholds"
-          },
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 9,
-        "w": 12,
-        "x": 0,
-        "y": 8
       },
       "id": 6,
+      "links": [],
       "options": {
-        "colorMode": "value",
-        "graphMode": "area",
-        "justifyMode": "auto",
-        "orientation": "auto",
-        "reduceOptions": {
-          "calcs": [
-            "lastNotNull"
-          ],
-          "fields": "",
-          "values": false
+        "code": {
+          "language": "plaintext",
+          "showLineNumbers": false,
+          "showMiniMap": false
         },
-        "textMode": "auto"
+        "content": "<img src=\"http://localhost:5002/video?\">",
+        "mode": "html"
       },
       "pluginVersion": "9.4.3",
-      "targets": [
-        {
-          "command": "ts.get",
-          "datasource": {
-            "type": "redis-datasource",
-            "uid": "redis_uid"
-          },
-          "keyName": "memory_utilization",
-          "query": "",
-          "refId": "A",
-          "streaming": true,
-          "type": "timeSeries"
-        }
-      ],
-      "title": "Memory Utilization (%)",
-      "type": "stat"
+      "title": "camera:0",
+      "type": "text"
     },
     {
       "datasource": {
@@ -282,15 +108,19 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 9,
+        "h": 10,
         "w": 12,
         "x": 12,
-        "y": 8
+        "y": 0
       },
-      "id": 2,
+      "id": 8,
       "options": {
         "legend": {
-          "calcs": [],
+          "calcs": [
+            "min",
+            "max",
+            "mean"
+          ],
           "displayMode": "list",
           "placement": "bottom",
           "showLegend": true
@@ -307,18 +137,213 @@
             "type": "redis-datasource",
             "uid": "redis_uid"
           },
-          "keyName": "memory_used",
+          "keyName": "model_run_latency",
           "query": "",
           "refId": "A",
           "streaming": true,
           "type": "timeSeries"
         }
       ],
-      "title": "MemoryUsed",
+      "title": "Tracker Latency (s)",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "redis-datasource",
+        "uid": "redis_uid"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "lineInterpolation": "linear",
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 10
+      },
+      "id": 2,
+      "options": {
+        "legend": {
+          "calcs": [
+            "max",
+            "min",
+            "mean"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "targets": [
+        {
+          "aggregation": "range",
+          "bucket": 1000,
+          "command": "ts.range",
+          "datasource": {
+            "type": "redis-datasource",
+            "uid": "redis_uid"
+          },
+          "keyName": "framerate",
+          "query": "",
+          "refId": "A",
+          "type": "timeSeries"
+        }
+      ],
+      "title": "FrameRate (fps)",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "redis-datasource",
+        "uid": "redis_uid"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "lineInterpolation": "linear",
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 10
+      },
+      "id": 10,
+      "options": {
+        "legend": {
+          "calcs": [
+            "min",
+            "max",
+            "mean"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "targets": [
+        {
+          "command": "ts.get",
+          "datasource": {
+            "type": "redis-datasource",
+            "uid": "redis_uid"
+          },
+          "keyName": "bounding_boxes_latency",
+          "query": "",
+          "refId": "A",
+          "streaming": true,
+          "type": "timeSeries"
+        }
+      ],
+      "title": "Bounding Box Latency (s)",
       "type": "timeseries"
     }
   ],
-  "refresh": "",
+  "refresh": "1m",
   "revision": 1,
   "schemaVersion": 38,
   "style": "dark",
@@ -332,8 +357,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "GPU Metrics",
-  "uid": "aJEqM4a4z",
-  "version": 6,
+  "title": "Main",
+  "uid": "3m4qPla4z",
+  "version": 2,
   "weekStart": ""
 }
