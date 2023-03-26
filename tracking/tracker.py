@@ -7,13 +7,15 @@ import json
 import mmcv
 from redis import Redis
 import redis
-from Monitor import GPUCalculator , MMTMonitor
+from Monitor import GPUCalculator , MMTMonitor, FPSMonitor
+
 redis_client = redis.StrictRedis('redistimeseries', 6379)
 
 #GPUCalculator and MMTMonitor variables
 model_run_latency = MMTMonitor(redis_client,'model_run_latency')
 bounding_boxes_latency = MMTMonitor(redis_client,'bounding_boxes_latency')
 gpu_calculation = GPUCalculator(redis_client)
+fps_calculator = FPSMonitor(redis_client, "framerate")
 
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -95,7 +97,7 @@ def main():
                 if data:
                     frameId = int(data.get(b'frameId').decode())
                     img = pickle.loads(data[b'image'])
-                    redis_client.execute_command('ts.add framerate * {}'.format(frameId)) #sending messages to redis time series
+                    fps_calculator.calculate()
                     model_run_latency.start_timer()
                     result = inference_mot(model, img, frame_id=frameId)
                     model_run_latency.end_timer()

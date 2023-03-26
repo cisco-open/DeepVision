@@ -45,3 +45,15 @@ class MMTMonitor:
         else:
             self.average_latency = self.average_latency + latency
 
+
+class FPSMonitor:
+    def __init__(self, redis_conn, redis_key):
+        self.prev_frame_time = 0
+        self.redis_conn = redis_conn
+        self.redis_key = redis_key
+
+    def calculate(self):
+        new_frame_time = time.time()
+        fps = 1/(new_frame_time - self.prev_frame_time)
+        self.prev_frame_time = new_frame_time
+        self.redis_conn.execute_command('ts.add {} * {}'.format(self.redis_key, fps))

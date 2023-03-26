@@ -46,7 +46,7 @@
         "content": "<img src=\"http://localhost:5002/video?\">",
         "mode": "html"
       },
-      "pluginVersion": "9.4.3",
+      "pluginVersion": "9.4.7",
       "title": "camera:0",
       "type": "text"
     },
@@ -95,8 +95,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -192,8 +191,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -231,7 +229,7 @@
         {
           "aggregation": "range",
           "bucket": 1000,
-          "command": "ts.range",
+          "command": "ts.get",
           "datasource": {
             "type": "redis-datasource",
             "uid": "redis_uid"
@@ -239,6 +237,7 @@
           "keyName": "framerate",
           "query": "",
           "refId": "A",
+          "streaming": true,
           "type": "timeSeries"
         }
       ],
@@ -290,8 +289,7 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
-                "value": null
+                "color": "green"
               },
               {
                 "color": "red",
@@ -359,6 +357,6 @@
   "timezone": "",
   "title": "Main",
   "uid": "3m4qPla4z",
-  "version": 2,
+  "version": 5,
   "weekStart": ""
 }

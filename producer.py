@@ -26,6 +26,8 @@ class Video:
         else:
             # Read input Video file fps
             self.fps = self.cam.get(cv2.CAP_PROP_FPS)
+            if self.fps != fps:
+                raise Exception("The actual fps is different from the input fps")
             
             
     # For Video file self.fps is input file fps, target_fps(--fps) is passed as argument. 
@@ -57,7 +59,7 @@ class Video:
         if not self.isFile:
             img = cv2.flip(img, 1)
 
-        return self.count, img, self.fps
+        return self.count, img
 
     def __len__(self):
         return 0
@@ -66,7 +68,6 @@ class Video:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('infile', help='Input file (leave empty to use webcam)', nargs='?', type=str, default=None)
-    parser.add_argument('-i', '--input', help='input stream key name', type=str, default='incamera')
     parser.add_argument('-o', '--output', help='Output stream key name', type=str, default='camera:0')
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('-w', '--webcam', help='Webcam device number', type=int, default=0)
@@ -86,9 +87,9 @@ if __name__ == '__main__':
 
     # Choose video source
     if args.infile is None:
-        loader = Video(infile=args.webcam, fps=args.inputFps)  # Default to webcam
+        loader = Video(infile=args.webcam, fps=args.outputFps)  # Default to webcam
         # Treat different - args.fps (no need to use video_sample_rate)
-        for (count, img,actualFps) in loader:
+        for (count, img) in loader:
              msg = {
                 'frameId': count,
                 'image': pickle.dumps(img)
@@ -96,37 +97,27 @@ if __name__ == '__main__':
              _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
         
         loader.cam_release()
-    #source camera
-    elif args.infile=='incamera':
-        loader=Video(infile=args.input,fps=args.inputFps) # default to input camera
-        for (count,img,actualFps) in loader:
-            if actualFps!=args.inputFps:
-                logging.error("Error and exit")
-                break
- 
-    else:
-        loader = Video(infile=args.infile, fps=args.inputFps)  # Unless an input file (image or video) was specified
-        frame_id = 0 # start new frame count 
-        for (count, img,actualFps) in loader:
-            if(args.outputFps // args.inputFps) > 0:
-                logging.error("Error and Exit")
-            elif actualFps!=args.inputFps:
-                logging.error("Error and Exit")
-                break
-            else:   
-                if count % loader.video_sample_rate(args.outputFps) == 0: # Video fps = 30 
-                    time.sleep(1/(args.outputFps))
 
-                    msg = {
-                        'frameId': frame_id,
-                        'image': pickle.dumps(img)
-                    }
-                    _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
-                    if args.verbose:
-                        logging.info('init_frame_count:{}, frame: {} id: {}'.format(count,frame_id, _id))
-                    frame_id += 1
-                if args.count is not None and count + 1 == args.count:
-                    logging.info('Stopping after {} frames.'.format(count))
-                    break
+    else:
+        if args.inputFps % args.outputFps != 0:
+            raise Exception ("Provided input fps is not divisible by output fps")
+        loader = Video(infile=args.infile, fps=args.inputFps)  # Unless an input file (image or video) was specified
+        frame_id = 0 # start new frame count
+        rate = loader.video_sample_rate(args.outputFps)
+        for (count, img) in loader:
+            if count % rate == 0:  # Video fps = 30
+                time.sleep(1 / args.outputFps)
+
+                msg = {
+                    'frameId': frame_id,
+                    'image': pickle.dumps(img)
+                }
+                _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
+                if args.verbose:
+                    logging.info('init_frame_count:{}, frame: {} id: {}'.format(count, frame_id, _id))
+                frame_id += 1
+            if args.count is not None and count + 1 == args.count:
+                logging.info('Stopping after {} frames.'.format(count))
+                break
                 
                 
