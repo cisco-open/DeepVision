@@ -23,15 +23,11 @@ class RedisImageStream(object):
         self.boxes = args.boxes
         self.field = args.field.encode('utf-8')
 
-
     def random_color(self, object_id):
         """Random a color according to the input seed."""
-        global prev_object_id
-        color = None
-        if prev_object_id != object_id:
-            colors = sns.color_palette().as_hex()
-            color = random.choice(colors)
-            prev_object_id = object_id
+        random.seed(object_id)
+        colors = sns.color_palette().as_hex()
+        color = random.choice(colors)
         return color
 
     def get_last(self):
@@ -98,7 +94,6 @@ def gen(stream):
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n\r\n')
 
 
-prev_object_id = None
 conn = None
 args = None
 app = Flask(__name__)
