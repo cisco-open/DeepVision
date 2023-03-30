@@ -15,6 +15,7 @@ services:
     container_name: "redistimeseries_vision"
     ports:
       - "6380:6379"
+    #command: --port 6380
   grafana:
     build: ./grafana
     container_name: "grafana_vision"
@@ -41,7 +42,7 @@ services:
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py --verbose True -u redis://redis_vision:6379 data/race.mp4 & python3 server.py -u redis://redis_vision:6379"
+    command: bash -c "python3 producer.py -u redis://redis_vision:6379 data/race.mp4 & python3 server.py -u redis://redis_vision:6379 & python3 tracklet/trackertotimeseries.py "
     depends_on:
       redis:
         condition: service_healthy

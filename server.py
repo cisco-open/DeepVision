@@ -11,7 +11,7 @@ import seaborn as sns
 from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
-from flask import Flask, render_template, Response
+from flask import Flask, Response
 
 
 
@@ -39,7 +39,7 @@ class RedisImageStream(object):
         frame, tracking_stream = p.execute()
 
 
-        if tracking_stream:
+        if tracking_stream and len(tracking_stream[0]) > 0:
             last_frame_refId = tracking_stream[0][1][b'refId'].decode("utf-8")  # Frame reference i
             tracking = json.loads(tracking_stream[0][1][b'tracking'].decode('utf-8'))
             resp = conn.xread({self.camera: last_frame_refId}, count=1)
