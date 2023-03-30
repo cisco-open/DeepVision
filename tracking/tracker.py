@@ -74,7 +74,7 @@ def main():
     parser.add_argument('--checkpoint', help='checkpoint file')
     parser.add_argument('--device', default='cuda:0', help='device used for inference')
     parser.add_argument('--redis', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
-    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
+    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=10000)
 
     args = parser.parse_args()
 
@@ -110,7 +110,7 @@ def main():
                         object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
                         objects_list.append(object_dict)
                     frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
-                    conn.xadd(args.output_stream, {'refId': last_id , 'tracking': json.dumps(frame_dict, cls=NpEncoder)})
+                    conn.xadd(args.output_stream, {'refId': last_id , 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
 
