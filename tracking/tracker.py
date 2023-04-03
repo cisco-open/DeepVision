@@ -81,7 +81,7 @@ def main():
     args = parser.parse_args()
 
     url = urlparse(args.redis)
-    conn = Redis(host=url.hostname, port=url.port, health_check_interval=30)
+    conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
     if not conn.ping():
         raise Exception('Redis unavailable')
 
@@ -112,7 +112,8 @@ def main():
                         object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
                         objects_list.append(object_dict)
                     frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
-                    conn.xadd(args.output_stream, {'refId': last_id , 'tracking': json.dumps(frame_dict, cls=NpEncoder)})
+                    conn.xadd(args.output_stream,
+                              {'refId': last_id, 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
 

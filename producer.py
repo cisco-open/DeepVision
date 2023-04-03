@@ -27,7 +27,7 @@ class Video:
             # Read input Video file fps
             self.fps = self.cam.get(cv2.CAP_PROP_FPS)
             if self.fps != fps:
-                raise Exception("The actual fps is different from the input fps")
+                raise Exception(f"The actual fps {self.fps} is different from the input fps {fps}")
             
             
     # For Video file self.fps is input file fps, target_fps(--fps) is passed as argument. 
@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
     # Set up Redis connection
     url = urlparse(args.url)
-    conn = redis.Redis(host=url.hostname, port=url.port)
+    conn = redis.Redis(host=url.hostname, port=url.port, health_check_interval=25)
     if not conn.ping():
         raise Exception('Redis unavailable')
 
@@ -99,8 +99,6 @@ if __name__ == '__main__':
         loader.cam_release()
 
     else:
-        if args.inputFps % args.outputFps != 0:
-            raise Exception ("Provided input fps is not divisible by output fps")
         loader = Video(infile=args.infile, fps=args.inputFps)  # Unless an input file (image or video) was specified
         frame_id = 0 # start new frame count
         rate = loader.video_sample_rate(args.outputFps)
