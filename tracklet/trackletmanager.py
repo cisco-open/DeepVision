@@ -26,6 +26,10 @@ class TrackletManager:
                 self.object_tracker[objectId] = a_tracklet
 
                 self.ts_status_labels[objectId] = self.STATUS_ACTIVE
+                
+            else:
+                self.object_tracker[objectId].add_box(object_bbox)
+                
 
 
     def detect_skipped_frames(self, objects):
