@@ -15,7 +15,6 @@ services:
     container_name: "redistimeseries_vision"
     ports:
       - "6380:6379"
-    #command: --port 6380
   grafana:
     build: ./grafana
     container_name: "grafana_vision"
