@@ -37,8 +37,7 @@ class RedisImageStream(object):
         p.xrevrange(self.boxes, count=2)  # Latest {count} tracklets
         frame, tracking_stream = p.execute()
 
-
-        if tracking_stream:
+        if tracking_stream and len(tracking_stream[0]) > 0:
             last_frame_refId = tracking_stream[0][1][b'refId'].decode("utf-8")  # Frame reference i
             tracking = json.loads(tracking_stream[0][1][b'tracking'].decode('utf-8'))
             resp = conn.xread({self.camera: last_frame_refId}, count=1)
@@ -59,7 +58,7 @@ class RedisImageStream(object):
                 y2 = object_bbox[3]
                 score = object_bbox[4]
                 
-                if score > 0.8:
+                if score > 0.950:
                     draw = ImageDraw.Draw(img)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
                     draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
@@ -72,7 +71,6 @@ class RedisImageStream(object):
             print("No tracking info")
             frame_img_data = frame[0][1][b'image']
             img_data = pickle.loads(frame_img_data)
-            label = f'{self.camera}:{frame_last_id}'
             img = Image.fromarray(img_data)
             arr = np.array(img)
             cv2.putText(arr, 'label', (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
@@ -82,7 +80,10 @@ class RedisImageStream(object):
 
 def gen(stream):
     while True:
-        frame = stream.get_last()
+        try:
+            frame = stream.get_last()
+        except IndexError:
+            continue
         if frame is None:
             break
         yield (b'--frame\r\n'
