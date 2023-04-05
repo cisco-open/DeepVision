@@ -8,13 +8,13 @@ import mmcv
 from redis import Redis
 import redis
 from Monitor import GPUCalculator , MMTMonitor
+
 redis_client = redis.StrictRedis('redistimeseries', 6379)
 
 #GPUCalculator and MMTMonitor variables
 model_run_latency = MMTMonitor(redis_client,'model_run_latency')
 bounding_boxes_latency = MMTMonitor(redis_client,'bounding_boxes_latency')
 gpu_calculation = GPUCalculator(redis_client)
-
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, np.integer):
@@ -74,12 +74,12 @@ def main():
     parser.add_argument('--checkpoint', help='checkpoint file')
     parser.add_argument('--device', default='cuda:0', help='device used for inference')
     parser.add_argument('--redis', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
-    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=10000)
+    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
 
     args = parser.parse_args()
 
     url = urlparse(args.redis)
-    conn = Redis(host=url.hostname, port=url.port, health_check_interval=30)
+    conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
     if not conn.ping():
         raise Exception('Redis unavailable')
 
@@ -95,7 +95,7 @@ def main():
                 if data:
                     frameId = int(data.get(b'frameId').decode())
                     img = pickle.loads(data[b'image'])
-                    redis_client.execute_command('ts.add framerate * {}'.format(frameId)) #sending messages to redis time series
+                    redis_client.execute_command('ts.add framerate * {}'.format(frameId))
                     model_run_latency.start_timer()
                     result = inference_mot(model, img, frame_id=frameId)
                     model_run_latency.end_timer()
@@ -110,7 +110,8 @@ def main():
                         object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
                         objects_list.append(object_dict)
                     frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
-                    conn.xadd(args.output_stream, {'refId': last_id , 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
+                    conn.xadd(args.output_stream,
+                              {'refId': last_id, 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
 

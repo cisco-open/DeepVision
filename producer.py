@@ -1,33 +1,17 @@
-from redis import Redis
 import argparse
 import cv2
+import logging
 import redis
 import time
 import pickle
 from urllib.parse import urlparse
 
-class SimpleMovingAverage(object):
-    """ Simple moving average """
-
-    def __init__(self, value=0.0, count=7):
-        self.count = int(count)
-        self.current = float(value)
-        self.samples = [self.current] * self.count
-
-    def __str__(self):
-        return str(round(self.current, 3))
-
-    def add(self, value):
-        v = float(value)
-        self.samples.insert(0, v)
-        o = self.samples.pop()
-        self.current = self.current + (v - o) / self.count
 
 
 class Video:
-    def __init__(self, infile=0, fps=30.0):
+    def __init__(self, infile=0, fps=0.0):
         self.isFile = not str(infile).isdecimal()
-        self.ts = time.time() 
+        self.ts = time.time()
         self.infile = infile
         self.cam = cv2.VideoCapture(self.infile)
         if not self.isFile:
@@ -36,37 +20,32 @@ class Video:
             self.cam.set(cv2.CAP_PROP_FPS, fps)
             self.fps = fps
             
-
             # TODO: some cameras don't respect the fps directive
             self.cam.set(cv2.CAP_PROP_FRAME_WIDTH, 800)
             self.cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 600)
         else:
             # Read input Video file fps
             self.fps = self.cam.get(cv2.CAP_PROP_FPS)
-            self.sma = SimpleMovingAverage(value=0.1, count=19)
+            if self.fps != fps:
+                raise Exception(f"The actual fps {self.fps} is different from the input fps {fps}")
             
-    # For Video file self.fps is input file fps, target_fps is passed as argument.        
-    def frame_divider(self, target_fps):
+            
+    # For Video file self.fps is input file fps, target_fps(--fps) is passed as argument. 
+    def video_sample_rate(self, target_fps):
         return round(self.fps/target_fps)
-
+        
 
     def cam_release(self):
         return self.cam.release()
+    
     
     def __iter__(self):
         self.count = -1
         return self
 
+
     def __next__(self):
         self.count += 1
-
-        #Respect FPS for files
-        if self.isFile:
-            delta = time.time() - self.ts
-            self.sma.add(delta)
-            time.sleep(max(0, (1.0 - self.sma.current * self.fps) / self.fps))
-            self.ts = time.time()
-
 
         # Read image
         ret_val, img0 = self.cam.read()
@@ -95,38 +74,48 @@ if __name__ == '__main__':
     parser.add_argument('-v', '--verbose', help='Verbose output', type=bool, default=False)
     parser.add_argument('--count', help='Count of frames to capture', type=int, default=None)
     parser.add_argument('--fmt', help='Frame storage format', type=str, default='.jpg')
-    parser.add_argument('--fps', help='Frames per second (webcam)', type=float, default=10.0)
+    parser.add_argument('--inputFps', help='Frames per second (webcam)', type=float, default=30.0)
+    parser.add_argument('--outputFps', help='Frames per second (webcam)', type=float, default=10.0)
     parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
     args = parser.parse_args()
 
     # Set up Redis connection
     url = urlparse(args.url)
-    conn = redis.Redis(host=url.hostname, port=url.port)
+    conn = redis.Redis(host=url.hostname, port=url.port, health_check_interval=25)
     if not conn.ping():
         raise Exception('Redis unavailable')
 
     # Choose video source
     if args.infile is None:
-        loader = Video(infile=args.webcam, fps=args.fps)  # Default to webcam
-    else:
-        loader = Video(infile=args.infile, fps=args.fps)  # Unless an input file (image or video) was specified
-
-    
-
-    frame_id = 0 # start frame count 
-    for (count, img) in loader:
-        if count % loader.frame_divider(args.fps) == 0: # Video fps = 30, 
-            msg = {
-                'frameId': frame_id,
+        loader = Video(infile=args.webcam, fps=args.outputFps)  # Default to webcam
+        # Treat different - args.fps (no need to use video_sample_rate)
+        for (count, img) in loader:
+             msg = {
+                'frameId': count,
                 'image': pickle.dumps(img)
             }
-            _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
-            if args.verbose:
-                print('frame: {} id: {}'.format(frame_id, _id))
-            frame_id += 1
-        if args.count is not None and count + 1 == args.count:
-            print('Stopping after {} frames.'.format(count))
-            break
+             _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
+        
+        loader.cam_release()
 
+    else:
+        loader = Video(infile=args.infile, fps=args.inputFps)  # Unless an input file (image or video) was specified
+        frame_id = 0 # start new frame count
+        rate = loader.video_sample_rate(args.outputFps)
+        for (count, img) in loader:
+            if count % rate == 0:  # Video fps = 30
+                time.sleep(1 / args.outputFps)
 
-
+                msg = {
+                    'frameId': frame_id,
+                    'image': pickle.dumps(img)
+                }
+                _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
+                if args.verbose:
+                    logging.info('init_frame_count:{}, frame: {} id: {}'.format(count, frame_id, _id))
+                frame_id += 1
+            if args.count is not None and count + 1 == args.count:
+                logging.info('Stopping after {} frames.'.format(count))
+                break
+                
+                
