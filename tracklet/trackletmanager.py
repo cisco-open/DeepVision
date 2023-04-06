@@ -24,13 +24,10 @@ class TrackletManager:
                 a_tracklet = Tracklet(objectId, "PERSON")
                 a_tracklet.add_box(object_bbox)
                 self.object_tracker[objectId] = a_tracklet
-
-                self.ts_status_labels[objectId] = self.STATUS_ACTIVE
-                
+                self.ts_status_labels[objectId] = self.STATUS_ACTIVE                
             else:
                 self.object_tracker[objectId].add_box(object_bbox)
                 
-
 
     def detect_skipped_frames(self, objects):
         for k, v in list(self.object_tracker.items()):
@@ -39,12 +36,12 @@ class TrackletManager:
                 # add fake box
                 self.object_tracker[k].add_box([-1, -1, -1, -1, -1])
                 self.ts_status_labels[k] = ""  # pass
-
+            else:
+                v.reset_skipped_frames()
             # if object is at max limit, delete and label inactive.
             if v.skipped_frames == self.max_skipped_frame_allowed:
                 self.ts_status_labels[k] = self.STATUS_INACTIVE
                 del self.object_tracker[k]
-
 
 
     def process_objects(self, objects):
@@ -52,11 +49,8 @@ class TrackletManager:
         Args:
             objects (dict): dict of objects in one frame
         """
-
         self.group_bboxes_for_an_object(objects)
-
         self.detect_skipped_frames(objects)
-
 
         return self.ts_status_labels
         
