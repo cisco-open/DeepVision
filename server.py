@@ -12,6 +12,10 @@ from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
 from flask import Flask, Response
+from tailvisualization import drawlines, midpointcalculator
+from trackletmanager import TrackletManager
+
+UpdatedTracklets = TrackletManager(5)
 
 
 
@@ -49,6 +53,7 @@ class RedisImageStream(object):
             img = Image.fromarray(img_data)
 
             tracking_info = tracking['tracking_info']
+            updated_tracking_info = []
             for tracking_entry in tracking_info:
                 objectId = tracking_entry['objectId']
                 object_bbox = tracking_entry['object_bbox']
@@ -57,11 +62,21 @@ class RedisImageStream(object):
                 x2 = object_bbox[2]
                 y2 = object_bbox[3]
                 score = object_bbox[4]
+
+                midpoint_list = midpointcalculator(x1,x2,y1,y2)
+                midpoint_list.append(score)
+                tracking_entry['object_bbox'] = midpoint_list
+                updated_tracking_info.append(tracking_entry)
                 
                 if score > 0.950:
                     draw = ImageDraw.Draw(img)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
                     draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
+            tracking['tracking_info'] = updated_tracking_info
+            UpdatedTracklets.process_objects(tracking)
+            updated_tracklet_values = UpdatedTracklets.values()
+            drawlines(updated_tracklet_values, draw)
+
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)

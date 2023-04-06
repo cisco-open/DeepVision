@@ -1,6 +1,5 @@
 from tracklet import Tracklet
 
-
 class TrackletManager:
     
     STATUS_ACTIVE = "active"
@@ -16,6 +15,8 @@ class TrackletManager:
         self.object_tracker = {}
         self.max_skipped_frame_allowed = max_skipped_frame_allowed
         self.ts_status_labels = {}
+        self.counter = 0
+        self.tracklet_length = 40
 
 
     def group_bboxes_for_an_object(self, objects):
@@ -46,6 +47,21 @@ class TrackletManager:
                 del self.object_tracker[k]
 
 
+    def group_bboxes_for_an_object_copy(self, objects):
+        if (self.counter%self.tracklet_length == 0):    
+            self.object_tracker.clear()
+        for objectId, object_bbox in list(objects.items()):
+            if self.object_tracker.get(objectId) == None:
+                a_tracklet = Tracklet(objectId, "PERSON")
+                a_tracklet.add_box(object_bbox)
+                self.object_tracker[objectId] = a_tracklet
+
+                self.ts_status_labels[objectId] = self.STATUS_ACTIVE
+                
+            else:
+                self.object_tracker[objectId].add_box(object_bbox)
+        self.counter+=1
+
 
     def process_objects(self, objects):
         """
@@ -53,10 +69,17 @@ class TrackletManager:
             objects (dict): dict of objects in one frame
         """
 
-        self.group_bboxes_for_an_object(objects)
+        #self.group_bboxes_for_an_object(objects)
+
+        self.group_bboxes_for_an_object_copy(objects)
 
         self.detect_skipped_frames(objects)
 
 
+
+
         return self.ts_status_labels
+    
+    def values(self):
+        return self.object_tracker.values()
         
