@@ -16,7 +16,7 @@ class TrackletManager:
         self.max_skipped_frame_allowed = max_skipped_frame_allowed
         self.ts_status_labels = {}
         self.counter = 0
-        self.tracklet_length = 40
+        self.tracklet_length = 20
 
 
     def group_bboxes_for_an_object(self, objects):
@@ -47,7 +47,7 @@ class TrackletManager:
                 del self.object_tracker[k]
 
 
-    def group_bboxes_for_an_object_copy(self, objects):
+    def tracklet_collection_for_tail_visualization(self, objects):
         if (self.counter%self.tracklet_length == 0):    
             self.object_tracker.clear()
         for objectId, object_bbox in list(objects.items()):
@@ -69,9 +69,7 @@ class TrackletManager:
             objects (dict): dict of objects in one frame
         """
 
-        #self.group_bboxes_for_an_object(objects)
-
-        self.group_bboxes_for_an_object_copy(objects)
+        self.group_bboxes_for_an_object(objects)
 
         self.detect_skipped_frames(objects)
 

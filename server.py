@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
 from flask import Flask, Response
-from tailvisualization import drawlines, midpointcalculator
+from tailvisualization import drawtail, midpointcalculator
 from trackletmanager import TrackletManager
 
 UpdatedTracklets = TrackletManager(5)
@@ -73,9 +73,9 @@ class RedisImageStream(object):
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
                     draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
             tracking['tracking_info'] = updated_tracking_info
-            UpdatedTracklets.process_objects(tracking)
+            UpdatedTracklets.tracklet_collection_for_tail_visualization(tracking)
             updated_tracklet_values = UpdatedTracklets.values()
-            drawlines(updated_tracklet_values, draw)
+            drawtail(updated_tracklet_values, draw)
 
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
