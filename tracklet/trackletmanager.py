@@ -1,4 +1,4 @@
-from tracklet import Tracklet
+from tracklet.tracklet import Tracklet
 
 class TrackletManager:
     
@@ -17,6 +17,7 @@ class TrackletManager:
         self.ts_status_labels = {}
         self.counter = 0
         self.tracklet_length = 20
+        self.tracklets = []
 
 
     def group_bboxes_for_an_object(self, objects):
@@ -50,17 +51,14 @@ class TrackletManager:
     def tracklet_collection_for_tail_visualization(self, objects):
         if (self.counter%self.tracklet_length == 0):    
             self.object_tracker.clear()
-        for objectId, object_bbox in list(objects.items()):
-            if self.object_tracker.get(objectId) == None:
+        for objectId, midpoint in objects:
+            if self.object_tracker.get(objectId) is None:
                 a_tracklet = Tracklet(objectId, "PERSON")
-                a_tracklet.add_box(object_bbox)
+                a_tracklet.add_box(midpoint)
                 self.object_tracker[objectId] = a_tracklet
-
-                self.ts_status_labels[objectId] = self.STATUS_ACTIVE
-                
             else:
-                self.object_tracker[objectId].add_box(object_bbox)
-        self.counter+=1
+                self.object_tracker[objectId].add_box(midpoint)
+        self.counter += 1
 
 
     def process_objects(self, objects):

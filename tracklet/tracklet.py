@@ -28,6 +28,10 @@ class Tracklet():
     def object_class(self):
         return self._object_class
 
+    @property
+    def object_bboxes(self):
+        return self._boxes
+
     def __repr__(self):
         temp_json = {"object_id": self._object_id, "boxes": self._boxes, "skipped_frames": str(self._skipped_frames)}
         return json.dumps(temp_json, indent=4)

@@ -12,8 +12,8 @@ from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
 from flask import Flask, Response
-from tailvisualization import drawtail, midpointcalculator
-from trackletmanager import TrackletManager
+from tracklet.tailvisualization import draw_tail, midpoint_calculate, get_tracking_entry_with_midpoint
+from tracklet.trackletmanager import TrackletManager
 
 UpdatedTracklets = TrackletManager(5)
 
@@ -51,6 +51,7 @@ class RedisImageStream(object):
             img_data = pickle.loads(data[b'image'])
             label = f'{self.camera}:{frame_last_id}'
             img = Image.fromarray(img_data)
+            draw = ImageDraw.Draw(img)
 
             tracking_info = tracking['tracking_info']
             updated_tracking_info = []
@@ -63,19 +64,19 @@ class RedisImageStream(object):
                 y2 = object_bbox[3]
                 score = object_bbox[4]
 
-                midpoint_list = midpointcalculator(x1,x2,y1,y2)
-                midpoint_list.append(score)
-                tracking_entry['object_bbox'] = midpoint_list
-                updated_tracking_info.append(tracking_entry)
+                # inside another method
+                midpoint = midpoint_calculate(x1, x2, y1, y2)
+                tracking_entry_with_midpoint = get_tracking_entry_with_midpoint(tracking_entry, midpoint)
+                updated_tracking_info.append(tracking_entry_with_midpoint)
+                # inside another method
                 
                 if score > 0.950:
-                    draw = ImageDraw.Draw(img)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
                     draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
-            tracking['tracking_info'] = updated_tracking_info
-            UpdatedTracklets.tracklet_collection_for_tail_visualization(tracking)
+
+            UpdatedTracklets.tracklet_collection_for_tail_visualization(updated_tracking_info)
             updated_tracklet_values = UpdatedTracklets.values()
-            drawtail(updated_tracklet_values, draw)
+            draw_tail(updated_tracklet_values, draw)
 
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
