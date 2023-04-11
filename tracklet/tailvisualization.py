@@ -2,24 +2,21 @@ from collections import defaultdict
 import json
 
 
-def draw_tail(tracklets, image):
-    # frame_coordinates = defaultdict(list)
-    # for tracklet in tracklets:
-    #     if (tracklet._object_id == "tracking_info"):
-    #         boxes = json.loads(tracklet.__repr__())
-    #         final_tracking_data = boxes["boxes"]
-    #         for each_object in final_tracking_data:
-    #             for each_bbox in each_object:
-    #                 objectid = each_bbox['objectId']
-    #                 x, y, _ = each_bbox['object_bbox']
-    #                 coordinates = (x,y)
-    #                 frame_coordinates[objectid].append(coordinates)
-    #     for key in frame_coordinates.keys():
-    #         points = frame_coordinates[key]
-    #         image.line(points, fill='white', width=2)
-
+def draw_tail(tracklets, image, colors):
     for tracklet in tracklets:
-        image.line(tracklet.object_bboxes, fill='white', width=2)
+        counter = 0
+        radius = 4
+        bbox = tracklet.object_bboxes
+        color = colors[tracklet.objectId] if tracklet.objectId in colors else 'black'
+        if color != 'black':
+            image.line(bbox, fill=color, width=3)
+        for box in bbox:
+            if (counter % 10 == 0):
+                circle_color = (32, 38, 46)
+                if color != 'black':
+                    image.ellipse((box[0]-radius, box[1]-radius, box[0]+radius, box[1]+radius),
+                                  fill=circle_color, outline=circle_color)
+            counter += 1
 
 
 def midpoint_calculate(x1, x2, y1, y2):
@@ -28,3 +25,8 @@ def midpoint_calculate(x1, x2, y1, y2):
 def get_tracking_entry_with_midpoint(tracking_entry, midpoint):
 
     return (tracking_entry['objectId'], midpoint)
+
+def update_midpoint_to_tracklets(x1,x2,y1,y2,tracking_entry):
+    midpoint = midpoint_calculate(x1, x2, y1, y2)
+    tracking_entry_with_midpoint = get_tracking_entry_with_midpoint(tracking_entry, midpoint)
+    return tracking_entry_with_midpoint

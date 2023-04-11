@@ -41,7 +41,7 @@ services:
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u redis://redis_vision:6379 --inputFps 50.00 --outputFps 12.00 data/liverpool.mp4 & python3 server.py -u redis://redis_vision:6379 & python3 tracklet/trackertotimeseries.py"
+    command: bash -c "python3 producer.py -u redis://redis_vision:6379 --inputFps 50.00 --outputFps 12.00 data/liverpool.mp4 & python3 server.py -u redis://redis_vision:6379 --trackletLength 50 & python3 trackertotimeseries.py"
     depends_on:
       redis:
         condition: service_healthy
