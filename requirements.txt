@@ -21,3 +21,4 @@ mmdet~=2.28.2
 pycocotools~=2.0.6
 scipy~=1.10.1
 terminaltables~=3.1.10
+coverage
