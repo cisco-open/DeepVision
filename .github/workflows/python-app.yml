@@ -39,9 +39,9 @@ jobs:
         python -m unittest discover -s .
         coverage run -m unittest discover -s .
         coverage xml -i
-    - name: coverage
-      uses: 5monkeys/cobertura-action@master
+    - name: Test coverage
+      uses: orgoro/coverage@v3
       with:
-        path: ./coverage.xml
-        minimum_coverage: 75
+        coverageFile: ./coverage.xml
+        thresholdAll: 75
 
