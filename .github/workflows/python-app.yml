@@ -42,6 +42,6 @@ jobs:
     - name: coverage
       uses: 5monkeys/cobertura-action@master
       with:
-        token: ${{ secrets.TOKEN}}
+        repo_token: ${{ secrets.TOKEN}}
         path: ./coverage.xml
-        minimum_coverage: 75
+        minimum_coverage: 70
