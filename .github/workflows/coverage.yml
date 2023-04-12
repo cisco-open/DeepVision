@@ -16,6 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Test with unittest
+      run: |
+        python -m unittest discover -s .
+        coverage run -m unittest discover -s .
+        coverage xml -i
     - name: Test coverage
       uses: orgoro/coverage@v3
       with:
