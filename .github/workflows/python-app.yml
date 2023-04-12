@@ -43,5 +43,6 @@ jobs:
       uses: orgoro/coverage@v3
       with:
         coverageFile: ./coverage.xml
+        token: ${{ secrets.TOKEN}}
         thresholdAll: 75
 
