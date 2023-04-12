@@ -1,4 +1,4 @@
-from tracklet import Tracklet
+from tracklet.tracklet import Tracklet
 
 
 class TrackletManager:

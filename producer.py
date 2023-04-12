@@ -64,8 +64,7 @@ class Video:
     def __len__(self):
         return 0
 
-
-if __name__ == '__main__':
+def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('infile', help='Input file (leave empty to use webcam)', nargs='?', type=str, default=None)
     parser.add_argument('-o', '--output', help='Output stream key name', type=str, default='camera:0')
@@ -90,17 +89,17 @@ if __name__ == '__main__':
         loader = Video(infile=args.webcam, fps=args.outputFps)  # Default to webcam
         # Treat different - args.fps (no need to use video_sample_rate)
         for (count, img) in loader:
-             msg = {
+            msg = {
                 'frameId': count,
                 'image': pickle.dumps(img)
             }
-             _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
-        
+            _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
+
         loader.cam_release()
 
     else:
         loader = Video(infile=args.infile, fps=args.inputFps)  # Unless an input file (image or video) was specified
-        frame_id = 0 # start new frame count
+        frame_id = 0  # start new frame count
         rate = loader.video_sample_rate(args.outputFps)
         for (count, img) in loader:
             if count % rate == 0:  # Video fps = 30
@@ -117,5 +116,7 @@ if __name__ == '__main__':
             if args.count is not None and count + 1 == args.count:
                 logging.info('Stopping after {} frames.'.format(count))
                 break
-                
-                
+
+
+if __name__ == '__main__':
+    main()
