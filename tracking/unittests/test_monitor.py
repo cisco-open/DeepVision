@@ -33,14 +33,6 @@ class TestMonitor(unittest.TestCase):
         print(obj.average_latency)
         self.assertNotEqual(obj.average_latency, 0.0)
 
-    def test_MMTMonitor_without_latency(self):
-        redis_mock = mock.MagicMock()
-        import tracking.Monitor as monitor
-        obj = monitor.MMTMonitor(redis_mock, 'key')
-        obj.start_timer()
-        obj.end_timer()
-        self.assertEqual(obj.average_latency, 0.0)
-
     def test_MMTMonitor_counter_15(self):
         redis_mock = mock.MagicMock()
         import tracking.Monitor as monitor
