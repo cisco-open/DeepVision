@@ -1,5 +1,4 @@
-from tracklet import Tracklet
-
+from tracklet.tracklet import Tracklet
 
 class TrackletManager:
     
@@ -7,7 +6,7 @@ class TrackletManager:
     STATUS_INACTIVE = "inactive"
 
 
-    def __init__(self, max_skipped_frame_allowed: int):
+    def __init__(self, max_skipped_frame_allowed: int = 5, tracklet_length = 50):
         """ object_tracker (dict) : tracket class objects
             max_skipped_frame_allowed (integer): max number of frames skipped
             ts_status_labels (dict) : object's label status 
@@ -16,6 +15,9 @@ class TrackletManager:
         self.object_tracker = {}
         self.max_skipped_frame_allowed = max_skipped_frame_allowed
         self.ts_status_labels = {}
+        self.counter = 0
+        self.tracklet_length = tracklet_length
+        self.tracklets = []
 
 
     def group_bboxes_for_an_object(self, objects):
@@ -46,6 +48,18 @@ class TrackletManager:
                 del self.object_tracker[k]
 
 
+    def tracklet_collection_for_tail_visualization(self, objects):
+        if (self.counter%self.tracklet_length == 0):    
+            self.object_tracker.clear()
+        for objectId, midpoint in objects:
+            if self.object_tracker.get(objectId) is None:
+                a_tracklet = Tracklet(objectId, "PERSON")
+                a_tracklet.add_box(midpoint)
+                self.object_tracker[objectId] = a_tracklet
+            else:
+                self.object_tracker[objectId].add_box(midpoint)
+        self.counter += 1
+
 
     def process_objects(self, objects):
         """
@@ -58,5 +72,10 @@ class TrackletManager:
         self.detect_skipped_frames(objects)
 
 
+
+
         return self.ts_status_labels
+    
+    def values(self):
+        return self.object_tracker.values()
         

@@ -12,6 +12,10 @@ from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
 from flask import Flask, Response
+from tracklet.tailvisualization import draw_tail, midpoint_calculate, get_tracking_entry_with_midpoint, update_midpoint_to_tracklets
+from tracklet.trackletmanager import TrackletManager
+
+updated_tracklets = None
 
 
 
@@ -47,8 +51,11 @@ class RedisImageStream(object):
             img_data = pickle.loads(data[b'image'])
             label = f'{self.camera}:{frame_last_id}'
             img = Image.fromarray(img_data)
+            draw = ImageDraw.Draw(img)
 
             tracking_info = tracking['tracking_info']
+            updated_tracking_info = []
+            tail_colors = {}
             for tracking_entry in tracking_info:
                 objectId = tracking_entry['objectId']
                 object_bbox = tracking_entry['object_bbox']
@@ -57,11 +64,18 @@ class RedisImageStream(object):
                 x2 = object_bbox[2]
                 y2 = object_bbox[3]
                 score = object_bbox[4]
+
+                updated_tracking_info.append(update_midpoint_to_tracklets(x1, x2, y1, y2, tracking_entry))
                 
                 if score > 0.950:
-                    draw = ImageDraw.Draw(img)
-                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=self.random_color(objectId))
-                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=self.random_color(objectId))
+                    tail_colors[objectId] = self.random_color(objectId)
+                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=tail_colors[objectId])
+                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=tail_colors[objectId])
+
+            updated_tracklets.tracklet_collection_for_tail_visualization(updated_tracking_info)
+            updated_tracklet_values = updated_tracklets.values()
+            draw_tail(updated_tracklet_values, draw, tail_colors)
+
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
@@ -119,6 +133,7 @@ if __name__ == '__main__':
     parser.add_argument('--field', help='Image field name', type=str, default='image')
     parser.add_argument('--fmt', help='Frame storage format', type=str, default='.jpg')
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
+    parser.add_argument('--trackletLength', help='Tracklet Length', type=int)
     args = parser.parse_args()
 
     # Set up Redis connection
@@ -127,4 +142,5 @@ if __name__ == '__main__':
     if not conn.ping():
         raise Exception('Redis unavailable')
 
+    updated_tracklets = TrackletManager(tracklet_length=args.trackletLength)
     app.run(host='0.0.0.0', port=5001)
