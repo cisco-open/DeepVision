@@ -1,6 +1,3 @@
-from collections import defaultdict
-import json
-
 
 def draw_tail(tracklets, image, colors):
     for tracklet in tracklets:
