@@ -7,7 +7,6 @@ class Tracklet():
         self._boxes = []  # one object (all the boxes)
         self._object_class = object_class  # "PERSON"
         self._skipped_frames = 0  # count
-        
 
     def add_box(self, box):
         self._boxes.append(box)
@@ -35,5 +34,3 @@ class Tracklet():
     def __repr__(self):
         temp_json = {"object_id": self._object_id, "boxes": self._boxes, "skipped_frames": str(self._skipped_frames)}
         return json.dumps(temp_json, indent=4)
-
-
