@@ -91,7 +91,7 @@ def main():
 
             if resp:
                 key, messages = resp[0]
-                last_id, data = messages[0]
+                ref_id, data = messages[0]
                 if data:
                     frameId = int(data.get(b'frameId').decode())
                     img = pickle.loads(data[b'image'])
@@ -112,6 +112,7 @@ def main():
                     frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
                     conn.xadd(args.output_stream,
                               {'refId': last_id, 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
+                    last_id = ref_id
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
 
