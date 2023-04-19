@@ -1,4 +1,3 @@
-# RedisEdge realtime video analytics web server
 import argparse
 import json
 import numpy as np
@@ -22,6 +21,7 @@ updated_tracklets = None
 class RedisImageStream(object):
     def __init__(self, conn, args):
         self.conn = conn
+        self.pipeline = conn.pipeline()
         self.camera = args.camera
         self.boxes = args.boxes
         self.field = args.field.encode('utf-8')
@@ -35,10 +35,9 @@ class RedisImageStream(object):
 
     def get_last(self):
         """ Gets latest from camera and model """
-        p = self.conn.pipeline()
-        p.xrevrange(self.camera, count=2)  # Latest {count} frames
-        p.xrevrange(self.boxes, count=2)  # Latest {count} tracklets
-        frame, tracking_stream = p.execute()
+        self.pipeline.xrevrange(self.camera, count=1)
+        self.pipeline.xrevrange(self.boxes, count=1)
+        frame, tracking_stream = self.pipeline.execute()
 
         if tracking_stream and len(tracking_stream[0]) > 0:
             last_frame_refId = tracking_stream[0][1][b'refId'].decode("utf-8")  # Frame reference i
