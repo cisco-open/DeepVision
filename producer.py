@@ -65,7 +65,7 @@ class Video:
         return 0
 
 
-if __name__ == '__main__':
+def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('infile', help='Input file (leave empty to use webcam)', nargs='?', type=str, default=None)
     parser.add_argument('-o', '--output', help='Output stream key name', type=str, default='camera:0')
@@ -118,4 +118,5 @@ if __name__ == '__main__':
                 logging.info('Stopping after {} frames.'.format(count))
                 break
                 
-                
+if __name__ == '__main__':
+    main()

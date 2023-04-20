@@ -7,7 +7,11 @@ import json
 import mmcv
 from redis import Redis
 import redis
-from Monitor import GPUCalculator , MMTMonitor
+import sys
+if 'tracking.unittests' in sys.modules:
+    from tracking.Monitor import GPUCalculator, MMTMonitor
+else:
+    from Monitor import GPUCalculator, MMTMonitor
 
 redis_client = redis.StrictRedis('redistimeseries', 6379)
 
