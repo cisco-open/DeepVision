@@ -19,7 +19,7 @@ class Video:
             # Webcam fps settings
             self.cam.set(cv2.CAP_PROP_FPS, fps)
             self.fps = fps
-
+            
             # TODO: some cameras don't respect the fps directive
             self.cam.set(cv2.CAP_PROP_FRAME_WIDTH, 800)
             self.cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 600)
@@ -28,17 +28,17 @@ class Video:
             self.fps = self.cam.get(cv2.CAP_PROP_FPS)
             if self.fps != fps:
                 raise Exception(f"The actual fps {self.fps} is different from the input fps {fps}")
-
-
+            
+            
     # For Video file self.fps is input file fps, target_fps(--fps) is passed as argument. 
     def video_sample_rate(self, target_fps):
         return round(self.fps/target_fps)
-
+        
 
     def cam_release(self):
         return self.cam.release()
-
-
+    
+    
     def __iter__(self):
         self.count = -1
         return self
@@ -95,7 +95,7 @@ def main():
                 'image': pickle.dumps(img)
             }
              _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
-
+        
         loader.cam_release()
 
     else:
@@ -117,7 +117,6 @@ def main():
             if args.count is not None and count + 1 == args.count:
                 logging.info('Stopping after {} frames.'.format(count))
                 break
-
-
+                
 if __name__ == '__main__':
     main()
