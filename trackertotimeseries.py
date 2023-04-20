@@ -10,6 +10,7 @@ from urllib.parse import urlparse
 from tracklet.trackletmanager import TrackletManager
 
 
+
 class TrackertoTimeSeries(object):
     """Create Redis TimeSeries stream entries for each object
 
@@ -30,6 +31,7 @@ class TrackertoTimeSeries(object):
         self.max_skipped_frame_allowed = args.max_skipped_frame_allowed
         self.tracklet_manager = TrackletManager(self.max_skipped_frame_allowed)
 
+
     def process_statuses(self, statuses):
         """ Label timeseries objects statuses
 
@@ -44,24 +46,25 @@ class TrackertoTimeSeries(object):
             else:
                 pass
 
+
     def get_last(self):
         """ Gets latest from mmtracker tracking info convert to timeseries
         """
         p = self.conn.pipeline()
-        p.xrevrange(self.boxes, count=1)
+        p.xrevrange(self.boxes, count=1) 
         tracking_stream = p.execute()
 
-        if tracking_stream and len(tracking_stream[0]) > 0:
+        if tracking_stream and len(tracking_stream[0]) > 0 : 
             last_mmtracking_id = tracking_stream[0][0][0].decode("utf-8")
             tracking = json.loads(tracking_stream[0][0][1][b'tracking'].decode('utf-8'))
             tracking_info = tracking["tracking_info"]
             frameId = tracking["frameId"]
 
             # Objects in one frame.
-            objects_dict = {}
+            objects_dict = {}  
             if frameId != self.last_process_Id:
                 self.last_process_Id = frameId
-
+                
                 for tracking_entry in tracking_info:
                     objectID = tracking_entry['objectId']
 
@@ -85,29 +88,29 @@ class TrackertoTimeSeries(object):
                 # Store statuses of objects
                 statuses = self.tracklet_manager.process_objects(objects_dict)
                 self.process_statuses(statuses)
-
+        
             return True
         return False
 
-
 def gen(stream):
+    
     while True:
-
+       
         frame = stream.get_last()
         if frame is False:
             logging.info("waiting!")
             sleep(0.5)
-
-
+                      
+                
+            
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('boxes', help='Input model stream key', nargs='?', type=str, default='camera:0:mot')
-    parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://redis_vision:6379')
-    parser.add_argument('-ts_u', '--ts_url', help='RedisTimesSeries URL', type=str,
-                        default='redis://redistimeseries_vision:6379')
-    parser.add_argument('-skip', '--max_skipped_frame_allowed', help='Maximum skipped frame allowed', type=int,
-                        default=5)
+    parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://redis_vision:6379') 
+    parser.add_argument('-ts_u', '--ts_url', help='RedisTimesSeries URL', type=str, default='redis://redistimeseries_vision:6379')
+    parser.add_argument('-skip', '--max_skipped_frame_allowed', help='Maximum skipped frame allowed', type=int, default=5)
     args = parser.parse_args()
+    
 
     # Set up Redis connection
     url = urlparse(args.url)
@@ -121,4 +124,6 @@ if __name__ == '__main__':
     if not ts_conn.ping():
         raise Exception('Redistimeseries unavailable')
 
+
     gen(TrackertoTimeSeries(conn, ts_conn, args))
+

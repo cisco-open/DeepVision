@@ -2,7 +2,7 @@ import argparse
 import json
 import numpy as np
 import redis
-import pickle
+import pickle 
 import cv2
 import random
 import seaborn as sns
@@ -65,7 +65,7 @@ class RedisImageStream(object):
                 score = object_bbox[4]
 
                 updated_tracking_info.append(update_midpoint_to_tracklets(x1, x2, y1, y2, tracking_entry))
-
+                
                 if score > 0.950:
                     tail_colors[objectId] = self.random_color(objectId)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=tail_colors[objectId])
