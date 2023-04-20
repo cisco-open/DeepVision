@@ -7,6 +7,7 @@ import pickle
 from urllib.parse import urlparse
 
 
+
 class Video:
     def __init__(self, infile=0, fps=0.0):
         self.isFile = not str(infile).isdecimal()
@@ -28,16 +29,20 @@ class Video:
             if self.fps != fps:
                 raise Exception(f"The actual fps {self.fps} is different from the input fps {fps}")
 
+
     # For Video file self.fps is input file fps, target_fps(--fps) is passed as argument. 
     def video_sample_rate(self, target_fps):
-        return round(self.fps / target_fps)
+        return round(self.fps/target_fps)
+
 
     def cam_release(self):
         return self.cam.release()
 
+
     def __iter__(self):
         self.count = -1
         return self
+
 
     def __next__(self):
         self.count += 1
@@ -85,17 +90,17 @@ def main():
         loader = Video(infile=args.webcam, fps=args.outputFps)  # Default to webcam
         # Treat different - args.fps (no need to use video_sample_rate)
         for (count, img) in loader:
-            msg = {
+             msg = {
                 'frameId': count,
                 'image': pickle.dumps(img)
             }
-            _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
+             _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
 
         loader.cam_release()
 
     else:
         loader = Video(infile=args.infile, fps=args.inputFps)  # Unless an input file (image or video) was specified
-        frame_id = 0  # start new frame count
+        frame_id = 0 # start new frame count
         rate = loader.video_sample_rate(args.outputFps)
         for (count, img) in loader:
             if count % rate == 0:  # Video fps = 30

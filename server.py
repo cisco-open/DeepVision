@@ -11,11 +11,12 @@ from urllib.parse import urlparse
 from PIL import Image
 from PIL import ImageDraw
 from flask import Flask, Response
-from tracklet.tailvisualization import draw_tail, midpoint_calculate, get_tracking_entry_with_midpoint, \
-    update_midpoint_to_tracklets
+from tracklet.tailvisualization import draw_tail, midpoint_calculate, get_tracking_entry_with_midpoint, update_midpoint_to_tracklets
 from tracklet.trackletmanager import TrackletManager
 
 updated_tracklets = None
+
+
 
 
 class RedisImageStream(object):
@@ -68,7 +69,7 @@ class RedisImageStream(object):
                 if score > 0.950:
                     tail_colors[objectId] = self.random_color(objectId)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=tail_colors[objectId])
-                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score, 3)), fill=tail_colors[objectId])
+                    draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=tail_colors[objectId])
 
             updated_tracklets.tracklet_collection_for_tail_visualization(updated_tracking_info)
             updated_tracklet_values = updated_tracklets.values()
@@ -114,7 +115,8 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
-    return '<p style="overflow-y: scroll; box-sizing: border-box; margin: 0px; border: 0px; height:600px; width: 1000px;><img src="/video?"></p>'
+   return '<p style="overflow-y: scroll; box-sizing: border-box; margin: 0px; border: 0px; height:600px; width: 1000px;><img src="/video?"></p>'
+
 
 
 @app.route('/video')

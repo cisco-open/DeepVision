@@ -1,15 +1,14 @@
 import subprocess
 import time
 
-
 class GPUCalculator:
     def __init__(self, redis_conn):
         self.count = 0
         self.redis_conn = redis_conn
 
     def add(self):
-        self.count = self.count + 1
-        if (self.count % 15 == 0):
+        self.count=self.count+1
+        if(self.count%15==0):
             cmd = "nvidia-smi --query-gpu=memory.used,memory.total,utilization.gpu,utilization.memory,temperature.gpu --format=csv,noheader,nounits"
             output = subprocess.check_output(cmd, shell=True)
             output = output.decode('utf-8')
@@ -33,17 +32,15 @@ class MMTMonitor:
         self.redis_key = redis_key
         self.counter = 0
         self.average_latency = 0
-
     def start_timer(self):
         self.start_time = time.time()
-
     def end_timer(self):
         self.counter = self.counter + 1
         end_time = time.time()
         latency = end_time - self.start_time
-        if (self.counter % 15 == 0):
-            self.average_latency = self.average_latency / 15
-            self.redis_conn.execute_command('ts.add {} * {}'.format(self.redis_key, self.average_latency))
+        if (self.counter%15==0):
+            self.average_latency = self.average_latency/15
+            self.redis_conn.execute_command('ts.add {} * {}'.format(self.redis_key,self.average_latency))
             self.average_latency = 0
         else:
             self.average_latency = self.average_latency + latency
