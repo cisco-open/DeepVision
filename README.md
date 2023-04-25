@@ -1,5 +1,13 @@
 # CiscoDeepVision
 
+## INTRODUCTION:
+
+CiscoDeepVision is a comprehensive video tracking system that enables users to monitor and analyze video streams from various sources. The system comprises two main components: the Video Source Service and the Video Tracking Service. The Video Source Service is the starting point of the system, as it receives video streams from different sources, such as cameras or files, and pushes the data into a Redis database. It also stores metadata into another Redis database.
+
+The Video Tracking Service is built on top of the open mmlab tracker and takes input streams from Redis. It adds tracking information to the stream and saves it back to Redis. With this service, users can view data in the Redis stream (stream with tracking information) and metadata through Grafana dashboards and annotated video server, or any Android application or React app.
+
+Both the Video Source Service and the Video Tracking Service, as well as Redis databases, are running inside Docker containers, ensuring a secure and scalable environment. The CiscoDeepVision project provides a comprehensive solution for video tracking, allowing users to monitor and analyze video streams from various sources with ease.
+
 ## GETTING STARTED:
 
 ### Cloning the repo
