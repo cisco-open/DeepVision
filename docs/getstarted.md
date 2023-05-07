@@ -20,4 +20,6 @@ Launch docker compose
 To see annotated video server and grafana dashboards go
 `localhost:3000`
 
-That's it! You should now be able to use CiscoDeepVision.
+That's it! You should now be able to use CiscoDeepVision.  
+
+![getstarts](images/getstarts.gif)

@@ -2,8 +2,14 @@
 
 ## [Introduction](intro.md)
 
-## [Getting Started](02-getting-started.md)
+## [Getting Started](getstarted.md)
 
-## [Changelog](09-changelog.md)
+## [Architecture](architecture.md)
 
-## [Contributor Guide](10-contributor-guide.md)
+## [Essential Scripts](essentials.md)
+
+## [CI/CD](cicd.md)
+
+## [Changelog](changelog.md)
+
+## [Contributor Guide](contribution.md)
