@@ -9,8 +9,8 @@ git clone --recurse-submodules https://github.com/CiscoDeepVision/CiscoDeepVisio
 
 Launch docker compose
 
- ```bash
-    docker-compose up --build
+```bash
+docker-compose up --build
 ```
 
 ## For grafana dashboard and Webserver  
