@@ -14,7 +14,6 @@ It that happens, I will write the guessed data structure, so any users can updat
 import lap
 import numpy as np
 import scipy.linalg
-from cython_bbox import bbox_overlaps as bbox_ious
 
 """
 Table for the 0.95 quantile of the chi-square distribution with N degrees of freedom (contains values for N=1, ..., 9). 
@@ -178,6 +177,11 @@ class KalmanFilter:
             Returns the mean vector and covariance matrix of the predicted state.
             Unobserved velocities are initialized to 0 mean.
         """
+
+        # print("------------------------")
+        # print("mean.shape: ", mean.shape)
+        # print("cov.shape: ", covariance.shape)
+
         std_pos = [
             self._std_weight_position * mean[:, 3],
             self._std_weight_position * mean[:, 3],
@@ -278,30 +282,26 @@ class KalmanFilter:
 
 class outside_tracker:
 
-    def __init__(self, ID, label, xyah):
+    def __init__(self, ID, label, xyah, score):
         self.ID = ID
         self.label = label
-        self.KF = KalmanFilter()
-        self.KF.initiate(xyah)
-        self.mean = None
-        self.cov = None
+        self.score = score
 
-    def update(self, xyah):
+        self.KF = KalmanFilter()
+        self.mean, self.cov = self.KF.initiate(xyah)
+
+    def update(self, xyah, score):
         """
         "update" is for correcting the KF, say modifying its parameters.
 
         This will keep the mean and cov of the KF, and only the position of the bbox will be changed.
         """
-        self.KF.update(self.mean, self.cov, xyah)
+        self.mean, self.cov = self.KF.update(self.mean, self.cov, xyah)
+        self.score = score
 
     @property
     def xyah(self):
-        return self.mean[:4]
-
-    @property
-    def tlbr(self):
-        xyah = self.xyah
-        return [xyah[0], xyah[1], xyah[0] + xyah[2] * xyah[3], xyah[1] + xyah[3]]
+        return self.mean[: 4]
 
 
 class outside_tracker_manager:
@@ -333,19 +333,45 @@ class outside_tracker_manager:
                 self.outside_tracks[i].covariance = cov
 
     @staticmethod
+    def bbox_ious(atlbrs, btlbrs):
+        """
+        Compute the intersection over union of two set of boxes, each box is [x1,y1,x2,y2], say "tlbr".
+
+        This code is from https://www.cnblogs.com/zhiyiYo/p/15586440.html.
+        """
+        A = atlbrs.shape[0]
+        B = btlbrs.shape[0]
+
+        xy_max = np.minimum(atlbrs[:, np.newaxis, 2:].repeat(B, axis=1),
+                            np.broadcast_to(btlbrs[:, 2:], (A, B, 2)))
+        xy_min = np.maximum(atlbrs[:, np.newaxis, :2].repeat(B, axis=1),
+                            np.broadcast_to(btlbrs[:, :2], (A, B, 2)))
+
+        inter = np.clip(xy_max - xy_min, a_min=0, a_max=np.inf)
+        inter = inter[:, :, 0] * inter[:, :, 1]
+
+        area_0 = ((atlbrs[:, 2] - atlbrs[:, 0]) * (
+                atlbrs[:, 3] - atlbrs[:, 1]))[:, np.newaxis].repeat(B, axis=1)
+        area_1 = ((btlbrs[:, 2] - btlbrs[:, 0]) * (
+                btlbrs[:, 3] - btlbrs[:, 1]))[np.newaxis, :].repeat(A, axis=0)
+
+        return inter / (area_0 + area_1 - inter)
+
+    @staticmethod
     def iou_distance(inactive_tracks, new_tracks):
 
         # TODO, this might be enhanced with the quality and label of each detection, when there are more labels
 
-        tlbr_inactive_tracks = [each.tlbr for each in inactive_tracks]
-        tlbr_new_tracks = [[each[3][0], each[3][1], each[3][0] + each[3][2] * each[3][3], each[3][1] + each[3][3]] for
-                           each in new_tracks]
+        tlbr_inactive_tracks = [outside_tracker_manager.xyah_to_tlbr(each.xyah) for each in inactive_tracks]
+        tlbr_new_tracks = []
+        for each in new_tracks:
+            tlbr_new_tracks.append(outside_tracker_manager.tlbr_to_xyah(each[2]))
 
         ious = np.zeros((len(tlbr_inactive_tracks), len(tlbr_new_tracks)), dtype=np.float)  # iou similarity
         if ious.size == 0:
             return ious
 
-        ious = bbox_ious(
+        ious = outside_tracker_manager.bbox_ious(
             np.ascontiguousarray(tlbr_inactive_tracks, dtype=np.float),
             np.ascontiguousarray(tlbr_new_tracks, dtype=np.float)
         )
@@ -369,8 +395,24 @@ class outside_tracker_manager:
         return matches, unmatched_a, unmatched_b
 
     def create_new_track(self, new_track):
-        self.outside_tracks.append(outside_tracker(new_track[0], new_track[1], new_track[2]))
-        self.outside_tracks_ref.update({new_track[0]: self.outside_tracks[-1]})
+        self.outside_tracks.append(outside_tracker(new_track[0], new_track[1], new_track[2], new_track[3]))
+        self.outside_tracks_ref.update({new_track[0]: len(self.outside_tracks) - 1})
+
+    @staticmethod
+    def tlbr_to_xyah(tlbr):
+        x = tlbr[0]
+        y = tlbr[1]
+        h = tlbr[3] - y
+        a = (tlbr[2] - x) / h
+        return [x, y, a, h]
+
+    @staticmethod
+    def xyah_to_tlbr(xyah):
+        tl_x = xyah[0]
+        tl_y = xyah[1]
+        br_x = tl_x + xyah[2] * xyah[3]
+        br_y = tl_y + xyah[3]
+        return [tl_x, tl_y, br_x, br_y]
 
     def step(self, outs_track):
         """
@@ -404,17 +446,22 @@ class outside_tracker_manager:
         for i in range(len(outs_track.get("ids", None))):
             each_ID = outs_track.get("ids", None)[i]
             active_tracks.append(each_ID)
-            if each_ID in self.outside_tracks_ref:
+            tmp = outs_track.get("bboxes", None)[i]
+            tlbr = tmp[:4]
+            xyah = outside_tracker_manager.tlbr_to_xyah(tlbr)
+            score = tmp[-1]
+            if each_ID in self.outside_tracks_ref:  # a continued track, then update its KF
                 each_track = self.outside_tracks[self.outside_tracks_ref[each_ID]]
-                each_track.update(outs_track.get("bboxes", None)[i])  # update xyah
+                each_track.update(xyah, score)
             else:
                 new_tracks.append((
                     outs_track.get("ids", None)[i],
                     outs_track.get("labels", None)[i],
-                    outs_track.get("bboxes", None)[i]))
+                    xyah,
+                    score))
 
         # find inactive tracks
-        for each in self.outside_tracks:
+        for each in self.outside_tracks:  # each is an outside_tracker
             if each not in active_tracks:
                 inactive_tracks.append(each)
 
@@ -422,13 +469,20 @@ class outside_tracker_manager:
         matches, unmatched_inactive_tracks, unmatched_new_tracks = self.linear_assignment(
             self.iou_distance(inactive_tracks, new_tracks))
 
+        # print("matches: ", matches)
+        # print("unmatched inactive tracks: ", unmatched_inactive_tracks)
+        # print("unmatched new tracks: ", unmatched_new_tracks)
+
         # process each match
         # matches: that means one "new track" is actually an "old inactive track", then the old one is continued
         # with the new one
         for i_inactive_tracks, i_new_tracks in matches:
             inactive_track = inactive_tracks[i_inactive_tracks]
             new_track = new_tracks[i_new_tracks]
-            inactive_track.update(new_track[3])  # update xyah
+            tmp = new_track[2]
+            xyah = tmp[:4]
+            score = tmp[-1]
+            inactive_track.update(xyah, score)  # update xyah and score
 
         # process each unmatched_inactive_track
         # unmatched_inactive_tracks: previous tracks are not continued, they just "update themselves"
@@ -436,8 +490,8 @@ class outside_tracker_manager:
 
         # process each unmatched_new_track
         # unmatched_new_track: actual new_tracks
-        for each in unmatched_new_tracks:
-            self.create_new_track(each)
+        for each in unmatched_new_tracks:  # this "each" is just an index
+            self.create_new_track(new_tracks[each])
 
         return self.results2outs()
 
@@ -449,10 +503,13 @@ class outside_tracker_manager:
         for each in self.outside_tracks:
             ids.append(each.ID)
             labels.append(each.label)
-            bboxes.append(each.xyah)
+            # print("------------------------")
+            # print("each.xyah: ", each.xyah)
+            # print("each.score: ", each.score)
+            bboxes.append(outside_tracker_manager.xyah_to_tlbr(list(each.xyah)) + [each.score])
 
-        outputs = {"ids": ids,
-                   "labels": labels,
-                   "bboxes": bboxes}
+        outputs = {"ids": np.array(ids),
+                   "labels": np.array(labels),
+                   "bboxes": np.array(bboxes)}
 
         return outputs

@@ -1,3 +1,19 @@
+# Copyright 2022 Cisco Systems, Inc. and its affiliates
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from argparse import ArgumentParser
 from urllib.parse import urlparse
 import pickle
@@ -8,6 +24,11 @@ import mmcv
 from redis import Redis
 import redis
 from Monitor import GPUCalculator , MMTMonitor
+
+# what's new
+# ======================================================================================================================
+from outside_track import outside_tracker_manager as om
+# ======================================================================================================================
 
 redis_client = redis.StrictRedis('redistimeseries', 6379)
 
@@ -85,6 +106,12 @@ def main():
 
     last_id = 0
     model = init_model(args.config, args.checkpoint, device=args.device)
+
+    # what's new
+    # ==================================================================================================================
+    outside_tracker_manager = om()
+    # ==================================================================================================================
+
     while True:
         try:
             resp = conn.xread({args.input_stream: last_id}, count=1)
@@ -101,6 +128,16 @@ def main():
                     model_run_latency.end_timer()
                     bounding_boxes_latency.start_timer()
                     outs_track = results2outs(bbox_results=result.get('track_bboxes', None))
+
+                    print("original track: ", outs_track)
+
+                    # what's new
+                    # ==================================================================================================
+                    outs_track = outside_tracker_manager.step(outs_track)
+                    # ==================================================================================================
+
+                    print("new track: ", outs_track)
+
                     bboxes = outs_track.get('bboxes', None)
                     bounding_boxes_latency.end_timer()
                     gpu_calculation.add()
