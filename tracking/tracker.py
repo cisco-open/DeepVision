@@ -25,6 +25,11 @@ from redis import Redis
 import redis
 from Monitor import GPUCalculator , MMTMonitor
 
+# what's new
+# ======================================================================================================================
+from outside_track import outside_tracker_manager as om
+# ======================================================================================================================
+
 redis_client = redis.StrictRedis('redistimeseries', 6379)
 
 #GPUCalculator and MMTMonitor variables
@@ -101,6 +106,12 @@ def main():
 
     last_id = 0
     model = init_model(args.config, args.checkpoint, device=args.device)
+
+    # what's new
+    # ==================================================================================================================
+    outside_tracker_manager = om()
+    # ==================================================================================================================
+
     while True:
         try:
             resp = conn.xread({args.input_stream: last_id}, count=1)
@@ -117,6 +128,16 @@ def main():
                     model_run_latency.end_timer()
                     bounding_boxes_latency.start_timer()
                     outs_track = results2outs(bbox_results=result.get('track_bboxes', None))
+
+                    print("original track: ", outs_track)
+
+                    # what's new
+                    # ==================================================================================================
+                    outs_track = outside_tracker_manager.step(outs_track)
+                    # ==================================================================================================
+
+                    print("new track: ", outs_track)
+
                     bboxes = outs_track.get('bboxes', None)
                     bounding_boxes_latency.end_timer()
                     gpu_calculation.add()
