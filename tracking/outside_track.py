@@ -281,14 +281,47 @@ class KalmanFilter:
 
 
 class outside_tracker:
+    shared_KF = KalmanFilter()
 
-    def __init__(self, ID, label, xyah, score):
+    def __init__(self, ID, label, xyah, score, life = 20):
         self.ID = ID
         self.label = label
         self.score = score
 
         self.KF = KalmanFilter()
         self.mean, self.cov = self.KF.initiate(xyah)
+
+        # life is how many frames can a tracklet been assumed continuing without updates
+        self.max_life = life
+        self.life = life
+
+    def predict(self):
+        # single KF predicting, when an outside_tracker is missed, vh should be 0, but here it is kept
+        self.mean, self.cov = self.KF.predict(self.mean, self.cov)
+
+    @staticmethod
+    def multi_predict(outside_tracks):
+
+        # finding inactive track
+        for each in outside_tracks:
+            if each is not None:  # only update EXISTED tracks
+                each.retire()
+
+        if len(outside_tracks) > 0:
+            multi_mean, multi_cov = [], []
+
+            for i in range(len(outside_tracks)):
+                if outside_tracks[i] is not None:
+                    multi_mean.append(outside_tracks[i].mean.copy())
+                    multi_cov.append(outside_tracks[i].cov.copy())
+
+            multi_mean, multi_cov = outside_tracker.shared_KF.multi_predict(np.asarray(multi_mean),
+                                                                            np.asarray(multi_cov))
+
+            for i, (mean, cov) in enumerate(zip(multi_mean, multi_cov)):
+                if outside_tracks[i] is not None:
+                    outside_tracks[i].mean = mean
+                    outside_tracks[i].covariance = cov
 
     def update(self, xyah, score):
         """
@@ -303,6 +336,12 @@ class outside_tracker:
     def xyah(self):
         return self.mean[: 4]
 
+    def retire(self):
+        self.life -= 1
+
+    def activate(self, add_on = 20):
+        self.life = min(self.max_life, self.life + add_on)
+
 
 class outside_tracker_manager:
 
@@ -314,23 +353,7 @@ class outside_tracker_manager:
         self.reID = None
 
     def predict(self):
-        """
-        "predict" is for KF prediction, based on its parameters, predict the next state.
-
-        tracks: all existed tracks, a list of outside_tracker (this class).
-        """
-        if len(self.outside_tracks) > 0:
-            multi_mean = np.asarray([each.mean for each in self.outside_tracks])
-            multi_cov = np.asarray([each.cov for each in self.outside_tracks])
-
-            # for many KF's, they would like to assume when the track is missed, its velocity is set to zero.
-            # but here, I would like to keep them as before.
-
-            multi_mean, multi_cov = self.shared_KF.multi_predict(multi_mean, multi_cov)
-
-            for i, (mean, cov) in enumerate(zip(multi_mean, multi_cov)):
-                self.outside_tracks[i].mean = mean
-                self.outside_tracks[i].covariance = cov
+        outside_tracker.multi_predict(self.outside_tracks)
 
     @staticmethod
     def bbox_ious(atlbrs, btlbrs):
@@ -363,9 +386,14 @@ class outside_tracker_manager:
         # TODO, this might be enhanced with the quality and label of each detection, when there are more labels
 
         tlbr_inactive_tracks = [outside_tracker_manager.xyah_to_tlbr(each.xyah) for each in inactive_tracks]
-        tlbr_new_tracks = []
-        for each in new_tracks:
-            tlbr_new_tracks.append(outside_tracker_manager.tlbr_to_xyah(each[2]))
+        tlbr_new_tracks = [outside_tracker_manager.xyah_to_tlbr(each[2]) for each in new_tracks]
+
+        # this is what I did previously, I used a multi-line for loop, seems not structurally elegant
+        # and I (maybe) used an opposite function (tlbr_to_xyah should be xyah to tlbr)
+        # -------------------------------------------------------------------------------------------
+        # tlbr_new_tracks = []
+        # for each in new_tracks:
+        #     tlbr_new_tracks.append(outside_tracker_manager.tlbr_to_xyah(each[2]))
 
         ious = np.zeros((len(tlbr_inactive_tracks), len(tlbr_new_tracks)), dtype=np.float)  # iou similarity
         if ious.size == 0:
@@ -395,8 +423,12 @@ class outside_tracker_manager:
         return matches, unmatched_a, unmatched_b
 
     def create_new_track(self, new_track):
-        self.outside_tracks.append(outside_tracker(new_track[0], new_track[1], new_track[2], new_track[3]))
-        self.outside_tracks_ref.update({new_track[0]: len(self.outside_tracks) - 1})
+        if new_track[0] in self.outside_tracks_ref:  # this object has been tracked before, but lost and so deleted
+            self.outside_tracks[self.outside_tracks_ref[new_track[0]]] = outside_tracker(new_track[0], new_track[1],
+                                                                                         new_track[2], new_track[3])
+        else:  # this id is brand-new
+            self.outside_tracks.append(outside_tracker(new_track[0], new_track[1], new_track[2], new_track[3]))
+            self.outside_tracks_ref.update({new_track[0]: len(self.outside_tracks) - 1})
 
     @staticmethod
     def tlbr_to_xyah(tlbr):
@@ -452,7 +484,17 @@ class outside_tracker_manager:
             score = tmp[-1]
             if each_ID in self.outside_tracks_ref:  # a continued track, then update its KF
                 each_track = self.outside_tracks[self.outside_tracks_ref[each_ID]]
-                each_track.update(xyah, score)
+
+                if each_track is None:  # if this is a continued lost track
+                    self.create_new_track((
+                        outs_track.get("ids", None)[i],
+                        outs_track.get("labels", None)[i],
+                        xyah,
+                        score))
+                else:
+                    each_track.activate()
+                    each_track.update(xyah, score)
+
             else:
                 new_tracks.append((
                     outs_track.get("ids", None)[i],
@@ -460,9 +502,9 @@ class outside_tracker_manager:
                     xyah,
                     score))
 
-        # find inactive tracks
+        # find inactive tracks, "inactive" means currently the track is not updated (just for this frame)
         for each in self.outside_tracks:  # each is an outside_tracker
-            if each not in active_tracks:
+            if each is not None and each not in active_tracks:
                 inactive_tracks.append(each)
 
         # for those possibly new tracks, check whether they can be matched with some inactive tracks
@@ -483,15 +525,21 @@ class outside_tracker_manager:
             xyah = tmp[:4]
             score = tmp[-1]
             inactive_track.update(xyah, score)  # update xyah and score
+            inactive_track.activate()
 
         # process each unmatched_inactive_track
-        # unmatched_inactive_tracks: previous tracks are not continued, they just "update themselves"
+        # unmatched_inactive_tracks: previous tracks are not continued, they just "update themselves and life -1"
         # but this is already finished at the beginning
 
         # process each unmatched_new_track
         # unmatched_new_track: actual new_tracks
         for each in unmatched_new_tracks:  # this "each" is just an index
             self.create_new_track(new_tracks[each])
+
+        # deleting these lost tracks
+        for i in range(len(self.outside_tracks)):
+            if self.outside_tracks[i] is not None and self.outside_tracks[i].life == 0:
+                self.outside_tracks[i] = None
 
         return self.results2outs()
 
@@ -501,15 +549,22 @@ class outside_tracker_manager:
         bboxes = []
 
         for each in self.outside_tracks:
-            ids.append(each.ID)
-            labels.append(each.label)
-            # print("------------------------")
-            # print("each.xyah: ", each.xyah)
-            # print("each.score: ", each.score)
-            bboxes.append(outside_tracker_manager.xyah_to_tlbr(list(each.xyah)) + [each.score])
+            if each is not None:
+                ids.append(each.ID)
+                labels.append(each.label)
+                # print("------------------------")
+                # print("each.xyah: ", each.xyah)
+                # print("each.score: ", each.score)
+                bboxes.append(outside_tracker_manager.xyah_to_tlbr(list(each.xyah)) + [each.score])
 
         outputs = {"ids": np.array(ids),
                    "labels": np.array(labels),
                    "bboxes": np.array(bboxes)}
 
         return outputs
+
+    def control(self):
+        """
+        This function is to delete these non-responding (object moving out of the screen, missed tracklets) outside
+        tracks.
+        """

@@ -86,6 +86,26 @@ def results2outs(bbox_results=None,
     return outputs
 
 
+def outs_tracks_compare(original_tracks, new_tracks):
+    """
+    Check whether the new_track is consistent (with some differences) with the original track.
+
+    The new tracks should include the original tracks.
+    """
+    count = 0
+    thresholding = 20
+    for bbox_original in original_tracks.get("bboxes", None)[:, :4]:
+        for bbox_new in new_tracks.get("bboxes", None)[:, :4]:
+            if abs(bbox_new[0] - bbox_original[0]) < thresholding:
+                if abs(bbox_new[1] - bbox_original[1]) < thresholding:
+                    if abs(bbox_new[2] - bbox_original[2]) < thresholding:
+                        if abs(bbox_new[3] - bbox_original[3]) < thresholding:
+                            count += 1
+                            break
+
+    return count / original_tracks.get("bboxes", None).shape[0]
+
+
 def main():
     parser = ArgumentParser()
     parser.add_argument('config', help='config file')
@@ -107,7 +127,7 @@ def main():
     last_id = 0
     model = init_model(args.config, args.checkpoint, device=args.device)
 
-    # what's new
+    # what's new [initialization]
     # ==================================================================================================================
     outside_tracker_manager = om()
     # ==================================================================================================================
@@ -121,27 +141,43 @@ def main():
                 ref_id, data = messages[0]
                 if data:
                     frameId = int(data.get(b'frameId').decode())
+
+                    if frameId == 0:
+                        # what's new [repeated initialization for running the same video again]
+                        # ==============================================================================================
+                        outside_tracker_manager = om()
+                        # ==============================================================================================
+
+                    print("num outside tracks: ", len(outside_tracker_manager.outside_tracks))
+
+                    print("Frame ID: ", frameId)
                     img = pickle.loads(data[b'image'])
                     redis_client.execute_command('ts.add framerate * {}'.format(frameId))
                     model_run_latency.start_timer()
                     result = inference_mot(model, img, frame_id=frameId)
                     model_run_latency.end_timer()
                     bounding_boxes_latency.start_timer()
-                    outs_track = results2outs(bbox_results=result.get('track_bboxes', None))
+                    original_tracks = results2outs(bbox_results=result.get('track_bboxes', None))
 
-                    print("original track: ", outs_track)
+                    # print("original track: ", original_tracks)
 
                     # what's new
                     # ==================================================================================================
-                    outs_track = outside_tracker_manager.step(outs_track)
+                    new_tracks = outside_tracker_manager.step(original_tracks)
                     # ==================================================================================================
 
-                    print("new track: ", outs_track)
+                    # print("new track: ", new_tracks)
 
-                    bboxes = outs_track.get('bboxes', None)
+                    # output setting
+                    outs_tracks = new_tracks
+
+                    # print("-------------------------------------")
+                    # print("Original and new tracks consistency: ", outs_tracks_compare(original_tracks, new_tracks))
+
+                    bboxes = outs_tracks.get('bboxes', None)
                     bounding_boxes_latency.end_timer()
                     gpu_calculation.add()
-                    ids = outs_track.get('ids', None)
+                    ids = outs_tracks.get('ids', None)
                     objects_list = []
                     for (i, id) in enumerate(ids):
                         object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
