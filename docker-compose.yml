@@ -22,7 +22,7 @@ services:
     healthcheck:
       test: [ "CMD-SHELL", "redis-cli ping | grep PONG" ]
       interval: 10s
-      timeout: 10s
+      timeout: 20s
       retries: 10
   redistimeseries:
     image: redislabs/redistimeseries
@@ -39,7 +39,7 @@ services:
   tracker:
     build: ./tracking
     container_name: "tracker_vision"
-    command: bash -c "python tracker.py mmtracking/configs/mot/deepsort/deepsort_faster-rcnn_fpn_4e_mot17-private-half.py --redis redis://redis_vision:6379"
+    command: bash -c "python tracker.py mmtracking/configs/mot/deepsort/sort_faster-rcnn_fpn_4e_mot17-private-half.py --redis redis://redis_vision:6379 --additional_model mmtracking/configs/mot/deepsort/deepsort_faster-rcnn_fpn_4e_mot17-private-half.py"
     deploy:
       resources:
         reservations:
@@ -55,7 +55,7 @@ services:
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u redis://redis_vision:6379 --inputFps 50.00 --outputFps 12.00 data/liverpool.mp4 & python3 server.py -u redis://redis_vision:6379 --trackletLength 50 & python3 trackertotimeseries.py"
+    command: bash -c "python3 producer.py -u redis://redis_vision:6379 --inputFps 50.00 --outputFps 5.00 data/liverpool.mp4 & python3 server.py -u redis://redis_vision:6379 --trackletLength 50"
     depends_on:
       redis:
         condition: service_healthy
