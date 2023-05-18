@@ -14,28 +14,27 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-from argparse import ArgumentParser
-from urllib.parse import urlparse
-import pickle
-from mmtracking.mmtrack.apis import inference_mot, init_model
-import numpy as np
 import json
 import mmcv
-from redis import Redis
+import numpy as np
+import pickle
 import redis
-from Monitor import GPUCalculator , MMTMonitor
+from argparse import ArgumentParser
+from redis import Redis
+from urllib.parse import urlparse
 
-# what's new
-# ======================================================================================================================
+from Monitor import GPUCalculator, MMTMonitor
+from mmtracking.mmtrack.apis import inference_mot, init_model
 from outside_track import outside_tracker_manager as om
-# ======================================================================================================================
 
-redis_client = redis.StrictRedis('redistimeseries', 6379)
+redis_client = redis.StrictRedis("redistimeseries", 6379)
 
-#GPUCalculator and MMTMonitor variables
-model_run_latency = MMTMonitor(redis_client,'model_run_latency')
-bounding_boxes_latency = MMTMonitor(redis_client,'bounding_boxes_latency')
+# GPUCalculator and MMTMonitor variables
+model_run_latency = MMTMonitor(redis_client, "model_run_latency")
+bounding_boxes_latency = MMTMonitor(redis_client, "bounding_boxes_latency")
 gpu_calculation = GPUCalculator(redis_client)
+
+
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, np.integer):
@@ -47,11 +46,10 @@ class NpEncoder(json.JSONEncoder):
         return super(NpEncoder, self).default(obj)
 
 
-def results2outs(bbox_results=None,
-                 mask_results=None,
-                 mask_shape=None,
+def results2outs(bbox_results = None,
+                 mask_results = None,
+                 mask_shape = None,
                  **kwargs):
-
     outputs = dict()
 
     if bbox_results is not None:
@@ -59,19 +57,19 @@ def results2outs(bbox_results=None,
         for i, bbox in enumerate(bbox_results):
             labels.extend([i] * bbox.shape[0])
         labels = np.array(labels, dtype=np.int64)
-        outputs['labels'] = labels
+        outputs["labels"] = labels
 
         bboxes = np.concatenate(bbox_results, axis=0).astype(np.float32)
         if bboxes.shape[1] == 5:
-            outputs['bboxes'] = bboxes
+            outputs["bboxes"] = bboxes
         elif bboxes.shape[1] == 6:
             ids = bboxes[:, 0].astype(np.int64)
             bboxes = bboxes[:, 1:]
-            outputs['bboxes'] = bboxes
-            outputs['ids'] = ids
+            outputs["bboxes"] = bboxes
+            outputs["ids"] = ids
         else:
             raise NotImplementedError(
-                f'Not supported bbox shape: (N, {bboxes.shape[1]})')
+                f"Not supported bbox shape: (N, {bboxes.shape[1]})")
 
     if mask_results is not None:
         assert mask_shape is not None
@@ -81,7 +79,7 @@ def results2outs(bbox_results=None,
             masks = np.zeros((0, mask_height, mask_width)).astype(bool)
         else:
             masks = np.stack(mask_results, axis=0)
-        outputs['masks'] = masks
+        outputs["masks"] = masks
 
     return outputs
 
@@ -108,29 +106,33 @@ def outs_tracks_compare(original_tracks, new_tracks):
 
 def main():
     parser = ArgumentParser()
-    parser.add_argument('config', help='config file')
-    parser.add_argument('--input_stream', help='input stream key for coming frames', type=str, default="camera:0")
-    parser.add_argument('--classId', help='class category of the objects', type=str, default="PERSON")
-    parser.add_argument('--output_stream', help='output stream key for tracklets', type=str, default="camera:0:mot")
-    parser.add_argument('--checkpoint', help='checkpoint file')
-    parser.add_argument('--device', default='cuda:0', help='device used for inference')
-    parser.add_argument('--redis', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
-    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
+    parser.add_argument("config", help="config file")
+    parser.add_argument("--input_stream", help="input stream key for coming frames", type=str, default="camera:0")
+    parser.add_argument("--classId", help="class category of the objects", type=str, default="PERSON")
+    parser.add_argument("--output_stream", help="output stream key for tracklets", type=str, default="camera:0:mot")
+    parser.add_argument("--checkpoint", help="checkpoint file")
+    parser.add_argument("--device", default="cuda:0", help="device used for inference")
+    parser.add_argument("--redis", help="Redis URL", type=str, default="redis://127.0.0.1:6379")
+    parser.add_argument("--maxlen", help="Maximum length of output stream", type=int, default=3000)
+    parser.add_argument("--additional_model",
+                        help="to run multiple models, here is the path of the config file of the additional model")
 
     args = parser.parse_args()
 
     url = urlparse(args.redis)
     conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
     if not conn.ping():
-        raise Exception('Redis unavailable')
+        raise Exception("Redis unavailable")
 
     last_id = 0
     model = init_model(args.config, args.checkpoint, device=args.device)
 
-    # what's new [initialization]
-    # ==================================================================================================================
+    # TODO, naming issue
+
+    # introducing additional model, TODO, don't know how to use it
+    additional_model = init_model(args.additional_model, args.checkpoint, device=args.device)
+
     outside_tracker_manager = om()
-    # ==================================================================================================================
 
     while True:
         try:
@@ -140,51 +142,44 @@ def main():
                 key, messages = resp[0]
                 ref_id, data = messages[0]
                 if data:
-                    frameId = int(data.get(b'frameId').decode())
+                    frameId = int(data.get(b"frameId").decode())
 
                     if frameId == 0:
-                        # what's new [repeated initialization for running the same video again]
-                        # ==============================================================================================
-                        outside_tracker_manager = om()
-                        # ==============================================================================================
+                        outside_tracker_manager.reset()
 
-                    print("num outside tracks: ", len(outside_tracker_manager.outside_tracks))
+                    print("num outside tracks: ",
+                          sum([1 if each is not None else 0 for each in outside_tracker_manager.internal_tracks]))
 
                     print("Frame ID: ", frameId)
-                    img = pickle.loads(data[b'image'])
-                    redis_client.execute_command('ts.add framerate * {}'.format(frameId))
+                    img = pickle.loads(data[b"image"])
+
+                    redis_client.execute_command("ts.add framerate * {}".format(frameId))
                     model_run_latency.start_timer()
                     result = inference_mot(model, img, frame_id=frameId)
                     model_run_latency.end_timer()
                     bounding_boxes_latency.start_timer()
-                    original_tracks = results2outs(bbox_results=result.get('track_bboxes', None))
+                    original_tracks = results2outs(bbox_results=result.get("track_bboxes", None))
 
-                    # print("original track: ", original_tracks)
+                    # additional model(s) processing
+                    additional_result = inference_mot(additional_model, img, frame_id=frameId)
+                    additional_tracks = results2outs(bbox_results=additional_result.get("track_bboxes", None))
 
-                    # what's new
-                    # ==================================================================================================
                     new_tracks = outside_tracker_manager.step(original_tracks)
-                    # ==================================================================================================
 
-                    # print("new track: ", new_tracks)
-
-                    # output setting
+                    # switched from original and enhanced tracks
                     outs_tracks = new_tracks
 
-                    # print("-------------------------------------")
-                    # print("Original and new tracks consistency: ", outs_tracks_compare(original_tracks, new_tracks))
-
-                    bboxes = outs_tracks.get('bboxes', None)
+                    bboxes = outs_tracks.get("bboxes", None)
                     bounding_boxes_latency.end_timer()
                     gpu_calculation.add()
-                    ids = outs_tracks.get('ids', None)
+                    ids = outs_tracks.get("ids", None)
                     objects_list = []
                     for (i, id) in enumerate(ids):
-                        object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
+                        object_dict = {"objectId": id, "object_bbox": bboxes[i], "class": args.classId}
                         objects_list.append(object_dict)
-                    frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
+                    frame_dict = {"frameId": frameId, "tracking_info": objects_list}
                     conn.xadd(args.output_stream,
-                              {'refId': last_id, 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
+                              {"refId": last_id, "tracking": json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
                     last_id = ref_id
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
@@ -192,6 +187,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-

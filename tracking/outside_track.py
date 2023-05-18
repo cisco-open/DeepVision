@@ -281,9 +281,19 @@ class KalmanFilter:
 
 
 class outside_tracker:
+    """
+    Each outside tracker is actually an "inside" tracker of each object, why it is called "outside" is because it is
+    outside any existed tracker.
+
+    Each outside tracker has a "unique object ID (UOI)", which is bound to the actual object in the world. Since we may
+    have more than one existed tracker, and each of them may have their IDs. For example, in tracker 1, object 1 is
+    assigned ID-0, but in tracker 2, the same object is assigned ID-2. This UOI is for solving this issue. It tries to
+    make build a map between external and internal IDs.
+    """
+
     shared_KF = KalmanFilter()
 
-    def __init__(self, ID, label, xyah, score, life = 20):
+    def __init__(self, ID, label, xyah, score, life = 5):
         self.ID = ID
         self.label = label
         self.score = score
@@ -296,32 +306,14 @@ class outside_tracker:
         self.life = life
 
     def predict(self):
-        # single KF predicting, when an outside_tracker is missed, vh should be 0, but here it is kept
+        # single KF predicting
+        self.retire()
         self.mean, self.cov = self.KF.predict(self.mean, self.cov)
-
-    @staticmethod
-    def multi_predict(outside_tracks):
-
-        # finding inactive track
-        for each in outside_tracks:
-            if each is not None:  # only update EXISTED tracks
-                each.retire()
-
-        if len(outside_tracks) > 0:
-            multi_mean, multi_cov = [], []
-
-            for i in range(len(outside_tracks)):
-                if outside_tracks[i] is not None:
-                    multi_mean.append(outside_tracks[i].mean.copy())
-                    multi_cov.append(outside_tracks[i].cov.copy())
-
-            multi_mean, multi_cov = outside_tracker.shared_KF.multi_predict(np.asarray(multi_mean),
-                                                                            np.asarray(multi_cov))
-
-            for i, (mean, cov) in enumerate(zip(multi_mean, multi_cov)):
-                if outside_tracks[i] is not None:
-                    outside_tracks[i].mean = mean
-                    outside_tracks[i].covariance = cov
+        tlbr = outside_tracker_manager.xyah_to_tlbr(self.mean[:4])
+        if tlbr[2] < 0 or tlbr[3] < 0:
+            self.life = -1
+        if tlbr[0] > 1280 or tlbr[1] > 720:
+            self.life = -1
 
     def update(self, xyah, score):
         """
@@ -339,21 +331,40 @@ class outside_tracker:
     def retire(self):
         self.life -= 1
 
-    def activate(self, add_on = 20):
+    def activate(self, add_on = 5):
         self.life = min(self.max_life, self.life + add_on)
+
+    def inactive(self):
+        self.mean[7] = 0
 
 
 class outside_tracker_manager:
 
     def __init__(self):
-        self.outside_tracks = []
+        self.internal_tracks = []
         self.outside_tracks_ref = dict()  # a reference for each outside_tracker, e.g., {id: idx of the outside_tracker}
         self.shared_KF = KalmanFilter()
+        self.count = 0  # this is for assigning UOI
+
+        # dictionary of external and internal IDs, {int: int}
+        self.ID_mapping_1 = {}
+        self.ID_mapping_2 = {}
+
+        # an overall ID mapping, with external model ID mapped to the corresponding ID mapping, {model ID: ID mapping}
+        self.ID_mapping = {}
+
         self.reasoner = None
         self.reID = None
 
+    def reset(self):
+        self.internal_tracks = []
+        self.outside_tracks_ref = dict()
+        self.shared_KF = KalmanFilter()
+
     def predict(self):
-        outside_tracker.multi_predict(self.outside_tracks)
+        for each in self.internal_tracks:
+            if each is not None:
+                each.predict()
 
     @staticmethod
     def bbox_ious(atlbrs, btlbrs):
@@ -381,6 +392,19 @@ class outside_tracker_manager:
         return inter / (area_0 + area_1 - inter)
 
     @staticmethod
+    def iou_distance_util(atlbr, btlbr):
+        ious = np.zeros((len(atlbr), len(btlbr)), dtype=np.float)  # iou similarity
+        if ious.size == 0:
+            return ious
+
+        ious = outside_tracker_manager.bbox_ious(np.ascontiguousarray(atlbr, dtype=np.float),
+                                                 np.ascontiguousarray(btlbr, dtype=np.float)
+                                                 )
+
+        cost_matrix = 1 - ious
+        return cost_matrix
+
+    @staticmethod
     def iou_distance(inactive_tracks, new_tracks):
 
         # TODO, this might be enhanced with the quality and label of each detection, when there are more labels
@@ -388,24 +412,7 @@ class outside_tracker_manager:
         tlbr_inactive_tracks = [outside_tracker_manager.xyah_to_tlbr(each.xyah) for each in inactive_tracks]
         tlbr_new_tracks = [outside_tracker_manager.xyah_to_tlbr(each[2]) for each in new_tracks]
 
-        # this is what I did previously, I used a multi-line for loop, seems not structurally elegant
-        # and I (maybe) used an opposite function (tlbr_to_xyah should be xyah to tlbr)
-        # -------------------------------------------------------------------------------------------
-        # tlbr_new_tracks = []
-        # for each in new_tracks:
-        #     tlbr_new_tracks.append(outside_tracker_manager.tlbr_to_xyah(each[2]))
-
-        ious = np.zeros((len(tlbr_inactive_tracks), len(tlbr_new_tracks)), dtype=np.float)  # iou similarity
-        if ious.size == 0:
-            return ious
-
-        ious = outside_tracker_manager.bbox_ious(
-            np.ascontiguousarray(tlbr_inactive_tracks, dtype=np.float),
-            np.ascontiguousarray(tlbr_new_tracks, dtype=np.float)
-        )
-
-        cost_matrix = 1 - ious
-        return cost_matrix
+        return outside_tracker_manager.iou_distance_util(tlbr_inactive_tracks, tlbr_new_tracks)
 
     @staticmethod
     def linear_assignment(cost_matrix, thresh = 0.8):
@@ -422,13 +429,13 @@ class outside_tracker_manager:
         matches = np.asarray(matches)
         return matches, unmatched_a, unmatched_b
 
-    def create_new_track(self, new_track):
-        if new_track[0] in self.outside_tracks_ref:  # this object has been tracked before, but lost and so deleted
-            self.outside_tracks[self.outside_tracks_ref[new_track[0]]] = outside_tracker(new_track[0], new_track[1],
-                                                                                         new_track[2], new_track[3])
+    def create_new_track(self, new_track):  # for brand-new and for revision
+        if new_track[0] in self.outside_tracks_ref:  # this object has been tracked before, but lost and deleted
+            self.internal_tracks[self.outside_tracks_ref[new_track[0]]] = outside_tracker(new_track[0], new_track[1],
+                                                                                          new_track[2], new_track[3])
         else:  # this id is brand-new
-            self.outside_tracks.append(outside_tracker(new_track[0], new_track[1], new_track[2], new_track[3]))
-            self.outside_tracks_ref.update({new_track[0]: len(self.outside_tracks) - 1})
+            self.internal_tracks.append(outside_tracker(new_track[0], new_track[1], new_track[2], new_track[3]))
+            self.outside_tracks_ref.update({new_track[0]: len(self.internal_tracks) - 1})
 
     @staticmethod
     def tlbr_to_xyah(tlbr):
@@ -446,6 +453,82 @@ class outside_tracker_manager:
         br_y = tl_y + xyah[3]
         return [tl_x, tl_y, br_x, br_y]
 
+    # def check_mappings(self, external_tracks, model_IDs):
+    #     # all existed tracks, do predictions
+    #     self.predict()
+    #
+    #     for i in range(len(external_tracks)):
+    #         self.check_mapping(external_tracks[i], model_IDs[i])
+
+    # def check_mapping(self, external_track, model_ID):
+    #     """
+    #     TODO, There might be some overlap between this function and the function self.step, but might be solved later.
+    #     """
+    #     tlbr_internal_rois = [self.xyah_to_tlbr(each.xyah) for each in self.internal_tracks]
+    #     tlbr_external_rois = [each[:4] for each in external_track.get("bboxes", None)]
+    #
+    #     matches, unmatched_internal_rois, unmatched_external_rois = self.linear_assignment(
+    #         self.iou_distance_util(tlbr_internal_rois, tlbr_external_rois))  # indices
+    #
+    #     # for matches
+    #     for i_internal, i_external in matches:
+    #
+    #         internal_ID = self.internal_tracks[i_internal].ID
+    #         external_ID = external_track.get("ids", None)[i_external]
+    #
+    #         if external_ID not in self.ID_mapping[model_ID]:  # first time of this external ID
+    #             # mapped to an existed internal ID
+    #             self.ID_mapping[model_ID].update({external_ID: internal_ID})
+    #         else:  # this external ID is in the ID mapping
+    #             # TODO, there should be some processing, but not here
+    #             mapped_external_ID = self.ID_mapping[model_ID][external_ID]
+    #             if mapped_external_ID != internal_ID:
+    #                 # TODO, this is just the SIMPLEST method
+    #                 # wrong match, just drop [but absolutely incorrect]
+    #                 pass
+    #             else:
+    #                 # TODO, this is just the SIMPLEST method
+    #                 # this looks good, nothing to do [but absolutely insufficient]
+    #                 pass
+    #
+    #     # for unmatched_internal_rois
+    #     # TODO, this is just the SIMPLEST method
+    #     # no matches, say they just update themselves, which is done in self.predict()
+    #
+    #     # for unmatched_external_rois
+    #     # TODO, this might be too much
+    #     # we need to create EACH unmatched external track an internal track
+    #     for i_external in unmatched_external_rois:
+    #         # create new internal track
+    #         ID = self.count
+    #         label = external_track.get("labels", None)[i_external]
+    #         tmp = external_track.get("bboxes", None)[i_external]
+    #         tlbr = tmp[:4]
+    #         score = tmp[-1]
+    #         xyah = outside_tracker_manager.tlbr_to_xyah(tlbr)
+    #         self.create_new_track([ID, label, xyah, score])
+    #
+    #         # create the mapping to this internal track
+    #         external_ID = external_track.get("ids", None)[i_external]
+    #         self.ID_mapping[model_ID].update({external_ID: ID})
+    #
+    #         # next internal ID
+    #         self.count += 1
+
+    # def ID_map(self, original_tracks, model_IDs):
+    #     """
+    #     To maintain the main structure, this function is to modify the "original_tracks".
+    #
+    #     It is to change the "ids" key in "original_tracks" with the inside ID. To make sure different external IDs are
+    #     mapped to a unified internal ID.
+    #     """
+    #     self.check_mappings(original_tracks, model_IDs)
+    #
+    #     for i in range(len(original_tracks)):
+    #         for j in range(len(original_tracks[i].get("ids", None))):
+    #             original_tracks[i].get("ids", None)[j] = self.ID_mapping[model_ID][
+    #                 original_tracks[i].get("ids", None)[j]]
+
     def step(self, outs_track):
         """
         outs_track: the detection + tracking results for each frame, generated by an existed tracker, processed by the
@@ -458,8 +541,6 @@ class outside_tracker_manager:
             e.g., (upper_left_x, upper_left_y, aspect ratio, height), say (x, y, a, h).
         And for the image processed, (0, 0) is the upper-left corner.
         """
-
-        self.predict()  # all existed tracks, do predictions
 
         # for those tracks found by an existed tracker, if they are confident enough, I will take them, so use them to
         # update (correct) the KF in the corresponding outside_track.
@@ -482,8 +563,9 @@ class outside_tracker_manager:
             tlbr = tmp[:4]
             xyah = outside_tracker_manager.tlbr_to_xyah(tlbr)
             score = tmp[-1]
+
             if each_ID in self.outside_tracks_ref:  # a continued track, then update its KF
-                each_track = self.outside_tracks[self.outside_tracks_ref[each_ID]]
+                each_track = self.internal_tracks[self.outside_tracks_ref[each_ID]]
 
                 if each_track is None:  # if this is a continued lost track
                     self.create_new_track((
@@ -503,17 +585,17 @@ class outside_tracker_manager:
                     score))
 
         # find inactive tracks, "inactive" means currently the track is not updated (just for this frame)
-        for each in self.outside_tracks:  # each is an outside_tracker
+        for each in self.internal_tracks:  # each is an outside_tracker
             if each is not None and each not in active_tracks:
+                each.inactive()
                 inactive_tracks.append(each)
+
+        # all existed tracks, do predictions
+        self.predict()
 
         # for those possibly new tracks, check whether they can be matched with some inactive tracks
         matches, unmatched_inactive_tracks, unmatched_new_tracks = self.linear_assignment(
-            self.iou_distance(inactive_tracks, new_tracks))
-
-        # print("matches: ", matches)
-        # print("unmatched inactive tracks: ", unmatched_inactive_tracks)
-        # print("unmatched new tracks: ", unmatched_new_tracks)
+            outside_tracker_manager.iou_distance(inactive_tracks, new_tracks))
 
         # process each match
         # matches: that means one "new track" is actually an "old inactive track", then the old one is continued
@@ -523,7 +605,8 @@ class outside_tracker_manager:
             new_track = new_tracks[i_new_tracks]
             tmp = new_track[2]
             xyah = tmp[:4]
-            score = tmp[-1]
+            score = new_track[3]
+
             inactive_track.update(xyah, score)  # update xyah and score
             inactive_track.activate()
 
@@ -537,9 +620,9 @@ class outside_tracker_manager:
             self.create_new_track(new_tracks[each])
 
         # deleting these lost tracks
-        for i in range(len(self.outside_tracks)):
-            if self.outside_tracks[i] is not None and self.outside_tracks[i].life == 0:
-                self.outside_tracks[i] = None
+        for i in range(len(self.internal_tracks)):
+            if self.internal_tracks[i] is not None and self.internal_tracks[i].life < 0:
+                self.internal_tracks[i] = None
 
         return self.results2outs()
 
@@ -548,13 +631,10 @@ class outside_tracker_manager:
         labels = []
         bboxes = []
 
-        for each in self.outside_tracks:
+        for each in self.internal_tracks:
             if each is not None:
                 ids.append(each.ID)
                 labels.append(each.label)
-                # print("------------------------")
-                # print("each.xyah: ", each.xyah)
-                # print("each.score: ", each.score)
                 bboxes.append(outside_tracker_manager.xyah_to_tlbr(list(each.xyah)) + [each.score])
 
         outputs = {"ids": np.array(ids),
@@ -562,9 +642,3 @@ class outside_tracker_manager:
                    "bboxes": np.array(bboxes)}
 
         return outputs
-
-    def control(self):
-        """
-        This function is to delete these non-responding (object moving out of the screen, missed tracklets) outside
-        tracks.
-        """
