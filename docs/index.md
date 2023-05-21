@@ -1,4 +1,4 @@
-# CiscoDeepVision
+# DeepVision
 
 ## [Introduction](intro.md)
 
