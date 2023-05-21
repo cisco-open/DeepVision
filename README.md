@@ -4,8 +4,6 @@ Deep Vision is a serverless edge platform for explainable perception challenges 
 
 Deep Vision targets several key problems including improving analytics accuracy on spatio-temporal data, self-supervised learning, lifelong learning and creating explainable models.  
 
-[//]: # (Please follow [here]&#40;docs/index.md&#41; for the documentation)
-
 ### Getting Started
 
 The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well).  
