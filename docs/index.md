@@ -12,4 +12,4 @@
 
 ## [Changelog](changelog.md)
 
-## [Contributor Guide](contribution.md)
+## [Contributor Guide](../CONTRIBUTING.md)
