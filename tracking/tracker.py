@@ -81,6 +81,12 @@ def results2outs(bbox_results=None,
     return outputs
 
 
+def get_data_from_resp(resp):
+    key, messages = resp[0]
+    ref_id, data = messages[0]
+    return ref_id, data
+
+
 def main():
     parser = ArgumentParser()
     parser.add_argument('config', help='config file')
@@ -99,15 +105,15 @@ def main():
     if not conn.ping():
         raise Exception('Redis unavailable')
 
-    last_id = 0
     model = init_model(args.config, args.checkpoint, device=args.device)
+    resp = conn.xread({args.input_stream: '$'}, count=None, block=0)
+    last_id = get_data_from_resp(resp)[0]
     while True:
         try:
             resp = conn.xread({args.input_stream: last_id}, count=1)
 
             if resp:
-                key, messages = resp[0]
-                ref_id, data = messages[0]
+                ref_id, data = get_data_from_resp(resp)
                 if data:
                     frameId = int(data.get(b'frameId').decode())
                     img = pickle.loads(data[b'image'])

@@ -96,7 +96,6 @@ class RedisImageStream(object):
             return img.tobytes()
 
         else:
-            print("No tracking info")
             frame_img_data = frame[0][1][b'image']
             img_data = pickle.loads(frame_img_data)
             img = Image.fromarray(img_data)
