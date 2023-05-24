@@ -15,6 +15,7 @@ Launch docker compose
     docker-compose up --build
 ```
 You may launch `docker compose down` before, to make sure you don't duplicate containers in the same docker network, that can cause some problems.  
+If the operating system is Ubuntu, doing `export DOCKER_BUILDKIT=1` may be required.  
 
 ### Configuration
 It's pretty simple to configure and change tracking model and corresponding accuracy score using parameters inside `.env` file in the root directory.  
