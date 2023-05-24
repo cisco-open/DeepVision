@@ -16,7 +16,8 @@ DeepVision
  ├── LICENSE (A license used)
  ├── README.md (enty point for docs)
  ├── .gitignore
- ├── .gitmodules (config for git submodules)
+ ├── .gitmodules (configuration for git submodules)
+ ├── .env (tracking model and corresponding accuracy score configuration)
  ├── docker-compose.yml (docker compose configuration)
  ├── Dockerfile (docker file for video sourcing and rendering)
  ├── mkdocs.yml (ReadTheDocs extension configuration)
