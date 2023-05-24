@@ -81,7 +81,7 @@ class RedisImageStream(object):
 
                 updated_tracking_info.append(update_midpoint_to_tracklets(x1, x2, y1, y2, tracking_entry))
                 
-                if score > 0.950:
+                if score > args.score:
                     tail_colors[objectId] = self.random_color(objectId)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=tail_colors[objectId])
                     draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=tail_colors[objectId])
@@ -147,6 +147,7 @@ if __name__ == '__main__':
     parser.add_argument('--fmt', help='Frame storage format', type=str, default='.jpg')
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('--trackletLength', help='Tracklet Length', type=int)
+    parser.add_argument('--score', help='Accuracy score treshold', type=float)
     args = parser.parse_args()
 
     # Set up Redis connection
