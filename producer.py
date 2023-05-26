@@ -70,7 +70,7 @@ if __name__ == '__main__':
     if not conn.ping():
         raise Exception('Redis unavailable')
 
-    if args.isfile is None:
+    if not args.isfile:
         produce_from_camera()
     else:
         produce_from_file()

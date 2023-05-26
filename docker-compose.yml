@@ -39,7 +39,7 @@ services:
   tracker:
     build: ./tracking
     container_name: "tracker_vision"
-    command: bash -c "python tracker.py ${MODEL_CONF} --redis redis://redis_vision:6379"
+    command: bash -c "python tracker.py ${MODEL_CONF} --redis ${REDIS_URL}"
     deploy:
       resources:
         reservations:
@@ -55,7 +55,7 @@ services:
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u redis://redis_vision:6379 --inputFps 50.00 --outputFps 10.00 data/liverpool.mp4 & python3 server.py -u redis://redis_vision:6379 --trackletLength 60 --score ${SCORE}"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
     depends_on:
       redis:
         condition: service_healthy
