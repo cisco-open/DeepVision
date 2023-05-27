@@ -18,8 +18,8 @@ You may launch `docker compose down` before, to make sure you don't duplicate co
 If the operating system is Ubuntu, doing `export DOCKER_BUILDKIT=1` may be required.  
 
 ### Configuration
-It's pretty simple to configure and change tracking model and corresponding accuracy score using parameters inside `.env` file in the root directory.  
-Just use commenting and uncommenting approach.
+It's pretty simple to configure and change tracking model and corresponding accuracy score using parameters inside `.env` file in the root directory. Just use commenting and uncommenting approach.  
+There are other configurable properties described in `.env` file (details are placed in the file itself).
 
 ### For Webserver and grafana dashboard
 

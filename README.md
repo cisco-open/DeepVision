@@ -6,7 +6,7 @@ Deep Vision targets several key problems including improving analytics accuracy 
 
 ### Getting Started
 
-The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well).  
+The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well). Make sure you have updated GPU driver on the host machine.  
 The detailed instructions can be found [here](docs/getstarted.md).  
 
 Directory structure:
