@@ -1,23 +1,38 @@
 version: '3'
 services:
-  HybridAIObjectDetection:
+  ona:
+    build:
+      context: ./ONA
+      dockerfile: Dockerfile
+    image: ona 
+    container_name: ONA
+    restart: unless-stopped
+
+  hybridaiobjectdetection:
+    depends_on: 
+      - ona
     build: .
     volumes:
       - .:/app
     command: python main_detection.py
-  HybridAIObjectTracking:
+  hybridaiobjecttracking:
+    depends_on: 
+      - ona
     build: .
     volumes:
       - .:/app
     command: python main_tracking.py
-  HybridAIStreamingText:
+  hybridaistreamingtext:
+    depends_on: 
+      - ona
     build: .
     volumes:
       - .:/app
-    command: python main_tracking.py
-  HybridAINetworking:
+    command: python main_text.py
+  hybridainetworking:
+    depends_on: 
+      - ona
     build: .
     volumes:
       - .:/app
-    command: python main_tracking.py
-    
+    command: python main_networking.py
