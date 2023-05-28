@@ -1,0 +1,23 @@
+version: '3'
+services:
+  HybridAIObjectDetection:
+    build: .
+    volumes:
+      - .:/app
+    command: python main_detection.py
+  HybridAIObjectTracking:
+    build: .
+    volumes:
+      - .:/app
+    command: python main_tracking.py
+  HybridAIStreamingText:
+    build: .
+    volumes:
+      - .:/app
+    command: python main_tracking.py
+  HybridAINetworking:
+    build: .
+    volumes:
+      - .:/app
+    command: python main_tracking.py
+    
