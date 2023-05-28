@@ -22,7 +22,7 @@ class GPUCalculator:
         self.count = 0
         self.redis_conn = redis_conn
     
-    def get_first_line_or_original(input_string):
+    def get_first_line_or_original(self,input_string):
         # Split the string by newline characters
         lines = input_string.split('\n')
     
@@ -39,7 +39,7 @@ class GPUCalculator:
             cmd = "nvidia-smi --query-gpu=memory.used,memory.total,utilization.gpu,utilization.memory,temperature.gpu --format=csv,noheader,nounits"
             output = subprocess.check_output(cmd, shell=True)
             output = output.decode('utf-8')
-            output = get_first_line_or_original(output)
+            output = self.get_first_line_or_original(output)
             gpu_stats = output.strip().split(', ')  
             memory_used = int(gpu_stats[0])
             memory_total = int(gpu_stats[1])
