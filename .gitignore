@@ -3,6 +3,7 @@
 __pycache__
 -*
 *.pt
+*~
 
 # ignore ALL .log files
 *.log
