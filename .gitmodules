@@ -1,3 +1,6 @@
 [submodule "tracking/mmtracking"]
 	path = tracking/mmtracking
 	url = https://github.com/open-mmlab/mmtracking.git
+[submodule "cognitivesynergy/ONA"]
+	path = cognitivesynergy/ONA
+	url = https://github.com/opennars/OpenNARS-for-Applications
