@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# Define an associative array with the service names and descriptions
+declare -A profiles=(
+  ["tracking"]="The tracking service including redis, redistimeseries, grafana, tracker, and producer"
+  ["haitracking"]="The hybridaiobjecttracking service"
+  ["ona"]="The ONA service"
+  ["haidetection"]="placeholder for: The hybridaiobjectdetection service"
+  ["haitext"]="placeholder for: The hybridaistreamingtext service"
+  ["hainetworking"]="placeholder for: The hybridainetworking service"
+)
+
+# Function to print the help message
+print_help() {
+  echo "Usage: ./run <profilename> [up|down] [--build]"
+  echo "Available profiles:"
+  for profile in "${!profiles[@]}"; do
+    echo "- $profile: ${profiles[$profile]}"
+  done
+}
+
+# If no arguments or one of help options are provided, print the help message
+if [[ $# -eq 0 ]] || [[ $1 == "-h" ]] || [[ $1 == "--help" ]] || [[ $1 == "help" ]]; then
+  print_help
+else
+  # Check if the first argument is a valid profile
+  if [[ -n ${profiles[$1]} ]]; then
+    # Check if the second argument is 'up' or 'down', default to 'up' if not provided
+    if [[ $2 == "down" ]]; then
+      docker-compose --profile "$1" down
+    else
+      # If the third argument is '--build', add it to the 'up' command
+      if [[ $3 == "--build" ]]; then
+        docker-compose --profile "$1" up --build
+      else
+        docker-compose --profile "$1" up
+      fi
+    fi
+  else
+    echo "Invalid profile: $1"
+    print_help
+    exit 1
+  fi
+fi

@@ -1,4 +1,4 @@
-version: '3.9'
+version: '3'
 services:
   ona:
     build:
@@ -7,9 +7,6 @@ services:
     image: ona 
     container_name: ONA
     restart: unless-stopped
-    profiles:
-      - ona
-      - detection
 
   hybridaiobjectdetection:
     depends_on: 
@@ -23,10 +20,9 @@ services:
       - .:/app
       - /var/run/docker.sock:/var/run/docker.sock
     command: python3 main_detection.py
+    # in order to be able to print to console and insert sleep or wait, we need the equivalent of -i interactive and -t tty
     stdin_open: true
     tty: true
-    profiles:
-      - detection
 
   hybridaiobjecttracking:
     depends_on: 
@@ -39,8 +35,6 @@ services:
     volumes:
       - .:/app
     command: python main_tracking.py
-    profiles:
-      - tracking
 
   hybridaistreamingtext:
     depends_on: 
@@ -49,9 +43,6 @@ services:
     volumes:
       - .:/app
     command: python main_text.py
-    profiles:
-      - text
-
   hybridainetworking:
     depends_on: 
       - ona
@@ -59,5 +50,3 @@ services:
     volumes:
       - .:/app
     command: python main_networking.py
-    profiles:
-      - networking
