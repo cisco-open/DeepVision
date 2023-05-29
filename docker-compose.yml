@@ -69,7 +69,7 @@ services:
     container_name: "producer2_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer2.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
+    command: bash -c "python3 producer2.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server2.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
     depends_on:
       redis:
         condition: service_healthy
