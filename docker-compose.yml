@@ -12,6 +12,7 @@ services:
       retries: 10
     profiles:
       - tracking
+      - haidetection
   
   redistimeseries:
     image: redislabs/redistimeseries
@@ -20,6 +21,7 @@ services:
       - "6380:6379"
     profiles:
       - tracking
+      - haidetection
 
   grafana:
     build: ./grafana
@@ -30,6 +32,7 @@ services:
       - grafana-data:/var/lib/grafana
     profiles:
       - tracking
+      - haidetection
 
   tracker:
     build: ./tracking
@@ -47,6 +50,7 @@ services:
         condition: service_healthy
     profiles:
       - tracking
+      - haidetection
 
   producer:
     build: .
@@ -59,6 +63,18 @@ services:
         condition: service_healthy
     profiles:
       - tracking
+
+  producer2:
+    build: .
+    container_name: "producer2_vision"
+    ports:
+      - "5002:5001"
+    command: bash -c "python3 producer2.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - haidetection
 
   ona:
     build:
@@ -73,7 +89,18 @@ services:
 
   hybridaiobjectdetection:
     depends_on: 
-      - ona
+      grafana:
+        condition: service_started
+      ona:
+        condition: service_started
+      producer2:
+        condition: service_started
+      redis:
+        condition: service_healthy
+      redistimeseries:
+        condition: service_started
+      tracker:
+        condition: service_started
     build: 
       context: ./cognitivesynergy
       dockerfile: Dockerfile
