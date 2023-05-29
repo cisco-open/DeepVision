@@ -50,6 +50,22 @@ services:
         condition: service_healthy
     profiles:
       - tracking
+
+  tracker2:
+    build: ./tracking
+    container_name: "tracker_vision"
+    command: bash -c "python tracker2.py ${MODEL_CONF} --redis ${REDIS_URL}"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1 
+              capabilities: [gpu]
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
       - haidetection
 
   producer:
@@ -99,7 +115,7 @@ services:
         condition: service_healthy
       redistimeseries:
         condition: service_started
-      tracker:
+      tracker2:
         condition: service_started
     build: 
       context: ./cognitivesynergy

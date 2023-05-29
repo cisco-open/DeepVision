@@ -34,9 +34,6 @@ from dotenv import load_dotenv
 
 updated_tracklets = None
 
-
-
-
 class RedisImageStream(object):
     def __init__(self, conn, args):
         self.conn = conn

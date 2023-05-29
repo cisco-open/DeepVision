@@ -138,6 +138,7 @@ def main():
         except ConnectionError as e:
             print("ERROR REDIS CONNECTION: {}".format(e))
 
+
 if __name__ == "__main__":
     main()
 
