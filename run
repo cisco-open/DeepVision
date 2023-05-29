@@ -3,11 +3,11 @@
 # Define an associative array with the service names and descriptions
 declare -A profiles=(
   ["tracking"]="The tracking service including redis, redistimeseries, grafana, tracker, and producer"
-  ["haitracking"]="The hybridaiobjecttracking service"
+  ["haidetection"]="The hybridaiobjectdetection service"
   ["ona"]="The ONA service"
-  ["haidetection"]="placeholder for: The hybridaiobjectdetection service"
-  ["haitext"]="placeholder for: The hybridaistreamingtext service"
-  ["hainetworking"]="placeholder for: The hybridainetworking service"
+  ["haitracking"]="placeholder: The hybridaiobjecttracking service"
+  ["haitext"]="placeholder: The hybridaistreamingtext service"
+  ["hainetworking"]="placeholder: The hybridainetworking service"
 )
 
 # Function to print the help message
