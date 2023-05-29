@@ -67,6 +67,12 @@ services:
         condition: service_healthy
     profiles:
       - haidetection
+    environment:
+      - DEFAULT_CACHE_DIR=/cache/mmtracker
+      - XDG_CACHE_HOME=/cache/mmtracker
+      - MMENGINE_HOME=/cache/mmtracker
+    volumes:
+      - cache_volume:/cache/mmtracker
 
   producer:
     build: .
@@ -168,3 +174,4 @@ services:
 volumes:
   grafana-data:
     name: grafana-data
+  cache_volume:
