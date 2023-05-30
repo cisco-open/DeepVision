@@ -34,6 +34,43 @@ from dotenv import load_dotenv
 
 updated_tracklets = None
 
+class StreamItem:
+    def __init__(self, stream_item):
+        self.stream_item = stream_item
+        self.decode_items()
+
+    def decode_items(self):
+        raise NotImplementedError()
+
+    def get_data(self):
+        raise NotImplementedError()
+
+
+class VideoFrameStreamItem(StreamItem):
+    def decode_items(self):
+        if self.stream_item:
+            self.frame_id, frame_data = self.stream_item
+            self.image = pickle.loads(frame_data[b'image'])
+
+    def get_image(self):
+        return self.image
+
+    def get_frame_id(self):
+        return self.frame_id
+
+
+class MOTStreamItem(StreamItem):
+    def decode_items(self):
+        if self.stream_item and len(self.stream_item[0]) > 0:
+            self.frame_ref_id = self.stream_item[0][1][b'refId'].decode("utf-8")  # Frame reference id
+            self.tracking = json.loads(self.stream_item[0][1][b'tracking'].decode('utf-8'))
+
+    def get_tracking(self):
+        return self.tracking
+
+    def get_frame_ref_id(self):
+        return self.frame_ref_id
+
 class RedisImageStream(object):
     def __init__(self, conn, args):
         self.conn = conn
@@ -55,11 +92,11 @@ class RedisImageStream(object):
         self.pipeline.xrevrange(self.camera, count=1)
         self.pipeline.xrevrange(self.boxes, count=1)
         frame, tracking_stream = self.pipeline.execute()
+        motstreamitem = MOTStreamItem(tracking_stream)
 
-        if tracking_stream and len(tracking_stream[0]) > 0:
-            last_frame_refId = tracking_stream[0][1][b'refId'].decode("utf-8")  # Frame reference i
+        if motstreamitem.frame_ref_id is not None:
             tracking = json.loads(tracking_stream[0][1][b'tracking'].decode('utf-8'))
-            resp = conn.xread({self.camera: last_frame_refId}, count=1)
+            resp = conn.xread({self.camera: motstreamitem.frame_ref_id}, count=1)
             key, messages = resp[0]
             frame_last_id, data = messages[0]
 
