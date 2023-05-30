@@ -31,45 +31,85 @@ from flask import Flask, Response
 from tracklet.tailvisualization import draw_tail, update_midpoint_to_tracklets
 from tracklet.trackletmanager import TrackletManager
 from dotenv import load_dotenv
+import json
+import pickle
+from typing import List
 
 updated_tracklets = None
 
 class StreamItem:
-    def __init__(self, stream_item):
-        self.stream_item = stream_item
-        self.decode_items()
+    def __init__(self, redis_connection, stream_name):
+        self.redis_connection = redis_connection
+        self.stream_name = stream_name
+        self.ref_id = None
+        self.data = None
 
-    def decode_items(self):
-        raise NotImplementedError()
-
-    def get_data(self):
-        raise NotImplementedError()
-
+    def get_last_stream_item(self):
+        try:
+            resp = self.redis_connection.xrevrange(self.stream_name, count=1)
+            if resp:
+                self.ref_id, self.data = resp[0]
+                return True
+            return False
+        except redis.exceptions.ConnectionError:
+            print("Redis connection error.")
+            return False
 
 class VideoFrameStreamItem(StreamItem):
-    def decode_items(self):
+    def __init__(self, redis_connection, stream_name):
+        super().__init__(redis_connection, stream_name)
+
+    def get_last_stream_item(self):
+        super().get_last_stream_item()
         if self.stream_item:
-            self.frame_id, frame_data = self.stream_item
-            self.image = pickle.loads(frame_data[b'image'])
+            self.frame_ref_id, self.data = self.stream_item[0][0]
+        else:
+            self.frame_ref_id, self.data = None, None
 
-    def get_image(self):
-        return self.image
+    def get_stream_item(self, frame_ref_id):
+        resp = self.redis_connection.xread({self.stream_name: frame_ref_id}, count=1)
+        key, messages = resp[0]
+        self.frame_ref_id, self.data = messages[0]
 
-    def get_frame_id(self):
-        return self.frame_id
+    def get_image_data(self):
+        if self.frame_ref_id is not None and self.data is not None:
+            self.get_stream_item(self.frame_ref_id)
+            img_data = pickle.loads(self.data[b'image'])
+            label = f'{self.stream_name}:{self.frame_ref_id}'
+            return img_data, label
+        else:
+            return None, None
 
+class TrackingEntry:
+    def __init__(self, entry):
+        self.objectId = entry['objectId']
+        self.object_bbox = entry['object_bbox']
+        self.x1 = self.object_bbox[0]
+        self.y1 = self.object_bbox[1]
+        self.x2 = self.object_bbox[2]
+        self.y2 = self.object_bbox[3]
+        self.score = self.object_bbox[4]
+        self.tracking_entry = entry
+
+    def get(self):
+        return self.objectId, self.x1, self.y1, self.x2, self.y2, self.score
 
 class MOTStreamItem(StreamItem):
-    def decode_items(self):
-        if self.stream_item and len(self.stream_item[0]) > 0:
-            self.frame_ref_id = self.stream_item[0][1][b'refId'].decode("utf-8")  # Frame reference id
-            self.tracking = json.loads(self.stream_item[0][1][b'tracking'].decode('utf-8'))
+    def __init__(self, redis_connection, stream_name):
+        super().__init__(redis_connection, stream_name)
+        self.tracking_info = None
 
-    def get_tracking(self):
-        return self.tracking
+    def get_last_stream_item(self):
+        super().get_last_stream_item()
+        if self.data:
+            self.frame_ref_id = self.data[b'refId'].decode("utf-8")
+            self.tracking = json.loads(self.data[b'tracking'].decode('utf-8'))
+            self.tracking_info = self.tracking['tracking_info']
+            self.tracking_entries = [TrackingEntry(entry) for entry in self.tracking_info]
 
-    def get_frame_ref_id(self):
-        return self.frame_ref_id
+    def get_tracking_entries(self) -> List[TrackingEntry]:
+        return self.tracking_entries
+
 
 class RedisImageStream(object):
     def __init__(self, conn, args):
@@ -79,6 +119,8 @@ class RedisImageStream(object):
         self.boxes = args.boxes
         self.field = args.field.encode('utf-8')
         self.time = time.time()
+        self.trackingstream = MOTStreamItem(self.conn, self.boxes)
+        self.videostream = VideoFrameStreamItem(self.conn, self.camera)
 
     def random_color(self, object_id):
         """Random a color according to the input seed."""
@@ -88,36 +130,21 @@ class RedisImageStream(object):
         return color
 
     def get_last(self):
-        """ Gets latest from camera and model """
-        self.pipeline.xrevrange(self.camera, count=1)
-        self.pipeline.xrevrange(self.boxes, count=1)
-        frame, tracking_stream = self.pipeline.execute()
-        motstreamitem = MOTStreamItem(tracking_stream)
+        self.trackingstream.get_last_stream_item()
 
-        if motstreamitem.frame_ref_id is not None:
-            tracking = json.loads(tracking_stream[0][1][b'tracking'].decode('utf-8'))
-            resp = conn.xread({self.camera: motstreamitem.frame_ref_id}, count=1)
-            key, messages = resp[0]
-            frame_last_id, data = messages[0]
+        if self.trackingstream.frame_ref_id is not None:
+            self.videostream.get_stream_item(self.trackingstream.frame_ref_id)
 
-            img_data = pickle.loads(data[b'image'])
-            label = f'{self.camera}:{frame_last_id}'
+            img_data, label = self.videostream.get_image_data()
             img = Image.fromarray(img_data)
             draw = ImageDraw.Draw(img)
 
-            tracking_info = tracking['tracking_info']
+            tracking_enries = self.trackingstream.get_tracking_entries() 
             updated_tracking_info = []
             tail_colors = {}
-            for tracking_entry in tracking_info:
-                objectId = tracking_entry['objectId']
-                object_bbox = tracking_entry['object_bbox']
-                x1 = object_bbox[0]
-                y1 = object_bbox[1]
-                x2 = object_bbox[2]
-                y2 = object_bbox[3]
-                score = object_bbox[4]
-
-                updated_tracking_info.append(update_midpoint_to_tracklets(x1, x2, y1, y2, tracking_entry))
+            for tracking_entry in tracking_enries:
+                objectId, x1, y1, x2, y2, score = tracking_entry.get()
+                updated_tracking_info.append(update_midpoint_to_tracklets(x1, x2, y1, y2, tracking_entry.tracking_entry))
                 
                 if score > args.score:
                     tail_colors[objectId] = self.random_color(objectId)
