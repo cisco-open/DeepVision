@@ -20,6 +20,8 @@ import redis
 import pickle 
 import cv2
 import random
+import time
+import os
 import seaborn as sns
 
 from urllib.parse import urlparse
@@ -28,6 +30,7 @@ from PIL import ImageDraw
 from flask import Flask, Response
 from tracklet.tailvisualization import draw_tail, update_midpoint_to_tracklets
 from tracklet.trackletmanager import TrackletManager
+from dotenv import load_dotenv
 
 updated_tracklets = None
 
@@ -41,6 +44,7 @@ class RedisImageStream(object):
         self.camera = args.camera
         self.boxes = args.boxes
         self.field = args.field.encode('utf-8')
+        self.time = time.time()
 
     def random_color(self, object_id):
         """Random a color according to the input seed."""
@@ -81,7 +85,7 @@ class RedisImageStream(object):
 
                 updated_tracking_info.append(update_midpoint_to_tracklets(x1, x2, y1, y2, tracking_entry))
                 
-                if score > 0.950:
+                if score > args.score:
                     tail_colors[objectId] = self.random_color(objectId)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=tail_colors[objectId])
                     draw.text(xy=(x1, y1 - 15), text="score: " + str(round(score,3)), fill=tail_colors[objectId])
@@ -96,12 +100,13 @@ class RedisImageStream(object):
             return img.tobytes()
 
         else:
-            frame_img_data = frame[0][1][b'image']
-            img_data = pickle.loads(frame_img_data)
-            img = Image.fromarray(img_data)
-            arr = np.array(img)
-            cv2.putText(arr, 'label', (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
-            ret, img = cv2.imencode('.jpg', arr)
+            current_time = time.time()
+            diff = round(current_time - self.time, 2)
+            blank_image = np.zeros((720, 1280, 3), np.uint8)
+            model_name = get_model_name()
+            cv2.putText(blank_image, f'The tracking model {model_name} is still loading ({diff}s)', (50, 220),
+                        cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2, cv2.LINE_AA)
+            ret, img = cv2.imencode('.jpg', blank_image)
             return img.tobytes()
 
 
@@ -120,6 +125,12 @@ def gen(stream):
                b'Pragma: no-cache\r\n'
                b'Expires: 0\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n\r\n')
+
+
+def get_model_name():
+    load_dotenv()
+    model_path = os.getenv('MODEL_CONF')
+    return model_path.rsplit('/', 1)[-1]
 
 
 conn = None
@@ -147,6 +158,7 @@ if __name__ == '__main__':
     parser.add_argument('--fmt', help='Frame storage format', type=str, default='.jpg')
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('--trackletLength', help='Tracklet Length', type=int)
+    parser.add_argument('--score', help='Accuracy score treshold', type=float)
     args = parser.parse_args()
 
     # Set up Redis connection

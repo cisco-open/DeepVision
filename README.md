@@ -6,7 +6,7 @@ Deep Vision targets several key problems including improving analytics accuracy 
 
 ### Getting Started
 
-The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well).  
+The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well). Make sure you have updated GPU driver on the host machine.  
 The detailed instructions can be found [here](docs/getstarted.md).  
 
 Directory structure:
@@ -16,7 +16,8 @@ DeepVision
  ├── LICENSE (A license used)
  ├── README.md (enty point for docs)
  ├── .gitignore
- ├── .gitmodules (config for git submodules)
+ ├── .gitmodules (configuration for git submodules)
+ ├── .env (tracking model and corresponding accuracy score configuration)
  ├── docker-compose.yml (docker compose configuration)
  ├── Dockerfile (docker file for video sourcing and rendering)
  ├── mkdocs.yml (ReadTheDocs extension configuration)
