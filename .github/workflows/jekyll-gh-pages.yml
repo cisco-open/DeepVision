@@ -21,6 +21,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+exclude:
+  - tracking/mmtracking
+
 jobs:
   # Build job
   build:
