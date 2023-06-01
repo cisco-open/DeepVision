@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export DOCKER_BUILDKIT=1
+
 # Define an associative array with the service names and descriptions
 declare -A profiles=(
   ["tracking"]="The tracking service including redis, redistimeseries, grafana, tracker, and producer"
