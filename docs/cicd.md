@@ -29,7 +29,7 @@ After build steps complete deploy, step will run to deploy the application to th
 
 ###	Deploy to server follow below steps:
 -	Login to the desired server.
--	Create deploy.sh file and copy the contents from deploy.sh placed in CiscoDeepVision root folder.
+-	Create deploy.sh file and copy the contents from deploy.sh placed in DeepVision root folder.
 -	Run deploy.sh script with -b <branch_name> as parameter.
 -	Deployment will be success at the same level of deploy.sh script.
 
@@ -38,4 +38,4 @@ After build steps complete deploy, step will run to deploy the application to th
 -	Resolve the error which cause build job to be failed 
 -	After fix the error job will rerun and make sure application it out of errors/bug.
 
-Note: Entire CI/CD workflow Images attached below which includes CD step which is not automated yet for Ciscodeepvision.
+Note: Entire CI/CD workflow Images attached below which includes CD step which is not automated yet for DeepVision.

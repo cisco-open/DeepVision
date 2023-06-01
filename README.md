@@ -9,6 +9,8 @@ Deep Vision targets several key problems including improving analytics accuracy 
 The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well). Make sure you have updated GPU driver on the host machine.  
 The detailed instructions can be found [here](docs/getstarted.md).  
 
+![getstarts](docs/images/getstarts.gif)
+
 Directory structure:
 ```
 DeepVision
@@ -43,3 +45,4 @@ Detailed documentation can be found [here](docs/index.md).
 Any feedback, questions, and issue reports are welcomed. Please follow [Contributor Guide](CONTRIBUTING.md) for more information.
 
 
+For more details about this and other Cisco Research projects, please visit our home page at [DeepVision Home Page](https://research.cisco.com/research-projects/deep-vision)

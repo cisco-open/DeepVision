@@ -4,7 +4,7 @@
 
 While cloning the repo use the command:
 ```bash
-git clone --recurse-submodules https://github.com/CiscoDeepVision/DeepVision.git
+git clone --recurse-submodules https://github.com/cisco-open/DeepVision.git
 ```
 
 ### Running  and building with ./run script
@@ -57,6 +57,6 @@ There are other configurable properties described in `.env` file (details are pl
 To see annotated video server and grafana dashboards go
 `localhost:3000`
 
-That's it! You should now be able to use CiscoDeepVision.  
+That's it! You should now be able to use DeepVision.  
 
 ![getstarts](images/getstarts.gif)
