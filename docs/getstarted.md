@@ -27,7 +27,7 @@ The script includes the following service profiles:
 
     tracking: The tracking service including redis, redistimeseries, grafana, tracker, and producer.
     haidetection: The hybridaiobjectdetection service.
-    ona: The ONA service.
+    ona: The OpenNARS for Applications (ONA) reasoning engine.
     haitracking: (placeholder) The hybridaiobjecttracking service.
     haitext: (placeholder) The hybridaistreamingtext service.
     hainetworking: (placeholder) The hybridainetworking service.
