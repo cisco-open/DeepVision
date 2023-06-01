@@ -53,7 +53,7 @@ services:
 
   tracker2:
     build: ./tracking
-    container_name: "tracker_vision"
+    container_name: "tracker_vision2"
     command: bash -c "python tracker2.py ${MODEL_CONF} --redis ${REDIS_URL}"
     deploy:
       resources:
@@ -131,6 +131,10 @@ services:
     volumes:
       - ./cognitivesynergy:/app
       - /var/run/docker.sock:/var/run/docker.sock
+      - ./utils:/shared_classes/utils
+      - cache_volume:/cache/mmtracker
+    environment:
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
     command: python3 main_detection.py
     stdin_open: true
     tty: true

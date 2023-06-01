@@ -34,6 +34,9 @@ from dotenv import load_dotenv
 import json
 import pickle
 from typing import List
+from utils.DVDisplayChannel import DVDisplayChannel
+from pprint import pformat, pprint
+
 
 updated_tracklets = None
 
@@ -121,6 +124,7 @@ class RedisImageStream(object):
         self.time = time.time()
         self.trackingstream = MOTStreamItem(self.conn, self.boxes)
         self.videostream = VideoFrameStreamItem(self.conn, self.camera)
+        self.ona_display = DVDisplayChannel("ONA_DISPLAY")
 
     def random_color(self, object_id):
         """Random a color according to the input seed."""
@@ -156,6 +160,14 @@ class RedisImageStream(object):
             draw_tail(updated_tracklet_values, draw, tail_colors)
 
             arr = np.array(img)
+            #cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
+            msg = self.ona_display.read_message()
+            if msg is not None:
+                message_text = msg.get('message_text', 'No message')  # Safe dictionary access
+                label = f"ONA_DISPLAY: {message_text}"
+                #label = f"ONA_DISPLAY: {pformat(msg)}"
+                #pprint(msg)
+
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
             return img.tobytes()

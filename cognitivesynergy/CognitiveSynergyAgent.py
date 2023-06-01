@@ -3,6 +3,7 @@ import json
 import threading
 import time
 from ONA.DockerInteractor import DockerInteractor
+from utils.DVDisplayChannel import DVDisplayChannel
 
 class CognitiveSynergyAgent:
     def __init__(self, agent_type, config):
@@ -11,6 +12,7 @@ class CognitiveSynergyAgent:
         self.is_running = False
         self._thread = None
         self.ona = DockerInteractor(['docker', 'exec', '-i', 'ONA', '/app/NAR', 'shell'])
+        self.display_channel = DVDisplayChannel("ONA_DISPLAY")
 
         # Set up Redis client
         #self.redis_client = redis.Redis(host='localhost', port=6379, db=0)
@@ -25,6 +27,7 @@ class CognitiveSynergyAgent:
             #self.redis_client.publish('channel_name', json.dumps(data))
             iterations = iterations + 1
             print(f"Agent of type {self.agent_type} is running...iteration {iterations}")
+            self.display_channel.write_message(f"Agent of type {self.agent_type} is running...iteration {iterations}")
             response = self.ona.execute_command("<cat --> furry_animal>.\n<cat --> furry_animal>?\n0\n", "done with 0 additional inference steps")
             print(f"Response: {response}")
             time.sleep(1)
