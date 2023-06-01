@@ -1,3 +1,4 @@
+import CognitiveSynergyAgentManager
 class CognitiveSynergyEngine:
     def __init__(self):
         # Initialize a CognitiveSynergyAgentManager
