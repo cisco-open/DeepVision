@@ -1,0 +1,2 @@
+ssh -L3000:localhost:3000 -L5002:localhost:5002 hostname
+localhost:3000

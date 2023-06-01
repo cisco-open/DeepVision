@@ -1,6 +1,6 @@
 ## INTRODUCTION:
 
-CiscoDeepVision is a comprehensive video analytics system that enables users to monitor and analyze video streams from various sources with ease
+DeepVision is a comprehensive video analytics system that enables users to monitor and analyze video streams from various sources with ease
 
 ### Features
 * #### Scalable and modular serverless open-source framework
