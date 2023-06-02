@@ -162,13 +162,18 @@ class RedisImageStream(object):
             arr = np.array(img)
             #cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             msg = self.ona_display.read_message()
+            x = 10
+            y = 40
             if msg is not None:
                 message_text = msg.get('message_text', 'No message')  # Safe dictionary access
                 label = f"ONA_DISPLAY: {message_text}"
+                text_position = msg.get('text_position', {'x': 0, 'y': 0})
+                x = text_position['x']
+                y = text_position['y']
                 #label = f"ONA_DISPLAY: {pformat(msg)}"
                 #pprint(msg)
 
-            cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
+            cv2.putText(arr, label, (x, y), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
             return img.tobytes()
 
