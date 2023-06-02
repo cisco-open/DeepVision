@@ -7,7 +7,7 @@ def main():
 
 
     # Start the agent
-    agent = agent_manager.createAgent(agent_type="Basic", config={})
+    agent = agent_manager.createAgent(agent_type="haidetection", config={})
     agent.start()
 
 if __name__ == "__main__":

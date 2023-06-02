@@ -34,7 +34,7 @@ from dotenv import load_dotenv
 import json
 import pickle
 from typing import List
-from utils.DVDisplayChannel import DVDisplayChannel
+from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
 
 
@@ -158,26 +158,13 @@ class RedisImageStream(object):
             updated_tracklets.tracklet_collection_for_tail_visualization(updated_tracking_info)
             updated_tracklet_values = updated_tracklets.values()
             draw_tail(updated_tracklet_values, draw, tail_colors)
-
+            msgs = self.ona_display.read_message()
+            if msgs is None:
+                msgs = []
+            msgs.append(DVMessage(label, text_position={'x': 10, 'y': 10}, font_color='rgb(255, 0, 0)'))
+            self.ona_display.render_messages(img, msgs)
             arr = np.array(img)
             #cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
-            msg = None
-            msgs = self.ona_display.read_message()
-            if msgs is not None:
-                msg = msgs[0] if len(msgs) > 0 else None
-            x = 10
-            y = 40
-            if msg is not None:
-                message_text = msg.message_text
-                label = f"ONA_DISPLAY: {message_text}"
-                #text_position = msg.get('text_position', {'x': 0, 'y': 0})
-                text_position = msg.text_position
-                x = text_position['x']
-                y = text_position['y']
-                #label = f"ONA_DISPLAY: {pformat(msg)}"
-                #pprint(msg)
-
-            cv2.putText(arr, label, (x, y), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
             return img.tobytes()
 

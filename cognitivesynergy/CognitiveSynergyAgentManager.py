@@ -7,6 +7,6 @@ class CognitiveSynergyAgentManager:
 
     def createAgent(self, agent_type, config):
         # Create an agent of the specified type with the given config
-        agent = CognitiveSynergyAgent(agent_type="Basic",config={})
+        agent = CognitiveSynergyAgent(agent_type=agent_type,config={})
         self.agents.append(agent)
         return agent

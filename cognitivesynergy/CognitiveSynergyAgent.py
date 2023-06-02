@@ -17,6 +17,7 @@ class CognitiveSynergyAgent:
 
     def _run(self):
         iterations = 0
+        iterations2 = 0
         print(f"Agent of type {self.agent_type} is starting...")
 
         while self.is_running:
@@ -24,14 +25,27 @@ class CognitiveSynergyAgent:
             data = {}  # Your data here
             #self.redis_client.publish('channel_name', json.dumps(data))
             iterations = iterations + 1
-            msg = DVMessage(f"Agent of type {self.agent_type} is running...iteration {iterations}", 
-                            text_position={'x': 10, 'y': 200}, 
+            iterations2 = iterations2 + 1
+            msgs = []
+            msgs.append(DVMessage(f"Agent of type {self.agent_type} is running...iteration {iterations}", 
+                            text_position={'x': 10, 'y': 50}, 
                             bounding_box={'x1': 0, 'y1': 0, 'x2': 100, 'y2': 100}, 
                             color='red', 
                             line_width=2, 
                             font_size=20, 
-                            font_color='white')
-            self.display_channel.write_message([msg])
+                            font_color='rgb(0,0,255)'))
+            if iterations2 < 50:
+                msgs.append(DVMessage(f"Analysing the scene...",
+                            text_position={'x': 10, 'y': 100},
+                            font_color='rgb(0,255,0)'))
+            elif iterations2 < 100:
+                msgs.append(DVMessage(f"Done analysing the scene.",
+                            text_position={'x': 10, 'y': 100},
+                            font_color='rgb(0,255,0)'))
+            else:
+                iterations2 = 0
+
+            self.display_channel.write_message(msgs)
             response = self.ona.execute_command("<cat --> furry_animal>.\n<cat --> furry_animal>?\n0\n", "done with 0 additional inference steps")
             #print(f"Response: {response}")
             time.sleep(.1)
