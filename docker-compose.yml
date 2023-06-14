@@ -43,13 +43,45 @@ services:
         reservations:
           devices:
             - driver: nvidia
-              count: 1 
+              count: 1
               capabilities: [gpu]
     depends_on:
       redis:
         condition: service_healthy
     profiles:
       - tracking
+      - haidetection
+    environment:
+      - DEFAULT_CACHE_DIR=/cache/mmtracker
+      - XDG_CACHE_HOME=/cache/mmtracker
+      - MMENGINE_HOME=/cache/mmtracker
+    volumes:
+      - cache_volume:/cache/mmtracker
+
+  actionrec:
+    build:
+      context: ./
+      dockerfile: ./actionrecognition/Dockerfile
+    container_name: "actionrec_vision"
+    command: bash -c "python  actionrec.py tsn_imagenet-pretrained-r50_8xb32-1x1x8-100e_kinetics400-rgb --redis ${REDIS_URL}"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - tracking
+    environment:
+      - DEFAULT_CACHE_DIR=/cache/mmaction
+      - XDG_CACHE_HOME=/cache/mmaction
+      - MMENGINE_HOME=/cache/mmaction
+    volumes:
+      - cache_volume:/cache/mmaction
 
   tracker2:
     build: ./tracking
@@ -60,7 +92,7 @@ services:
         reservations:
           devices:
             - driver: nvidia
-              count: 1 
+              count: 1
               capabilities: [gpu]
     depends_on:
       redis:

@@ -41,5 +41,4 @@ ENV FORCE_CUDA="1"
 COPY . /mmtracking
 WORKDIR /mmtracking
 RUN pip install -r requirements.txt
-RUN pip install -r mmtracking/requirements/build.txt
 RUN pip install -v -e mmtracking/
