@@ -63,7 +63,7 @@ services:
       context: ./
       dockerfile: ./actionrecognition/Dockerfile
     container_name: "actionrec_vision"
-    command: bash -c "python  actionrec.py tsn_imagenet-pretrained-r50_8xb32-1x1x8-100e_kinetics400-rgb --redis ${REDIS_URL}"
+    command: bash -c "python  actionrec.py tsn_imagenet-pretrained-r50_8xb32-1x1x8-100e_kinetics400-rgb --label_file label_map_k400.txt --redis ${REDIS_URL}"
     deploy:
       resources:
         reservations:
