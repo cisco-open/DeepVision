@@ -22,15 +22,11 @@ import numpy as np
 import json
 import mmcv
 from redis import Redis
-import redis
-from Monitor import GPUCalculator , MMTMonitor
+from Monitor import GPUCalculator, MMTMonitor, TSManager
+from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
+from utils.constants import REDISTIMESERIES, REDISTIMESERIES_PORT, MODEL_RUN_LATENCY, BOUNDING_BOXES_LATENCY, FRAMERATE
 
-redis_client = redis.StrictRedis('redistimeseries', 6379)
 
-#GPUCalculator and MMTMonitor variables
-model_run_latency = MMTMonitor(redis_client,'model_run_latency')
-bounding_boxes_latency = MMTMonitor(redis_client,'bounding_boxes_latency')
-gpu_calculation = GPUCalculator(redis_client)
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, np.integer):
@@ -42,49 +38,105 @@ class NpEncoder(json.JSONEncoder):
         return super(NpEncoder, self).default(obj)
 
 
-def results2outs(bbox_results=None,
-                 mask_results=None,
-                 mask_shape=None,
-                 **kwargs):
+class Tracker:
+    def __init__(self, config_file_path: str,
+                 checkpoint_file_path: str,
+                 xreader_writer: RedisStreamXreaderWriter,
+                 model_run_monitor: MMTMonitor,
+                 bbox_run_monitor: MMTMonitor,
+                 gpu_calculator: GPUCalculator,
+                 ts_manager: TSManager,
+                 device: str,
+                 class_id: str):
 
-    outputs = dict()
+        self.model = init_model(config_file_path, checkpoint_file_path, device)
+        self.xreader_writer = xreader_writer
+        self.model_run_monitor = model_run_monitor
+        self.bbox_run_monitor = bbox_run_monitor
+        self.gpu_calculator = gpu_calculator
+        self.ts_manager = ts_manager
+        self.class_id = class_id
 
-    if bbox_results is not None:
-        labels = []
-        for i, bbox in enumerate(bbox_results):
-            labels.extend([i] * bbox.shape[0])
-        labels = np.array(labels, dtype=np.int64)
-        outputs['labels'] = labels
+    def _get_frame_data(self, data):
+        frameId = int(data.get(b'frameId').decode())
+        img = pickle.loads(data[b'image'])
 
-        bboxes = np.concatenate(bbox_results, axis=0).astype(np.float32)
-        if bboxes.shape[1] == 5:
-            outputs['bboxes'] = bboxes
-        elif bboxes.shape[1] == 6:
-            ids = bboxes[:, 0].astype(np.int64)
-            bboxes = bboxes[:, 1:]
-            outputs['bboxes'] = bboxes
-            outputs['ids'] = ids
-        else:
-            raise NotImplementedError(
-                f'Not supported bbox shape: (N, {bboxes.shape[1]})')
+        return frameId, img
 
-    if mask_results is not None:
-        assert mask_shape is not None
-        mask_height, mask_width = mask_shape
-        mask_results = mmcv.concat_list(mask_results)
-        if len(mask_results) == 0:
-            masks = np.zeros((0, mask_height, mask_width)).astype(bool)
-        else:
-            masks = np.stack(mask_results, axis=0)
-        outputs['masks'] = masks
+    def _construct_response(self, object_ids, bboxes, frame_id, ref_id):
+        objects_list = []
 
-    return outputs
+        for (i, id) in enumerate(object_ids):
+            object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': self.class_id}
+            objects_list.append(object_dict)
+        frame_dict = {'frameId': frame_id, 'tracking_info': objects_list}
 
+        return {'refId': ref_id, 'tracking': json.dumps(frame_dict, cls=NpEncoder)}
 
-def get_data_from_resp(resp):
-    key, messages = resp[0]
-    ref_id, data = messages[0]
-    return ref_id, data
+    def results2outs(self, bbox_results=None,
+                     mask_results=None,
+                     mask_shape=None,
+                     **kwargs):
+
+        outputs = dict()
+
+        if bbox_results is not None:
+            labels = []
+            for i, bbox in enumerate(bbox_results):
+                labels.extend([i] * bbox.shape[0])
+            labels = np.array(labels, dtype=np.int64)
+            outputs['labels'] = labels
+
+            bboxes = np.concatenate(bbox_results, axis=0).astype(np.float32)
+            if bboxes.shape[1] == 5:
+                outputs['bboxes'] = bboxes
+            elif bboxes.shape[1] == 6:
+                ids = bboxes[:, 0].astype(np.int64)
+                bboxes = bboxes[:, 1:]
+                outputs['bboxes'] = bboxes
+                outputs['ids'] = ids
+            else:
+                raise NotImplementedError(
+                    f'Not supported bbox shape: (N, {bboxes.shape[1]})')
+
+        if mask_results is not None:
+            assert mask_shape is not None
+            mask_height, mask_width = mask_shape
+            mask_results = mmcv.concat_list(mask_results)
+            if len(mask_results) == 0:
+                masks = np.zeros((0, mask_height, mask_width)).astype(bool)
+            else:
+                masks = np.stack(mask_results, axis=0)
+            outputs['masks'] = masks
+
+        return outputs
+
+    def inference(self):
+        last_id, _ = self.xreader_writer.xread_latest_available_message()
+        while True:
+            try:
+                ref_id, data = self.xreader_writer.xread_by_id(last_id)
+                if data:
+                    frameId, img = self._get_frame_data(data)
+                    self.ts_manager.ts_add(FRAMERATE, frameId)
+
+                    self.model_run_monitor.start_timer()
+                    result = inference_mot(self.model, img, frame_id=frameId)
+                    self.model_run_monitor.end_timer()
+
+                    self.bbox_run_monitor.start_timer()
+                    outs_track = self.results2outs(bbox_results=result.get('track_bboxes', None))
+                    self.bbox_run_monitor.end_timer()
+
+                    bboxes = outs_track.get('bboxes', None)
+                    ids = outs_track.get('ids', None)
+                    self.gpu_calculator.add()
+
+                    response = self._construct_response(ids, bboxes, frameId, ref_id)
+                    self.xreader_writer.write_message(response)
+                    last_id = ref_id
+            except ConnectionError as e:
+                print("ERROR CONNECTION: {}".format(e))
 
 
 def main():
@@ -101,42 +153,22 @@ def main():
     args = parser.parse_args()
 
     url = urlparse(args.redis)
-    conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
-    if not conn.ping():
-        raise Exception('Redis unavailable')
+    redis_conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
+    ts_conn = Redis(REDISTIMESERIES, REDISTIMESERIES_PORT)
 
-    model = init_model(args.config, args.checkpoint, device=args.device)
-    resp = conn.xread({args.input_stream: '$'}, count=None, block=0)
-    last_id = get_data_from_resp(resp)[0]
-    while True:
-        try:
-            resp = conn.xread({args.input_stream: last_id}, count=1)
+    xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream, redis_conn, args.maxlen)
+    ts_manager = TSManager(ts_conn)
+    model_run_monitor = MMTMonitor(ts_manager, MODEL_RUN_LATENCY, 15)
+    bbox_run_latency = MMTMonitor(ts_manager, BOUNDING_BOXES_LATENCY, 15)
+    gpu_calculator = GPUCalculator(ts_manager, 15)
 
-            if resp:
-                ref_id, data = get_data_from_resp(resp)
-                if data:
-                    frameId = int(data.get(b'frameId').decode())
-                    img = pickle.loads(data[b'image'])
-                    redis_client.execute_command('ts.add framerate * {}'.format(frameId))
-                    model_run_latency.start_timer()
-                    result = inference_mot(model, img, frame_id=frameId)
-                    model_run_latency.end_timer()
-                    bounding_boxes_latency.start_timer()
-                    outs_track = results2outs(bbox_results=result.get('track_bboxes', None))
-                    bboxes = outs_track.get('bboxes', None)
-                    bounding_boxes_latency.end_timer()
-                    gpu_calculation.add()
-                    ids = outs_track.get('ids', None)
-                    objects_list = []
-                    for (i, id) in enumerate(ids):
-                        object_dict = {'objectId': id, 'object_bbox': bboxes[i], 'class': args.classId}
-                        objects_list.append(object_dict)
-                    frame_dict = {'frameId': frameId, 'tracking_info': objects_list}
-                    conn.xadd(args.output_stream,
-                              {'refId': last_id, 'tracking': json.dumps(frame_dict, cls=NpEncoder)}, maxlen=args.maxlen)
-                    last_id = ref_id
-        except ConnectionError as e:
-            print("ERROR REDIS CONNECTION: {}".format(e))
+    tracker = Tracker(args.config, args.checkpoint,
+                      xreader_writer, model_run_monitor,
+                      bbox_run_latency, gpu_calculator,
+                      ts_manager, args.device, args.classId)
+
+    tracker.inference()
+    
 
 if __name__ == "__main__":
     main()

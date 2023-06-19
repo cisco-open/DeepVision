@@ -3,10 +3,11 @@ from utils.RedisStreamManager import RedisStreamManager
 
 class RedisStreamXreaderWriter(RedisStreamManager):
 
-    def __init__(self, rstream_name, wstream_name, redis_connection):
+    def __init__(self, rstream_name, wstream_name, redis_connection, max_len):
         self.rstream_name = rstream_name
         self.wstream_name = wstream_name
         self.redis_conn = redis_connection
+        self.max_len = max_len
 
     def xread_latest_available_message(self) -> tuple:
         resp = self.redis_conn.xread({self.rstream_name: '$'}, count=None, block=0)
@@ -28,6 +29,6 @@ class RedisStreamXreaderWriter(RedisStreamManager):
         
     def write_message(self, message: dict, item_id: str = None) -> None:
         if not item_id:
-            self.redis_conn.xadd(self.wstream_name, message)
+            self.redis_conn.xadd(self.wstream_name, message, maxlen=self.max_len)
         else:
-            self.redis_conn.xadd(self.wstream_name, message, id=item_id)
+            self.redis_conn.xadd(self.wstream_name, message, id=item_id, maxlen=self.max_len)

@@ -35,7 +35,9 @@ services:
       - haidetection
 
   tracker:
-    build: ./tracking
+    build:
+      context: ./
+      dockerfile: ./tracking/Dockerfile
     container_name: "tracker_vision"
     command: bash -c "python tracker.py ${MODEL_CONF} --redis ${REDIS_URL}"
     deploy:
@@ -63,7 +65,9 @@ services:
       context: ./
       dockerfile: ./actionrecognition/Dockerfile
     container_name: "actionrec_vision"
-    command: bash -c "python  actionrec.py tsn_imagenet-pretrained-r50_8xb32-1x1x8-100e_kinetics400-rgb --label_file label_map_k400.txt --redis ${REDIS_URL}"
+    logging:
+      driver: none
+    command: bash -c "python  actionrec.py ${AR_MODEL_CONF} --sampleSize ${AR_SAMPLE_SIZE} --batchSize ${AR_BATCH_SIZE} --label_file label_map_k400.txt --redis ${REDIS_URL}"
     deploy:
       resources:
         reservations:
@@ -83,29 +87,6 @@ services:
     volumes:
       - cache_volume:/cache/mmaction
 
-  tracker2:
-    build: ./tracking
-    container_name: "tracker_vision2"
-    command: bash -c "python tracker2.py ${MODEL_CONF} --redis ${REDIS_URL}"
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: 1
-              capabilities: [gpu]
-    depends_on:
-      redis:
-        condition: service_healthy
-    profiles:
-      - haidetection
-    environment:
-      - DEFAULT_CACHE_DIR=/cache/mmtracker
-      - XDG_CACHE_HOME=/cache/mmtracker
-      - MMENGINE_HOME=/cache/mmtracker
-    volumes:
-      - cache_volume:/cache/mmtracker
-
   producer:
     build: .
     container_name: "producer_vision"
@@ -117,17 +98,6 @@ services:
         condition: service_healthy
     profiles:
       - tracking
-
-  producer2:
-    build: .
-    container_name: "producer2_vision"
-    ports:
-      - "5002:5001"
-    command: bash -c "python3 producer2.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server2.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
-    depends_on:
-      redis:
-        condition: service_healthy
-    profiles:
       - haidetection
 
   ona:
@@ -147,13 +117,13 @@ services:
         condition: service_started
       ona:
         condition: service_started
-      producer2:
+      producer:
         condition: service_started
       redis:
         condition: service_healthy
       redistimeseries:
         condition: service_started
-      tracker2:
+      tracker:
         condition: service_started
     build: 
       context: ./cognitivesynergy

@@ -38,7 +38,8 @@ RUN pip install mmdet==2.28.1
 
 ENV FORCE_CUDA="1"
 
-COPY . /mmtracking
+COPY ./tracking /mmtracking
+COPY ./utils /mmtracking/utils
 WORKDIR /mmtracking
 RUN pip install -r requirements.txt
 RUN pip install -v -e mmtracking/

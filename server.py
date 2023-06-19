@@ -68,10 +68,9 @@ class RedisImageStream(object):
             key, messages = actionrec_stream_item[0]
             last_id, data = messages[0]
             actionrecs = json.loads(data[b'action_rec'].decode('utf-8'))
-            actionrec_labels = ['The top-5 labels with corresponding scores are:\n']
+            actionrec_labels = ['The top-5 labels with corresponding scores are:']
             for actionrec in actionrecs:
-                actionrec_labels.append(f'{actionrec[0]}: {actionrec[1]}\n')
-            actionrec_label = ''.join(actionrec_labels)
+                actionrec_labels.append(f'{actionrec[0]}: {actionrec[1]}')
             key, messages = resp[0]
             frame_last_id, data = messages[0]
 
@@ -105,7 +104,8 @@ class RedisImageStream(object):
 
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
-            cv2.putText(arr, actionrec_label, (10, 80), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
+            for idx, label in enumerate(actionrec_labels):
+                cv2.putText(arr, label, (10, 80 + (idx * 40)), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
             ret, img = cv2.imencode('.jpg', arr)
             return img.tobytes()
 
