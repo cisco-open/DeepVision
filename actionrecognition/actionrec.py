@@ -7,22 +7,20 @@ from argparse import ArgumentParser
 from urllib.parse import urlparse
 from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
 from operator import itemgetter
-from utils.constants import TOP_LABEL_COUNT, INPUT_FORMAT
+from utils.constants import TOP_LABEL_COUNT, INPUT_FORMAT, LABELS_PREFIX, LABELS_SUFFIX
 
 
 class ActionRecognizer:
 
     def __init__(self, action_inferencer: MMAction2Inferencer,
                  xreader_writer: RedisStreamXreaderWriter,
-                 label_file: str,
+                 algo: str,
                  sample_size: int,
                  batch_size: int,
                  top_pred_count: int):
         self.action_inferencer = action_inferencer
         self.xreader_writer = xreader_writer
-
-        labels = open(label_file).readlines()
-        self.labels = [x.strip() for x in labels]
+        self._init_labels(algo)
         self.sample_size = sample_size
         self.batch_size = batch_size
         self.top_pred_count = top_pred_count
@@ -39,6 +37,12 @@ class ActionRecognizer:
         top_label = score_sorted[:self.top_pred_count]
 
         return [(labels[k[0]], k[1]) for k in top_label]
+
+    def _init_labels(self, rec):
+        dataset = rec[rec.rfind("_") + 1: rec.rfind("-")]
+        label_file = LABELS_PREFIX + dataset + LABELS_SUFFIX
+        labels = open(label_file).readlines()
+        self.labels = [x.strip() for x in labels]
 
     def run(self):
         last_id, data = self.xreader_writer.xread_latest_available_message()
@@ -67,11 +71,10 @@ class ActionRecognizer:
 
 def main():
     parser = ArgumentParser()
-    parser.add_argument('config', help='config file')
+    parser.add_argument('algo', help='Pretrained action recognition algorithm')
     parser.add_argument('--input_stream', help='input stream key for coming frames', type=str, default="camera:0")
     parser.add_argument('--output_stream', help='output stream key for action recognition results', type=str,
                         default="camera:0:rec")
-    parser.add_argument('--label_file', help='label map file path', type=str)
     parser.add_argument('--device', default='cuda:0', help='device used for inference')
     parser.add_argument('--batchSize', type=int, default=1, help='inference batch size')
     parser.add_argument('--sampleSize', type=int, default=10, help='frames sample size')
@@ -85,11 +88,9 @@ def main():
 
     xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream, conn, args.maxlen)
 
-    action_inferencer = MMAction2Inferencer(rec=args.config, device=args.device, input_format=INPUT_FORMAT)
+    action_inferencer = MMAction2Inferencer(rec=args.algo, device=args.device, input_format=INPUT_FORMAT)
 
-    action_recognizer = ActionRecognizer(action_inferencer, xreader_writer,
-                                         args.label_file, args.sampleSize,
-                                         args.batchSize, TOP_LABEL_COUNT)
+    action_recognizer = ActionRecognizer(action_inferencer, xreader_writer, args.algo,  args.sampleSize, args.batchSize, TOP_LABEL_COUNT)
 
     action_recognizer.run()
 

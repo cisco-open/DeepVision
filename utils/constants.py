@@ -14,3 +14,5 @@ FRAMERATE = "framerate"
 # Action recognition module constants
 TOP_LABEL_COUNT = 5
 INPUT_FORMAT = "array"
+LABELS_PREFIX = "labels/label_map_"
+LABELS_SUFFIX = ".txt"

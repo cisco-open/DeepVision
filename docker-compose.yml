@@ -65,9 +65,7 @@ services:
       context: ./
       dockerfile: ./actionrecognition/Dockerfile
     container_name: "actionrec_vision"
-    logging:
-      driver: none
-    command: bash -c "python  actionrec.py ${AR_MODEL_CONF} --sampleSize ${AR_SAMPLE_SIZE} --batchSize ${AR_BATCH_SIZE} --label_file label_map_k400.txt --redis ${REDIS_URL}"
+    command: bash -c "python  actionrec.py ${AR_MODEL_CONF} --sampleSize ${AR_SAMPLE_SIZE} --batchSize ${AR_BATCH_SIZE} --redis ${REDIS_URL}"
     deploy:
       resources:
         reservations:
