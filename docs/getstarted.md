@@ -50,7 +50,8 @@ Note: If an invalid profile name is given, the script will display a "Invalid pr
 
 ### Configuration
 It's pretty simple to configure and change tracking model and corresponding accuracy score using parameters inside `.env` file in the root directory. Just use commenting and uncommenting approach.  
-There are other configurable properties described in `.env` file (details are placed in the file itself).
+There are other configurable properties described in `.env` file (details are placed in the file itself).  
+Also action recognition can be configured using `.env` file. There are many recognition models you can find [here](https://github.com/open-mmlab/mmaction2/tree/main/configs/recognition) and just replace `AR_MODEL_CONF` variable's value with the desired algo name without '.py' extension.  
 
 ### For Webserver and grafana dashboard
 
