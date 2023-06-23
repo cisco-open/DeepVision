@@ -2,6 +2,7 @@
 
 export DOCKER_BUILDKIT=1
 
+DEFAULT_CONFIG="./config/.env"
 # Define an associative array with the service names and descriptions
 declare -A profiles=(
   ["tracking"]="The tracking service including redis, redistimeseries, grafana, tracker, and producer"
@@ -33,9 +34,16 @@ else
     else
       # If the third argument is '--build', add it to the 'up' command
       if [[ $3 == "--build" ]]; then
-        docker-compose --profile "$1" up --build
+        docker-compose --profile "$1" --env-file ${DEFAULT_CONFIG} up --build
+      # if config file is provided
+      elif [ -n "$3" ]; then
+        if [[ $4 == "--build" ]]; then
+          docker-compose --profile "$1" --env-file "$3" up --build
+        else
+          docker-compose --profile "$1" --env-file "$3" up
+        fi
       else
-        docker-compose --profile "$1" up
+        docker-compose --profile "$1" --env-file ${DEFAULT_CONFIG} up
       fi
     fi
   else

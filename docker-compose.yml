@@ -57,8 +57,10 @@ services:
       - DEFAULT_CACHE_DIR=/cache/mmtracker
       - XDG_CACHE_HOME=/cache/mmtracker
       - MMENGINE_HOME=/cache/mmtracker
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
     volumes:
       - cache_volume:/cache/mmtracker
+      - ./utils:/shared_classes/utils
 
   actionrec:
     build:
@@ -83,8 +85,11 @@ services:
       - DEFAULT_CACHE_DIR=/cache/mmaction
       - XDG_CACHE_HOME=/cache/mmaction
       - MMENGINE_HOME=/cache/mmaction
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
     volumes:
       - cache_volume:/cache/mmaction
+      - ./utils:/shared_classes/utils
+
 
   producer:
     build: .
@@ -98,7 +103,7 @@ services:
     profiles:
       - tracking
 
-  producer2:
+  producer_hai:
     build: .
     container_name: "producer_vision"
     ports:

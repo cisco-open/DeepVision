@@ -19,7 +19,6 @@ RUN pip install openmim
 RUN mim install mmengine mmcv mmaction2
 
 # Install MMAction2
-COPY ./utils /mmaction2/utils
 COPY ./actionrecognition /mmaction2
 WORKDIR /mmaction2
 RUN pip install -r requirements.txt

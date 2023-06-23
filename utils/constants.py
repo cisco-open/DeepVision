@@ -12,7 +12,7 @@ GPU_TEMP = "gpu_temp"
 FRAMERATE = "framerate"
 
 # Action recognition module constants
-TOP_LABEL_COUNT = 5
+TOP_LABEL_COUNT = 3
 INPUT_FORMAT = "array"
 LABELS_PREFIX = "labels/label_map_"
 LABELS_SUFFIX = ".txt"
