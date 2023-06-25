@@ -131,7 +131,7 @@ services:
         condition: service_started
       ona:
         condition: service_started
-      producer:
+      producer_hai:
         condition: service_started
       redis:
         condition: service_healthy
