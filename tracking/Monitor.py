@@ -17,10 +17,22 @@
 import subprocess
 import time
 
-class GPUCalculator:
+from utils.constants import GPU_METRICS_CMD, MEMORY_USED, MEMORY_TOTAL, GPU_UTILIZATION, MEMORY_UTILIZATION, GPU_TEMP
+
+# Later migrate to utils
+class TSManager:
     def __init__(self, redis_conn):
-        self.count = 0
         self.redis_conn = redis_conn
+
+    def ts_add(self, key, value):
+        self.redis_conn.execute_command('ts.add {} * {}'.format(key, value))
+
+
+class GPUCalculator:
+    def __init__(self, ts_manager, threshold):
+        self.count = 0
+        self.ts_manager = ts_manager
+        self.threshold = threshold
     
     def get_first_line_or_original(self,input_string):
         # Split the string by newline characters
@@ -34,10 +46,9 @@ class GPUCalculator:
 
 
     def add(self):
-        self.count=self.count+1
-        if(self.count%15==0):
-            cmd = "nvidia-smi --query-gpu=memory.used,memory.total,utilization.gpu,utilization.memory,temperature.gpu --format=csv,noheader,nounits"
-            output = subprocess.check_output(cmd, shell=True)
+        self.count = self.count + 1
+        if(self.count % self.threshold == 0):
+            output = subprocess.check_output(GPU_METRICS_CMD, shell=True)
             output = output.decode('utf-8')
             output = self.get_first_line_or_original(output)
             gpu_stats = output.strip().split(', ')  
@@ -46,29 +57,33 @@ class GPUCalculator:
             gpu_utilization = int(gpu_stats[2])
             memory_utilization = int(gpu_stats[3])
             gpu_temp = int(gpu_stats[4])
-            self.redis_conn.execute_command('ts.add memory_used * {}'.format(memory_used))
-            self.redis_conn.execute_command('ts.add memory_total * {}'.format(memory_total))
-            self.redis_conn.execute_command('ts.add gpu_utilization * {}'.format(gpu_utilization))
-            self.redis_conn.execute_command('ts.add memory_utilization * {}'.format(memory_utilization))
-            self.redis_conn.execute_command('ts.add gpu_temp * {}'.format(gpu_temp))
+
+            self.ts_manager.ts_add(MEMORY_USED, memory_used)
+            self.ts_manager.ts_add(MEMORY_TOTAL, memory_total)
+            self.ts_manager.ts_add(GPU_UTILIZATION, gpu_utilization)
+            self.ts_manager.ts_add(MEMORY_UTILIZATION, memory_utilization)
+            self.ts_manager.ts_add(GPU_TEMP, gpu_temp)
             
 
 class MMTMonitor:
-    def __init__(self, redis_conn, redis_key):
+    def __init__(self, ts_manager, ts_key, threshold):
         self.start_time = None
-        self.redis_conn = redis_conn
-        self.redis_key = redis_key
-        self.counter = 0 
-        self.average_latency = 0 
+        self.ts_manager = ts_manager
+        self.ts_key = ts_key
+        self.counter = 0
+        self.average_latency = 0
+        self.threshold = threshold
     def start_timer(self):
         self.start_time = time.time()
     def end_timer(self):
         self.counter = self.counter + 1
         end_time = time.time()
         latency = end_time - self.start_time
-        if (self.counter%15==0):
-            self.average_latency = self.average_latency/15
-            self.redis_conn.execute_command('ts.add {} * {}'.format(self.redis_key,self.average_latency))
+        if self.counter % self.threshold == 0:
+            self.average_latency = self.average_latency/self.threshold
+            self.ts_manager.ts_add(self.ts_key, self.average_latency)
             self.average_latency = 0
         else:
             self.average_latency = self.average_latency + latency
+
+

@@ -35,7 +35,9 @@ services:
       - haidetection
 
   tracker:
-    build: ./tracking
+    build:
+      context: ./
+      dockerfile: ./tracking/Dockerfile
     container_name: "tracker_vision"
     command: bash -c "python tracker.py ${MODEL_CONF} --redis ${REDIS_URL}"
     deploy:
@@ -43,36 +45,50 @@ services:
         reservations:
           devices:
             - driver: nvidia
-              count: 1 
+              count: 1
               capabilities: [gpu]
     depends_on:
       redis:
         condition: service_healthy
     profiles:
       - tracking
-
-  tracker2:
-    build: ./tracking
-    container_name: "tracker_vision"
-    command: bash -c "python tracker2.py ${MODEL_CONF} --redis ${REDIS_URL}"
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: 1 
-              capabilities: [gpu]
-    depends_on:
-      redis:
-        condition: service_healthy
-    profiles:
       - haidetection
     environment:
       - DEFAULT_CACHE_DIR=/cache/mmtracker
       - XDG_CACHE_HOME=/cache/mmtracker
       - MMENGINE_HOME=/cache/mmtracker
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
     volumes:
       - cache_volume:/cache/mmtracker
+      - ./utils:/shared_classes/utils
+
+  actionrec:
+    build:
+      context: ./
+      dockerfile: ./actionrecognition/Dockerfile
+    container_name: "actionrec_vision"
+    command: bash -c "python  actionrec.py ${AR_MODEL_CONF} --sampleSize ${AR_SAMPLE_SIZE} --batchSize ${AR_BATCH_SIZE} --redis ${REDIS_URL}"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - tracking
+      - haidetection
+    environment:
+      - DEFAULT_CACHE_DIR=/cache/mmaction
+      - XDG_CACHE_HOME=/cache/mmaction
+      - MMENGINE_HOME=/cache/mmaction
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
+    volumes:
+      - cache_volume:/cache/mmaction
+      - ./utils:/shared_classes/utils
 
   producer:
     build: .
@@ -86,12 +102,12 @@ services:
     profiles:
       - tracking
 
-  producer2:
+  producer_hai:
     build: .
-    container_name: "producer2_vision"
+    container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer2.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server2.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server2.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
     depends_on:
       redis:
         condition: service_healthy
@@ -115,13 +131,13 @@ services:
         condition: service_started
       ona:
         condition: service_started
-      producer2:
+      producer_hai:
         condition: service_started
       redis:
         condition: service_healthy
       redistimeseries:
         condition: service_started
-      tracker2:
+      tracker:
         condition: service_started
     build: 
       context: ./cognitivesynergy
@@ -131,6 +147,10 @@ services:
     volumes:
       - ./cognitivesynergy:/app
       - /var/run/docker.sock:/var/run/docker.sock
+      - ./utils:/shared_classes/utils
+      - cache_volume:/cache/mmtracker
+    environment:
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
     command: python3 main_detection.py
     stdin_open: true
     tty: true

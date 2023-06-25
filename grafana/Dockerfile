@@ -14,7 +14,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-FROM grafana/grafana:latest-ubuntu
+FROM grafana/grafana:9.5.3-ubuntu
 
 # Disable Login form or not
 ENV GF_AUTH_DISABLE_LOGIN_FORM "true"

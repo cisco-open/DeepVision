@@ -28,6 +28,8 @@ RUN add-apt-repository \
 # Install Docker CLI only
 RUN apt-get update && apt-get install -y docker-ce-cli
 
+RUN apt-get install -y fonts-freefont-ttf
+
 # Verify Docker client installation
 RUN docker --version
 
