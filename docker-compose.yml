@@ -90,7 +90,6 @@ services:
       - cache_volume:/cache/mmaction
       - ./utils:/shared_classes/utils
 
-
   producer:
     build: .
     container_name: "producer_vision"

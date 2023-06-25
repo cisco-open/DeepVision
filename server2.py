@@ -37,7 +37,6 @@ from typing import List
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
 
-
 updated_tracklets = None
 
 class StreamItem:
@@ -212,7 +211,6 @@ class RedisImageStream(object):
         else:
             return self._blank_image()
 
-
 def gen(stream):
     while True:
         try:
@@ -228,7 +226,6 @@ def gen(stream):
                b'Pragma: no-cache\r\n'
                b'Expires: 0\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n\r\n')
-
 
 conn = None
 args = None
