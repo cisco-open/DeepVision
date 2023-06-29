@@ -114,6 +114,8 @@ services:
         condition: service_healthy
     profiles:
       - haidetection
+    environment:
+      - MODEL_CONF=${MODEL_CONF}
 
   ona:
     build:

@@ -102,6 +102,7 @@ class MOTStreamItem(StreamItem):
     def __init__(self, redis_connection, stream_name):
         super().__init__(redis_connection, stream_name)
         self.tracking_info = None
+        self.frame_ref_id = None
 
     def get_last_stream_item(self):
         super().get_last_stream_item()
