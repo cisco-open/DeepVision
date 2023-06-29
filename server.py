@@ -30,7 +30,6 @@ from PIL import ImageDraw
 from flask import Flask, Response
 from tracklet.tailvisualization import draw_tail, update_midpoint_to_tracklets
 from tracklet.trackletmanager import TrackletManager
-from dotenv import load_dotenv
 
 updated_tracklets = None
 
@@ -43,7 +42,6 @@ class RedisImageStream(object):
         self.pipeline = conn.pipeline()
         self.camera = args.camera
         self.boxes = args.boxes
-        self.actionrec = args.actionrec
         self.field = args.field.encode('utf-8')
         self.time = time.time()
 
@@ -64,13 +62,6 @@ class RedisImageStream(object):
             last_frame_refId = tracking_stream[0][1][b'refId'].decode("utf-8")  # Frame reference i
             tracking = json.loads(tracking_stream[0][1][b'tracking'].decode('utf-8'))
             resp = conn.xread({self.camera: last_frame_refId}, count=1)
-            actionrec_stream_item = conn.xread({self.actionrec: last_frame_refId}, count=1)
-            key, messages = actionrec_stream_item[0]
-            last_id, data = messages[0]
-            actionrecs = json.loads(data[b'action_rec'].decode('utf-8'))
-            actionrec_labels = ['The top-5 labels with corresponding scores are:']
-            for actionrec in actionrecs:
-                actionrec_labels.append(f'{actionrec[0]}: {actionrec[1]}')
             key, messages = resp[0]
             frame_last_id, data = messages[0]
 
@@ -104,8 +95,7 @@ class RedisImageStream(object):
 
             arr = np.array(img)
             cv2.putText(arr, label, (10, 40), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
-            for idx, label in enumerate(actionrec_labels):
-                cv2.putText(arr, label, (10, 80 + (idx * 40)), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 1, cv2.LINE_AA)
+
             ret, img = cv2.imencode('.jpg', arr)
             return img.tobytes()
 
@@ -138,8 +128,7 @@ def gen(stream):
 
 
 def get_model_name():
-    load_dotenv()
-    model_path = os.getenv('MODEL_CONF')
+    model_path = os.environ.get('MODEL_CONF')
     return model_path.rsplit('/', 1)[-1]
 
 
@@ -164,7 +153,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('camera', help='Input camera stream key', nargs='?', type=str, default='camera:0')
     parser.add_argument('boxes', help='Input model stream key', nargs='?', type=str, default='camera:0:mot')
-    parser.add_argument('actionrec', help='Action recognition stream key', nargs='?', type=str, default='camera:0:rec')
     parser.add_argument('--field', help='Image field name', type=str, default='image')
     parser.add_argument('--fmt', help='Frame storage format', type=str, default='.jpg')
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')

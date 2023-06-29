@@ -101,6 +101,8 @@ services:
         condition: service_healthy
     profiles:
       - tracking
+    environment:
+      - MODEL_CONF=${MODEL_CONF}
 
   producer_hai:
     build: .

@@ -30,12 +30,13 @@ from PIL import ImageDraw
 from flask import Flask, Response
 from tracklet.tailvisualization import draw_tail, update_midpoint_to_tracklets
 from tracklet.trackletmanager import TrackletManager
-from dotenv import load_dotenv
 import json
 import pickle
 from typing import List
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
+from utils.Utility import is_lt_eq_threshold
+from utils.constants import ACTION_REC_STREAM_THRESHOLD, VIDEO_STREAM_THRESHOLD
 
 updated_tracklets = None
 
@@ -57,16 +58,17 @@ class StreamItem:
             print("Redis connection error.")
             return False
 
+
 class VideoFrameStreamItem(StreamItem):
-    def __init__(self, redis_connection, stream_name):
+
+    def __init__(self, redis_connection, stream_name, expired_threshold):
         super().__init__(redis_connection, stream_name)
+        self.expired_threshold = expired_threshold
 
     def get_last_stream_item(self):
         super().get_last_stream_item()
-        if self.stream_item:
-            self.frame_ref_id, self.data = self.stream_item[0][0]
-        else:
-            self.frame_ref_id, self.data = None, None
+        if not is_lt_eq_threshold(self.ref_id, self.expired_threshold):
+            self.data = None
 
     def get_stream_item(self, frame_ref_id):
         resp = self.redis_connection.xread({self.stream_name: frame_ref_id}, count=1, block=None)
@@ -115,8 +117,8 @@ class MOTStreamItem(StreamItem):
 
 
 class ActionRecognitionStreamItem(VideoFrameStreamItem):
-    def __init__(self, redis_connection, stream_name):
-        super().__init__(redis_connection, stream_name)
+    def __init__(self, redis_connection, stream_name, expired_threshold):
+        super().__init__(redis_connection, stream_name, expired_threshold)
 
     def get_recognition_results_as_dvmessages(self) -> List[DVMessage]:
         msg = []
@@ -141,8 +143,8 @@ class RedisImageStream(object):
         self.field = args.field.encode('utf-8')
         self.time = time.time()
         self.trackingstream = MOTStreamItem(self.conn, self.boxes)
-        self.videostream = VideoFrameStreamItem(self.conn, self.camera)
-        self.actionrecstream = ActionRecognitionStreamItem(self.conn, self.actionrec)
+        self.videostream = VideoFrameStreamItem(self.conn, self.camera, VIDEO_STREAM_THRESHOLD)
+        self.actionrecstream = ActionRecognitionStreamItem(self.conn, self.actionrec, ACTION_REC_STREAM_THRESHOLD)
         self.ona_display = DVDisplayChannel("ONA_DISPLAY")
 
 
@@ -157,8 +159,7 @@ class RedisImageStream(object):
         return img.tobytes()
 
     def get_model_name(self, env_key):
-        load_dotenv()
-        model_path = os.getenv(env_key)
+        model_path = os.environ.get(env_key)
         return model_path.rsplit('/', 1)[-1]
     def random_color(self, object_id):
         """Random a color according to the input seed."""
@@ -197,9 +198,10 @@ class RedisImageStream(object):
                 msgs = []
             msgs.append(DVMessage(label, text_position={'x': 10, 'y': 10}, font_color='rgb(255, 0, 0)'))
 
-            self.actionrecstream.get_stream_item(self.trackingstream.frame_ref_id)
-            if self.actionrecstream.data:
-                msgs.extend(self.actionrecstream.get_recognition_results_as_dvmessages())
+            self.actionrecstream.get_last_stream_item()
+            if self.actionrecstream.ref_id:
+                if self.actionrecstream.data:
+                    msgs.extend(self.actionrecstream.get_recognition_results_as_dvmessages())
             else:
                 msgs.append(DVMessage("The recognition model is still loading",
                                       text_position={'x': 680, 'y': 10}, font_color='rgb(0,0,0)'))

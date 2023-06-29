@@ -16,3 +16,7 @@ TOP_LABEL_COUNT = 3
 INPUT_FORMAT = "array"
 LABELS_PREFIX = "labels/label_map_"
 LABELS_SUFFIX = ".txt"
+
+# Producing module constants
+ACTION_REC_STREAM_THRESHOLD = 5
+VIDEO_STREAM_THRESHOLD = 3
