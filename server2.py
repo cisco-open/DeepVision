@@ -36,7 +36,6 @@ from typing import List
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
 from utils.Utility import is_lt_eq_threshold
-from utils.constants import ACTION_REC_STREAM_THRESHOLD, VIDEO_STREAM_THRESHOLD
 
 updated_tracklets = None
 
@@ -143,8 +142,8 @@ class RedisImageStream(object):
         self.field = args.field.encode('utf-8')
         self.time = time.time()
         self.trackingstream = MOTStreamItem(self.conn, self.boxes)
-        self.videostream = VideoFrameStreamItem(self.conn, self.camera, VIDEO_STREAM_THRESHOLD)
-        self.actionrecstream = ActionRecognitionStreamItem(self.conn, self.actionrec, ACTION_REC_STREAM_THRESHOLD)
+        self.videostream = VideoFrameStreamItem(self.conn, self.camera, args.videoThreshold)
+        self.actionrecstream = ActionRecognitionStreamItem(self.conn, self.actionrec, args.actionrecThreshold)
         self.ona_display = DVDisplayChannel("ONA_DISPLAY")
 
 
@@ -255,6 +254,8 @@ if __name__ == '__main__':
     parser.add_argument('--fmt', help='Frame storage format', type=str, default='.jpg')
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('--trackletLength', help='Tracklet Length', type=int)
+    parser.add_argument('--actionrecThreshold', help='Action recognition stream timing threshold', type=int)
+    parser.add_argument('--videoThreshold', help='Video source stream timing threshold', type=int)
     parser.add_argument('--score', help='Accuracy score treshold', type=float)
     args = parser.parse_args()
 

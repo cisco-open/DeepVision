@@ -13,6 +13,6 @@ def diff_since_epoch_mls_with_current(timestamp):
 def is_lt_eq_threshold(entry_id, threshold):
     if not entry_id:
         return False
-    id_mls = convert_redis_entry_id_to_mls(entry_id)
+    id_mls = convert_redis_entry_id_to_mls(entry_id.decode())
     diff = diff_since_epoch_mls_with_current(id_mls)
     return diff < threshold
