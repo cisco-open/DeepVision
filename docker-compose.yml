@@ -89,21 +89,21 @@ services:
       - cache_volume:/cache/mmaction
       - ./utils:/shared_classes/utils
 
-  producer:
-    build: .
-    container_name: "producer_vision"
-    ports:
-      - "5002:5001"
-    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
-    depends_on:
-      redis:
-        condition: service_healthy
-    profiles:
-      - tracking
-    environment:
-      - MODEL_CONF=${MODEL_CONF}
+#  producer:
+#    build: .
+#    container_name: "producer_vision"
+#    ports:
+#      - "5002:5001"
+#    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE}"
+#    depends_on:
+#      redis:
+#        condition: service_healthy
+#    profiles:
+#      - tracking
+#    environment:
+#      - MODEL_CONF=${MODEL_CONF}
 
-  producer_hai:
+  producer:
     build: .
     container_name: "producer_vision"
     ports:
@@ -114,8 +114,10 @@ services:
         condition: service_healthy
     profiles:
       - haidetection
+      - tracking
     environment:
       - MODEL_CONF=${MODEL_CONF}
+      - PROFILE_NAME=${PROFILE_NAME}
 
   ona:
     build:
@@ -134,7 +136,7 @@ services:
         condition: service_started
       ona:
         condition: service_started
-      producer_hai:
+      producer:
         condition: service_started
       redis:
         condition: service_healthy

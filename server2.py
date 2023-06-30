@@ -36,6 +36,7 @@ from typing import List
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
 from utils.Utility import is_lt_eq_threshold
+from utils.constants import PROFILE_NAME_VALUE
 
 updated_tracklets = None
 
@@ -144,10 +145,14 @@ class RedisImageStream(object):
         self.time = time.time()
         self.trackingstream = MOTStreamItem(self.conn, self.boxes)
         self.videostream = VideoFrameStreamItem(self.conn, self.camera, args.videoThreshold)
-        self.actionrecstream = ActionRecognitionStreamItem(self.conn, self.actionrec, args.actionrecThreshold)
         self.ona_display = DVDisplayChannel("ONA_DISPLAY")
+        self._init_analytics_channels()
 
-
+    def _init_analytics_channels(self):
+        self.actionrecstream = None
+        profile_name = os.environ.get('PROFILE_NAME')
+        if profile_name == PROFILE_NAME_VALUE:
+            self.actionrecstream = ActionRecognitionStreamItem(self.conn, self.actionrec, args.actionrecThreshold)
     def _blank_image(self):
         model_name = self.get_model_name('MODEL_CONF')
         current_time = time.time()
@@ -198,13 +203,14 @@ class RedisImageStream(object):
                 msgs = []
             msgs.append(DVMessage(label, text_position={'x': 10, 'y': 10}, font_color='rgb(255, 0, 0)'))
 
-            self.actionrecstream.get_last_stream_item()
-            if self.actionrecstream.ref_id:
-                if self.actionrecstream.data:
-                    msgs.extend(self.actionrecstream.get_recognition_results_as_dvmessages())
-            else:
-                msgs.append(DVMessage("The recognition model is still loading",
-                                      text_position={'x': 680, 'y': 10}, font_color='rgb(0,0,0)'))
+            if self.actionrecstream:
+                self.actionrecstream.get_last_stream_item()
+                if self.actionrecstream.ref_id:
+                    if self.actionrecstream.data:
+                        msgs.extend(self.actionrecstream.get_recognition_results_as_dvmessages())
+                else:
+                    msgs.append(DVMessage("The recognition model is still loading",
+                                          text_position={'x': 680, 'y': 10}, font_color='rgb(0,0,0)'))
             self.ona_display.render_messages(img, msgs)
             arr = np.array(img)
             ret, img = cv2.imencode('.jpg', arr)

@@ -28,6 +28,7 @@ if [[ $# -eq 0 ]] || [[ $1 == "-h" ]] || [[ $1 == "--help" ]] || [[ $1 == "help"
 else
   # Check if the first argument is a valid profile
   if [[ -n ${profiles[$1]} ]]; then
+    export PROFILE_NAME=$1
     # Check if the second argument is 'up' or 'down', default to 'up' if not provided
     if [[ $2 == "down" ]]; then
       docker-compose --profile "$1" down
