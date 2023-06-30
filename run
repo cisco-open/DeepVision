@@ -15,7 +15,7 @@ declare -A profiles=(
 
 # Function to print the help message
 print_help() {
-  echo "Usage: ./run <profilename> [up|down] [--build]"
+  echo "Usage: ./run <profilename> [up|down] <env_file> [--build]"
   echo "Available profiles:"
   for profile in "${!profiles[@]}"; do
     echo "- $profile: ${profiles[$profile]}"

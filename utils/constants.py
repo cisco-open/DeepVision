@@ -18,4 +18,4 @@ LABELS_PREFIX = "labels/label_map_"
 LABELS_SUFFIX = ".txt"
 
 # Producing module constants
-PROFILE_NAME_VALUE = "haidetection"
+PROFILE_NAME_VALUE_HAI = "haidetection"
