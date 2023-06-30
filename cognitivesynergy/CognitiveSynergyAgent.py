@@ -5,6 +5,7 @@ import time
 from ONA.DockerInteractor import DockerInteractor
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 import random
+import timeit
 
 class CognitiveSynergyAgent:
     def __init__(self, agent_type, config):
@@ -12,8 +13,23 @@ class CognitiveSynergyAgent:
         self.config = config
         self.is_running = False
         self._thread = None
-        self.ona = DockerInteractor(['docker', 'exec', '-i', 'ONA', '/app/NAR', 'shell'])
+        self.ona = DockerInteractor(['docker', 'exec', '-i', '-w', '/app/misc/Python', 'ONA', 'python3', 'NAR_json.py'])
+        self.ona_terminator = "\"requestOutputArgs\": false}"
         self.display_channel = DVDisplayChannel("ONA_DISPLAY")
+
+    def execute_command(self, command):
+        response = self.ona.execute_command(command, self.ona_terminator)
+        return response
+
+    def test_ona_performance(self):
+        start_time = timeit.default_timer()
+        for _ in range(10000):
+            response = self.execute_command("<cat --> furry_animal>.\n<cat --> furry_animal>?")
+        end_time = timeit.default_timer()
+        time_taken = end_time - start_time  # time_taken is in seconds
+        messages_per_second = 10000.0 / time_taken
+        print(f"Messages per second: {messages_per_second}")
+        print(f"sample message: {response}")
 
     def _run(self):
         iterations = 0
@@ -46,9 +62,9 @@ class CognitiveSynergyAgent:
                 iterations2 = 0
 
             self.display_channel.write_message(msgs)
-            response = self.ona.execute_command("<cat --> furry_animal>.\n<cat --> furry_animal>?\n0\n", "done with 0 additional inference steps")
-            #print(f"Response: {response}")
-            time.sleep(.1)
+            response = self.execute_command("<cat --> furry_animal>.\n<cat --> furry_animal>?")
+            print(f"Response: {response}")
+            time.sleep(.5)
 
         print(f"Agent of type {self.agent_type} has stopped.")
 
