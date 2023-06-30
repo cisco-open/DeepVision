@@ -16,3 +16,6 @@ TOP_LABEL_COUNT = 3
 INPUT_FORMAT = "array"
 LABELS_PREFIX = "labels/label_map_"
 LABELS_SUFFIX = ".txt"
+
+# Producing module constants
+PROFILE_NAME_VALUE_HAI = "haidetection"

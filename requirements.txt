@@ -24,6 +24,5 @@ flask
 Pillow==9.3.0
 seaborn
 redistimeseries
-python-dotenv
 
 
