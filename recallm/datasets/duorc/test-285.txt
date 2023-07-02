@@ -1,0 +1,34 @@
+PARAGRAPH
+Thirty years old and single, Pauline "Poppy" Cross shares a London flat with her best friend Zoe, a fellow teacher. Poppy is free-minded, high-spirited and kind-hearted. The film opens with Poppy trying to engage a shop employee in conversation. He ignores her, yet his icy demeanour does not bother her. She maintains her good mood even when she discovers her bicycle has been stolen. Her main concern is not getting a new one or finding the bicycle, but that she did not get a chance to say goodbye to it. This prompts her to decide to learn how to drive.
+When Poppy takes driving lessons for the first time, her positive attitude contrasts starkly with her gloomy, intolerant and cynical driving instructor, Scott. He is emotionally repressed, has anger problems and becomes extremely agitated by Poppy's casual attitude towards driving. As Poppy gets to know him, it becomes evident that Scott believes in conspiracy theories. His beliefs are partly attributable to his racist and misogynistic views, which make it hard for him to get along with others. Scott seems to be angered by Poppy's sunny personality and what he perceives as a lack of responsibility and concern for driving safety. Scott is exceptionally irritated by Poppy's choice of footwear (a pair of high-heeled boots), which he feels compromises her ability to drive. From the outset he feels Poppy does not take her lessons seriously and is careless.
+Poppy, however, does have the capacity to be responsible. At school Poppy observes one of her pupils bullying one of his classmates. Rather than becoming angry, she worries about him and takes the appropriate action. After speaking with her student, she comes to the correct conclusion that her student is being abused at home. A social worker, Tim, is brought in to handle the boy's case. Through Tim and the pupil's interactions, the latter reveals that his mother's boyfriend has been beating him. Tim and Poppy begin dating.
+Poppy, Zoe, and Poppy's younger sister, Suzy, go to visit another sister, Helen, who lives with her husband in Southend-on-Sea and is pregnant. Helen proves to be a very judgemental person and tells Poppy she needs to "take life seriously", "not get drunk every night" and plan for the future. Poppy responds that she is happy with her life as it is. Helen tries to convince Poppy to be more responsible condescendingly telling her she is too childish, but Poppy insists that she is happy and ignores her advice.
+Returning home, Poppy sees Scott standing across the street from her flat, and when she calls his name, he runs away. When she confronts him he insists he had been visiting his mother in Stevenage at the time she saw him. Scott later sees Poppy with her new boyfriend, Tim, and he becomes angry. During Poppy's subsequent driving lesson, Scott drives erratically while ranting about other drivers and society. When he gives Poppy the keys to his car, she tells him he is in no condition to give a driving lesson, and she will drive him home. Scott tries to get his keys back and physically attacks Poppy. She manages to escape his grasp, then in a long, rambling diatribe Scott accuses Poppy of trying to seduce him, revealing his romantic feelings for her. Unable to reason with him, Poppy waits until he has calmed down then gives the keys back, telling him the lesson will be their last.
+The film ends with Poppy and Zoe rowing a boat in Regent's Park, as Poppy takes a mobile phone call from Tim, and Zoe advises Poppy to think about "giving up being nice to everyone." Poppy dismisses the advice, cheerfully but not naively.
+
+
+QUESTIONS
+q: Who is Poppy's driving instructor?
+a: ['Scott']
+
+q: What kind of lessons does Poppy take?
+a: ['driving lessons']
+
+q: What is Poppy's occupation?
+a: ['Poppy is a teacher']
+
+q: What can't Poppy stand to see?
+a: ["she couldn't say bye to her bike"]
+
+q: Who does Poppy take driving lessons from?
+a: ['Scott']
+
+q: How old is Poppy?
+a: ['30', 'Thirty Years Old']
+
+q: What gets stolen?
+a: ['her bike']
+
+q: What city does Poppy teach in?
+a: ['London']
+

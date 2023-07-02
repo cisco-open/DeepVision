@@ -1,0 +1,11 @@
+PARAGRAPH
+In 1905, Sun Wen intends to go abroad to Hong Kong, then a British colony, to discuss his plans with fellow Tongmenghui members to overthrow the corrupt and crumbling Qing dynasty in China. Empress Dowager Cixi sends a group of assassins, led by Yan Xiaoguo, to kill Sun. Revolutionary Chen Shaobai arrives in Hong Kong a few days before Sun's arrival, to meet Li Yutang, a businessman who provides financial aid for the revolutionaries. As Sun Wen's arrival day draws near, trouble begins brewing in Hong Kong as Chen Shaobai's acquaintances are murdered and Chen himself is kidnapped by the assassins during a raid. Li Yutang decides to officially declare his support for the revolutionaries after the newspaper agency is closed by the British authorities, who do not interfere in China's political situation. Li rallies a group of men, including rickshaw pullers, hawkers and a beggar, to serve as bodyguards for Sun Wen when he arrives. Li's son, Chongguang, is chosen to act as a decoy for Sun Wen to divert the assassins away while Sun attends the meeting and leaves Hong Kong safely.
+
+
+QUESTIONS
+q: What has spread through China?
+a: ['revolution']
+
+q: Where is this movie set?
+a: ['china']
+

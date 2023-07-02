@@ -1,0 +1,23 @@
+PARAGRAPH
+The movie is about a girl named Kushi who cons a man (Tanbir), she met one night at her job. She get thrown out of her apartment one day and looses her job. She has no where to do and does not want to move back home with her aunt and uncle. She finds out where Tanbir lives and that the house is empty. It was built for the Tanbir's girlfriend who didn't want to marry him. So Kushi moves in to the house and pretends to be his wife. He finds out and they continue to lie to win the man's girlfriend back. Tanbir's family finds out he got married and they throw the newly weds a party. Kushi brings in a homeless couple to prented to be her parents because her parents are deceased. After Tanbir's girlfriend realizes she can marry him Tanbir really falls in love with his made-believe wife. Tanbir and Kusi falls in love and gets married. Chori Chori is the Indian version of the 1992 HouseSitter with Goldi Hawn and Steve Martin.
+
+
+QUESTIONS
+q: who planned to build a home for their love?
+a: ['Good']
+
+q: Does Khushi always want to do her duty?
+a: ['no']
+
+q: what is the name of ranbir's love?
+a: ['Good']
+
+q: Is Khushi a careful worker?
+a: ['No mention']
+
+q: who gets dismissed from their job?
+a: ['Good']
+
+q: Do Khushi and Ranbir end up falling in love?
+a: ['Yes']
+

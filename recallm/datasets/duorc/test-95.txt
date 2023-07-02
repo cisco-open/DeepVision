@@ -1,0 +1,77 @@
+PARAGRAPH
+Spanning one year from 1951 to 1952 in the small town of Anarene, Texas, Sonny (Timothy Bottoms) and Duane (Jeff Bridges) are high-school seniors, co-captains of Anarene High's football team and share a rooming house home and a battered old pickup truck which they take to and from school. Duane is good looking, amusing and popular, and is dating Jacy Farrow (Cybill Shepherd), the prettiest (and wealthiest) girl in town. Sonny is sensitive and caring, with a dumpy, unpleasant girlfriend (Sharon Taggart) he does not love. She shares his indifference, and they decide to call it quits.At Christmas, Sonny stumbles into an affair with Ruth Popper (Cloris Leachman), the depressed middle-aged wife of his high school basketball coach. At the sad little town's Christmas dance, Jacy is invited by unsavory Lester Marlow (Randy Quaid) to a naked indoor pool party at the home of Bobby Sheen (Gary Brockette), a boy with rich parents, who seems to offer better prospects than Duane. The trouble is that Bobby isn't interested in her as long as she is a virgin, so she has to get someone to deflower her first.Duane and Sonny decline to go to Lester's pool party and instead go on a road trip to Mexico (which happens entirely off-screen) and return the day after New Years Day in 1952, to discover that Sam the Lion (Ben Johnson), their mentor and a wealthy father-figure in town, has suddenly died, leaving a will that bequeaths his property which includes the town's movie theater to the woman who ran the concession stand, the cafe to its waitress Genevieve (Eileen Brennan) and the pool hall to Sonny.Jacy invites Duane to a motel for what he imagines is some lovemaking, but he is unable to perform. It takes a second attempt to alter her virginity status. Having got what she wanted from Duane, she breaks up with him by phone, and he eventually joins the Army. When Bobby elopes with another girl, Jacy is alone again, and out of boredom has sex with Abilene (Clu Gulager), her mother's lover. When Jacy hears of Sonny's affair with Ruth, she sets her sights on him and Ruth gets cut out right quick.A few days later, Sonny gets the bad end of a broken bottle from Duane, who still considers Jacy "his" girl when he learns of their affair. Jacy pretends to be impressed that Sonny would fight over her and suggests they elope.On their way to their honeymoon, they're stopped by Oklahoma state troopers. It turns out that Jacy left a note telling her parents all about their plan. The couple are forcibly taken back to Anarene by Jacy's father and mother Lois (Ellen Burstyn) in separate automobiles. On the trip back, Lois Farrow admits to Sonny she was Sam the Lion's erstwhile paramour and tells him he was much better off with Ruth Popper than with Jacy.A few months later, Duane returns to town for a visit before shipping out for Korea. He and Sonny are among the meager group attending the final screening at Sam's old moviehouse, which can no longer make a go of it. The next morning, after Sonny sees Duane off on the Trailways bus, young Billy (Sam Bottoms), another of the town's innocents and local simpleton whom was protected over the years by Sam the Lion, is run over and killed in a hit-and-run as he sweeps the deserted street.Distraught over the loss of his friends, Sonny flees back to Ruth, whom he ignored since Jacy stole him away months before. Her first reaction is to show her hurt and anger, then the two slip into a haunting, beatific calm in her familiar kitchen. She tells him, "Never you mind, honey, never you mind."
+
+
+QUESTIONS
+q: Who does Duane date?
+a: ['Jacy Farrow']
+
+q: Does Bobby marry another girl?
+a: ['yes']
+
+q: Where did Duane go to fight while in the Army?
+a: ['Korea']
+
+q: who plays Billy?
+a: ['Sam Bottoms']
+
+q: Who is Abilene?
+a: ["Jacy's mother's lover"]
+
+q: Who was killed by a bus?
+a: ['Billy']
+
+q: Who was invited by lester marlow for christmas dance.?
+a: ['jacy']
+
+q: What is the name of the mother's lover?
+a: ['Abilene']
+
+q: Where do the go?
+a: ['mexico']
+
+q: Who did Sonny marry?
+a: ['jacy']
+
+q: what is sam's nickname?
+a: ['Sam the Lion']
+
+q: Who does Duane quarrel with Sonny over?
+a: ["Sonny get's hit with a bottle over Jacy"]
+
+q: Is Jacy happy that Bobby has married another girl?
+a: ['Jacy is bored']
+
+q: Who did Jacy invite to the motel?
+a: ['Duane']
+
+q: who does sonny have affection for?
+a: ['Sonny flees back to Ruth']
+
+q: What is Jacy's mother's name?
+a: ['Lois Farrow']
+
+q: Who begins an affair with Ruth popper.,
+a: ['sonny']
+
+q: who plays Genevieve?
+a: ['Eileen Brennan']
+
+q: Who go on a road trip?
+a: ['duane and sonny']
+
+q: Who does Jacy invite to a motel?
+a: ['Duane']
+
+q: who plaus Sam?
+a: ['Ben Johnson plays Sam.']
+
+q: Who is Genevieve
+a: ['A waitress']
+
+q: Where is Duane being shipped out to?
+a: ['Korea']
+
+q: What does Jacy invite Duane to a motel for?
+a: ['To have sex.']
+

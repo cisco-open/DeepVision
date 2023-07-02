@@ -1,0 +1,62 @@
+PARAGRAPH
+The movie opens in a Los Angeles convenience store one late Monday night, where a small-time drug dealer named Nick (Aaron Eckhart) is trying to decide what coffee brand to buy. His ex-lover Dallas (Paulina Porizkova) and fellow hitman Billy Hill (James LeGros) are getting impatient and tell him to hurry up. Conflicts between Nick and the cashier (Luck Hari) ensue, resulting in Dallas shooting the cashier dead. Though the three attempt to cover up the crime, they are forced to also shoot a police officer (Bari K. Willerford) when he discovers blood on the ground.
+Three days later, Nick shows up on the doorstep of Casey Wells (Thomas Jane), an old drug dealing partner who has cleaned up his life. He is now a married architect and is looking to adopt a child with his wife. Nick leaves a couple of suitcases in Casey's guest room before leaving to run some errands. After Nick leaves, Casey becomes suspicious of one of the suitcases and eventually opens it to find it filled with heroin. After calling Nick to yell at him for bringing drugs into his home, he disposes of all of it in the kitchen sink.
+Ice (Glenn Plummer), a Jamaican Rasta hitman, enters Casey's house and is about to kill him, but Casey manages to persuade him to have a last smoke of marijuana. After having smoked, Ice is about to kill Casey when Ice's cell phone rings. Ice begins to rap over the phone in an effort to clinch a record deal, and Casey seizes the moment and knocks him out. Casey then ties him up and leaves him in his garage. Dr. Jarvis (Michael Jeter), a representative from the adoption agency comes to interview Casey about his fitness to be a father. Dr. Jarvis is particularly curious to know what Casey did for several years when he lived in L.A. as there is no account of his time there. Casey tries his best to cover up his past as well as his recent encounter with the hitman.
+During the interview, Dallas, who wants the money that she believes Nick left with Casey along with the heroin, shows up. She scares away Dr. Jarvis from the adoption agency by telling a story about Casey's drug-dealing and murdering past. When left alone with Casey, Dallas questions him about the money's whereabouts. Angry that he cannot help her, she decides to kill him. But not before she ties him up to a chair, fellates him to force an erection, strips naked and proceeds to mount and rape him. She tells him she will not kill him until he orgasms and she plans to go on until she makes him get an orgasm. Delivering on her word, she reaches multiple orgasms, but gets no results from him. While Dallas reaches a third orgasm, Billy breaks in and shoots her, splattering her blood all over Casey, his walls and his floor.
+Billy believes Casey when told that he does not have the heroin, but plans on torturing him with a saw and a blow torch anyhow, while he brags about his prowess and technique of cauterization as he sets to work. Billy is interrupted by cops ironically raiding the house next door. As Billy checks on it Casey is able to loosen the tape around his wrists and grabs a frying pan and sits back down. Billy returns and tells Casey the cops got the wrong house. As he is about to proceed, he notices something is wrong. But catching Billy off guard, Casey overpowers him, and leaves him in the garage.
+Nick calls Casey from a pay phone, apologizes for everything and admits he had stolen the heroin and money from the police. After he hangs up, it is revealed to us that Nick has been shot, and is bleeding severely, seemingly about to die. Finally, corrupt cop Kasarov (Mickey Rourke) arrives with a bag which contains Nick's head. He gives Casey until 7 p.m. to find the money but tells him that he does not care about the heroin. Kasarov then sees the garage with Ice and Billy tied up and Dallas dead and unloads a magazine into Ice and Billy. He then tells Casey to throw them out as it is garbage day.
+In the end, Casey calls Ice's boss and tells him that the heroin is being auctioned off at 7 p.m. at his house, setting up a gun battle between the Jamaicans and the corrupt officers. He recalls Nick's earlier words which promptly lead him to find the money and a wedding present in the spare tire of his car. He takes them, puts them in Dallas's Lamborghini Diablo car and goes to pick his wife up at the airport to presumably escape the country.
+
+
+QUESTIONS
+q: Who does Casey knock out while he is rapping on the phone?
+a: ['Ice']
+
+q: What does Dallas want?
+a: ['Dallas wants the money that she believes Nick left with Casey']
+
+q: What does Casey tie Dallas to?
+a: ['A chair']
+
+q: What does Nick leave in the guest bedroom?
+a: ['Suitcases']
+
+q: What business is Casey Wells in?
+a: ['Drug dealing']
+
+q: How does Dallas scare away the representative?
+a: ["She tells a story about Casey's drug-dealing and murdering past."]
+
+q: What does Nick apologize to Casey for?
+a: ['Stealing heroin and money from the police.']
+
+q: What is in the corrupt cop's bag?
+a: ["Nick's head"]
+
+q: By what time must Casey find the money?
+a: ['7 p.m']
+
+q: What is the name of the Jamaican Rasta hitman?
+a: ['Ice.']
+
+q: Why is Nick bleeding?
+a: ['Nick has been shot']
+
+q: What does Billy use to torture Casey?
+a: ['With a saw and a blow torch']
+
+q: What is Casey's profession after cleaning up his life?
+a: ['Architect.']
+
+q: When does Dallas say she is going to kill Casey?
+a: ['When he orgasms.']
+
+q: Where does the movie begin?
+a: ['Los Angeles']
+
+q: What type of drug did Nick bring to Casey's
+a: ['Heroin.']
+
+q: Who does Nick go to visit?
+a: ['Casey Wells']
+

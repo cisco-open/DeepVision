@@ -1,0 +1,35 @@
+PARAGRAPH
+Teenager Mia Thermopolis lives with her artist mother, Helen, and her black and white cat, Fat Louie, in a remodeled San Francisco firehouse. A somewhat awkward and unpopular girl, she is terrified of public speaking and often wishes to be "invisible". She has a crush on the popular Josh Bryant, but is frequently mocked by both him and his cheerleader girlfriend, Lana Thomas. Miaâs only friendships are in the form of the equally unpopular Lilly Moscovitz and Lilly's brother Michael, who secretly has a crush on Mia.
+Just before her 16th birthday, Mia learns her paternal grandmother, Clarisse, is visiting from (the fictional) Genovia, a small European kingdom. When Mia goes to meet her at a large house (later revealed to be the Genovian consulate), Clarisse reveals she is actually Queen Clarisse Renaldi, and that her son, Miaâs late father, was Crown Prince of Genovia. Mia is stunned to learn she is a princess and heir to the Genovian throne. In shock, Mia runs home and angrily confronts her mother, who explains she had planned to tell Mia on her 18th birthday, but that her fatherâs death has forced the issue. Queen Clarisse visits and explains that if Mia refuses the throne, Genovia will be without a ruler (a subplot involves a scheming baron and his unsightly baroness quietly rooting for Mia's downfall). Helen persuades a hesitant Mia to attend "princess lessons" with the Queen, telling her she does not have to make her decision until the upcoming Genovian Independence Day ball.
+Mia is given a glamorous makeover, the use of a limousine and a bodyguard (the Queenâs head of security, Joe). This and Mia's frequent absences for the lessons make Lilly suspicious and jealous, so she accuses Mia of trying to be like the popular girls. Mia breaks down and tells Lilly everything, swearing her to secrecy. However, the San Francisco Chronicle learns that Mia is the Genovian Crown Princess after hairdresser Paolo breaks his confidentiality agreement (so his work would be known), causing a press frenzy, and a sudden surge in popularity at school for Mia. In a craven urge for fame, many of her classmates bluff that they're friends of and or are the princess to reporters.
+At a state dinner, Mia embarrasses herself with her clumsiness, delighting her rivals for the crown. However, all is not lost as the situation amuses a stuffy diplomat, and the Queen tells Mia the next day she found it fun. Deciding it is time the two bonded as grandmother and granddaughter, the Queen allows Mia to take her out in Mia's late 60s Ford Mustang convertible for the day to the MusÃ©e MÃ©canique, an amusement arcade. The day almost ends badly when Mia's car gives out on a hill and rams backward into a cable car, but Queen Clarisse saves the day by "appointing" the attending police officer and the tram driver to the Genovian "Order of the Rose" (something she clearly made up on the spot), flattering them into dropping any charges. Mia sees this and is impressed with her grandmother.
+Later, Mia is delighted when Josh Bryant invites her to a beach party, but her acceptance hurts Lilly and Michael, with whom she had plans (the former wanting Mia to appear on her self-made cable show, and the latter wanting her to watch his band perform). Things go wrong when the press arrive, tipped off by Lana. Josh uses Mia to get his 15 minutes of fame by publicly kissing her, while Lana tricks her into changing in a tent, pulling it away as the paparazzi arrive, giving them a scandalous shot of her in a towel. She breaks down into tears in her mother's arms when she gets home. The photos appear on tabloid covers the following day, leaving Queen Clarisse furious at Mia. A humiliated Mia tells her that she is renouncing the throne, feeling she is nowhere near ready to be a true princess. Joe later reminds the Queen that although Mia is a princess, she is still a teenager and her granddaughter.
+Back at school, Mia attempts to rescue her friendships with Lilly and Michael by inviting them to the Genovian Independence Day Ball, gets back at Josh for using her by hitting a baseball into his gut during gym class, and finally stands up to Lana when she is cruel to Lillyâs friend Jeremiah, publicly humiliating her by smearing ice cream on her cheerleader outfit and telling her that while she (Mia) might grow out of her proclaimed odd ways, she (Lana) will never stop being a jerk; the teachers don't interfere, knowing Lana deserved it. Whilst Lilly is excited at the prospect of attending a royal ball, Michael, brokenhearted over Mia's initial feelings for Josh, turns her down. Clarisse apologizes to Mia for being furious at her over the beach incident, and states that she must publicly announce her decision to become princess of Genovia. Mia, terrified at this large responsibility placed upon her, plans to run away. However, when she finds a letter from her late father, his touching words make her change her mind, and she makes her way to the ball. Miaâs car breaks down in the rain, but she is rescued by Joe, who had suspected she was going to run.
+When they arrive, a drenched and untidy Mia voices her acceptance of her role as Princess of Genovia. Mia gets dressed up and accompanies Clarisse to the ballroom, where she is formally introduced and invited to dance. Michael, accepting an apologetic gift from Mia (a pizza with M &amp; M candies cleverly topped to say "sorry"), arrives at the ball, and after a quick dance, they adjourn to the courtyard. Mia confesses her feelings to him, stating that even when she was constantly teased and embarrassed at school, he liked her for who she truly was. Mia shares her first kiss with Michael, while Clarisse and Joe are seen holding hands. In the final scene Mia is shown on a private plane with Fat Louie, writing in her diary, explaining she is moving with her mother to Genovia, just as the beautiful royal palace and landscape come into view below.
+
+
+QUESTIONS
+q: Mia is the princess of what country?
+a: ['Genovia']
+
+q: Which city does Mia lives in?
+a: ['San Francisco']
+
+q: Who is Fat Louie?
+a: ["Mia's fat cat"]
+
+q: How old in Mia Thermopolis?
+a: ['16']
+
+q: Which consulate, does Mia meets her grandmother, Clarisse?
+a: ['the Genovian consulate']
+
+q: Who is fat Louie?
+a: ['A cat.']
+
+q: What does Mia and Michael do in the palace garden?
+a: ['Share a first kiss']
+
+q: What is the name of Mia's mother?
+a: ['Helen']
+

@@ -1,0 +1,23 @@
+PARAGRAPH
+Prakash Menon (Jayaram) is a successful architect based in Thiruvananthapuram, Kerala. His company's Kochi branch was not doing so good and so the company decided to relocate him to Kochi to make things good. He was supposed to replace his equivalent in Kochi named Anu Pillai (Suchitra Krishnamoorthi). Anu Pillai is not happy about the company's decision since she does not want to move out of Kochi and she objects. Prakash in turn comes to Kochi, understands the office situation and decides to talk to Anu Pillai in person.Anu Pillai is living with her 8 year old kid called Chikkumol (Baby Shamili). She is very naughty and Anu Pillai is not able to get a caretaker for this kid as no caretaker is able to handle the kid. Prakash Menon meanwhile falls in love with Anu after seeing her in a shopping mall. He finds from his friend Mukundan that that Anu is in search of a caretaker. Prakash Menon reaches Anu Pillai's home and takes up the job under the name of Vasudevan with the intention of getting her to love him. What follows is some funny situations where Prakash has to take care of the kid, cook for the family and kids and also hide himself from those at his office. Eventually Anu goes to Prakash Menon's house to request him not to take charge in cochin and on seeing him understands that he had tricked her. But Prakash resigns from his job and appears to have gone back to Trivandrum. Anu also starts to understand his love and feels sad. But on reaching her home, she finds that Prakash is back again as Vasudevan. Thus the movie ends on a Happy note.
+
+
+QUESTIONS
+q: Is Anu happy with her company's decision?
+a: ['no']
+
+q: Who falls in love with Anu?
+a: ['Chikkumol (Baby Shamili)']
+
+q: who does Prakash have to take care of?
+a: ['Chikkumol (Baby Shamili)']
+
+q: How does Anu feel?
+a: ['Unhappy in the beginning and then happy by the end.']
+
+q: Who is Anu''s child?
+a: ['Chikkumol (Baby Shamili)']
+
+q: Who plays Anu Pillai
+a: ['Suchitra Krishnamoorthi']
+

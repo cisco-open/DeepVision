@@ -1,0 +1,47 @@
+PARAGRAPH
+After an introduction with the cast singing "Seasons of Love," the film opens with apartment tenants (including two friends and roommates, Mark and Roger) expressing their anger with suddenly being asked to pay rent which had previously been waived by the landlord. Collins, a former roommate of Mark's and friend to both Mark and Roger, returns from out of town and is attacked by three men and left for dead in an alley ("Rent"). Benny, the landlord and former roommate of Mark and Collins, who has married into a wealthy family, offers to give Mark and Roger free rent again if they can convince Maureen (Mark's ex-girlfriend) to stop her protest. The protest is to take place at Maureen's performance space which Benny is planning to to turn into a cyber-cafe ("You'll See").Angel Dumott Schunard, who is an AIDS-positive drag queen drummer, meets Collins, who is also AIDS-positive, in the alley. We learn that these two characters are romantically interested in each other. Later that night, Roger mourns the loss of his girlfriend April, who committed suicide after learning she had HIV, and sings of his desire to write one lasting song before his own death from HIV ("One Song Glory"). Mimi, a night club dancer addicted to heroin, enters Roger's apartment and flirts with him ("Light My Candle").The next morning, Roger and Mark meet Angel, who performs a song-and-dance number for them ("Today 4 U"). Angel invites them to join him and Collins at a meeting at a local community center. Roger declines but Mark accepts, telling them he will be there after he goes to help Maureen, who had called and asked for help with a technical problem. Mark goes to help Maureen, only to meet Joanne Jefferson, Maureen's new lover. They talk about Maureen's "hobby" of cheating ("Tango: Maureen"). He then proceeds to the Life Support Meeting. While there, Mark asks permission from the Support group members to film them for his new documentary. A man in the group talks about how he finds it hard to accept what they teach in the group, "but I try to open up to what I don't know, because reason says I should have died 3 years ago" ("Life Support"). Forward to a night club, with Mimi performing a song and dance routine, singing of her desire to go out and have a good time before her life ends ("Out Tonight"). She barges into Roger's apartment, where he gets angry at her ("Another Day").The next day, Mark asks Roger if he wants to go to the Support group meeting with him, but Roger declines. At the meeting, the people began to question, "Will I lose my dignity? Will someone care? Will I wake tomorrow from this nightmare?" ("Will I?") During this, Roger joins the group, much to Angel's, Collins', and Mark's joy. On the way back to the apartments, the four friends talk about leaving New York and going out to Santa Fe and opening a restaurant ("Santa Fe"). After the subway ride, Mark and Roger go off to help Joanne at the lot where the protest will take place. Walking down the streets, Collins and Angel express their love for each other in song ("I'll Cover You").Maureen's protest happens later that night ("Over the Moon"). Benny has put the police on standby. This proves to be a bad mistake on his part. There is a riot, which causes Maureen to get even angrier at him. That night at the Life Cafe, everyone meets up. Mark reveals that he got the riot on film and the show Buzzline wants to put it on their show. Benny tells everyone that he is sorry (with the unmoved Maureen telling him to "go to hell") and that the reason his wife wasn't there was that there was a death in the family. It turns out to be his dog, who Angel caused to jump off their twenty-third-story apartment, not knowing it was his. They then perform "La Vie Bohème" and in the middle, Roger and Mimi perform their own song outside expressing their love for each other ("I Should Tell You"). Roger finds out that Mimi is HIV-positive, and Mimi already knows that Roger is too. The two re-enter the cafe and celebrate their newfound relationship ("La Vie Boheme B").The gang celebrates the New Year together, with Mimi vowing to give up her drug habit and go back to school. However, they are locked out of their apartment, and Angel breaks the padlock with a garbage can. They enter, only to find that all of their things are gone.Joanne serves as Mark's lawyer and they sell his footage to Buzzline and he negotiates a job there. He will be paid $3,000 a segment. During their conference with Alexi Darling, the Buzzline supervisor, Joanne sees Maureen flirting with another woman. Outside, after being scolded by Joanne, Maureen proposes to her, and Joanne accepts. Forward to their engagement party, where Maureen flirts with yet another woman. Angry, Joanne threatens to leave her, while Maureen becomes angry at Joanne for "making" her be too monogamous ("Take Me Or Leave Me"). They then walk out on each other. Benny has repossessed all of Roger's and Mark's things, but it is revealed that Mimi later had dinner with Benny and he had changed his mind. Roger finds out, and believes that she is cheating on him with Benny. During the next song, Mimi resumes her drug habit and falls into a state of despair, while Angel gets progressively sicker and eventually dies ("Without You").The next scene is Angel's funeral in a large church. Collins and everyone else at the funeral perform the same song he and Angel had sung with each other earlier ("I'll Cover You" reprise). After this, Roger and Mimi argue about their past relationship, along with Joanne and Maureen. In their argument, Roger reveals that he has sold his guitar, bought a car, and is planning to leave for Santa Fe ("Goodbye Love"). After he arrives in Santa Fe he discovers that he still loves Mimi and decides to return. During this time Mark decides to finish his own film and quits his job at Buzzline ("What You Own"). However after Roger returns he finds out that Mimi has quit rehab and has gone missing. After a while, Joanne and Maureen find her at a park. She had been living on the streets. As she is about to die, Roger sings the song he has been writing over the last year ("Your Eyes"). Mimi is near death, but regains consciousness and says, "I was heading toward this warm, white light. And I swear, Angel was thereand she looked good! [Collins laughs.] She told me, 'Turn around, girlfriend, and listen to that boy's song.'" The six friends perform the finale. During the last song ("Finale B"), we see Mark's documentary, entitled "Today 4 U: Proof Positive" ( Today 4 U was the song Angel sang when he first met Roger and Mark) with the last frame being Angel, out of drag, holding his hand up to the light
+
+
+QUESTIONS
+q: Where do the group go after the protest is over ?
+a: ['The Life Cafe']
+
+q: Who takes a job at Buzzline?
+a: ['Mark']
+
+q: What is the documentary about?
+a: ['AIDS', 'about people living with HIV/AIDS']
+
+q: What is Mark Cohen's profession
+a: ['Film Maker', 'Jewish filmmaker']
+
+q: What disease do Angel and Collins both have?
+a: ['AIDS', 'HIV']
+
+q: What did Roger's ex girlfriend die of ?
+a: ['Committed suicide because she find out she was HIV positive.']
+
+q: On what day was Mark and Roger visited by Collins and Angel?
+a: ['Christmas Day']
+
+q: Which two characters find Mimi on the street, nearly dead?
+a: ['Maureen and Joanne', 'Joanne and Maureen']
+
+q: How are Mark and Roger related in the movie?
+a: ['AIDS support group', 'Roommates']
+
+q: Who breaks the lock with the garbage can?
+a: ['Angel']
+
+q: When do Mark and Roger reunite with Collins?
+a: ['Christmas Eve 1990', 'At the protest']
+
+q: What do Roger and Mimi reveal ?
+a: ['Their love for each other']
+
+q: Roger returns because he is in love with whom?
+a: ['Mimi']
+
+q: Who proposes to Joanne?
+a: ['Maureen']
+

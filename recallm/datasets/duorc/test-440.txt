@@ -1,0 +1,39 @@
+PARAGRAPH
+Tutul and Shyamal at race course
+Shyamal (Barun Chanda) is an ambitious sales manager in a British fan manufacturing firm in Calcutta, where he is expecting a promotion shortly. He is married to Dolan and lives in a company flat. He aspires to become the company director.
+His sister-in-law, Tutul (Sharmila Tagore), arrives from Patna to stay with them for a few days. She is given a tour of the life they lead and the many upscale spaces they inhabitâthe restaurants, the beauty parlours, clubs and race courses. Tutul, whose father Shyamal had once been a student under, greatly admires him and his idealism. Secretly she is envious of her sister's marriage with him.
+Life goes on smoothly for Shyamal until he learns that a consignment of fans meant for export is defective just before the shipment of a prestigious order. The problem is that the fans were painted with a flaw. The company is under a contract requiring the shipment be delivered on time. There is a clause permitting delay in case of civil disturbance. To escape blame Shyamal hatches a plan with the labour officer to provoke a strike at the factory. A factory watchman is badly injured, a false riot is organised, and a lock-out declared. The delay caused by the strike and riot are used by the company to allow strikebreakers to make needed repairs.
+For his "efficient" handling of the crisis, Shyamal is promoted, and there is congratulations all around. However Shyamalendu has fallen in the eyes of Tutul and himself. He is finally at the top, successfulâand desolate.
+
+
+QUESTIONS
+q: What defect is found on the fans of a prestigious order?
+a: ['they are painted with a flaw']
+
+q: How does Shyamal plot to escape blame?
+a: ['He and a labour officer provoke a strike at the factory']
+
+q: In which city Shyamal works?
+a: ['Calcutta']
+
+q: Who is expecting a promotion?
+a: ['Shyamal']
+
+q: Who is Shyamal married to?
+a: ['Dolan']
+
+q: Who plays Tutul in the movie?
+a: ['Sharmila Tagore']
+
+q: In what position Shyamal works in British fan manufacturing firm?
+a: ['Sales manager']
+
+q: Where does Shyamal work?
+a: ['a British fan manufacturing firm in Calcutta']
+
+q: Who arrives from Patna?
+a: ['Tutul']
+
+q: Why is Shyamal promoted?
+a: ['because of his "efficient" handling of the crisis']
+

@@ -1,0 +1,42 @@
+PARAGRAPH
+Salesman Nick Halsey (Will Ferrell) is fired from his job of 16 years following an unspecified incident in Denver related to his alcoholism. He sits in the parking garage after leaving the office, drinking from a flask. He then takes the Swiss Army Knife he was given as a farewell gift and stabs it into his supervisor's car tires, only to leave the knife (which has his name on it) and run away when he is unable to pull it back out from the tire. He immediately drives to a convenience store and buys a large amount of beer. When he returns home, he finds his wife is gone, the locks have been changed, and his belongings have been strewn all over his front lawn. His wife has left him a letter telling him that she is leaving him, also over the Denver incident, and to not contact her.
+Nick spends the night on the lawn. In the morning, he leaves to buy beer and food, returning to find his company car being taken back. In addition, his credit cards no longer work, he has been blocked from the joint checking account he has with his wife, and his phone service is terminated. When the police ask him to vacate the premises, Nick gets them to contact his AA sponsor, Detective Frank Garcia (Michael PeÃ±a), who provides him with a permit for a yard sale, allowing him three more days before he must move on. Nick gets a neighborhood boy, Kenny (Christopher Jordan Wallace), to help him sell his possessions, assuring Kenny he will pay him for the help, and also that he will teach him to play baseball. The first day's sale is unsuccessful as Nick is unwilling to let items go.
+Nick meets his new neighbor, a pregnant young woman named Samantha (Rebecca Hall), and invites her to his backyard. There, he tells her that he had been sober for six months until attending a conference in Denver, during which he had gotten blackout drunk with a female coworker; he awoke with no memory of the night before, and soon learned that she had lodged a complaint against him, setting the stage for his firing.
+Nick then finds a yearbook with a friendly message from an old classmate, Delilah (Laura Dern), whom he tracks down and visits. The reunion is awkward, but Delilah nevertheless gives Nick a hug and tells him that he is a good person deep down.
+Now completely broke, Nick has to go without alcohol and soon experiences withdrawal. Samantha gives him a Valium and tells him that he needs help. He replies that she is no better than him because she puts up with her husband's drinking and frequent absences. Samantha storms off, angry and hurt.
+The next morning Nick awakes to find Kenny has arranged his belongings on the lawn and has put price tags on them. Most of the things get sold by that evening. Nick apologizes to Samantha, who admits that he was right and that she had told her husband to come home or get a divorce. She, Nick and Kenny then go out to dinner. In the restaurant restroom, Nick encounters his former supervisor, who explains that the incident in Denver probably did not happen. They fired the female employee he got drunk with because it was discovered she has a history of suing fellow employees for sexual harassment, and that Nick probably would have gotten his job back if only he hadn't slashed the supervisor's tires. Nick expresses little reaction to this news, but when the supervisor leaves a glass of beer in the restroom, Nick takes it back to him without drinking a drop.
+After dinner, Nick meets with Frank, and answers Frank's phone while he steps out of his office. The caller is Nick's wife, Catherine, telling Frank she is waiting at his house. Nick confronts Frank, who admits Catherine has been staying with him ever since she left Nick. The two men have a fight, and Frank says Catherine deserves better than Nick. It is also divulged that Nick and his wife were both recovering alcoholics. Later, while Frank drives Nick home, he observes that, because Catherine got sober and Nick didn't, their marriage had little chance of succeeding, and proceeds to list the ways Nick failed her as a husband. He then hands Nick a packet of divorce papers for him to sign, along with some spending money and keys to the house. Nick tells Frank to drop him off on the nearest curb; before he gets out of the car, he asks Frank to tell his wife he's sorry. He walks home the rest of the way, at one point stopping to look into the convenience store where he regularly bought beer, but moves on.
+The next day, he settles up with Kenny â including repaying him for what he skimmed from Kenny's profits for beer money â and receives an appreciative hug from Samantha, whose husband has come home. She hands him the Polaroid photo she took of him a few days prior, with the message from her fortune cookie taped to the bottom, which says "Everything is not yet lost."
+
+
+QUESTIONS
+q: What does Nick's supervisor leave in the restroom?
+a: ['His knife']
+
+q: What does he use to stab his supervisor's car tires
+a: ['A Swiss Army Knife']
+
+q: How long has  Nick Halsey been a Salesman?
+a: ['16 years']
+
+q: What does Frank give Nick to sign?
+a: ['Divorce papers']
+
+q: Does Salesman Nick Halsey like drinking?
+a: ['yes']
+
+q: What was Nick given as a farewell gift?
+a: ['A Polaroid photo']
+
+q: Who is Nick's AA sponsor?
+a: ['Frank garcia']
+
+q: Who has Nick's wife been staying with?
+a: ['The neighbors']
+
+q: When he comes back home,where does he find his things?
+a: ['All over the front lawn']
+
+q: Why is Nick fired from his job?
+a: ['An unspecified incident in Denver related to his alcoholism']
+

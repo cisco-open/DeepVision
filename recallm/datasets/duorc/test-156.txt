@@ -1,0 +1,31 @@
+PARAGRAPH
+After the mayor of the fictional village San Pedro de los Saguaros is lynched by angry villagers, a petty PRI party member named Juan Vargas (DamiÃ¡n AlcÃ¡zar) is appointed temporary mayor by the state governor. At first, the new mayor attempts to do good, but a lack of funds, the fact that the majority of the villagers don't speak Spanish, and the opposition of both the local doctor (an obstreperous PAN mayoral candidate) and DoÃ±a Lupe (the brothel owner) cripple his efforts. Seeking help from his superior, LÃ³pez, the secretary to the PRI governor, he is given a copy of the constitution of Mexico and a revolver and is told that the only law is Herod's law: literally translated: "either you get screwed or you get fucked" ("o te chingas o te jodes"). On his way back, he meets a gringo on the road when his car breaks down; the gringo looks under the hood, reconnects a wire and then asks Vargas for hundreds of dollars. He says that he is the mayor of San Pedro and that he is good for the money, then laughing it off as he drives away. Returning to the town, a bribe from DoÃ±a Lupe sets him on the path to corruption.
+When Vargas thus has become the executive, legislature and judiciary of the village all in one person he soon becomes corrupt, first accepting the bribes from DoÃ±a Lupe (which he extends into paying free visits to the brothel's girls), and soon moving on to extort the local store owner and all of the villagers for even the smallest infractions. When questioned, he declares that he is funding a new project to bring electricity to the village with the help of an American engineer (in reality, the gringo he met earlier, having shown up in San Pedro wanting his money)âa farce which is obvious when only one utility pole is raised; still, the villagers are oblivious to this, except for the doctor. Vargas becomes progressively more corrupt, and when DoÃ±a Lupe's new bodyguard severely beats him after she resists his authoritarianism, he kills them both in retaliation. He incriminates FilemÃ³n, the local drunk, for the crime, and on the way to deliver him to the state's authorities he kills FilemÃ³n in the middle of the road. When he returns to the town, he discovers that his wife (not blind about his visits to the brothel) and the gringo have an affair, and the gringo flees. Meanwhile, Vargas levies false accusations against the local doctor, assigning him the role of intellectual author in DoÃ±a Lupe's murder; nonetheless, it is also revealed that the doctor has been sexually abusing the teenage girl that serves as his maid, and Vargas uses this to blackmail him into leaving the town or face incarceration. Having gotten rid of his enemies, Vargas becomes obsessed with power to the point where the whole town despises him, leving absurd taxes for everything, incarcerating those who refuse to pay, seizing their possessions (including animals), and rewritting several laws to his own absurd and tyrannical whims.
+It is in the middle of this that LÃ³pez and his henchman, TiburÃ³n, arrive to San Pedro, on the run after LÃ³pez's men tried to shoot his rival for the governorship of the state, who is also president AlemÃ¡n's nephew. Seeing that the town had riches after all, LÃ³pez demands all the money Vargas has extorted from the villagers. Discovering that his wife has escaped with the gringo, taking all of the fortune with them, Vargas becomes mad and kills both LÃ³pez and TiburÃ³n. Then, Vargas seems to meet his demise when he is surrounded by a crowd of torch-wielding villagers, but unlike the previous mayor, he avoids this fate by climbing up the sole pole he raised, and is saved when several police cars arrive, hot on the trail of LÃ³pez. Vargas reappears at the very end of the film delivering a speech to the Mexican National Congress, a spot he earned as prize for killing LÃ³pez. As Vargas says in his speech that the PRI must stay in power forever, the film cuts to the scene of a new mayor coming to San Pedro de los Saguaros in exactly the same way that Vargas did at the beginning.
+
+
+QUESTIONS
+q: what is stands for PAN?
+a: ["president Alemán's nephew"]
+
+q: who is president of on 1949?
+a: ['Alemán']
+
+q: what is reason to mayor will be killed?
+a: ['lying, stealing, killing']
+
+q: What does o te chingas o te jodes translate to?
+a: ['"either you get screwed or you get fucked"']
+
+q: what is the real meaning of the title?
+a: ['"either you get screwed or you get fucked"']
+
+q: Who's the only educated in the village?
+a: ['The local doctor']
+
+q: Why does the state governor chose Juan Vargas as a replacement?
+a: ['The PRI must stay in power']
+
+q: Who killed the mayor?
+a: ['Angry villagers']
+

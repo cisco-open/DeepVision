@@ -1,0 +1,77 @@
+PARAGRAPH
+Hepburn and Holden
+Sabrina Fairchild (Audrey Hepburn) is the young daughter of the Larrabee family's chauffeur, Thomas (John Williams), and she has been in love with David Larrabee (William Holden) all her life. David is an oft-married, idle playboy, crazy for women, who has never noticed Sabrina, much to her and the household staff's dismay. Distraught, she leaves her father a suicide note and tries to kill herself by carbon monoxide poisoning. She fails when David's workaholic older brother, Linus (Humphrey Bogart) intervenes.
+Sabrina then attends culinary school in Paris called Mount Douglas, and after 2 years she returns home as an attractive and sophisticated woman. David, after initially not recognizing her, is quickly drawn to her.
+Linus sees this and fears that David's imminent marriage to Elizabeth Tyson (Martha Hyer) may be endangered. If the engagement is broken, it would ruin a profitable opportunity on a great corporate merger between Larrabee Industries and Elizabeth's very wealthy father's business. Linus confronts David about his irresponsibility to the family, the business, and Elizabeth, but David is unrepentant.
+Linus then tries to distract Sabrina from David by drawing her affections to himself. He succeeds, but in the process falls in love with her, though he cannot admit this even to himself.
+Linus reveals his maneuver to Sabrina, leaving her disillusioned about him and David. Sabrina agrees to leave and never come back, and Linus arranges for her to return to Paris by ship the next day.
+The next morning, Linus has second thoughts and decides to send David to Paris with Sabrina. This means calling off David's wedding with Elizabeth and the big Tyson deal, and he schedules a meeting of the Larrabee board to announce this. However, David shows up at the meeting and declares that he's decided to marry Elizabeth after all. As a result, Linus finally recognizes his own feelings for Sabrina. He rushes off to join her on the ship, and they sail away together to Paris.
+
+
+QUESTIONS
+q: where does sabrina work at?
+a: ['Paris']
+
+q: Who does Linus give a ticket to for Paris?
+a: ['David.', 'David']
+
+q: why did sabrina go to paris?
+a: ['Attends culinary school.']
+
+q: Where does Linus take Sabrina?
+a: ["Martha's Vineyard."]
+
+q: Where does Linus entice Sabrina to move?
+a: ['Paris']
+
+q: Who does David fall in love with?
+a: ['Elizabeth.']
+
+q: What is David's older brother's name?
+a: ['Linus']
+
+q: Which Vineyard does Linus take Sabrina to?
+a: ["Martha's Vineyard", 'Does not say in passage']
+
+q: Who does David fall in love with while Sabrina is in Paris?
+a: ['Elizabeth Tyson.', 'Elizabeth']
+
+q: Who is Sabrina madly in love with?
+a: ['David Larrabee']
+
+q: Where does Sabrina work at?
+a: ['Vogue Fashion.']
+
+q: Who does Sabrina mistakenly confess her love to?
+a: ['Linus.']
+
+q: who is sabrina in love with?
+a: ['David Larrabee']
+
+q: Which actor plays Linus?
+a: ['Harrison Ford', 'No Answer']
+
+q: who does david fall in love with?
+a: ['Elizabeth']
+
+q: Why is Sabrina in love with Linus
+a: ['He wooed her away from David']
+
+q: Why is Linus's proposal to Sabrina odd?
+a: ["He's only doing it to distract her from David", "He wasn't planning on falling in love with Sabrina and did so by accident."]
+
+q: Sabrina moves to Paris to become a what?
+a: ['NEVER COME BACK', 'never come back']
+
+q: who does sabrina mistakenly confess her love to?
+a: ['Linus']
+
+q: Who embraces Sabrina at the end?
+a: ['Linus.', 'Linus']
+
+q: Which magazine does Sabrina Fairchild begin working for?
+a: ['Vogue Magazine', 'Vogue']
+
+q: where does linus take sabrina?
+a: ['Paris']
+

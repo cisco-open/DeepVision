@@ -1,0 +1,45 @@
+PARAGRAPH
+A tribe of Vikings feel flustered because in every raid they find their target locations devoid of people. Cryptograf, an advisor to Viking chief Timandahaf, says that the enemies always disappear because "Fear gives them wings". Timandahaf excitedly concludes that they must find a "Champion of Fear", who can teach them to be great cowards so they can fly, making them invincible. The chief says he'll give anything to whoever can bring him this Champion of Fear. Cryptograf hatches a secret plan to seize power and tells the chief they'll find the Champion of Fear in Gaul.
+During a typical day in the Gaulish village, chief Vitalstatistix announces the imminent arrival of his nephew Justforkix, who is to be trained to be a man. When Justforkix arrives from Parisium, he doesn't look like warrior material. He uses his bird SMS (Shortmessageservix) to send messages to his "babes". Besides chasing girls, he's into hi-tech, nightlife, and dancing â and he's a vegetarian, much to the dismay of Obelix, who can't get him to try wild boar.
+In Norway, as the Vikings prepare to start their quest, the chief's wife, Vikea, orders her husband to get her some flat-packed easy-to-assemble furniture from his raids, while his daughter, Abba, insists on going along, but meets with a flat refusal. Abba disguises herself as a man and goes anyway.
+Meanwhile, Asterix and Obelix proceed with training Justforkix, but with little (if any) success. He runs screaming from any danger and refuses to drink (non-organic) potion. Upon the Vikings' arrival in Gaul, Cryptograf explains to his incredibly stupid son, Olaf, that he must capture the Champion of Fear, and claim the prize of anything he wants, which Cryptograf says is the chief's daughter, Abba. Since the chief has no son, this would put Olaf in line to become the next chief (with Cryptograf calling the shots, of course).
+Olaf captures Justforkix, and Asterix and Obelix have to retrieve him before the next full moon when his father, Doublehelix, plans to return to their village. Asterix and Obelix arrive on Iceland shortly after the Vikings, but they can't rescue Justforkix. He doesn't want to leave because he considers the Vikings (especially Abba) as his friends. However, the Vikings decide to test Justforkix's flying skills by throwing him off a cliff. Cryptograf secretly rigs up a rope to Justforkix, allowing him to be suspended in the foggy air and thus convincing the Vikings that he really can fly.
+The Vikings rush off to Olaf's wedding ceremony, leaving the Champion of Fear dangling. Asterix and Obelix return just in time to rescue Justforkix before the rope breaks. On the way to Gaul, Justforkix sneaks some magic potion from Asterix and swims back to stop the wedding and to rescue Abba. Later, he discovers that he really can fly as he rescues Abba from another precarious spot - using a hang-glider improvised from a ship's mast and sail.
+Back in the Gaulish village, everyone gathers to celebrate the wedding of Justforkix and Abba. All the Vikings (except Abba because of her improvised ear muffs) finally experience real fear when they hear a ballad sung by Cacofonix. When Asterix asks him what fear is good for, Getafix explains that we can only be courageous when we have some kind of fear to overcome.
+
+
+
+
+
+
+The movie's soundtrack, "Tous les secrets", by Celine Dion
+
+
+QUESTIONS
+q: What causes the Vikings to experience fear?
+a: ['magic']
+
+q: Why does Cryptograf say the enemies are always gone?
+a: ['Because fear gives them wings.']
+
+q: What are the Vikings looking for?
+a: ['village']
+
+q: Who is the chief of the Gaul village?
+a: ['Obelix']
+
+q: What is Cryptigraf's position?
+a: ['chief']
+
+q: When do the Vikings finally experience real fear?
+a: ['When they hear a ballad sung by Cacofonix.']
+
+q: How do the Vikings test Justforkix's flying skills?
+a: ['by throwing him off a cliff']
+
+q: What does the chief say he'll give to whoever can bring him this Champion of Fear?
+a: ['Anything']
+
+q: Who is Cryptograf?
+a: ['He is  advisor to Viking chief Timandaha.']
+

@@ -1,0 +1,31 @@
+PARAGRAPH
+As the movie begins the viewer is introduced to PricÃ², a young Italian boy who lives with his parents in a middle-class household. His mother, Nina, takes him to a local park where he enjoys his time out while watching a puppet show, but is also concerned with a handsome lover named Roberto (with whom Nina has shared a past romance) courting his mother while he is assumed to not be paying attention. As the boy returns home, the family has dinner while PricÃ² reflects on his day in the park. Later that night, after his mother puts him to bed, she runs off with the stranger, leaving PricÃ²'s father distressed at the idea of having to raise his son himself. While their neighbors share a number of rumors concerning the disappearance of Nina, it is quickly agreed that she ran off with another man. While concerned with her disappearance, Nina quickly returns to the home after a few days for the sake of their son. While the father, Andrea, is not entirely pleased with this arrangement, he relents so that his son may grow up in the same house as his mother.
+To distance herself from Roberto, Nina and Andrea agree to go on vacation with their son to a nearby beach hotel. The vacation occupies their time, seemingly happy with the prospect of a reunion. After Andrea says that he must go back home to his job, he suggests that Nina stay with PricÃ² a few extra days that they may enjoy their time. After leaving, Nina is again pursued by Roberto who shows up unexpectedly at a hotel dance, at first successfully keeping him away. But after yielding to him once again, PricÃ² is dismayed by her lack of faith. After PricÃ² runs away, he is eventually brought back by the police officers while the hotel residents quickly start their own rumors as to the cause of his departing.
+After PricÃ² and his mother return to their home town, Nina tells him outside their home to go on up and that she'll be up after going on an errand. When PricÃ² goes to see his father upstairs, he and his father realize the truth of why Nina is not there. Again distressed at the elopement of his wife, Andrea enrolls PricÃ² in a boarding school. While his son is away, Andrea kills himself in despair. When PricÃ² is told of the death at the school, both his mother and faithful maid are there to comfort him. Though very young, PricÃ² understands the nature of his mother, refusing to go to her for comfort in favor of his maid. The film ends with PricÃ² walking off, refusing to acknowledge his mother.
+
+
+QUESTIONS
+q: Who is Nina's lover?
+a: ['Roberto']
+
+q: Who plays Agnese?
+a: ['Giovanna Cigoli']
+
+q: Who is the maid that offered to take care of Prico?
+a: ['His maid']
+
+q: Who in Alassio is attracted to Nina?
+a: ['This is never stated but can be assumed that it is Roberto']
+
+q: Where did Nina spend the day with her son before leaving to be with her lover?
+a: ['A hotel']
+
+q: What is the name of Prico's father?
+a: ['Andrea', 'Andrea.']
+
+q: Who is Nina's son?
+a: ['Pricò', 'Prico.']
+
+q: What resort town on the Italian riviera did the family go to?
+a: ['beach hotel']
+

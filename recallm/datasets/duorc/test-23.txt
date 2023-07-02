@@ -1,0 +1,33 @@
+PARAGRAPH
+Yamraaj is a tale of greed. The film is about two thieves Kishan (Jackie Shroff) and Birju (Mithun Chakraborty) who dream to become the biggest dons of their city. They start of by working for the city's biggest don Yamraaj (Gulshan Grover), performing assassinations, robberies etc. While Birju has no problem with killing or looting, Kishan's conscience starts to trouble him when he assassinates an honest Police Officer named Hamid Khan (Kiran Kumar) who was determined on ending all crime in the city. The more he finds out about Officer Hamids life, the more guilty he feels. He decides to leave the life of crime and start a new life but Birju refuses because he is obsessed by his dream. The difference of opinion leads to conflict between the 2 childhood friends and results in separation. Birju pursues his dream of becoming Yamraaj while Kishan tries to repent for his crime. Will Birju return to the life of good or will he continue to live a life of darkness? Will Kishan be able to repent his crime? Will Birju ever become Yamraaj?
+The answer lies in Rajiv Babbar's *YAMRAAJ*!!
+
+
+QUESTIONS
+q: what are the two theives , who dream to become the biggest don.?
+a: ['Kishan, Birju .dream to become the biggest dons of their city.']
+
+q: who is the greatest don?
+a: ['Yamraaj']
+
+q: who tries to repent for his crime?
+a: ['Kishan']
+
+q: kishan's conscience starts troubling whom?
+a: ['Birju']
+
+q: who is the city's biggest don.?
+a: ['Yamraaj']
+
+q: who decided to start a new life to repent for his crime.?
+a: ['Kishan']
+
+q: who are the two thieves?
+a: ['Birju & Kishan']
+
+q: who does kishan assassinate?
+a: ['Hamid Khan']
+
+q: who plays the character of birju?
+a: ['Mithun Chakraborty']
+

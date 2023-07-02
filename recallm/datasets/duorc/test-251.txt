@@ -1,0 +1,18 @@
+PARAGRAPH
+Ernie Davis (Rob Brown) is a young African American growing up in Pennsylvania with his same-age uncle Will Davis Jr. (Nelsan Ellis), in the late 1940s during a time of racism and discrimination. Davis lives with his extended family, including his grandfather, Willie 'Pops' Davis (Charles S. Dutton), who guides and educates him. Davis' mother, Marie Davis (Aunjanue Ellis), eventually returns to their residence to inform the family that she has remarried and can now afford to raise Ernie at her own home in Elmira, New York. Upon relocating to Elmira, Davis enrolls in a Small Fry Football League and excels on the field as a running back.
+Several years later, Syracuse University football head coach Ben Schwartzwalder (Dennis Quaid) searches for a running back to address the absence of Jim Brown (Darrin Dewitt Henson), the graduating player completing his All-American senior season. Schwartzwalder is impressed with Davis after viewing footage of him playing for Elmira Free Academy. Schwartzwalder convinces Brown to accompany him on a recruiting visit to see Davis and his family in hopes of luring him to sign with Syracuse. After their visit, Davis decides to enroll at Syracuse and spurns the recruiting efforts of other colleges.
+At the start of the 1959 college football season, Davis immediately excels playing for the varsity team, to lead Syracuse to victories over several college football teams. After Syracuse defeats UCLA to conclude the regular season undefeated, the team decides by choice to play the 2nd ranked Texas Longhorns in the Cotton Bowl Classic. During the game on January 1, 1960, Davis boldly attempts to lead his team to victory but is hampered by an injured leg and biased officiating. Towards the end of the game, Davis scores a crucial touchdown to preserve a Syracuse lead. The matchup concludes with a victory for Syracuse, and its first national championship.
+In 1961, Davis goes on to win the Heisman Trophy following his senior season in college. He later becomes a professional athlete in the National Football League and signs a contract with the Cleveland Browns. Later however, following a series of health concerns, Davis is taken to a hospital to undergo medical testing. During a routine practice session, team owner Art Modell (Saul Rubinek) informs Davis he will be unable to play the upcoming season due to his condition. Subsequently, Davis holds a press conference and announces he has been diagnosed with leukemia. The Cleveland Browns honor Ernie by allowing him to suit up in uniform and join the team while running out before a televised game.
+The film's epilogue displays a series of graphics stating that Davis died on May 18, 1963 at the age of 23; while in condolence, President Kennedy expresses sympathy for Davis' fine character as a citizen and an athlete.
+
+
+QUESTIONS
+q: What state was Ernie Davis raised in?
+a: ['Pennsylvania']
+
+q: At what school was Ernie Davis a running back?
+a: ['Syracuse University']
+
+q: Who was first African-American to win the Heisman Trophy?
+a: ['Ernie Davis']
+

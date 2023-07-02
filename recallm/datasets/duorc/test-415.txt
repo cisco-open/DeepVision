@@ -1,0 +1,38 @@
+PARAGRAPH
+Poonam (Amrita Rao) is a middle class girl who lives in the small town of Madhupur. After the death of her parents, when she was very young, her uncle Krishnakant (Alok Nath) fulfilled the void of a father in her life. However, her aunt (Seema Biswas) is unable to accept Poonam as her own child, driven by the fact that her own daughter Rajni (Amrita Prakash) is dark in complexion and less beautiful than Poonam. Harishchandra (Anupam Kher), a renowned businessman, from New Delhi has two sons, Sunil (Samir Soni) who has married Bhavna (Lata Sabharwal) and Prem (Shahid Kapoor), who is a soft-spoken and well-educated person.
+Poonam's simple and affectionate demeanor impresses Bhagatji (Manoj Joshi), a close friend of Krishnakant and a jeweller by profession. Bhagatji takes Poonam's marriage proposal for Prem. When Harishchandra takes his opinion on the proposition, Prem is initially hesitant and feels he is too young for marriage and needs to focus on his career first. Harishchandra convinces Prem to meet Poonam before deciding about anything. Respecting father's wishes, Prem agrees to meet Poonam, get to know better and then take a decision. They visit Krishnakant's family and let Prem and Poonam get acquainted with each other. Though their first conversation is awkward, Prem and Poonam agree to get married, as they are instantly attracted to each other. Prem and Poonam gets engaged and set to be married in six months. Krishnakant invites Prem's family to their summer residence in Som Sarovar, so Prem and Poonam get the opportunity to know each other better.
+Prem and Poonam go through the most magical and romantic period of their lives. Coming from different sensibilities, both want their relationship to be very right for each other. Both realize the importance of the engagement rings that they have given to each other and the special right that they have got on each other in return. They begin to fall in love and become attached to each other, thanks to the gentle prodding of their respective siblings. After several days, Harishchandra and his family return home to attend their business, which leaves Poonam and Prem the choice to communicate via telephone and letter. Prem joins the family business and takes on a heavy presentation in Japan. Upon returning, the family brings Poonam as a surprise and they celebrate their engagement.
+However, two days before the actual wedding, a fire breaks out at Krishnakant's house. Although Poonam runs out of the house in time, she realizes that Rajni is still inside and goes to save her. Poonam gets heavily burnt in the process. The doctor informs her father that in such cases, even families disown their own. He broken heartedly calls Prem right as he is leaving for Madhapur. Right as he is about to sign the waiver allowing her surgery, he begins to cry and cannot do so. Looking up, he sees Prem has arrived, determined to marry Poonam despite her injuries and bringing with him the finest doctors from Delhi. He marries her informally before their surgery. With the aid of the Delhi doctors, the hospital successfully perform surgery on Poonam. After a one and half month prolonged stay at the hospital, Poonam and Prem are traditionally married and go home to their new life.
+
+
+QUESTIONS
+q: Where does Prem travel for a business trip?
+a: ['Japan']
+
+q: Who does Poonam rescue?
+a: ['Rajni']
+
+q: Who does Harishchandra want Prem to meet?
+a: ['Poonam']
+
+q: What happens to make Poonam think that Prem will no longer want to marry her?
+a: ['she is severely burnt in a fire']
+
+q: Who raised her?
+a: ['Uncle Krishnakant']
+
+q: Prem is instantly attracted to whom?
+a: ['Poonam']
+
+q: Who greets Prem in the airport when he comes back from Japan
+a: ['Poonam']
+
+q: Who lost their parents as a young child?
+a: ['Poonam']
+
+q: What would Prem rather focus on instead of marriage?
+a: ['his career']
+
+q: Whose house catches fire?
+a: ['Krishnakant']
+

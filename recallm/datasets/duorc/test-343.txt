@@ -1,0 +1,18 @@
+PARAGRAPH
+During World War I, two American Doughboys, Tommy Turner and Gilbert Simpson, are more interested in picking up girls than in military duty. In Paris, they go AWOL in order to follow their libertine pursuits. They alternate between impersonating officers in order to impress the ladies, and avoiding being found out by the military police. During their hijinks, the pair accidentally steal the Colonel Marshall's car (their commanding officer), which is where Tommy meets and falls in love with Annette, who unbeknownst to him is Colonel Marshall's younger daughter.
+The Colonel has been tasked with organizing a major offensive at the front. His older daughter, Eileen, is in love with a young Lieutenant, Jim Reed. The Colonel intends to send Reed to the front with the orders. However, to get Tommy and Gilbert back in the Colonel's good graces, Annette and the Colonel's paramour, Olga, who has taken an interest in Gilbert, scheme by stealing the orders from Reed and giving them to the boys, so that they can be the ones to carry them to the front.
+
+
+
+
+Half Shot at Sunrise with Robert Woolsey and Leni Stengel
+After a dramatic scene at the front, the two are apprehended by the MPs, and brought to Colonel Marshall, for justice. He readies the firing squad, but after the two point out that the "secret papers" they were carrying to the commanding General, was actually a love letter from Olga to the very married Colonel. The Colonel then agrees to allow Tommy to marry his youngest daughter Annette and Gilbert will marry Olga. The Colonel also gives his consent to the marriage between his oldest daughter, Eileen, and Jim Reed.
+
+
+QUESTIONS
+q: Where did Tommy and Gilbert go AWOL at?
+a: ['Paris']
+
+q: Who is Annettes father?
+a: ['Colonel Marshall']
+

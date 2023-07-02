@@ -1,0 +1,31 @@
+PARAGRAPH
+On Amity Island, Chief of Police Martin Brody (Roy Scheider), the hero of two previous shark attacks, has died from a heart attack. His wife, Ellen (Lorraine Gary), attributes it to the fear of sharks. She now lives with Brody's younger son Sean (Mitchell Anderson) and his fiancÃ©e Tiffany (Mary Smith). Sean works as a police deputy and is dispatched to clear a log from a buoy a few days before Christmas. A massive 28-foot great white shark attacks and kills him, sinking his boat in the process.
+Ellen believes the shark intentionally targeted Sean with a vengeance (because of the deaths of the first two sharks). Brody's older son Mike (Lance Guest), his wife Carla (Karen Young), and their 5-year-old daughter Thea (Judith Barsi) come to Amity for the funeral and encourage her to come from Massachusetts to the Bahamas with them. At the islands, Ellen meets carefree airplane pilot Hoagie (Michael Caine). Mike, along with partners Jake (Mario Van Peebles), William, and Clarence, works as a marine biologist studying conch.
+A few days later, they encounter the same shark that attacked Sean. Jake is eager to do research on the shark, because great white sharks hardly come to the Bahamas as the water there is too warm, and sharks are misunderstood creatures, but Michael asks him not to mention the shark due to Ellen's attempts to convince him to find a job on land. Ellen becomes so obsessive that she starts having nightmares of being attacked by a shark. Then she starts getting psychic feelings when the shark is near or attacks. She and the shark have a strange connection that is unexplained. Jake decides to attach a device to the shark that can track it through its heartbeat. Using chum to attract it, Jake stabs the device's tracking pole into the side of the shark. The next day, Mike is chased by the shark and barely escapes in one piece.
+Thea goes on an inflatable banana boat with her friend Margaret and her mother while Carla presents her new art sculpture. The shark goes for Thea but attacks and kills Margaret's mother instead. Thea and Carla are traumatized following the attack. Ellen boards Jake's boat to track down the shark, intending to kill it to save the rest of her family. After hearing about what happened, Mike confesses about the shark, infuriating Carla. Mike and Jake are flown by Hoagie to search for Ellen and find the shark in pursuit of their boat. During the search, Hoagie explains to Mike about Ellen's belief that the shark that killed Sean is after her family. When they finally find her, Hoagie lands the plane on the water, ordering Mike and Jake to swim to the boat as the shark drags the plane and Hoagie underwater.
+Fortunately, Hoagie escapes from the shark. Jake and Mike hastily put together an explosive powered by electrical impulses. They begin blasting the shark with the impulses, which begin to drive it mad; it repeatedly jumps out of the water, roaring in pain. As Jake moves to the front of the boat, the shark lunges, giving it the chance to pull Jake under and maul him. He manages to get the explosive into the shark's mouth before he is taken underwater.
+Mike continues to blast the shark with the impulses, causing it to leap out of the water again, igniting the bomb as Ellen steers the sailboat towards the shark while thinking back to Sean's demise, the shark's attack on Thea, and when her husband killed the first shark. The broken bowsprit impales the shark, causing it to explode. The shark's corpse then sinks to the bottom of the sea. Mike then hears Jake calling for help, seriously injured but alive and conscious, floating in the water. The four survive the harsh encounter and make it back to land. Hoagie then flies Ellen back to Amity Island.
+
+
+QUESTIONS
+q: When Ellen flies back to Amity, is she still afraid of sharks?
+a: ['His wife, Ellen (Lorraine Gary), attributes it to the fear of sharks.']
+
+q: Who does Ellen Brody live with?
+a: ["Martin Brody's younger son Sean and his fiance Tiffany."]
+
+q: What does Ellen think caused Martin's heart condition?
+a: ['Fear of sharks']
+
+q: How did Ellen's husband die?
+a: ['A heart attack.']
+
+q: Why does the shark release jake?
+a: ['Jake (Mario Van Peebles), William, and Clarence, works as a marine biologist studying conch.']
+
+q: To where does Ellen travel following Sean's death?
+a: ['The Bahamas.']
+
+q: Who crash lands the plane when trying to save Ellen?
+a: ['Hoagie.']
+

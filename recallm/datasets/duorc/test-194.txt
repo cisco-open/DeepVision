@@ -1,0 +1,89 @@
+PARAGRAPH
+Jack McCall (Eddie Murphy) is a literary agent who uses his "gift of gab" to get various book deals, and he is not afraid to stretch the truth to get them. While he is trying to get a book deal from a New Age self-help guru named Dr. Sinja (Cliff Curtis), the guru sees through his deceit and agrees to the deal, only to later deliver a five-page book. That night, a Bodhi Tree magically appears in his backyard. Dr. Sinja goes to Jack's house and they both discover that for every word that Jack says, a leaf will fall off of the tree. When the tree runs out of leaves, the tree will perish, as will Jack. In time, he finds that even written words count towards his limit; plus anything that happens to the tree will also affect Jack. When Jack tries to cut it down with an axe, an axe wound appears on him. When squirrels climb the tree, it tickles him. When a gardener tries to poison it with DDT, Jack gets high on the fumes and when the gardener tries to water the tree, Jack starts to sweat/perspire profusely.
+With Jack forced to pick and choose his words, communicating with others becomes difficult and full of misunderstandings. These misunderstandings cost him two book deals, his job, and his wife Caroline (Kerry Washington). She walks out on him when she thinks his sudden silence is due to him not loving her anymore. When he tries to explain the tree to her, she doesn't believe him. Only Jack's assistant Aaron (Clark Duke) realizes he is telling the truth, and goes to Jack's house to keep track of how many leaves remain. Jack tries to break the curse by being a better person by giving food to the homeless, and donating some of his money to charity, but that plan fails. Jack drinks a lot of alcohol in the night, causing him to sing a lot, thus making the tree lose lots of leaves. Only when Aaron confronts him and tackles him to the ground does Jack stop speaking.
+With his life falling apart and the tree running out of leaves, Jack confronts Dr. Sinja and asks how to end the curse. The guru tells him to make peace in all of his relationships. With just one branch of leaves left, Jack tries to reconcile with his wife, but she remains hesitant. He visits his mother Annie (Ruby Dee), who lives in an assisted-living center and has dementia. Annie tells Jack, who she thinks is Jack's late father Raymond, that she wishes Jack would stop being angry at his father for walking out on them when he was a kid. Jack, realizing that this is the relationship that needs the most mending, goes to visit his father's grave. Jack expends the last three leaves of the tree with the words, "I forgive you." With no leaves remaining, Jack suffers a heart attack in a storm and appears to have died. Jack's cellphone rings, and it is Aaron. Jack, who is still alive, answers his phone. Aaron tells him that the trees leaves have magically reappeared and Jack can now talk freely again.
+Jack and Caroline get back together, with Jack buying the family-friendly house Caroline asked for earlier, and the tree is in their front yard. He does not get his job back (Aaron was promoted to Jack's old position), but he writes a book about his experience, called A Thousand Words, and gets Aaron to make the deal. Unfortunately for Aaron, his promotion causes him to be like Jack was, thus he gets his own smaller office Bodhi tree.
+
+
+QUESTIONS
+q: Who does Jack go to, to ask how to end the curse?
+a: ['Dr. Sinja']
+
+q: What is the name of the self help guru Jack McCall tries to get a book deal from?
+a: ['Dr. Sinja']
+
+q: What does Jack's mother suffer from?
+a: ['dementia']
+
+q: What happens to the Boddhi Tree when Jack Speaks?
+a: ['it loses leafs']
+
+q: who shocked at the moment
+a: ["I don't understand the question."]
+
+q: What makes leaves fall off the tree?
+a: ['each work that jack says or writes, is one leaf off the tree']
+
+q: What kind of agent is Jack McCall?
+a: ['literary agent']
+
+q: What happens to Jack if the tree dies?
+a: ['jack dies']
+
+q: Who does Jack try to reconcile with?
+a: ['his parents']
+
+q: What is happening to the tree?
+a: ['Leaves are falling off']
+
+q: What is Jack McCall's profession?
+a: ['a literary agent']
+
+q: Which actress portrays Jack's mother?
+a: ['Ruby Dee']
+
+q: Are any leaves falling off?
+a: ['Yes']
+
+q: Where does Jack go to mend the relationship with his father?
+a: ['His grave']
+
+q: What does Dr. Sinja send Jack?
+a: ['A five-page book']
+
+q: what Aaron tell to jack?
+a: ["The tree's leaves have reappeared and Jack can speak again."]
+
+q: What happens when Jack tries to cut down the tree?
+a: ['An axe wound appears on Jack.']
+
+q: What does Jack ask about the leaves?
+a: ['How to end the curse']
+
+q: How many leaves are remaining when Jack forgives his dad?
+a: ['0']
+
+q: What did Jack buy?
+a: ['a five-page book']
+
+q: Who is the only person to believe Jack?
+a: ['Caroline']
+
+q: What have the tree leaves done?
+a: ['the tree runs out of leaves']
+
+q: who doesnot get his job back?
+a: ['Aaron']
+
+q: Whose calls Jack on his cellphone?
+a: ['Aaron']
+
+q: Why does Jack's mother live in an assisted living center?
+a: ['dementia']
+
+q: Why does Caroline walk out on Jack?
+a: ["he doesn't love her"]
+
+q: What does the guru tell jack to do to end the curse?
+a: ['make peace with everyone']
+

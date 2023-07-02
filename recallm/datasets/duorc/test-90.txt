@@ -1,0 +1,40 @@
+PARAGRAPH
+Everything was going well for Ah Bo (Stephy Tang) until recently. After graduating from college, Ah Bo decided to open a shop with her longtime boyfriend, Ah Jun (Stephen Wong Ka Lok), thinking that she would eventually marry Jun when everything has been set up and running smoothly.
+One day, Bo met her old classmate Kei Kei (Alice Tzeng). Kei Kei, smitten by Ah Jun, decided to steal Ah Jun for her own, not caring about Ah Bo's feelings. It turned out that not only Bo has lost her love of a lifetime, she also loses her shop.
+Ah Bo meets up with some of her friends, Ah Man (Leila Tong) and longtime boyfriend, Ah Fung (Terry Wu). In the meantime, Ah Fung is two-timing Ah Man with another woman. Although Ah Man does love Ah Fung, she takes him for granted and thinks that he will never leave her. She is selfish and doesn't want to be tied to a single relationship.
+After the break-up, Ah Bo found a job as a make-up artist in the mall. Her boss Ah Kuen broke the news of her engagement and invited everyone out to celebrate. At the party, Ah Bo realized that her bossâs really young fiancÃ©e is very familiar. She recognized him as her old neighbor Ah Keung (Alex Fong), but Ah Keung keeps pretending that he doesnât know Ah Bo.
+A month later, Ah Kuenâs wedding was suddenly canceled. Bo found out from coworkers that Ah Kuenâs life savings were stolen from the fiancÃ©e, who disappeared. Ah Bo unexpectedly met Ah Keung on the streets. Ah Keung already has a new target, Tiffany (Suki Tsui). He finds Ah Bo following him. Ah Bo hires Ah Keung to deceive Kei Kei and let her have a taste of her medicine.
+One day Ah Keung met his ex-girlfriend, Ah Yan (Linda Chung). Ah Yan told Ah Keung that her family will move to Singapore. Although Ah Keung had deceived Ah Yun's sister's money, they weren't angry with him now.
+As an experienced liar, Ah Keung successfully courted Kei Kei. Being abandoned by Kei Kei, Ah Jun decided to make up with Ah Bo. But Ah Bo has no more feelings for Ah Jun because, deep in her heart, she unknowingly fell in love with Ah Keung.
+Ah Man finally felt tired and decided to set up a stable relationship with Ah Fung. But Ah Fung tells Ah Man that he wants to break up. In the past six months, Ah Fung was secretly dating his co-workerâs girlfriend Ah Min (Miki Yeung). Ah Fung finally decided to let go of Ah Man and had chosen Ah Min for a 'back up lover' relationship, which did not last because Ah Min decided to get married with her real boyfriend, giving him new insights. He found out there is more to love than just being with someone. (Love is about caring, not taking for granted, giving freedom to choose...all that he discovered with Ah Min.) So, he lets go of Ah Man (who is sobbing at the breakup) because he feels she needs someone who can accept her as she is and who she can accept and love â they were incompatible and he put up with her, while she, on the other hand, did a few horrible things to Ah Fung, only to regret them immediately afterwards.
+L for Love, L for Lies has a fascinating ending with a strange, maybe unthinkable twist, especially after what the story line evolved to. In summary, love can show its true form in the things we do that are not noticed â it is love when we do something good for a loved one, but it also takes the shape of lies (lies to make things better and maintain stability/protect loved ones, or lies for deception, e.g., cheating and dishonesty). There is a sharp contrast with the repenting Ah Keung and Ah Jun who gets a second chance (and the ending tells it all), as to who really loved Ah Bo, despite the lies (the difference in the lies throughout the story and the way they followed these lies with actions).
+
+
+QUESTIONS
+q: Who has Ah Fung secretly been dating?
+a: ['Ah Min']
+
+q: What does Ah Bo find a job doing after the breakup?
+a: ['Makeup artist in the mall']
+
+q: Who stole Ah Kuens life savings?
+a: ['His fiancé stole it.']
+
+q: What do Ah Bo and Ah Jun open together?
+a: ['A shop']
+
+q: Who does Ah Bo hire to deceive Kei Kei?
+a: ['Ah Keung']
+
+q: What is the name of Ah Bo's boss?
+a: ['Ah Kuen']
+
+q: What did Kei Kei do after meeting up with Ah bo?
+a: ["She stole Ah bo's boyfriend."]
+
+q: After graduating what did Ah Bo decide to do?
+a: ['She opened a shop with her boyfriend.']
+
+q: Where is Ah Yan's family moving to?
+a: ['Singapore']
+

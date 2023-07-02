@@ -1,0 +1,1 @@
+{"grader_name": "gpt", "question_samples": 1, "num_questions": 1, "graded_questions": 3, "q0": {"quesiton": "What is Michael's mission?", "answer": "['Provide a friend for Wolfgang']", "recall": 1, "vectordb": 0, "hybrid": 0}, "recall_correct": 1, "vectordb_correct": 0, "hybrid_correct": 0, "recall_accuracy": 0.5, "vectordb_accuracy": 0.0, "hybrid_accuracy": 0.0}

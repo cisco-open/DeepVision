@@ -1,0 +1,59 @@
+PARAGRAPH
+A Hollywood producer, Ben, witnesses a poor test screening for his new film, Fiercely, mostly caused by the fact that its ending features its main character (played by Sean Penn, who plays himself in the film) being graphically shot dead, along with his pet dog. Ben and his maverick British director, Jeremy Brunell, plead their case to studio executive Lou Tarnow, who threatens to pull it from Cannes and hire an independent editor to re-do the film unless at least the dog's death is removed. Jeremy adamantly refuses, evidently not realizing that the only reason Ben let him put it in there was so that the studio would overlook the film's other violent content.Adding to Ben's problems, he is having trouble making a clean break from Kelly, his second wife, and Bruce Willis is refusing to shave the large, thick beard that he has grown, which will result in the studio pulling the plug on their new project, and in turn put a certain end to Ben's career. Any attempt to reason with Willis inevitably meets a violent, foul-mouthed response.The situation with Fiercely is eventually remedied when Jeremy relents and re-edits the final shots to have the dog running up to Penn's character after Penn is fatally wounded instead of before, and ending without the dog being harmed. However, another problem arises when Ben discovers that his wife is also having sexual relations with Scott Solomon, a married screenwriter who Ben has previously worked with. Scott has a screenplay that he's trying to get off the ground, to which Brad Pitt later becomes attached. Ben tries to get Willis's agent, Dick Bell to reason with him and get the beard removed, but his efforts only get Dick fired. Nonetheless, Willis does eventually shave his beard off, and the film goes ahead.A week later, Ben, Lou and Jeremy attend Cannes, hopeful that they might take a Palme d'or award. Unfortunately, Jeremy has re-edited the film again without the knowledge of Ben or Lou, and the third version of the ending not only features Penn's character and the dog being killed, but is made even more violent with the addition of nearly a full minute of bullets being shot into their bodies. However, the response is not entirely negative, and despite abuse being shouted by some audience members, many eagerly applaud the final version of the film, as does Penn (although any chance of a Palme d'or is now obviously gone). Lou on the other hand is not impressed, and immediately flies out of Cannes on the studio's private jet, leaving Ben stranded in France.Ben eventually does make it back home, in time for a photoshoot of Hollywood's top thirty producers with Vanity Fair, although after the magazine's publishers hear about the debacle in Cannes Ben is relegated to the far edge of the photo, meaning he won't be on the magazine's cover and will be barely noticeable in the larger inside version. Ben's voiceover, as the film ends, comments that this represents him nearly, but not quite being pushed out of Hollywood.During the film's post script as narrated by Ben, he reveals that Fiercely turned out to be a major blockbuster but its success doesn't stop Jeremy from having a run in with the law. Emotionally unstable, Jeremy is revealed to be holding drugs in his suitcase and he's stopped at the airport, and he is sentenced to rehab. But Jeremy, according to Ben, is considering several offers to direct other projects after Fiercely's success and Ben would work with him again. Lou Tarnow becomes the recipient of a major award for ushering in maverick talent like Jeremy and putting out successful, cutting edge material although this previously contradicts her dislike of Jeremy's work. Meanwhile, Brad Pitt dropps out of the film project that was written by Scott, who falls into a deep depression and starts drinking heavily while living with Ben's ex-wife. He is subsequently kicked out for this behavior. Dick Bell on the other hand, still suffers from excruciating stress-induced stomach pain that prompts him to pull over to the side of the road while on a date.
+
+
+QUESTIONS
+q: What Animal does Jeremy kill in the re-edit?
+a: ['Dog']
+
+q: Why does the studio threaten to cancel the movie?
+a: ['The ending features the violent death of the main character and a dog.']
+
+q: Does Ben make it back home in time for the photo-shoot?
+a: ['Yes']
+
+q: Who didn't know about the films re-edit?
+a: ['Ben and Lou']
+
+q: Who has Ben's wife been having an affair with?
+a: ['with Scott Solomon']
+
+q: What did Lou do after viewing the final film?
+a: ['Flew away']
+
+q: What was the name of his latest film?
+a: ['Fiercely']
+
+q: What did Jeremy do to Fiercely?
+a: ['re edit the ending']
+
+q: What Did Ben, Lou, and Jeremy Attend?
+a: ['Cannes']
+
+q: Who was Willis's agent?
+a: ['Dick Bell']
+
+q: Who re-edited the film?
+a: ['Jeremy']
+
+q: What is the name of their film?
+a: ['Fiercely']
+
+q: What award do the men hope to win?
+a: ["Palme D'Or"]
+
+q: What actor, playing himself, loves the film?
+a: ['Sean Penn']
+
+q: What is Ben's job?
+a: ['Movie producer.']
+
+q: What famous person applauded at the end of the film?
+a: ['Sean Penn']
+
+q: Who is the studio executive?
+a: ['Lou Tarnow']
+
+q: Who ultimately relents?
+a: ['Ultimately Jeremy relents and re-edits the ending of Fiercely to have the dog survive.']
+

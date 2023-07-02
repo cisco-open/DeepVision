@@ -1,0 +1,17 @@
+PARAGRAPH
+Chuck Scott (Robert Cummings) is a World War II veteran who is now a penniless drifter in Miami tormented by bizarre dreams. After finding a wallet and showing his honesty by returning it to Eddie Roman (Steve Cochran), a vicious gangster, he is hired by Roman to be his driver. Roman tests his new driver, whom he nicknames 'Scotty,' by assuming control of his car from the back seat. Unbeknownst to Scotty, Roman has an accelerator installed in the rear passenger compartment so that he can "take over" the vehicle whenever he wants. This bizarre trick unnerves his new driver as well as Roman's right-hand man, Gino (Peter Lorre).
+Roman reveals himself as a tough gangster by killing any competition, and even locks his wife, Lorna (MichÃ¨le Morgan), in her room every night to control her. Lorna goes for a drive every night at 9:30 pm, and one day she asks Scotty to take her to Havana, Cuba in exchange for $1,000. He consents and realizes that he is in love with her. When they get to Havana, they stop for a drink at a club, where Lorna is murdered with a knife while in Scotty's arms. All the evidence, including the fact that Scotty apparently purchased the knife that was used to kill Lorna earlier that day, points to Scotty being the killer, and he realizes he is being framed. The photograph from the club that proves Scotty was innocent is destroyed by Gino, who has come down to Cuba to exact revenge against Lorna and Scotty. Scotty escapes police custody, but is gunned down by Gino when he returns to the curio store where the knife came from.
+Suddenly, Scotty wakes up back in Miami on the night he and Lorna are supposed to abscond to Havana. He is sweating profusely and immediately takes his pills that he is prescribed, presumably to deal with posttraumatic stress disorder from battle. Scotty remembers nothing, and goes to the naval hospital to seek treatment from his doctor, Commander Davidson (Jack Holt). Davidson urges him to try to remember details of why he was dressed as a driver, but Scotty is unable. The two go drinking at the Florida Club.
+Meanwhile, Lorna is shocked that Scotty abruptly quit his job and left earlier that night, and she is locked in her room after Roman discovers her writing a love letter to Scotty. Roman and Gino go to the Florida Club to cool down, unknowingly sitting across the club from the missing Scotty. Davidson, who presumably had been treating Roman, realizes that the woman Scotty is in love with is actually Roman's wife, but by this time, Scotty remembers where he was supposed to be and leaves to find Lorna. He rescues her and the two head for the port, but Gino and Roman are also heading to the port once they find out that Scotty was seen at the port buying tickets earlier that morning. Because Roman uses his master accelerator to push the car up to speeds of 100 mph, it crashes with an oncoming train, killing both gangsters. Scotty and Lorna are now free to sail to Cuba and be together.
+
+
+QUESTIONS
+q: What did Chuck find in the street?
+a: ['Wallet']
+
+q: Where did Chuck Scott return from?
+a: ['Cuba']
+
+q: What was Chuck Scott?
+a: ['Driver']
+

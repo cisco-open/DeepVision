@@ -1,0 +1,124 @@
+PARAGRAPH
+After World War II, Fred Derry (Dana Andrews), Homer Parrish (Harold Russell), and Al Stephenson (Fredric March) meet while flying home to Boone City (a fictional city patterned after Cincinnati, Ohio[4]). Fred was a decorated Army Air Forces captain and bombardier in Europe. Homer lost both hands from burns suffered when his aircraft carrier was sunk, and now uses mechanical hook prostheses. Al served as an infantry platoon sergeant in the Pacific. All three have trouble adjusting to civilian life.
+Al has a comfortable home and a loving family: wife Milly (Myrna Loy), adult daughter Peggy (Teresa Wright, who was only thirteen years Loy's junior), and college freshman son Rob (Michael Hall, who is absent after the first one-third of the film). He returns to his old job as a bank loan officer. The bank president views his military experience as valuable in dealing with other returning servicemen. When Al approves a loan (without collateral) to a young Navy veteran, however, the president advises him against making a habit of it. Later, at a banquet held in his honor, a slightly inebriated Al expounds his belief that the bank (and America) must stand with the vets who risked everything to defend the country and give them every chance to rebuild their lives.
+Before the war, Fred had been an unskilled drugstore soda jerk. He wants something better, but the tight postwar job market forces him to return to his old job. Fred had met Marie (Virginia Mayo) while in flight training and married her shortly afterward, before shipping out less than a month later. She became a nightclub waitress while Fred was overseas. Marie makes it clear she does not enjoy being married to a lowly soda jerk.
+Homer was a football quarterback and became engaged to his next door neighbor, Wilma (Cathy O'Donnell), before joining the Navy. Both Homer and his parents now have trouble dealing with his disability. He does not want to burden Wilma with his handicap so he eventually pushes her away, although she still wants to marry him.
+Peggy meets Fred while bringing her father home from a bar where the three men meet once again. They are attracted to each other. Peggy dislikes Marie, and informs her parents she intends to end Fred and Marie's marriage, but they tell her that their own marriage overcame similar problems. Concerned, Al demands that Fred stop seeing his daughter. Fred agrees, but the friendship between the two men is strained.
+At the drugstore, an obnoxious customer, who claims that the war was fought against the wrong enemies, gets into a fight with Homer. Fred intervenes and knocks the man into a glass counter, costing him his job. Later, Fred encourages Homer to put his misgivings behind him and marry Wilma, offering to be his best man.
+One evening, Wilma visits Homer and tells him that her parents want her to leave Boone City for an extended period to try to forget him. Homer bluntly demonstrates to her how hard life with him would be. When Wilma is undaunted, Homer reconsiders.
+On arriving home, Fred discovers his wife with another veteran (Steve Cochran). After complaining to Fred that she has "given up the best years of my life," Marie tells him that she is getting a divorce. Fred decides to leave town, and gives his father his medals and citations. His father is unable to persuade Fred to stay. After Fred leaves, his father reads the citation for his Distinguished Flying Cross as composed by General Doolittle. At the airport, Fred books space on the first outbound aircraft, without regard for the destination. While waiting, he wanders into a vast aircraft boneyard. Inside the nose of a B-17, he relives the intense memories of combat. The boss of a work crew rouses him from his flashback. When the man says the aluminum from the aircraft is being salvaged to build housing, Fred persuades the boss to hire him.
+At the bride's home, people have gathered for the wedding of Homer and Wilma. Fred, now-divorced, is Homer's best man. While the vows are exchanged Fred and Peggy glance across at one another. At the conclusion everyone gathers around the newlyweds. Still gazing over at Peggy, Fred walks across the room, takes her in his arms and kisses her. He asks if she knows how things will be for them, that it will be a hard at first, that it could take years before they can get a life established. All the while Peggy smiles fondly at Fred, and then kisses him back.
+
+
+QUESTIONS
+q: Who does Peggy dislike?
+a: ['Marie', 'Marie']
+
+q: Who does the obnoxious customer at the drug store get in a fight with?
+a: ['Homer', 'Homer']
+
+q: What is Fred's wife's name?
+a: ['Marie', 'Milly']
+
+q: Why does Fred give his medals and citations to his father?
+a: ["Because he's leaving town.", 'Fred decides to leave town']
+
+q: What did Fred do before the war?
+a: ['soda jerk', 'he was an unskilled drugstore soda jerk']
+
+q: Why does Al get in trouble with the bank president?
+a: ['For approving a loan without collateral to a young Navy veteran', 'he approved a loan without collateral to a young Navy veteran.']
+
+q: Whose wedding do people gather for?
+a: ["Homer and Wilma's wedding"]
+
+q: In what aircraft does Fred relive his days of combat?
+a: ['A B-17.', 'B-17']
+
+q: What are names of Al's children?
+a: ['Peggy and Rob', 'Peggy and Rob']
+
+q: Does Al have military experience?
+a: ['Yes', 'Yes']
+
+q: What position did Homer play on the football team?
+a: ['quarterback']
+
+q: Who is Homer engaged to?
+a: ['Wilma']
+
+q: Who does Peggy meet?
+a: ['Fred', 'Fred']
+
+q: Which citation does the father take special notice of?
+a: ['The Distinguished Flying Cross.', 'Distinguished Flying Cross as composed by General Doolittle']
+
+q: What branch of the military did the borrower of the loan work for?
+a: ['Navy', 'Navy']
+
+q: After walking across the room and taking her in his arms, what does Fred do to Wilma?
+a: ['kisses']
+
+q: Does Fred decide to stay in town or leave?
+a: ['leave', 'stay']
+
+q: Who does Fred marry?
+a: ['Marie', 'peggy']
+
+q: What does Fred give his father?
+a: ['his medals and citations', 'his medals and citations']
+
+q: What did Homer lose as a result of burns?
+a: ['his hands']
+
+q: Who is getting married?
+a: ['Wilma and Homer']
+
+q: What are the names of Al's children?
+a: ['Peggy and Rob', 'Peggy and Rob']
+
+q: Where does Al work?
+a: ['bank', 'Bank']
+
+q: Where is Fred flying to when he meets Homer and Al?
+a: ['Boone City']
+
+q: How many children does Al have?
+a: ['Two', 'two']
+
+q: Who wants Wilma to leave Boone City?
+a: ['Her parents']
+
+q: Who does Fred encourage Homer to marry?
+a: ['Wilma', 'Wilma']
+
+q: With whom does Fred discover his with with?
+a: ['another veteran', 'another veteran']
+
+q: What does Marie tell Fred she is getting?
+a: ['a divorce', 'divorce']
+
+q: Where does Al speak up about his stance on how the bank should treat veterans?
+a: ['banquet', 'a banquet']
+
+q: What is Al's job title?
+a: ['Bank loan officer', 'Bank Loan Officer']
+
+q: Who is Homer's best man?
+a: ['Fred']
+
+q: What happens at the end?
+a: ['Homer and Wilma get married and Fred and Peggy kiss.']
+
+q: Is Fred married?
+a: ['yes', 'Yes']
+
+q: Who does Fred glance at?
+a: ['Peggy']
+
+q: How long could it take to get their lives established?
+a: ['it could take years']
+
+q: Who was Homer's best man?
+a: ['Fred']
+

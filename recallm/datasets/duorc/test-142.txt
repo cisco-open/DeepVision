@@ -1,0 +1,34 @@
+PARAGRAPH
+Two days after the events of the first film, a traumatized and blood-covered Sarah (Shauna Macdonald) escapes the cave with no memory of the events that occurred within it. She is taken to a hospital, where it is found that some of the blood on her belongs to Juno Kaplan (Natalie Mendoza). Sheriff Vaines (Gavan O'Herlihy) takes his deputy Elen Rios (Krysten Cummings), Sarah, and three spelunking specialists â Dan (Douglas Hodge), Greg (Josh Dallas), and Cath (Anna Skellern) â to the cave to find the missing women (as Juno is related to a U.S. senator). After a new entrance is found, and the team members are sent down via an old mine shaft operated by the old, mysterious Ed Oswald (Michael J. Reynolds).
+Upon passing through the abandoned mine and into the caves, the group discovers Rebecca's mutilated body, causing Sarah to have short flashbacks of the crawlers. Further on, whilst crawling through a narrow tunnel in the caves, Sarah has a flashback to the previous events. In a nervous panic, she attacks Vaines, causing the others to split up in the caverns in fear. After fighting her off, Vaines pursues Sarah but runs into a crawler. He fires a shot at the crawler but misses and causes part of the cave to collapse, separating Cath from the rest of the group and trapping her between rocks. Elen, Dan, and Greg arrive in a room full of bones, and find a video camera used by Holly. They watch it and realize the women were attacked by the crawlers. The three are then attacked by a group of crawlers and separated.
+Elen starts calling for help, alerting the crawlers to her location, but she is rescued by Sarah, who warns Elen that the crawlers are blind and hunt via sound. The two then watch as a crawler attacks Dan, kills him, and drags his body away. Later, Cath is attacked by another crawler but escapes. She runs into Greg, and the two work together to escape from a crawler. They travel deeper into the cave and find Sam's body. They decide to try to use her to swing across a chasm, but both are attacked by crawlers. Greg falls down the chasm to his apparent death, while Cath is killed even after making it to the other side of the chasm.
+As Elen and Sarah wander deeper into the cave, Elen reveals she has a daughter. Elsewhere, Vaines is attacked by a crawler but saved by Juno, who is revealed to be alive and adept at hunting the crawlers. When Vanies asks what the Crawlers are she replies "death". They then reunite with Elen and Sarah, who is shocked to see Juno is still alive. However, Juno is furious that Sarah attacked her and left her to die and quickly initiates a fight. After Vaines and Elen break it up, the four decide to work together to survive. Juno leads them to a feeding pit, which she claims has a passage to the surface that the crawlers use to gather food from above the ground, and explains she didn't leave earlier because she had no light. Vaines handcuffs Sarah to him so she will not abandon them like she did to Juno. As they progress, Vaines falls over a ledge, almost taking Sarah with him. Juno decides to help Elen, ordering her to cut off Vaines' hand with a pickaxe to save Sarah from falling with him. Despite Vaines's protests, she does so, causing Vaines to fall to his death.
+Sarah, Juno, and Elen reach the exit, but are blocked by a group of crawlers led by a particular large one (presumably their leader). Though they try to sneak past them, Greg, who managed to get out of the chasm and is dying from his injuries, appears and grabs Juno's leg as a last effort to save himself. This causes her to scream in surprise and gain the attention of the crawlers. Greg promptly dies and the women are left to fight off the crawlers. After all the lesser crawlers are killed, Sarah tries to rescue Juno from the particularly large crawler, but it deeply slashes Juno's stomach, mortally wounding her. She and Elen finish it off before Juno dies in Sarah's arms, much to her distress. More crawlers arrive, but Sarah draws their attention to her, giving Elen a chance to escape.
+As Sarah is killed, Elen escapes the cave. When she tries to call for help, she is suddenly attacked by Ed, who hits her in the face with a shovel and drags her back to the entrance as food for the crawlers. As Elen regains consciousness from the hit, a crawler jumps out of the entrance and presumably takes her back into the cave.
+
+
+QUESTIONS
+q: Whose blood is found on Sarah?
+a: ['Juno Kaplan']
+
+q: Who is an expert at hunting the crawlers?
+a: ['Juno Kaplan']
+
+q: What profession does Gavin O'Herlihy play in the film?
+a: ['Sheriff']
+
+q: Who is Sarah handcuffed to?
+a: ['Vaines']
+
+q: Who hits Elen and drags her back to the cave?
+a: ['Ed']
+
+q: What does Ed attack Elen with?
+a: ['shovel']
+
+q: What is the name of Sheriff Vaines' deputy?
+a: ['Elen Rios']
+
+q: What attacks the people that enter the cave?
+a: ['crawler']
+

@@ -1,0 +1,35 @@
+PARAGRAPH
+This short film takes place concurrently with the events of "WALL-E". As the Axiom Return Vehicle journeys from Earth to the Axiom, WALL-E, clinging to its exterior, dislodges a chunk of ice from Saturn's rings. The camera follows it to Mars. Its atmosphere diverts it toward the Axiom, destroying a blue signal lamp spire on its starboard side. AUTO notices the problem and turns on the robot SUPPLY-R, who in turn summons BURN-E. Equipped with a clamp for a left hand, a welding torch for his right, and a single foot consisting of a shoe that slides on a rail, BURN-E obtains a replacement spire from SUPPLY-R and heads toward the starboard side of the ship and up an elevator labeled ELV-426 (after the planet in "Alien" and "Aliens").BURN-E cuts away the remains of the damaged spire and plants the replacement in its place. But before he can weld it in, the Axiom Return Vehicle arrives with WALL-E, waving at BURN-E. Distracted while waving back, BURN-E doesn't notice the replacement spire floating away, out of reach.BURN-E sheepishly returns to SUPPLY-R. After a few uncomfortable seconds, he gets another spire and returns to the work site. We see the scene from "WALL-E" in the escape pod as GO-4 sets it to self-destruct with the plant. This time BURN-E welds in the replacement as we see WALL-E's pod eject from the Axiom in the distance behind him with EVE in pursuit. A few seconds later, the pod explodes off-screen to the right. A startled BURN-E turns quickly counterclockwise to look -- and his torch cuts off the replacement spire.Back at SUPPLY-R for a second time, there's an even longer uncomfortable silence before an exasperated SUPPLY-R drops another replacement spire on the floor.Next we see WALL-E and EVE dancing in space after he escapes from the pod. They fly back in through the access door, which closes on BURN-E; this is the one shot in common with the main movie. BURN-E bangs on the closed door.Some time passes, and BURN-E is still trapped outside. We see the garbage airlock scene from the main movie, and WALL-E and EVE are nearly jettisoned with the trash. BURN-E sees the trash leaving the Axiom and runs frantically for the outer airlock door. The WALL-As close it just as BURN-E gets there.More time passes, and BURN-E is still trapped outside. Bored, he heats his C-claw with his torch and burns a flower design into the deck. Looking at his torch, he suddenly realizes he has what he needs to get back inside. The next view is from the inside of the door as BURN-E cuts out a hole and enters.Back at SUPPLY-R, BURN-E is just about to turn the power to the repaired light back on when AUTO, fighting with the Captain, rolls the ship to the right. BURN-E slides away backwards and is thrown back outside where he must grab onto the spire to avoid being tossed overboard. When the Captain retakes control and levels the ship, BURN-E tries to re-enter but just before he can do so, the ship goes into hyperspace and BURN-E is thrown against an exterior bulkhead with great force. The ship lands on earth and the doors open. But when BURN-E returns to once again try to restore power to the repaired light, SUPPLY-R is gone. BURN-E is seen looking around inside the deserted ship. Reaching an escape pod, BURN-E sees SUPPLY-R on the ground and excitedly waves - accidentally striking the LAUNCH button. The pod ejects and promptly half-buries itself in the ground behind SUPPLY-R.BURN-E blows the escape hatch, which flies high into the sky. Jumping out, and giggling triumphantly, he finally turns the light back on through SUPPLY-R. His celebration is short lived, however, as the pod escape hatch falls back directly on the light spire, destroying it again.
+
+
+QUESTIONS
+q: Where does the Axiom land ?
+a: ['Earth']
+
+q: What does Burn-E try to use to reenter the ship?
+a: ['Restore power to the repaired light.']
+
+q: Who does Burn-E retrieve another spare from?
+a: ['SUPPLY-R']
+
+q: Who gets into a fight ?
+a: ['AUTO and the captain']
+
+q: What does SUPPLY-R dispense?
+a: ['A replacement spire']
+
+q: Where does EVE'S ship dock?
+a: ['In the garbage airlock (trash)']
+
+q: What does Burn-E use to cut a hole into the ship?
+a: ['His torch and C-claw']
+
+q: Who collapses in despair ?
+a: ['BURN-E']
+
+q: Who activates SUPPLY-R?
+a: ['AUTO']
+
+q: Who does SUPPLY-R console?
+a: ['BURN-E']
+

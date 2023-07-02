@@ -1,0 +1,30 @@
+PARAGRAPH
+At night just outside Paris, a woman drives along a riverbank and dumps a corpse in the river. After the body is recovered, Dr. GÃ©nessier identifies the remains as those of his missing daughter, Christiane GÃ©nessier, whose face was horribly disfigured in an automobile accident that occurred before her disappearance, for which her father was responsible. Dr. GÃ©nessier lives in a large mansion, which is adjacent to his clinic, with numerous caged German Shepherds and other large dogs.
+Following Christiane's funeral, Dr. GÃ©nessier and his assistant Louise, the woman who had disposed of the dead body earlier, return home where the real Christiane is hidden (it is explained that Louise is deathlessly loyal to GÃ©nessier because he repaired her own badly damaged face, leaving only a barely noticeable scar she covers with a pearl choker). The body belonged to a young woman who died following Dr. GÃ©nessier's unsuccessful attempt to graft her face onto his daughter's. Dr. GÃ©nessier promises to restore Christiane's face and insists that she wear a mask to cover her disfigurement. After her father leaves the room, Christiane calls her fiancÃ© Jacques Vernon, who works with Dr. GÃ©nessier at his clinic, but hangs up without saying a word.
+
+
+
+
+Christiane (Edith Scob) fails to make a phone call to Jacques Vernon. Scob's face is hidden behind a face-like mask for most of the film.
+Louise lures a young Swiss girl named Edna GrÃ¼ber to GÃ©nessier's home. GÃ©nessier chloroforms Edna and takes her to his secret laboratory. Christiane secretly watches her father and Louise carry Edna to the lab, and then goes to tenderly caress the dogs her father keeps caged, who eagerly accept her love, and are unaffected by her appearance.
+Dr. GÃ©nessier performs heterograft surgery, removing Edna's face. The doctor successfully grafts the skin onto his daughter's face and holds the heavily bandaged and faceless Edna against her will. Edna escapes, but falls to her death from an upstairs window. After disposing of Edna's corpse, GÃ©nessier notices flaws on Christiane's face. Her face grows worse within days; the new tissue is being rejected and she must resort to wearing her mask again. Christiane again phones Jacques and this time says his name, but the phone call is interrupted by Louise.
+Jacques reports the call to the police, who have been investigating the disappearance of several young women with blue eyes and similar facial characteristics. The police have gained a lead concerning a woman who wears a pearl choker, whom Jacques recognizes as Louise. Inspector Parot, an officer investigating Edna's disappearance, coerces a young woman named Paulette MÃ©rodon (recently arrested for shoplifting) to help investigate by checking herself into GÃ©nessier's clinic. After being declared healthy, Paulette leaves for Paris and is promptly picked up by Louise, who delivers her to Dr. GÃ©nessier. GÃ©nessier is about to begin surgery on Paulette when Louise informs him that the police want to see him.
+While the doctor talks with the police, Christiane, who has long been disenchanted with her father's experiments, and has been slowly losing her sanity from guilt and isolation, frees Paulette and stabs Louise in the neck. She also frees the dogs and doves that her father uses for experiments. Dr. GÃ©nessier dismisses the police (who readily accept his explanations) and returns to his lab, where an abandoned German Shepherd he'd only recently obtained for his experiments attacks him, inciting the other dogs to follow suitâmaddened by pain and confinement, they maul him to death, disfiguring his face in the process. Christiane, unmoved by her father's death, and seemingly transformed into something more than human, walks slowly into the woods outside GÃ©nessier's house with one of the freed doves on her hand.
+
+
+QUESTIONS
+q: Who does Christiane reach out to?
+a: ['Jacques Vernon']
+
+q: What does the woman pull out of her car?
+a: ['A corpse']
+
+q: What does Louise cover her scar with?
+a: ['A pearl choker']
+
+q: Who does the Professor identify the dead woman as?
+a: ['his missing daughter, Christiane Genessier']
+
+q: Who is Louise's employer?
+a: ['Dr. Genessier']
+

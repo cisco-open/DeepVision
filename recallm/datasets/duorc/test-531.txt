@@ -1,0 +1,29 @@
+PARAGRAPH
+Opening in the East End London in the 1950s, a deeply disturbed boy, named Dennis Clegg, nicknamed Spider (Bradley Hall), 'sees' his father (Gabriel Byrne) brutally murder his mother and replace her with a prostitute, Yvonne (Miranda Richardson). Convinced they plan to murder him next, Spider hatches an insane plan, which he carries through to tragic effect.Many years later, an adult Dennis 'Spider' Clegg (Ralph Fiennes) is released from a local mental institution and is given a room at a local halfway house catering to mentally disturbed persons. Clegg receives little care or attention from the landlady Mrs. Wilkinson (Lynn Redgrave). Clegg, in his new abode, starts piecing together or recreating in his memory to try to remember an apparently fateful childhood event. During the days, he roams the nearby derelict urban area and the local canal and starts to relive or visualize a period of his childhood with his mother and his father.A shift takes place in the child's psyche when he witnesses his mother groping with his father in the garden and, subsequently, when he sees his mother in a silky night gown she wore for his father. The son, as a grown man seems to recreate in his memory the buildup to his father's murder of his mother with the passive support of a prostitute he is involved with, who then moves into the house and is presented as his mother. The young son then kills the mistress by gassing her in the kitchen. After that memory he attempts late one night to kill the landlady whom he sees alternatively as the mistress and his mother, but backs away after she says, "What have you done Mr. Clegg?" In the final scene, Clegg is arrested by the authorities and taken back to the asylum.
+
+
+QUESTIONS
+q: Where was Dennis Cleg released from ?
+a: ['London']
+
+q: Dennis Cleg was given a room where ?
+a: ['at a local halfway house']
+
+q: What is the profession of the woman who moves into Dennis Cleg's house after his mother's death?
+a: ['Prostitute']
+
+q: What is the period of Dennis Cleg's childhood ?
+a: ['1950s']
+
+q: Where is Cleg at the end of the plot?
+a: ['Asylum']
+
+q: What kind of people is Dennis Cleg's halway house for?
+a: ['Mentally disturbed persons']
+
+q: What did he witness his mother doing to his father ?
+a: ['groping']
+
+q: What did his father do to his mother ?
+a: ['murder his mother']
+

@@ -1,0 +1,41 @@
+PARAGRAPH
+A supermarket closes, and the workers start to restock the shelves for the next day. Craig, the former boyfriend of cashier Jennifer, appears, and the two have an argument. Worried for her friend, Linda presses her [[panic button]]. Co-owner Bill appears, and a fight ensues. Craig escapes onto the shop floor, and the night crew set out to track him down whilst Jennifer calls the police. On discovering Craig, there is another scuffle, and Craig is ejected from the building, and disappears into the night.The night crew is gathered by the owners, who announce they are selling the store, and that the staff will soon be out of a job. The employees are assigned the task of marking down all the stock in preparation for the close. Craig makes telephone calls to the store, unnerving Jennifer. The police arrive, but do little to help, and just tell the group to be careful.Linda finishes her shift, and is stabbed and killed by an unseen attacker while taking groceries out to her car. Bill spots someone trying to enter through the back door, and goes out to investigate. He finds Craig watching Jennifer through the bathroom window, and is clubbed over the head with a hammer. Back in the store, the unseen assailant begins to stalk the employees, and kills them one by one. As Danny grabs a drink, the assailant attacks him from behind, before pushing his eyes through a sharp nail pointing up from the table. Later, as Produce Joe is chopping carrots, the assailant suddenly slams a chef's knife through his head, splitting his head. The murderer then proceeds to kill Tim who is enjoying a beer by stabbing Tim through his stomach, which his blood splatters all over the beer cans. When Bub looks for Tim, the murderer grabs him and crushes his head under a box crusher, splattering his blood all over the engine. Later on, he proceeds to kill Randy by impaling him on a meat hook. With only two survivors left, the murderer attacks and kills Dave by splitting his head with a meat cutter. The murderer dismembers his victims, and leaves body parts around the store.Realizing that everyone seems to have vanished, Jennifer goes to investigate and discovers several bodies and bodyparts in the storerooms. Terrified, she is attacked by the murderer but manages to escape back onto the shop floor. Hearing someone at the door, she attempts to attract their attention, but they have left by the time she gets there. Craig grabs her, but she incapacitates him with a meat hook she grabbed earlier. Bill staggers in and says Craig attacked him outside the store, and he proceeds to call the police.Jennifer notices that Bill's hands are covered in blood and realizes he was killing everyone all along. Bill tells her that he could not let his partner sell the store, so he killed him and got carried away killing the others. Bill attacks Jennifer and chases her around the locked building. A delivery man appears outside, but he is killed by Bill before Jennifer can get his attention. Bill reenters the building and stalks Jennifer again. Craig grabs Jennifer and tells her that he saw Bill killing Linda, and he climbed into the building through the bathroom window to save her. Bill appears and bludgeons Craig with Danny's severed head while Jennifer flees.Crawling out the bathroom window, Jennifer attempts to escape in her car, but she finds Linda's body in it. Bill grabs her legs and pulls Jennifer under the car, but she stabs him with a chef's knife she had pulled from Linda. Jennifer heads to a phone booth to call the police, but Bill reappears and starts to smash the booth to get at her. Bill tips the phone booth over and traps Jennifer, but Craig appears and hacks him with his own meat cleaver.Jennifer and Craig are standing in the car park over Bill's body when the police arrive, and the police arrest them. As he dies, Bill shouts to the police that the pair had gone mad and killed everyone, in which the police believe him and arrest the two.
+
+
+QUESTIONS
+q: Who incapacitates Craig with a meathook?
+a: ['Jennifer']
+
+q: In what type of business are workers restocking the shelves?
+a: ['A Supermarket']
+
+q: Who is stabbed by an unseen assailant?
+a: ['Linda']
+
+q: Who gets arrested?
+a: ['Jennifer and Craig']
+
+q: Where were Jennifer and Craig?
+a: ['Supermarket cashier and her boyfriend']
+
+q: Who presses the panic button when her friend has an argument with a former boyfriend?
+a: ['Linda']
+
+q: Who are assigned the task of marking down all the stock?
+a: ['The night crew.']
+
+q: What does Craig use to attack Bill?
+a: ['Meat cleaver']
+
+q: Where is Linda's body?
+a: ["Jennifer's car"]
+
+q: Who gather the night crew?
+a: ['the owners']
+
+q: Who is watching Jennifer through the bathroom window?
+a: ['Craig']
+
+q: What does Jennifer use to escape the building?
+a: ['Bathroom window']
+

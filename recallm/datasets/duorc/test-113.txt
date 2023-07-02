@@ -1,0 +1,20 @@
+PARAGRAPH
+Set inside a "Quake" like video game, one of the game's cannon-fodder grunts falls for the Lara Croft-inspired heroine and, in a constantly looping game level, tries time and again to catch her attention before she can "chain gun" him.
+
+
+QUESTIONS
+q: How are Carlo and Sara killed?
+a: ['Walter']
+
+q: What starts a fire in the Countess' apartment?
+a: ['explosion of an electrical appliance']
+
+q: Who is Rose's brother?
+a: ['Matthew, Mark, Luke, and Bing.']
+
+q: What actress plays Sara
+a: ['Sarah Wayne Callies']
+
+q: What is the architect's name?
+a: ['FRIBA']
+

@@ -1,0 +1,47 @@
+PARAGRAPH
+Spirit (Matt Damon) is a young stallion who leads the Cimarron herd. He enjoys his freedom, as when he races with an eagle, but he also remembers his responsibilities, as when he saves two foals from being attacked by a cougar. One night he sees a campfire in the distance and goes to investigate, despite his mother wanting him to stay. When he reaches the camp, horses tied nearby encourage him to leave, but he wants to know who's there. His nosing causes the men to wake up and chase him, eventually catching him as his mother and herd watch from a nearby cliff. His mother tries to go to him, but he urges her and the herd to flee, which they do.Spirit is taken to an army fort, where he defies all their efforts to brand, shoe, and break him. He and a Colonel (James Cromwell) have taken an instant dislike to each other, so the Colonel orders Spirit to be tied to a post for three days with no food or water. While he is tied, a young Lakota brave named Little Creek (Daniel Studi) is brought in and tied to another post. That night, his friends throw him a dagger, which he conceals from the soldiers as they file out at dawn on the third day. The Colonel himself attempts to ride Spirit, who, despite his best efforts, cannot throw him and appears to give up, exhausted. The Colonel is very pleased with himself and rides Spirit around the corral, boasting. But Spirit is merely regaining his strength and, in a final show of defiance, grabs the reins, breaks the saddle, and tosses the Colonel off his back. The Colonel is furious and attempts to shoot Spirit, but Little Creek cuts himself free and shoves the gun away. The two then escape, taking all the other horses with them in the process. Once free, Little Creek calls his own horse, a beautiful paint mare named Rain, and jumps onto her. Spirit is momentarily distracted and is caught again, this time by the Lakota.At the Lakota's camp, Spirit is puzzled by Rain and Little Creek's relationship, wondering why a horse would ever accept a human. After a failed attempt to ride Spirit, Little Creek ties Spirit and Rain together and lets them loose. Spirit thinks he's free and starts to run off but Rain stands firm. He relents and lets her show him around her world, falling for her in the process, but still longing to be free. He starts to respect Little Creek too, although he still won't let him on his back. Little Creek finally realizes that no one should ever ride Spirit and sets him free, knowing that the wild is where he belongs. Spirit is ecstatic and immediately finds Rain, wanting her to come with him. But even though she loves him, she feels a kinship with Little Creek and wants to stay with him. While they are together, the Colonel and his men attack the Lakota camp and Rain leaves to help Little Creek, with Spirit hot on her heels trying to stop her. After losing sight of her for a moment he finally spots her, with Little Creek on her back, running toward the Colonel, who levels a gun at them. Rain rears and is shot, with both her and Little Creek falling into a raging river. Little Creek clings to a rock and is almost shot as well, but Spirit rams the Colonel's horse, saving him, and the two share a brief look before Spirit runs off to save Rain, who has been swept away by the current. Although he reaches her, he cannot swim against the rapids and the two are swept over a waterfall. Spirit survives and finds Rain lying on a bank, barely alive. He stays with her all night and is captured by the army again in the morning. They leave Rain, believing that she's not going to make it, and she is found by Little Creek. Little Creek is amazed that Spirit saved his life and pursues the train he is loaded on. Spirit is despondant and on the verge of giving up when the swirling snow outside the car reminds him of his herd and he realizes that he can't give up and must get back to them.Spirit and other horses are used by the railroad to move a steam engine up a steep mountain. Coming over the top, Spirit realizes that the railroad tracks are headed directly towards his homeland and that he must escape and stop them. Thinking quickly, he pretends to faint and, once he is released from his harness, frees the other horses. The engine tumbles down the mountain and smashes the railroad's base, with Spirit barely managing to outrun it. He thinks everything is all right until he realizes that the explosion started a forest fire. He runs but finds a large log in his path. He clears it, but a chain that was still around his neck catches on a branch and he is helpless until Little Creek appears and cuts him loose. The two escape the fire by jumping off a cliff into a river. The next morning they have a joyful reunion which is cut short by the Colonel and his men finding them. Little Creek urges Spirit to run but he doubles back and pushes Little Creek onto his back, much to his surprise. Spirit runs into a canyon and they manage to evade their pursuers, only to find themselves on a high plateau, the only way out being across a deep gorge. Spirit harnesses all his strength and makes a spectacular leap, flying across the chasm to safety. The soldiers arrive on the plateau and one of them attempts to shoot Spirit, but the Colonel grabs the gun. He and Spirit exchange nods of respect before the soldiers leave. The two friends celebrate and Spirit allows Little Creek to ride him back to the Lakota camp. Upon arriving, Spirit is saddened because he does not see Rain, but Little Creek whistles and she appears, perfectly well. Little Creek says goodbye to Rain, realizing her place is with Spirit. He asks Spirit to take care of her, addressing him as "Spirit-who-could-not-be-broken". Although he has waited for this moment for a long time, Spirit finds the goodbye harder than he thought. He and Rain travel to his homeland and find his herd, and his mother, safe and sound. They gallop off, with Spirit and Rain in the lead, as the camera pans up to reveal horse-like clouds running across the sky.
+
+
+QUESTIONS
+q: What is Spirit pulling at the work site?
+a: ['A,steam engine']
+
+q: What type of horse is Spirit born as?
+a: ['Wild mustang']
+
+q: Who shoots Rain?
+a: ['Colonel']
+
+q: Where does the chase ensue?
+a: ['Canyon']
+
+q: How long is Spirit tied to a post?
+a: ['Three Days']
+
+q: Who do the colonel and his men find?
+a: ['Spirit and Little Creek']
+
+q: What is the duty of the leader of the herd?
+a: ['The leader protects the weaker horses from wild animals and other dangers']
+
+q: Where do the wranglers take Spirit?
+a: ['An army fort']
+
+q: What name does Little Creek give to Spirit?
+a: ['Rain']
+
+q: Who returns to Lakota village?
+a: ['Little Creek with Spirit']
+
+q: Who does Little Creek tie Spirit to?
+a: ['Rain']
+
+q: What is the name of Little Creek's mare?
+a: ['Rain']
+
+q: Who saves Spirit
+a: ['Little Creek, a captured Native American']
+
+q: Who tries to shoot Spirit?
+a: ['Colonel']
+

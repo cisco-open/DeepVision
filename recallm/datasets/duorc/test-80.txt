@@ -1,0 +1,89 @@
+PARAGRAPH
+The film begins with a prologue from Barnabas Collins (Johnny Depp): in the 18th century, the Collins family left Liverpool to settle in America, where they established the seashore town of Collinsport and their foundation manor of Collinwood. In 1776, Barnabas, then a charming aristocrat, denies the affections of his maid Angelique Bouchard (Eva Green). When his parents meet a mysterious death, he learns that Angelique is a witch, but before he can do anything she hypnotizes his lover Josette duPres (Bella Heathcote) to commit suicide by jumping off Widows Hill, a lofty jagged cliff. Driven beyond endurance, he too jumps off the cliff, but Angelique curses him to be a vampire to make his suffering endless. She then reveals his monstrous nature to the residents of Collinwood, who turn on him and lock him in a box, which is buried in a lonely forest.In 1972, a governess, Victoria Winters (Bella Heathcote), arrives at Collinwood. She has been hired by Elizabeth Collins Stoddard (Michelle Pfeiffer), the current family matriarch, to oversee her young nephew David (Gulliver McGrath); the boy lost his mother and apparently his mind, as he appears to talk to her. Victoria also meets the other members of the family: David's shifty father Roger (Jonny Lee Miller), Elizabeth's mean-tempered daughter Carolyn (Chloe Grace Mortez), David's drunken psychiatrist Dr Julia Hoffman (Helena Bonham Carter), and the servants Mrs. Johnson (Ray Shirley) the housekeeper and Willie Loomis (Jackie Earl Haley) the gamekeeper. That night, as she settles in she spots a familiar spectre, who cryptically informs her of an impending arrival...That night, a group of construction workers dig up Barnabas's box, and he bursts out and feeds on all of them. He stumbles through 1972 Collinsport, fazed by the new world around him, but is able to get back to Collinwood. He proves his identity to Elizabeth by revealing to her a secret vault in the manor, filled with treasure; he explains to her, however, that all he wants is to get back his home and family. Elizabeth agrees to let him stay, on the provision that he doesn't reveal his true nature or the treasure.Barnabas begins to fit in with his descendants. He passes himself off as a distant relative from England, who has arrived to restore the Collins family's fortunes. He discovers that the Collins fishing business and family has been brought to ruin by a new competitor, Angel Bay, whose owner comes to welcome him... Angelique. She explains that while he was gone, she became a major chieftain of Collinsport and with her position runs the whole town, having brought the Collins to ruin with her influence. She manages to wound Barnabas with daylight, but later Elizabeth encourages Barnabas to defy Angelique for the sake of the family.Barnabas manages to restore the family business (mostly through hypnotizing most of Angelique's fishermen and inducing them to work for him instead), as well as gain the trust of the Collins family. He is also able to cultivate a romance with Victoria, who uncannily resembles his lost love Josette. Dr Hoffman discovers Barnabass secret, but is convinced by Elizabeth to keep it a secret for scientific purposes; she works on making Barnabas human through transfusions of human blood. Angelique, who is still lethally attracted towards Barnabas, has a meeting with Barnabas and she repeats her advances on him and seduces him; he refuses her a second time, and she swears to destroy him if she wont have him.Barnabas enters a hippie commune whom Victoria is acquainted with to adjust himself to the 1970s era, but instead ends up killing them all. Later, he proposes hosting a ball at Collinwood to restore the family name. At this ball, he discovers Roger stealing money from the guests and neglecting his son. Later, he has an intimate moment with Victoria, who confides in him: she was originally a child named Maggie Evans, and she had the ghost of Josette duPres as her constant friend, an act which convinced her parents she was insane and put her in a mental asylum. She managed to escape and take on a new identity of Victoria Winters, and make her way to Collinsport. She feels drawn to Barnabas as if shes known him forever, and the two of them kiss, not knowing an enraged Angelique is watching them...The day after the ball, Barnabas discovers that Dr. Hoffman has been using his blood to make herself immortal; enraged at this deceit, he kills her and dumps her body into the ocean. Finally, he discovers Roger looking for the vault and presents him an ultimatum: either be a good attentive father to David, or leave with enough money to keep him comfortable. Roger decides to leave Collinwood and David behind, to his son's grief. When a ceiling ornament drops and nearly crushes an unknowing David, Barnabas saves him, but unfortunately exposes his true nature to everyone, including David and Victoria, who consequently draw away from him.Barnabas meets Angelique and asks that she rid him of her curse. She proposes that he join her and they rule Collinsport together, or she locks him back in the box and destroys all he holds dear. He outright refuses this bargain, so she makes good on her promise: she locks him in the box and deposits it at an abandoned mausoleum, where she plans to keep him there until all he loves is destroyed. She starts by blowing up the Collins family factory, and then blaming it on the Collins; she manages to stir up an angry mob of townspeople to attack Collinwood.Barnabas is freed by David, who explains his mother guided him to the mausoleum. They make it back to Collinwood just as the mob arrives. Barnabas offers to give himself up in place of his family, then attacks Angelique and cracks her skin. This unnatural spectacle exposes her as a witch to the townspeople, who abandon her and leave Collinwood as fast as possible. The Collins then make a combined assault on the woman who ruined them; Barnabas with his vampire powers, Willie with an ax, Elizabeth with a shotgun, Carolyn as a werewolf (revealed to have been cursed by Angelique), and finally David summons the spirit of his mother (whom Angelique drowned) to hurl Angelique into a chandelier. Mortally wounded, she tears out her heart and offers it to Barnabas, saying she really did love him.In the aftermath, Barnabas searches for Victoria; David hears from his mother that she's heading for Widows Hill. Barnabas rushes off and manages to stop her, but learns she is planning to jump off the cliff of her own accord: unless Barnabas will make her a vampire like him so that they can be truly united, she would rather die than be apart from him. She jumps, and Barnabas saves her by biting her and turning her into a vampire; this has the effect of combining Josette's psyche with Victoria, who wakes up as a vampire and is now taken over by Josette. Barnabas ends the film with a narration that despite Victoria being dead, Josette is now alive in Victoria's body, and they lived happily ever after in the dark shadows, and his curse of eternal suffering and guilt of being immortal has come to an end... so to speak.In the final shot, at the bottom of the ocean, the body of the newborn vampire Dr. Hoffman reanimates....
+
+
+QUESTIONS
+q: Who is saved from a falling disco ball?
+a: ['Barnabas', 'There is no falling disco ball mentioned in the plot.']
+
+q: Who does Angelique catch Barnabas Kissing?
+a: ['Angelique catches Barnabas kissing Maggie Evans who is now Victoria Winters.', 'Victoria']
+
+q: Who summons Barnabas to her office?
+a: ['Angelique summons Barnabas to her office.', 'Angelique']
+
+q: What does David learn from his mother?
+a: ["David hears from his mother that she's heading for Widows Hill"]
+
+q: How long was Barnabas in the coffin?
+a: ['196 years']
+
+q: How does Julia want to cure his Vampiric condition?
+a: ['Blood transfusions']
+
+q: Who is an escapee from the mental asylum?
+a: ['Victoria']
+
+q: Angelique works as a what?
+a: ['witch', 'The owner of Angel Bay']
+
+q: Who is Angelique in love with?
+a: ['Barnabas']
+
+q: What job is Maggie Evans applying for?
+a: ['A governess']
+
+q: What year did the Collins family build Collinwood?
+a: ['18th Century']
+
+q: Why is Barnabas smitten with Victoria?
+a: ['Resembles his late love, Angelique']
+
+q: why does Barnabas want to hold a ball?
+a: ['To restore the family name']
+
+q: What does Angelique's mother warn her about?
+a: ['nothing']
+
+q: Who was freed from his coffin?
+a: ['Barnabas Collins', 'Barnabas']
+
+q: Who is the matriarch of Collinsport?
+a: ['Elizabeth Collins Stoddard', 'Angelique']
+
+q: Why does Angelique make a grand appearance?
+a: ['Seduce Barnabas']
+
+q: Who gives Roger a choice to be a father or leave with money alone?
+a: ['Barnabas gives Roger a choice to be a father or leave with money alone.', 'Barnabas']
+
+q: Who does Angelique curse to the immortal life of a vampire?
+a: ['josette', 'Barnabas']
+
+q: Who is headed toward the cliffs where Josette committed suicide?
+a: ['Barnabas, where he too attempts to kill himself', 'Victoria']
+
+q: How does Barnabas steal fisherman crews from Angelique?
+a: ['Hypnotizes them']
+
+q: Who hires Victoria?
+a: ['Elizabeth Collins Stoddard (Michelle Pfeiffer)']
+
+q: What kind of life does Julia now have?
+a: ['drunken life']
+
+q: What is in a secret room of the house?
+a: ['treasure']
+
+q: Who does Barnabas fall in love with?
+a: ['Josette and later Victoria', 'victoria']
+
+q: What kind of creature is Carolyn?
+a: ['A witch', 'Human']
+
+q: Who kills Angelique?
+a: ['Nobody does', 'David']
+
+q: Does Barnabas accept Angelique's offer of partnership?
+a: ['No']
+

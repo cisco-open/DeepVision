@@ -1,0 +1,40 @@
+PARAGRAPH
+The film opens at an 18th-century ball, where Baron Hieronymus von MÃ¼nchhausen is propositioned by a young woman who is engaged to another man. He graciously rejects her advance, and as she leaves, she asks him to turn on the light. The camera follows his hand to a modern light switch, and the young woman drives off in an automobile. The next day, the Baron, out of his costume and in modern dress, regales two of his guests with stories of the famous Baron MÃ¼nchhausen, to whom his guests think he is distantly related.
+He begins in his home town of Bodenwerder, back from an adventure with his trusted servant Christian Kuchenreutter, who has invented a gun that can shoot accurately at a distance of 100 miles. The sorcerer Cagliostro visits, and asks the Baron to join him in a quest to take over the throne of Poland. The Baron declines, explaining that he has no interest in power, just in adventure.
+In St. Petersburg, the Baron joins the court of Catherine the Great. She offers to appoint him to be her general aide-de-camp and install him in a room below hers, with a secret elevator between the two so that they can carry on their affair. He agrees to stay until one of them wants more freedom. While in her court, the Baron clashes with Prince Potemkin. The pair fight a "cuckoo duel" in a darkened room, where one party is obliged to call "cuckoo" while the other aims and fires a pistol at the sound of his opponent's voice. The Baron is wounded in the duel and he goes to Cagliostro, who has recently arrived in St. Petersburg, to tend to the wound. While there, the Baron warns Cagliostro of his impending arrest. After healing the Baron, Cagliostro asks him what he desires most of all, since money and power do not interest him. The Baron answers that he wishes to be as young as he is at that moment, for as long as he desires. Cagliostro grants his wish.
+On the Turkish front, Potemkin lights a cannon while the Baron sits astride it. The Baron rides the cannonball over to the Turkish palace, where he is enslaved along with an Italian princess. After two months as a slave, the Baron is reunited with Kuchenreutter and his runner, Der LÃ¤ufer, who can cover hundreds of miles in a matter of minutes. He makes a wager for his freedom and the princess' with the king, wherein his runner must retrieve some Tokay wine from Vienna within an hour. After winning the bet, the king tries to pass off a counterfeit princess on the Baron. Incensed, he slips on a ring that makes him invisible and absconds with the princess.
+The pair escape to Venice, where her brother is offended by her dalliance with the Baron. He challenges the Baron to a duel with rapiers. The Baron humiliates the brother, leaving him suicidal. The Baron and Kuchenreutter escape in a hot air balloon, which takes them to the moon. On the moon, they marvel at how time moves so swiftly: while MÃ¼nchhausen does not change at all, Kuchenreutter ages rapidly. They meet two inhabitants of the moon, one of whom moves about as a disembodied head. She explains to the Baron how no Earthlings can last more than a day on the Moon before they dry up in smoke and blow away. However, before the Baron can leave the moon, Kuchenreutter has a heart attack and dies in his arms, disappearing in a puff of smoke.
+As the Baron finishes his tale, his guests correct him on some of its historical inaccuracies, citing the fact that the real Baron died before some of the events took place. This prompts the Baron to confess that he is in fact the same man as the legend, and that he has been married happily to his wife for 40 years. Unnerved by his admission, the guests quickly leave. The Baron's wife begs him to flee, as he usually does when his escapades get out of control, upset that he has confessed the truth. The Baron refuses to go, and instead, he revokes Cagliostro's gift. He immediately ages to match the advanced years of his wife.
+
+
+QUESTIONS
+q: What kind of army is named in the movies plot?
+a: ['Gods Army', 'Turkish Army']
+
+q: What was the horse's name in the movie plot?
+a: ['Bucephalus', 'Der Laufer']
+
+q: The Roman God is played by who?
+a: ['Cagliostro']
+
+q: Who plays Gustavus?
+a: ['Jack Purvis']
+
+q: Was the city saved?
+a: ['Yes']
+
+q: Who possesses extraordinary hearing?
+a: ['Gustavus']
+
+q: What swallowed the horse?
+a: ['Sea creature']
+
+q: Who shot Baron?
+a: ['Prince Potemkin', 'Baron was shot by Jackson']
+
+q: Who plays Adolphus?
+a: ['Charles McKeown']
+
+q: Who is rifleman with superhuman eyesight?
+a: ['Adolphus']
+

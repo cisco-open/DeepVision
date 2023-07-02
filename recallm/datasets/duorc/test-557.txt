@@ -1,0 +1,40 @@
+PARAGRAPH
+In the year 2014, Japan suffers a major economic collapse and people are forced to emigrate to mainland China. Three orphaned boys live in a fictional Chinese city called Mallepa, a 'melting pot' of different Asian groups. They are named ShÅ (Gackt), Shinji (Susumu Terajima) who is Sho's brother, and Toshi (TarÃ´ Yamamoto). All three survive through pickpocketing. During a theft gone wrong, Sho meets Kei (Hyde) - a vampire who appears to be a young man - sitting amidst a pile of debris and brings him back to the orphan's hideout. When the orphans are attacked by a man they previously robbed Kei attacks, kills, and feeds off of their attacker thereby revealing his status as a vampire to the orphans. However, Sho approaches him, unafraid.
+Several years later, Sho is in his twenties, leading a band of thieves consisting of Kei and Toshi. During one of the robberies against another gang, they cross paths with a Taiwanese named Son (Leehom). Son is going after the gang because their leader raped his sister, Yi-Che (Zeny Kwok). Sho, Kei, Son and Toshi all become friends, and Sho quickly and awkwardly falls in love with Yi-Che though it is implied that she in turn harbors feelings for Kei. Toshi is murdered by the local mafia for helping Sho and Kei in their heists by using drugged pizza to sedate their targets. Soon, through this experience, Son and Yi-Che learn that Kei is a vampire.
+Nine years later, Kei has left the band and Sho is head of his district in Mallepa and is married to Yi-Che. Son has joined Mr. Chan, the leader of the opposing mafia of Mallepa and is now Sho's enemy. Kei, who is revealed to be in prison for murder, makes several death sentence pleas; Sho goes to visit him in prison after seeing a news report about him on TV. During Sho's visit at the prison, he reveals to Kei that he had to propose to Yi-Che several times before she agreed because she was really in love with Kei. The couple now have a daughter together whom they named "Hana". After spending the entire conversation in silence, Kei states that he feared Sho, who had been reckless, was dead and that he is glad he is not.
+Yi-Che develops a fatal cancerous brain tumor. Soon after the diagnosis, Sho's men are killed on the streets in broad daylight while Sho is away. Sho's brother, Shinji, is also killed when he points at gun at Mr. Chan while in a drug induced haze. Sho calls Kei and begs him to return. After speaking to Kei he is told that Kei had been sentenced to death, something Kei had actually requested. Kei, however, escapes his execution and returns to help his friend. Sho asks Kei to turn Yi-Che into a vampire so she will be around for the sake of Hana (their young daughter). Kei refuses angrily, but agrees to face Mr. Chan with Sho. He promises Sho that if anything happens to him, he will take care of Hana.
+When they go to face Mr. Chan, Mr. Chan is shot by two of his own while Sho faces off with Son. Their battle comes down to a 'count to three and shoot' match when they are both down to only one bullet. Sho's gun misfires and he is shot in the chest by Son. Kei arrives on the scene and Son faces his own death by pointing his empty gun at Kei, who is enraged at the sight of his injured friend and fires at Son. Kei goes to Sho, who appears to die dramatically in Kei's arms.
+In 2045, Hana is grown up and heading off to college. She says goodbye to Kei, who raised her in Sho's absence and it is implied that she is aware of Kei being a vampire. Before she leaves she mentions the feeling of someone watching her, and after her departure Sho appears as a vampire, thanking Kei for taking care of her all these years because he couldn't face what he had become. Together the two men drive to the beach and await the rising sun together to face death. The movie concludes with the entire gang back together at the beach in the daylight (something not possible for Kei in the past), presumably reunited in the afterlife or as reincarnations of themselves in another life.
+
+
+QUESTIONS
+q: In which year does Japan suffer a major economic collapse?
+a: ['2014']
+
+q: Who plays Toshi?
+a: ['Tarô Yamamoto']
+
+q: In which fictional Chinese city do the three orphaned boys live?
+a: ['Mallepa']
+
+q: Who is Sho's brother?
+a: ['Shinji']
+
+q: Where do people emigrate when Japan suffers a major economic collapse?
+a: ['Mainland China']
+
+q: What is the name of Sho's enemy?
+a: ['Son']
+
+q: What year does Hana head off to college?
+a: ['2045']
+
+q: What did Toshi, Sho, and Kei use to sedate their targets?
+a: ['drugged pizza']
+
+q: Where do the two men drive to face their deaths?
+a: ['the beach']
+
+q: In which fictional city of China do the three boys live?
+a: ['Mallepa']
+

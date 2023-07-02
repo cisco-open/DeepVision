@@ -1,0 +1,143 @@
+PARAGRAPH
+Bob and Jill Lawrence (Leslie Banks and Edna Best) are a British couple on a trip to Switzerland, travelling with their daughter Betty (Nova Pilbeam). Jill is participating in a clay pigeon shooting contest. She is the best shot but she loses first place to a male sharpshooter because, at the crucial moment, she was distracted by the noise of a chiming watch which belongs to Abbott (Peter Lorre).
+Bob and Jill have befriended Frenchman Louis Bernard (Pierre Fresnay) who is staying in their hotel. One evening, Louis is fatally shot as Jill dances with him. Before he expires, Louis tells Bob where to find a note to be delivered to the British consul. Bob reads the note, which contains vital indications about a planned international crime.
+The criminals kidnap the couple's daughter Betty and threaten that she will be killed if her parents tell anyone what they know. Unable to seek help from the police, the couple return to England. They follow a series of leads and discover that the group, led by Abbott, intends to assassinate the head of state of an unidentified European country during a concert at the Royal Albert Hall. The group has hired the winner of the Swiss clay-pigeon contest as gunman for the assassination, who has excellent sharpshooting skills. Jill attends the concert and distracts the gunman's aim with a scream at the crucial moment.
+The criminals return to their lair, which is the temple of a sun-worshipping cult in a working-class area of Wapping in London, near the docks. Bob had entered the temple as he was searching for Betty, and is being held prisoner in the adjoining house. Betty is also imprisoned there in another room. The police surround the buildings and a major gunfight ensues; the police are issued with rifles. The criminals hold out until their ammunition runs low and nearly all of them have been killed.
+Betty climbs up to the roof, fleeing from the gunman who follows her. A police marksman dares not try to shoot him, as he is standing so close to Betty. Jill grabs the rifle and her sharpshooting skills finally triumphâshe shoots the gunman and he falls off the roof without harming Betty.
+The police storm the building. Abbott, the criminal mastermind, is still alive and hiding behind a door, but he is betrayed by the chiming of his watch, and is shot and killed by the police.
+A terrified Betty is reunited with her parents.
+
+
+QUESTIONS
+q: What kind of building was Ben knocked out and locked in?
+a: ['police storm', 'chapel']
+
+q: Where is Scotland Yard?
+a: ['London', 'British couple']
+
+q: Where did the McKennas leave their friends?
+a: ['Bob and Jill Lawrence', 'hotel suite']
+
+q: Where did the Draytons take Hank?
+a: ['to a foreign embassy', 'Betty']
+
+q: What song does Jo perform?
+a: ['Jill is participating in a clay pigeon shooting contest', '"Que Sera, Sera (Whatever Will Be, Will Be)"']
+
+q: Who offers to take the McKennas to dinner?
+a: ['Bernard']
+
+q: Where did the Mckennas leave their friends?
+a: ['Not stated']
+
+q: Where did Buchanan go to a concert?
+a: ['Royal Albert Hall']
+
+q: Where was the assassin planning on killing the prime minister?
+a: ['At the symphony concert at Royal Albert Hall']
+
+q: Who asks Jo to sing?
+a: ['Not stated']
+
+q: What kind of plot was Louis trying to uncover?
+a: ['Vital indications about a planned international crime', 'Assassination Plot']
+
+q: Who was the man the Mekennas are searching for?
+a: ['Abbott', "the boy's father"]
+
+q: Who did the McKennas have to go and pick up?
+a: ['Hank']
+
+q: What is Ben expecting to mask the gunshot?
+a: ['Betty', 'falling down the stairs']
+
+q: What is the profession of Josephine Conway McKenna in the movie?
+a: ['Not stated']
+
+q: Who played the role of Dr. Benjamin McKenna in the movie?
+a: ['James Stewart']
+
+q: Who was Louis?
+a: ['a fellow traveler']
+
+q: Who invites the McKennas to the embassy?
+a: ['Prime Minister']
+
+q: Who was dying?
+a: ['Bernard']
+
+q: Who has been kidnapped?
+a: ['hank', 'Hank']
+
+q: Who is Ben searching for?
+a: ['assassin']
+
+q: Who ignores the McKennas at the restaurant?
+a: ['Bernard']
+
+q: What kind of building was Ben knocked out and locked in?
+a: ['police storm', 'chapel']
+
+q: Where is Scotland Yard?
+a: ['London', 'British couple']
+
+q: Where did the McKennas leave their friends?
+a: ['Bob and Jill Lawrence', 'hotel suite']
+
+q: Where did the Draytons take Hank?
+a: ['to a foreign embassy', 'Betty']
+
+q: What song does Jo perform?
+a: ['Jill is participating in a clay pigeon shooting contest', '"Que Sera, Sera (Whatever Will Be, Will Be)"']
+
+q: Who offers to take the McKennas to dinner?
+a: ['Bernard']
+
+q: Where did the Mckennas leave their friends?
+a: ['Not stated']
+
+q: Where did Buchanan go to a concert?
+a: ['Royal Albert Hall']
+
+q: Where was the assassin planning on killing the prime minister?
+a: ['At the symphony concert at Royal Albert Hall']
+
+q: Who asks Jo to sing?
+a: ['Not stated']
+
+q: What kind of plot was Louis trying to uncover?
+a: ['Vital indications about a planned international crime', 'Assassination Plot']
+
+q: Who was the man the Mekennas are searching for?
+a: ['Abbott', "the boy's father"]
+
+q: Who did the McKennas have to go and pick up?
+a: ['Hank']
+
+q: What is Ben expecting to mask the gunshot?
+a: ['Betty', 'falling down the stairs']
+
+q: What is the profession of Josephine Conway McKenna in the movie?
+a: ['Not stated']
+
+q: Who played the role of Dr. Benjamin McKenna in the movie?
+a: ['James Stewart']
+
+q: Who was Louis?
+a: ['a fellow traveler']
+
+q: Who invites the McKennas to the embassy?
+a: ['Prime Minister']
+
+q: Who was dying?
+a: ['Bernard']
+
+q: Who has been kidnapped?
+a: ['Hank']
+
+q: Who is Ben searching for?
+a: ['assassin']
+
+q: Who ignores the McKennas at the restaurant?
+a: ['Bernard']
+

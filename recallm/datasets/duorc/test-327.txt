@@ -1,0 +1,17 @@
+PARAGRAPH
+Johnny Worricker (Bill Nighy) is a long-serving MI5 officer. His best friend and superior, Director General Benedict Baron (Michael Gambon), summons Johnny to a meeting with MI5 agent Jill Tankard (Judy Davis) and Home Secretary Anthea Catcheside (Saskia Reeves) regarding a potentially explosive report. Worricker verbally highlights a note at the foot of page eight alleging that Prime Minister Alec Beasley (Ralph Fiennes) has knowledge of secret overseas prisons where terror suspects have been tortured by U.S. authorities. If true, Beasley did not share any intelligence gained with the security services, at the possible expense of British lives.
+At the same time, Johnny begins spending time with his neighbour Nancy Pierpan (Rachel Weisz), a Syrian-born political activist whose brother was killed by Israeli forces. Johnny shares his love of modern art and jazz with Nancy but, wondering if she aims to exploit his connections, asks friend and covert intelligence operative Rollo to investigate her. Meanwhile, Baron dies of a heart attack at his country home before he can make the report public. Beasley orders the report to be buried and tells Johnny of his plans to replace MI5 with a U.S.-style Homeland Security organisation. Catcheside's silence is bought by naming her Deputy Prime Minister.
+Johnny sells a painting from his small but valuable art collection to obtain traveling cash. He learns that an acquaintance of Nancy's, seen loitering around the apartment building, is Tankard's son and has been paid to monitor him. Johnny realizes that Beasley and Tankard are running a politicised "cowboy" intelligence operation. Johnny gives Nancy a copy of the secret file on her brother's death but points out that he would be implicated if its existence were to be revealed by her. Johnny ends up making a deal with Tankard to keep quiet about the report. In return for Johnny's silence, Tankard agrees to kill the reorganisation of the intelligence services as well as leak the file on Nancy's brother's murder to the BBC. The fallout forces Johnny to disappear for his safety.
+Johnny gives Nancy a Christopher Wood painting from his collection. On seeing the leaked report of her brother's murder on the news, she realises that Johnny arranged it to allow her to pursue a legal case against the Israelis without implicating himself. At London Stansted Airport, Johnny dumps the original report incriminating Beasley in a rubbish bin. As Johnny looks at the departure screen, Nancy looks closely at Johnny's painting and sees a church near a beach.
+
+
+QUESTIONS
+q: Who is a lifelong member of the Security service?
+a: ['Johnny Worricker']
+
+q: Who is Worricker's boss?
+a: ['Benedict Baron']
+
+q: Who is the British Prime Minister?
+a: ['Alec Beasley']
+

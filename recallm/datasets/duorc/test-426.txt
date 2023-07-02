@@ -1,0 +1,35 @@
+PARAGRAPH
+The farmers of the peaceful planet Akir are threatened by the space tyrant Sador (John Saxon) and his army of mutants, the Malmori. Sador's huge ship carries a weapon called a "Stellar Converter", which turns planets into small stars. He threatens to use the Converter unless the planet submits to him when he returns in several days. Zed (Jeff Corey), the last Akira warrior, is old and nearly blind. He suggests they hire mercenaries to protect the planet. Lacking valuable resources, they can only offer food and shelter in payment. Unable to go himself, Zed offers his ship, which has an artificial intelligence navigation and tactical computer named Nell, for the job if they can find a pilot. The ship is fast and well-armed but cannot defeat Sador alone. Shad (Richard Thomas), a young man who has piloted the ship and is well known to Nell, volunteers for the recruiting mission.Shad's first stop is the Hephaestus space station, which repairs androids. Expecting to find weapons, Shad instead finds only two humans among the androids: Doctor Hephaestus (Sam Jaffe), kept on life support, and his beautiful daughter Nanelia (Darlanne Fluegel). The doctor attempts to force Shad to mate with his daughter. Shad doesn't want to abandon his people, and escapes, with Nanelia following in her own ship. Although she has no weapons, her highly advanced computer systems might be useful. The two split up to look for more mercenaries.A little later, Shad comes across Space Cowboy (George Peppard), a spacegoing truck driver from Earth. Shad learns that Cowboy is late delivering a shipment of laser guns to a planet which, as they watch, Sador destroys with his weapon. Lacking the fuel to carry the weapons home, Cowboy offers to deliver them to Akir. Shad talks him into teaching the Akira to use the guns.Later, Shad meets a set of five alien clones who share a group consciousness named Nestor. They admit their life is incredibly dull, since their whole race shares one mind. In order to be entertained, they have sent five members to join Shad's cause. Nestor does not require payment, saying they are completely self-sufficient.Next, Shad recruits Gelt (Robert Vaughn), a wealthy assassin who is so well known he can't show his face on any civilized planet. Gelt offers his services in trade for the ability to live peacefully hiding among the Akira. Gelt's spaceship is highly maneuverable and well armed.On his way back to Akir, Shad is approached by Saint Exmin (Sybil Danning), of the Valkyrie warriors. She is a headstrong woman looking to prove herself in battle. She pilots a small, barely armed, but extremely fast spaceship. Shad finds her annoying and wishes she would go away, but she tags along.While waiting for Shad's return, Nanelia is captured by a reptilian slaver named Cayman. Cayman possesses a powerful old ship with an eclectic crew of aliens. She quickly recruits Cayman to their cause when he learns that they are looking for mercenaries to fight Sador. The only payment Cayman wants is Sador's head, since Sador's forces had destroyed Cayman's homeworld.The fleet of seven ships return to Akir. Shad takes the mercenaries down to the surface, but they are greeted with caution by the natives, who are not used to violent species. Eventually, Sador returns, but his fleet of fighters is intercepted by Shad and his new friends. In the opening battle, Gelt skillfully destroys several of Sador's ships but is mortally wounded when his ship crashes. Meanwhile, Cowboy and the Akiran natives, armed with his laser guns, fight off Sador's invading ground forces.Sador survives an assassination attempt by one of the captured Nestors and launches all of his ships in retaliation against the planet. The Akira ground troops, lead by Cowboy, defeat Sador's army, but Zed is killed in the fighting. There is another huge space battle and the mercenaries' ships are destroyed one by one. However, the mercenaries are successful in destroying all of Sador's star fighters and the Stellar Converter, leaving only Sador's flagship. Shad and Nanelia, piloting Nell, are captured by the flagship in a tractor beam. The pair escape in a lifepod after Shad orders Nell to activate the ship's self-destruct program. Sador's ship is destroyed in the explosion. As Shad and Nanelia return to Akir, Nanelia despairs over the deaths of their friends. Shad tells her that the Akira believe that no one is truly dead when they are remembered and beloved by the living. The Akira will remember the sacrifices made by the mercenaries and honor them forever.
+
+
+QUESTIONS
+q: who are sador's army of mutants?
+a: ['the Malmori']
+
+q: What does Zed's ship have ?
+a: ['an artificial intelligence navigation and tactical computer named Nell']
+
+q: What payment does Cayman want and why ?
+a: ["Sador's head, since Sador's forces had destroyed Cayman's homeworld"]
+
+q: what is the name of zed's tactical computer?
+a: ['Nell']
+
+q: Who does Zed suggest they hire to protect the planet ?
+a: ['mercenaries']
+
+q: The mercenaries destroy all of Shad's ship except ?
+a: ['flagship']
+
+q: Which is Shad's first stop ?
+a: ['Hephaestus space station']
+
+q: who is the leader of the akira ground troops?
+a: ['Cowboy']
+
+q: what weapon turns planets into small stars?
+a: ['Stellar Converter']
+
+q: What does Sador's ship carry ?
+a: ['A weapon called Stella Convertor']
+

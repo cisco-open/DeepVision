@@ -1,0 +1,40 @@
+PARAGRAPH
+Popeye, a sailor, arrives at the small coastal town of Sweethaven ("SweethavenâAn Anthem") while searching for his long-lost father. He is immediately feared by the townsfolk simply because he is a stranger ("Blow Me Down"), and is accosted by a greedy taxman. He rents a room at the Oyl family's boarding house where the Oyls' daughter, Olive, is preparing for her engagement party. Her hand is promised to Captain Bluto, a powerful, perpetually angry bully who runs the town in the name of the mysterious Commodore. In the morning, Popeye visits the local diner for breakfast ("Everything Is Food") and demonstrates his strength as he brawls with a gang of provocative ruffians who give him and the other customers a hard time.
+On the night of the engagement party, Bluto and the townsfolk arrive at the Oyls' home. Olive, however, sneaks out of the house, after discovering that the only attribute she can report for her bullying fiancÃ© is size ("He's Large"). She encounters Popeye, who failed to fit in with the townsfolk at the party. The two eventually come across an abandoned baby in a basket. Popeye adopts the child, naming him Swee'Pea, and the two return to the Oyls' home. Bluto, however, has grown increasingly furious with Olive's absence. He realizes that she means to break off the engagement. He eventually flies into a rage and destroys the house ("I'm Mean"). When he sees Popeye and Olive with Swee'Pea, Bluto beats Popeye into submission and declares heavy taxation for the Oyls.
+The taxman repossesses the remains of the Oyls' home and all their possessions. The Oyls' son, Castor, decides to compete against the local heavyweight boxer, Oxblood Oxheart, in the hopes of winning a hefty prize for his family. However, Castor is no match for Oxheart and is savagely beaten and knocked out of the ring. Popeye takes the ring in Castor's place and defeats Oxheart, putting on a show for the townsfolk and finally earning their respect. Back at home, Popeye and Olive sing Swee'Pea to sleep ("Sailin'").
+The next day, Olive tells Popeye that during his match with Oxheart, she discovered that Swee'Pea can predict the future by whistling when he hears the correct answer to a question. Wimpy overhears and asks to take Swee'Pea out for a walk, though he actually takes him to the "horse races" (actually a mechanical carnival horse game) and wins two games. Popeye, however, is outraged, and vents his frustrations to the racing parlor's customers ("I Yam What I Yam"). Fearing further exploitation of his child, Popeye moves out of the Oyls' home and onto the docks; when the taxman harasses him, Popeye pushes him into the water, prompting a celebration by the townspeople. In the chaos, Wimpy, who has been intimidated by Bluto, kidnaps Swee'Pea for him. That night, Olive remarks to herself about her budding relationship with Popeye ("He Needs Me"), while Popeye writes a message in a bottle for Swee'Pea ("Swee'Pea's Lullaby").
+Wimpy sees Bluto taking Swee'Pea into the Commodore's ship; he and Olive inform Popeye. Inside, Bluto presents the boy to the curmudgeonly Commodore, promising that he is worth a fortune; however, the Commodore refuses to listen, reminding Bluto that his buried treasure is all the fortune he needs. His patience with the Commodore exhausted, Bluto ties him up and takes Swee'Pea himself ("It's Not Easy Being Me"). Popeye storms the ship and meets the Commodore, realizing that he is his father, Poopdeck Pappy. However, Pappy initially denies that Popeye is his son; to prove it, Pappy tries to feed Popeye spinach, which he claims is his family's source of great strength. However, Popeye hates spinach and refuses to eat it. Bluto kidnaps Olive as well and sets sail to find Pappy's treasure. Popeye, Pappy, Wimpy and the Oyl family board Pappy's ship to give pursuit. Bluto sails to Scab Island, a desolate island in the middle of the ocean, while Pappy argues with his son and rants about children ("Kids").
+Popeye catches Bluto and fights him, but despite his determination, Popeye is overpowered. During the duel, Pappy recovers his treasure and opens the chest to reveal a collection of personal sentimental items from Popeye's infancy, including a few cans of spinach. A gigantic octopus awakens and attacks Olive from underwater (after Pappy saves Swee'Pea from a similar fate). With Popeye in a choke hold, Pappy throws him a can of spinach; Bluto, recognizing Popeye's dislike for spinach, force-feeds him the can before throwing him into the water. The spinach revitalizes Popeye and boosts his strength; he knocks Bluto down in one punch, then swiftly deals with the giant octopus, sending it flying hundreds of feet into the air. Bluto turns yellow and he swims away as Popeye celebrates his victory and his new-found appreciation of spinach ("Popeye the Sailor Man").
+
+
+QUESTIONS
+q: What brings Popeye to Sweethaven?
+a: ['His search for his long lost father']
+
+q: What is Swee'Pee's special talent?
+a: ['Predicting the future']
+
+q: Who is Swee'Pea?
+a: ["Popeye's adopted child"]
+
+q: What helps Popeye boost his strength?
+a: ['Spinach']
+
+q: Who is Popeye searching for?
+a: ['his long-lost father']
+
+q: How does Popeye finally earn the town's respect?
+a: ['By defeating the giant octopus']
+
+q: What revitalizes and boosts Popeye's strength?
+a: ['The spinach', 'spinach']
+
+q: What does Pappy rant about?
+a: ['children']
+
+q: Who is Olive engaged to?
+a: ['Captain Bluto']
+
+q: What prompted a celebration by the townspeople?
+a: ['Popeye pushed the taxman into the water', 'Popeye pushes the taxman into the water']
+

@@ -1,0 +1,104 @@
+PARAGRAPH
+Royce (Adrien Brody) awakens from unconsciousness to find himself parachuting into an unfamiliar jungle. He meets several others who have arrived there in the same manner: Mexican drug cartel enforcer Cuchillo (Danny Trejo), Spetsnaz soldier Nikolai (Oleg Taktarov), Israel Defense Forces sniper Isabelle (Alice Braga), Revolutionary United Front officer Mombasa (Mahershalalhashbaz Ali), death row inmate Stans (Walton Goggins), Yakuza enforcer Hanzo (Louis Ozawa Changchien), and doctor Edwin (Topher Grace). None of them know where they are or how they arrived there. Royce takes charge but reveals little about himself, though Isabelle suspects that he is a mercenary and former Black Ops (black operations) soldier. He speculates that they have been brought to the jungle for a reason since with the exception of Edwin they are all armed and lethal killers. In the jungle, they find empty cages, plants with a neurotoxic poison that Edwin collects on a scalpel, and a deceased United States Special Forces soldier. Arriving at higher ground, they find themselves staring at an alien sky, and conclude that they are not on Earth.After the party is attacked by a pack of quadrupedal alien beasts, Royce deduces that the planet is some type of game preserve and that the humans are being hunted as game. Hearing Cuchillo's cries for help, they find his dead body being used and voice being mimicked in an attempt to bait them into a trap. They follow the quadrupeds' tracks to a hunting encampment and find a captive Predator. Three larger Predators attack, killing Mombasa, but the rest of the group escapes. Isabelle reveals that she has heard of these creatures before, from a report by the only survivor of a Special Forces team who encountered one in Val Verde, Guatemala in 1987 (referring to the events of Predator).The group next meets Noland (Laurence Fishburne), an air assault soldier who has survived on the planet for years by scavenging and hiding in an abandoned structure. He explains that the Predators sharpen their killing skills by collecting warriors and dangerous beasts from other worlds and bringing them to the planet to hunt. Noland also reveals that there is even a blood feud between the larger Predators and the smaller ones. Royce hopes that if they free the smaller Predator being held prisoner in the encampment, it might be able to take them home using the other Predators' spaceship. Noland attempts to murder the group during the night, but Royce creates noise to attract the Predators, who kill Noland. In the ensuing chase, Nikolai sacrifices himself to kill one of the Predators, using an explosive. Stans is killed by a second Predator, which Hanzo then succeeds in killing in a sword fight at the cost of his own life.Edwin is injured by a trap as he, Royce, and Isabelle head for the encampment. When Isabelle refuses to abandon him, Royce leaves them both behind, and they are caught by the third and final large Predator. Royce frees the smaller Predator and heads for the ship as the two Predators confront each other. The larger Predator kills its foe and then destroys the ship as it takes off. Meanwhile, Edwin paralyzes Isabelle with the neurotoxic poison on his scalpel and reveals that on Earth he was a psychopathic murderer, and feels that he fits in on this planet among the monsters. Royce appears, never having boarded the ship, and saves Isabelle by stabbing Edwin through the throat.Royce booby-traps Edwin's body with grenades, using him as bait to disorient the Predator. He uses the fire to hide his heat signature, and a violent fight ensues. While Royce is hiding behind a tree to take a break, the Predator changes his point of view from heat signal, to tracking heartbeat. Right away, the Predator finds Royce behind a tree and attacks him. Just when Royce is about to be given a death blow from the Predator, Isabelle drags her body towards the sniper and shoots the Predator. This allows Royce to get back up and successfully decapitate the Predator. As Royce and Isabelle recover from their ordeal, they observe more prey being parachuted down to the jungle. Royce declares that they must find another way off of the planet.
+
+
+QUESTIONS
+q: Where do they realize they are not at when staring at the alien sky?
+a: ['Earth']
+
+q: Who is there a blood feud between?
+a: ['There is a blood feud between the larger predators and the smaller ones']
+
+q: What year did Major Alan "Dutch" Schaefer report he encountered the predator in Guatamala?
+a: ['He encountered the predator in the year 1987']
+
+q: Who is the blood feud between?
+a: ['the larger Predators and the smaller ones']
+
+q: Why do the Predators bring warriors and dangerous beasts from other worlds?
+a: ['They bring warriors and dangerous beasts from other worlds to hunt']
+
+q: How has Noland survived so long on the island?
+a: ['scavenging and hiding in an abandoned structure']
+
+q: What is Chuchillo's body used for?
+a: ['To bait them into a trap']
+
+q: What does Nikolai uses to kill a Predator, sacrificing himself?
+a: ['an explosive']
+
+q: Who does the Predator kills when he tries to escape?
+a: ['Mombasa']
+
+q: WHAT DOES THE LARGER PREDATOR DESTROY?
+a: ['The smaller predator']
+
+q: How many Predators attack the group?
+a: ['1']
+
+q: What year did a Special Forces team in Guatemala encounter a Predator?
+a: ['1987']
+
+q: What does Edwin collect on a scalpel?
+a: ['neurotoxic poison']
+
+q: Who is Noland played by?
+a: ['Laurence Fishburn']
+
+q: HOW DOES EDWIN  PARALYZE ISABELLE ?
+a: ['neurotoxic poison']
+
+q: Who has heard of the predators before?
+a: ['Isabelle has heard of the predators before']
+
+q: When Noland tries to escape, what happens to him?
+a: ['He dies']
+
+q: What does Hanzo use to duel the third Predator?
+a: ['Sword']
+
+q: How is Royce planning to get home?
+a: ['find another way off planet']
+
+q: Who traps Edwin?
+a: ['Royce']
+
+q: How long has Noland survived?
+a: ['years']
+
+q: Who is Nikolai?
+a: ['a Spetsnaz soldier']
+
+q: Who kills the third Predator?
+a: ['Royce']
+
+q: Who has heard of the Predators before?
+a: ['Isabelle']
+
+q: What kind of alien beasts attack the group?
+a: ['quadrupedal alien beasts']
+
+q: Having gone mad, what does he plans to kill them for?
+a: ['he was a psychopathic murderer']
+
+q: When the group fall asleep, Who traps them in a room and attempts to use smoke to suffocate them?
+a: ['Noland']
+
+q: How long has Noland survived on the planet?
+a: ['He has survived for years on the planet']
+
+q: Who are the two killed?
+a: ['Stans and Hanzo']
+
+q: Who is Hanzo?
+a: ['Yakuza enforcer']
+
+q: WHO HEADS FOR PREDATOR'S CAMP ?
+a: ['Edwin, Royce, and Isabelle']
+
+q: What does Isabelle cover him with?
+a: ['sniper']
+
+q: How many survivors are there from the 1987 Guatemala attack?
+a: ['2']
+

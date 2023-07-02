@@ -1,0 +1,122 @@
+PARAGRAPH
+The film opens with the torture of a young man (whose face is covered) - 2 tubes are inserted into his nose, and (via a foot pump) a greenish fluid in pumped in through one pipe - causing blood to pour out through the other. The man's captor then kills him with a large hammer.Jennifer Tree (Elisha Cuthbert), a young fashion model and cover girl, had captured the attention of photographers and for better or worse, the public at large. On an evening out alone, Jennifer is stalked and drugged. She wakes in a stupor to find herself captive and confined to a cell.A series of metal bins and numbered lockers abruptly swing open in front of her. They contain personal items taken from her apartment. She is forced to view videotapes containing images of the victims that were tortured previous to her captivity as well as videotaped interviews she had given to the media in the past. Trapped, realizing there is no way out, Jennifer pleads and screams to anyone that might hear her. During her confinement, she is subjected to various forms of psychological and sensory torture. She is forced to drink a blended mixture of an eye, ear and nose of a previous victim. Then, she is made to decide who dies within 30 seconds: herself or her dog, Suzy.Jennifer eventually finds she is not alone. A young man, Gary (Daniel Gillies), is being held captive in an adjoining cell. The two make contact and try to find out why they are being held.After watching the horrific scene, they find their way out. A fight ensues between Gary and the captor. Ultimately, Jennifer is drugged once again and wakes up confined to a "torture chair" with Gary. Ready to pull out Jennifer's tooth, Gary insists the captor take his out instead.After a moment of consensual sex, Gary awakens to find Jennifer, who has been drugged once again. He takes out a key to an adjoining cell.A tape is shown where a woman lying on her bed with cigarettes and pills scattered everywhere is apologizing to her son for "touching" him. The boy then repeatedly stabs his mother several times, killing her. He then snaps a picture of his dead mother. In a little corner glancing at the photo, a smirk appears on his face.Meanwhile, Gary's key opens a door into a house, revealing that Gary and his older brother Ben (Pruitt Taylor Vince) are actually the captors. Gary joins Ben in the kitchen where they make sushi.Gary tells Ben that he is falling in love with Jennifer. Ben strikes Gary and says "play them, don't play with them." Ben then puts something in the fridge. When he turns around Gary stabs him. Gary then watches the same tape of the woman lying on the bed that was shown earlier. The boy stabbing his mother is revealed to have been Gary looking at a smirking Ben.After the tape, Gary is seen reviewing a series of pictures in an album, and then there is a knock at the door. At the sound of knocks, he quickly rushes and puts the albums in a cabinet. He slams the cabinet's door, but it does not fully close. The knock at the door are two detectives looking for Ben. Gary tells them that his brother is not at the house. The detectives enter the house, getting comfortable and asking to watch a big sports game on TV. One of them flips the channel to the surveillance video of Jennifer sleeping. Seeing this, Gary shoots them both.He runs down to where Jennifer is being held and tells her that he has killed "them" and that it is time to go. He places Jennifer in a room and tells her not to go. One of the detectives, not dead after all, jumps out at her but she bashes him with a bat, believing him to be one of her captors. Jennifer then discovers the ajar cabinet and begins viewing the albums. Gary is in all of them. While looking through albums, Ben, also not yet dead, jumps out at her. However, Jennifer finishes him off by stabbing the knife more deeply into him.After viewing the albums, Jennifer hears the detective's pager ring and she goes through his personal belongings. Gary is seen recording Jennifer and claims she belongs to him and will help her clean the mess up. She tricks him and sprays ammonia in his eyes before running off.On her way she cuts a series of wires and electrical cords, preventing doors, code entries, and lights from working. Jennifer picks up a flashlight and the gun used on the detectives. She does not know how to use a gun, and fails to 'cock' it. Gary then throws her on a bed and points the gun at her face, explaining why the gun had not fired, while firing a round into the ceiling to demonstrate and terrify her. She kicks him in the groin and retrieves the gun from him. This time she cocks the gun. Instead of then shooting him in the head she shoots him in the groin, and says "thanks" to him. She then shoots him in the heart and exits the room. She leaves the house, and the last scene shows posters of Jennifer's new film, DARE.
+
+
+QUESTIONS
+q: Who shoots the two police officers?
+a: ['Gary']
+
+q: What does Jennifer do when Gary is thrown back into his cell?
+a: ['makes contact with him']
+
+q: Who is Jennifer Tree played by?
+a: ['Elisha Cuthbert']
+
+q: Who is being held captive in an adjoining cell from Jennifer?
+a: ['Gary']
+
+q: Who has been drugged?
+a: ['Jennifer is  drugged']
+
+q: How many detectives are at the door, looking for Ben?
+a: ['two']
+
+q: What happens after Jennifer and Gary watch the horrific scene?
+a: ['they find their way out']
+
+q: What makes Gary and Jennifer unconscious?
+a: ['they are drugged']
+
+q: What do Gary and Ben eat in the kitchen?
+a: ['sushi']
+
+q: How many tubes are inserted into the young man's nose?
+a: ['2']
+
+q: What happens when Jennifer cuts the wires and electrical cords?
+a: ['the doors, code entries, lights fail']
+
+q: Who is being held captive in the adjoining cell to Jennifer?
+a: ['Gary']
+
+q: Who is asleep in the cell?
+a: ['Jennifer']
+
+q: Who stabs Ben and Gary's mother?
+a: ['Gary']
+
+q: What does Gary's key open?
+a: ['a door to a house']
+
+q: Who is in all of the albums?
+a: ['Gary']
+
+q: What happens on Jennifer's evening out alone?
+a: ['she is stalked and drugged']
+
+q: What does Jennifer spray in Gary's eyes?
+a: ['Ammonia']
+
+q: Where is Jennifer when she psychologically tortured?
+a: ['in a cell']
+
+q: On her way out what does Jennifer pick up?
+a: ['A flashlight and a gun used on the dectectives']
+
+q: How does Jennifer trick Gary?
+a: ['sprays ammonia in his eyes']
+
+q: Who are the two detectives looking for?
+a: ['Ben']
+
+q: Who is Gary falling in love with?
+a: ['Jennifer']
+
+q: What do the detectives ask to watch on tv?
+a: ['sports game']
+
+q: Does Jennifer think there is a way out?
+a: ['No']
+
+q: Who does Jennifer scream and plead to?
+a: ['anyone that might hear her']
+
+q: What tape does Jennifer see?
+a: ['Gary killing his mom']
+
+q: When Jennifer is awake, there are a series of metal bins and numbered what in front of her?
+a: ['lockers']
+
+q: Who does Jennifer stab?
+a: ['Ben']
+
+q: Who is revealed to be the actual captors?
+a: ['Gary and Ben']
+
+q: Who shoots the detectives?
+a: ['Gary']
+
+q: Who stabs Ben?
+a: ['Jennifer']
+
+q: How many times does Jennifer shoot Gary?
+a: ['twice']
+
+q: Where is Jennifer when she wakes up?
+a: ['Jennifer is drugged once again and wakes up confined to a "torture chair" with Gary.']
+
+q: What do the numbered lockers and metal bins contain?
+a: ['her personal belongings']
+
+q: After Gary and Jennifer have sex, what does he find?
+a: ['Jennifer, who had been drugged again.']
+
+q: Who records Jennifer?
+a: ['Gary is seen recording Jennife']
+
+q: What is Jennifer's profession?
+a: ['fashion model']
+
+q: What is Jennifer forced to view?
+a: ['images of previous victims']
+

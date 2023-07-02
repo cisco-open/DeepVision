@@ -1,0 +1,34 @@
+PARAGRAPH
+Filmed in Portland, Oregon, What the Bleep Do We Know!? presents a viewpoint of the physical universe and human life within it, with connections to neuroscience and quantum physics. Some ideas discussed in the film are:
+
+That the universe is best seen as constructed from thought (or ideas) rather than from matter.
+That "empty space" is not empty.
+That matter is not solid, and electrons are able to pop in and out of existence without it being known where they disappear to.
+That beliefs about who one is and what is real are a direct cause of oneself and of one's own realities.
+That peptides produced by the brain can cause a bodily reaction to emotion.
+In the narrative segments of the movie, Marlee Matlin portrays Amanda, a photographer who plays the role of everywoman as she experiences her life from startlingly new and different perspectives.
+In the documentary segments of the film, interviewees discuss the roots and meaning of Amanda's experiences. The comments focus primarily on a single theme: "We create our own reality." The director, William Arntz, has described What the Bleep as a movie for the "metaphysical left".[2]
+
+
+QUESTIONS
+q: When does Amanda begin to see the world in new and different ways?
+a: ['when she has a bodily reaction to an emotion']
+
+q: What does Amanda begin to question in the Fall?
+a: ['what do we know - what shapes reality']
+
+q: Who plays Amanda?
+a: ['Marlee Matlin']
+
+q: How does Amanda make her living?
+a: ['photography']
+
+q: What is Amanda's profession?
+a: ['Amanda is a photographer.']
+
+q: What does Amanda begin to understand?
+a: ['that we create our own reality']
+
+q: What does Amanda discover during her epiphany?
+a: ['We create our own reality']
+

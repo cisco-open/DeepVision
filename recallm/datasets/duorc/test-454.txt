@@ -1,0 +1,59 @@
+PARAGRAPH
+A man named Andy Fiddler (Eugene Levy) is in his bathroom, preparing a speech. He works for a dental supply company, and lives in Milwaukee, Wisconsin. He will soon be giving a speech to investors in Detroit, and is very nervous.In Detroit, ATF agent Derrick Vann (Samuel L. Jackson), whose partner was recently murdered, is trying to retrieve some guns that were stolen from a federal armory, and are soon to be sold. After a visit to his informant Booty (Anthony Mackie) (who is later gunned down), he sets up a buy. He is to go to a diner and be reading a USA Today. Unfortunately, Andy is in the diner, and his favorite newspaper is USA Today. A menacing Englishman (Luke Goss) sits next to him and hands him a paper bag with his taste in it then leaves. Andy pulls a cell phone out of it, then a gun, which the waitress sees and thinks Andy's holding the place up. That's when Vann walks into the diner and cuffs him. Soon, Vann realizes that the gun traffickers mistook Andy for him, and drags Andy along with him. The cell phone that Fiddler receives rings, with the menacing Brit, whose name we later find out is Joey, is on the other end of the line. He wants Turk (the pseudonym that Vann used when setting up the buy) to drop $20,000 dollars in a certain trash can. Vann reveals that he has the money, and needs Fiddler to drop it.Andy tries to perform the drop plain and simple. Unfortunately, a homeless guy screws this up, and the traffickers just drive by. Andy gets another call asking him what happened. He tells them that there were complications. Joey says he will call back in about an hour. Meanwhile, Andy tries to get away, only to have Vann graze him with a gunshot to the rear. Before Vann picks him up, Andy gets word to 9-1-1 via the cellphone, running a make on Vann's license plate numbers. Vann then suggests Andy use the taco sauce in his glove compartment to ease the pain of the bullet wound. Andy's 9-1-1 call proves effective and a group of squad cars pull them over, much to Vann's dismay, and he is furious at Andy for running a make on his plate. The police discover that Vann is ATF and move aside.Vann tells Andy that he is going to make a stop at a friends house. The friend is a gun dealer that Vann knows named Manny Cortez. He finds Manny shot dead on his toilet seat. The killer was Joey. At the same time, Andy, who is handcuffed to the passenger door, attempts to drive the car with one hand. Vann chases after him in a car he borrows and eventually pulls him over.When back in the car, Andy complains that he is hungry. Vann takes him to a burger joint, where Fiddler complains that red meat doesn't agree with him, but he eats the burger anyway. Back in the car, Fiddler gets extremely gaseous. After quickly exiting the car, Vann gets a call from his ex-wife Dara (Rachael Crawford), who reminds him about his daughter Kate's (Tomorrow Baldwin Montgomery) dance recital in a few hours. Vann takes a quick break from the gun busts for this brief visit. On the way there, Andy teaches him how to curb his use of the word "fuck".When they arrive, Vann explains to Kate that he's on assignment, and can't come. She is dismayed. Then Andy shows Kate some pictures of his family. Vann gets distracted when the phone that Joey gave to Fiddler rings.Joey says he wants to meet Turk in a restaurant, where they will make the exchange. However, Joey says he wants $500,000 for the whole batch. Vann goes to his confiscated items buddy Santos (Horatio Sanz), who eventually gives into his requests. They head to the restaurant, and Andy enters. Fiddler sits down with Joey and discusses the deal. After some questions from Joey about how he got the money so fast he throws Joey the money saying it means nothing to a powerful trafficker like him. He also gives Joey back the cell and tells him that he makes the calls now. When Andy tells Vann what he did, he is furious, but Andy explains that they now get to decide where the meeting takes place, and get backup there. He also tells Vann that they should let Joey simmer for a bit before calling him. Fiddler suggests that they go to Vann's daughter's dance recital, which they do.After that, they leave and call Joey. They arrange for a meeting which they attend with no backup. Upon meeting Joey and his cronies, Joey asks who Vann is. Andy tells him that Vann will do anything that is told. After an embarrassing confession to this by Vann, they are taken to Joey's residence, where, for some reason, they are put in the pool. Joey tells them that he still thinks Vann is a cop. Vann admits this, and tells them that he is betraying the service to make some money. Joey is convinced, and Vann takes Andy to his hotel, and they say goodbye.The next day, Andy gives his speech, and it goes well. When he exits the building, Internal Affairs agent Peters (Miguel Ferrer) grabs him and throws him in a surveillance truck. They tell him that Vann was lying to both him and them, and that he is actually trying to buy the guns and killed Booty, Cortez, and Vann's partner himself. They need him to wear a wire and get a confession out of Vann.Meanwhile, back at ATF offices, Vann is suspended for his actions of the past day, and his boss (Susie Essman), distrustful of Andy from the start, tells him that Andy was setting him up. At the same time, Andy, now wired, enters Vann's office and says they need to talk. Vann says that they should talk in his car. Vann starts driving to the exchange with Andy in tow. Recognizing Andy's nervousness, Vann asks him straight out if he's wired. Andy admits he is but doesn't reveal whose wire it is.They enter the barn where the exchange is going to go down. After Joey asks where the money is, Vann tells him he'll show the money when Joey shows him the guns. Joey is skeptical and pulls a gun on Vann. That's when the police enter, after hearing everything through Andy's wire. Joey and most of his goons get mowed down, and Vann gets shot in the buttocks. Andy says he will get the taco sauce. Both men are (presumably) cleared of all charges.
+
+
+QUESTIONS
+q: With whom do Andy and Vann arrange a meeting?
+a: ['Joey']
+
+q: In what city does Andy deliver his speech?
+a: ['Detroit']
+
+q: The police release Vann after learning he is a what?
+a: ['ATF']
+
+q: Who does Peters suspect?
+a: ['Vann']
+
+q: Who captured Andy?
+a: ['Internal Affairs agent Peters.']
+
+q: What is Vann's ex-wife's name?
+a: ['Dara.']
+
+q: What does Andy attempt to do?
+a: ['Drive the car with one hand.']
+
+q: Who shoots Andy?
+a: ['Vann']
+
+q: Who pulls a gun on Vann?
+a: ['Joey.']
+
+q: Who does the waitress thinks is going to rob the place?
+a: ['Andy']
+
+q: Why does the initial attempt to deliver the money fail?
+a: ['A homeless guy screws this up.']
+
+q: Who is preparing a speech?
+a: ['Andy Fiddler']
+
+q: What is Vann's motivation for working with Joey?
+a: ['To buy the guns']
+
+q: In what part of his body is Vann wounded?
+a: ['Buttocks.']
+
+q: Who asked Andy if he was wearing a wire?
+a: ['Vann.']
+
+q: How does Vann find Manny in his own house?
+a: ['Dead.']
+
+q: What will Van be reading to be recognized?
+a: ['USA Today.']
+
+q: How much money does Joey want "Turk" to drop in a trash can?
+a: ['$20,000.00.']
+

@@ -1,0 +1,67 @@
+PARAGRAPH
+Policeman Edward Malus (Nicolas Cage) receives news from his ex-fiancÃ©e, Willow Woodward (Kate Beahan), that her daughter, Rowan (Erika Shaye Gair), is missing. He travels to the Western United States and takes a ship cruise to a coastal area where he gets a pilot (Matthew Walker) to take him to an island off the coast of Washington State where a group of neo-pagans live.
+The island is led by Sister Summersisle (Ellen Burstyn), an elderly woman who supposedly represents the goddess they worship. Sister Summersisle explains to Edward that her ancestors had left England to avoid persecution, only to settle near Salem and find renewed persecution in the Salem witch trials, before arriving on the island. Sister Summersisle explains that their population is predominantly female as they choose the strongest stockâevading Edward's concern about the birth of unwanted males. The economy of the island relies on the production of local honey, which Edward learns has declined recently.
+Edward asks the villagers about Rowan, but they give him evasive answers. He later sees two men carrying a large bag that appears to be dripping blood, and then he finds a fresh, unmarked grave in the churchyard. The grave turns out to only contain a burned doll, but Edward finds Rowan's sweater in the churchyard.
+At the village school, teacher Sister Rose (Molly Parker) tries to prevent Edward from seeing the class register. When he sees that Rowan's name has been crossed out he becomes enraged at the teacher's and Rowan's classmates' lies. Rose demands Edward talk outside and, after a short discussion of the island people's view of death, Rose explains that Rowan is "letting it snow". Edward asks how Rowan died and Sister Rose tells him first that "She'll burn to death". When Edward catches the tense she used, Sister Rose corrects herself quickly, saying, "She burned to death", and rushes back to her class.
+While questioning Willow about the grave, she reveals to Edward that Rowan is his daughter.
+As Edward searches through the island for clues and answers, he eventually grows to realise the community is a matriarchal dystopian society.
+On the day of the fertility rite, Edward frantically searches the village for Rowan. He attacks Sister Beech (Diane Delano), who has a bear costume for the ritual. Edward incapacitates Sister Honey (Leelee Sobieski), dons the bear suit, and joins the parade led by Sister Summersisle.
+The parade ends at the site of the festival. Rowan is tied to a large tree, about to be burned. Edward rescues Rowan and they run away through the woods, but Rowan leads him back to Sister Summersisle. Sister Summersisle thanks Rowan for her help, and Edward realizes that the search for Rowan was a trap. Sister Willow is Sister Summersisle's daughter, and his fate was sealed many years ago, when Sister Willow chose him. The villagers attack Edward and overpower him, viciously breaking his legs with a mallet to prevent him from escaping. Throughout all this, he keeps asking how can he be a good sacrifice if he does not believe in their religion. The women carry him to a giant wicker man and shut him inside. Rowan sets fire to the wicker man and Edward is sacrificed amid his screams and a giant blaze. The crowd chants "The drone must die!", believing that Edward's sacrifice will restore their honey production.
+Six months later, Sisters Willow and Honey enter a bar and start talking with two off-duty police officers (James Franco and Jason Ritter). The women invite them to go home with them, presumably in hopes of using them as Edward was. The buzzing of bees and screaming from Edward Malus can be heard over Sister Honey as the film fades to black.
+
+
+QUESTIONS
+q: Where does Malus finds Rowan's sweater?
+a: ['churchyard']
+
+q: What has a phallic association?
+a: ['the Maypole', 'teach children']
+
+q: How is Willow Woodward related to Edward Malus?
+a: ['ex-fiancée', "Willow is Edward's exFiancee"]
+
+q: What was supposed to happen to rowan after he was tied to the tree
+a: ['death', 'He was about to be burned.']
+
+q: Who plays Sergeant Howie?
+a: ['Edward Woodward', 'Edward Woodward']
+
+q: Who saves Rowan ?
+a: ['Howie saves Rowan.', 'Edward']
+
+q: Where does Howie stay?
+a: ['At the Green Man Inn.', 'Green Man Inn']
+
+q: Who tries to seduce Howie?
+a: ["The landlord's beautiful daughter,Willow.", 'Willow']
+
+q: Who is Edward Meals?
+a: ["Edward Meals(Malus?) is Rowan's father, or Nicolas Cage."]
+
+q: what was the last scene shown of the movie?
+a: ['burning', 'The buzzing of bees and screaming from Edward Malus.']
+
+q: What does Howie find ?
+a: ['Howie finds the missing harvest photograph.', 'a society that worships the old pagan, Celtic gods of their ancestors']
+
+q: What does the economy rely on to survive?
+a: ['Production of local honey.', 'food']
+
+q: What character does Nicholas Cage play?
+a: ['Edward Malus.']
+
+q: How do the Islanders cure sore throats?
+a: ['put toads in their mouths', 'place toads in their mouths']
+
+q: Who goes missing?
+a: ['Rowan']
+
+q: what is Rowan tied to?
+a: ['Rowan is tied to a large tree, about to be burned.', 'a post']
+
+q: Who has been chosen for sacrifice ?
+a: ['Rowan has been chosen for sacrifice.', 'Edward Malus']
+
+q: What does the insane crowd chant?
+a: ['"The drone must die!"']
+

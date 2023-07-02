@@ -1,0 +1,33 @@
+PARAGRAPH
+The movie begins with the hiring of Rachel Partson (Josie Davis) as an administrative assistant at Wescott Public Relations. She is a nice girl, but starts to obsess over her boss David Wescott (Chris Potter). She finds out he has a wife who is dying and a daughter.
+His wife soon dies, due to an injection Rachel gives her. Then Rachel gives a stomach bug to David's business partner, Judith (Rachel Hunter), allowing her to go to New York with David.
+Rachel asks her cousin Nora, to watch her house while she is in New York. Nora's computer crashes so she uses Rachel's, who returns from New York and is angry to discover this. Nora confronts her, but Rachel kills her by pushing her down the stairs. Judith and co-worker Wally tell their suspicions of Rachel to David, who later fires her.[1]
+Rachel thinks he only fired her so he can date her without being an employee. She shows up at David's house, who tells her he doesn't love her. When he throws a dinner party for the employees who secured a deal with a major company. Rachel shows up, threatens David with a gun and takes everyone hostage. Rachel unloads her anger onto them and shoots Judith. The police arrive and arrest Rachel.
+The film ends with Rachel writing a letter to David that says she looks forward to seeing him. She is shown to be in jail.[2]
+
+
+QUESTIONS
+q: What type of business does David run?
+a: ['Public Relations']
+
+q: How old is Rachel?
+a: ['girl']
+
+q: What does Carol contract?
+a: ['No carol']
+
+q: What is the name of David's daughter?
+a: ['not given']
+
+q: How does Rachel feel about David?
+a: ['She is obsessed']
+
+q: What is the name of David's wife?
+a: ['Not given']
+
+q: What does Rachel assist David with?
+a: ['Public Relations']
+
+q: What is the name of Rachel's boss?
+a: ['David Wescott']
+

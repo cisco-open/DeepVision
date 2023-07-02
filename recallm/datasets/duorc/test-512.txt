@@ -1,0 +1,65 @@
+PARAGRAPH
+At the beginning of the film, we see Joan Crawford (Faye Dunaway) as she rises very early in the morning to prepare for a work day at the MGM Studios. She engages in a slightly neurotic morning ritual where she scrubs her face vigorously with soap and hot water, then plunges it immediately into ice with alcohol in it to close the pores. We learn early on that Joan is obsessed with cleanliness and wants those around her to follow her instructions to the letter; when a new maid thinks she has Joan's living room in spotless condition, Joan finds one minute detail that the maid overlooked and momentarily loses her temper over it. She very clearly intimidates the maid, as well her new live-in personal assistant, Carol-Ann (Rutanya Alda).Joan is in a steady romantic relationship with Hollywood lawyer Gregg Savitt (Steve Forrest), but her career is in a bit of a downswing. She reveals to Gregg that what she really wants is a baby, but that she can't get pregnant; no less than seven pregnancies when she was married to actor Franchot Tone all ended in a miscarriage. When she is denied an application for adoption through a legal agency, she enlists Gregg's help to secure a baby through means which are not made clear. Finally Joan gets what she wants; a blonde haired, blue eyed little girl whom she names Christina Crawford.The film moves abruptly to when Christina is approximately eight or nine years old (a plot hole, since Joan Crawford won the Oscar for Mildred Pierce when Christina was six). Joan has adopted another child, a boy she calls Christopher, but the focus of the film remains on Christina (Mara Hobel). Joan lavishes her with attention and luxuries such as an extravagant birthday party, yet enforces a strict code of denial and discipline as well. Joan makes the decision to donate all but one of Christina's birthday presents to an orphanage, making Christina take responsibility for the gesture, which has been documented in the press (presumably garnering publicity for Crawford). As Christina begins to rebel against her mother's stringent demands and standards, a series of confrontations emerges that forms the movie's core. Joan easily overtakes Christina in a swimming pool race, then becomes enraged at the young girl when she reacts with childish disappointment. When Joan discovers Christina putting on makeup at her dressing table and imitating her, Joan takes offense and cruelly hacks off Christina's hair with a pair of scissors.Joan's relationship with Greg abruptly ends after a night at her favorite restaurant because to her Greg did not use proper protocol of chivalry to escort her in and they were insisted by her shady studio boss, Louis B. Mayer (Howard DaSilva) and other executives to join them for dinner. Joan gets drunk and Greg leaves.Quickly these tantrums grow even more bizarre and violent, as when Joan is asked to leave MGM by studio boss Louis B. Mayer (Howard Da Silva). Presumably later that evening, she flies into a bitter rage and hacks down her prize rose garden with a pair of large gardening shears and an axe, dragging Carol-Ann, Christina, and Christopher into the madness. In the film's most notorious scene, Joan stalks into Christina's bedroom in the middle of the night, her face covered with white beauty cream, and discovers one of the child's dresses hanging on a wire hanger. Joan instantly becomes furious and launches into a frightening tirade, screaming at the girl that she had forbidden wire hangers, viciously tearing apart her closet, and then beating the girl with the hanger. The fight continues when Crawford stumbles into Christina's bathroom and feels that she has not obeyed her orders to scrub the floor that day. Furious that the child doesn't understand her notion of cleanliness, Joan destroys the bathroom as well, beating Christina with two cans of scouring powder and hurling the cleanser over everything. Finally she leaves the girl with an angry order to "clean up this mess" all by herself.Eventually Crawford sends Christina away to attend a boarding school, and the film makes another jump in time to when Christina seems to be about 16. Crawford claims to be losing her financial stability and works out an arrangement that allows Christina (now portrayed by Diana Scarwid) to perform chores around the school for her board and tuition. Meanwhile, Christina begins to realize that her mother's erratic behavior is fueled in part by her alcoholism.Christina's grades are excellent and she seems to be proud of her schoolwork, but things change drastically when she is caught in a compromising position with a boy. Although the encounter was innocent and the boy will be disciplined according to the rules of the institution, Joan arrives at the school furious and removes Christina permanently after screaming in rage at the school's headmistress, Mrs. Chadwick (Priscilla Pointer), claiming the school is a den of iniquity and that the boy be expelled. Joan even refuses to accept Mrs. Chadwick's explanation that it was an innocent encounter between two curious teens. Joan brings Christina home with her, where Barbara Bennett (Jocelyn Brando), a reporter from Redbook magazine, is in the house writing a puff piece on Crawford's supposedly idyllic balance of career and home life. Joan tells Bennett that Christina was expelled from Chadwick, a claim Christina angrily denies. An argument erupts and Christina accuses Joan of adopting her children simply to give herself free publicity. Joan calls Christina disrespectful and wonders aloud why her daughter will not treat her like anyone on the street would. Christina counters, saying she isn't one of her mother's fans. Joan slaps Christina several times across the face and then becomes completely unhinged, dragging Christina to the carpet and attempting to choke her to death. Carol-Ann and Barbara witness the attack and intervene, but there are apparently no repercussions for Crawford, who sends Christina to a strict convent school against her will.The film's final act takes place after Christina matures and sets out on her own. Joan marries Alfred Steele (Harry Goz), CEO of Pepsi Cola, and urges him to take on a great deal of debt to fund their lavish home and lifestyle, including an expensively-redesigned apartment in New York City. After his death, she remains on the company's board of directors, but not without a bitter confrontation with the all-male board, who slyly try to force her out. Christina and her mother enter into a somewhat amicable phase in their relationship, despite the fact that Joan seems to sabotage Christina's attempt to establish herself as an actress. In a disastrous move, when Christina is unable to attend the taping of a soap opera because of appendicitis, Joan takes her place, attempting to step into a role calling for a much younger actress.It comes as a complete shock to Christina and Christopher that, upon Joan's death at the end of the film, they are both disinherited in her will "for reasons that are well known to them". The final dialogue exchange hints that Christina has decided to write a book about her experiences growing up with "Mommie Dearest" and thus avenge Christopher and herself, saying that their mother doesn't have "the final word."
+
+
+QUESTIONS
+q: Who does Joan beat in a swimming pool race?
+a: ['Christina', 'Christina.']
+
+q: Why does Joan cut off Christina's hair?
+a: ['to humiliate her']
+
+q: Who does Christina rebel against?
+a: ['against her mother', 'her mother']
+
+q: What time does Crawford wake up?
+a: ['she rises at 4:00 a.m.']
+
+q: What does Joan cut off Christina?
+a: ["Christina's hair"]
+
+q: What does Joan throw all over Christina's room?
+a: ["dresses from Christina's closet"]
+
+q: Who offers to help Christina clean the bathroom floor?
+a: ['Joan']
+
+q: What does Crawford use to close her pores?
+a: ['a bowl of rubbing alcohol and ice']
+
+q: Where did Joan and Gregg have dinner?
+a: ["Joan's favorite restaurant"]
+
+q: Where does Christina lock Joan in?
+a: ['in the pool house']
+
+q: Who forces Joan to leave MGM?
+a: ['Louis B.Mayer (Howard Da Silva)']
+
+q: What does Joan hit Christina with?
+a: ['two cans of scouring powder & a wire hanger & her palm']
+
+q: What happens to Christina after she is caught in a compromising position with a boy?
+a: ['Joan brings her home']
+
+q: What is the name of the new maid?
+a: ['Helga']
+
+q: How many pregancies did Joan have while married to Franchot Tone?
+a: ['seven pregnancies']
+
+q: How did the pregancies all end?
+a: ['all ended in miscarriages']
+
+q: What is Barbara Bennett's profession?
+a: ['a reporter from Redbook magazine']
+
+q: Why does Joan confess she adopted Christina?
+a: ['it was partially a publicity stunt']
+
+q: Who is wearing Joan's makeup?
+a: ['Christina']
+
+q: Joan adopts a girl, what does she name her?
+a: ['Christina Crawford']
+

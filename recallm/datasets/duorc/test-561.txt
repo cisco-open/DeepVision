@@ -1,0 +1,34 @@
+PARAGRAPH
+Set in New France in 1634 (in the period of conflicts known as the Beaver Wars), the film begins in the settlement that will one day become Quebec City. Jesuit missionaries are trying to encourage the local Algonquin Indians to embrace Christianity, with thus far only limited results. Samuel de Champlain, founder of the settlement, sends Father LaForgue, a young Jesuit priest, to find a distant Catholic mission in a Huron village.
+LaForgue is accompanied on his journey by a non-Jesuit assistant, Daniel, and a group of Algonquin Indians whom Champlain has charged with guiding him to the Huron village. This group includes Chomina (August Schellenberg) - an older, experienced traveller who has clairvoyant dreams; his wife (Tantoo Cardinal); and Annuka (Sandrine Holt), their daughter. As they journey across the lakes and forests, Daniel and Annuka fall in love, to the discomfort of the celibate LaForgue.
+The group meet with a band of Montagnais, First Nations people who have never met Frenchmen before. The Montagnais shaman is suspicious (and implicitly jealous) of LaForgue's influence over the Algonquins. He accuses him of being a devil. He encourages Chomina and the other Algonquins to abandon the two Frenchmen and travel instead to a winter hunting lodge. This they do, paddling away from the Frenchmen. LaForgue accepts his fate, but Daniel is determined to stay with Annuka and follows the Indians as they march across the forest. When one Indian tries to shoot Daniel, Chomina is consumed by guilt at having betrayed Champlain's trust. He and a few other members of the Algonquin tribe return with Daniel to try to find LaForgue.
+As they recover LaForgue, a party of Iroquois (specifically Mohawk) attacks them, killing Chomina's wife and taking the rest captive. They are taken to an Iroquois fortress, where they are forced to run the gauntlet, to watch Chomina's young son killed, and told they will be slowly tortured to death the next day. That night Annuka seduces their guard, allowing him to engage in coitus with her. When his orgasm distracts him she strikes him with a caribou hoof, rendering him unconscious and allowing them to escape. Chomina, dying of a wound from his capture, sees a small grove he has dreamed of many times before, and realizes it is the place he is destined to die. LaForgue tries, unsuccessfully, to persuade Chomina to embrace Christ before he dies. As Chomina freezes to death in the snow, he sees the She-Manitou appearing to him.
+As the weather grows colder, Annuka and Daniel take LaForgue to the outskirts of the Huron settlement, but leave him to enter it alone, because Chomina had dreamed that this must happen. LaForgue finds all but one of the French inhabitants dead, murdered by the Hurons who blamed them for a smallpox epidemic. The leader of the last survivors tells LaForgue that the Hurons are dying, and he should offer to save them by baptizing them. LaForgue confronts the Hurons.
+When their leader asks LaForgue if he loves them, LaForgue thinks of the faces of all the Indians he has met on his journey, and answers "Yes". The leader then asks him to baptize them, and the Hurons accept Christianity. The film ends with a golden sunrise. An intertitle explains that fifteen years later, the Huron were massacred by the Iroquois, and the French mission was destroyed.
+
+
+QUESTIONS
+q: Who was chosen to lead the expedition?
+a: ['Father LaForgue']
+
+q: Members of what nation attack the group and kill Chomina's wife?
+a: ['Iroquois']
+
+q: What did the mean fear that Laforgue was?
+a: ['Devil']
+
+q: Where is this film set?
+a: ['New France']
+
+q: Who did Daniel grow to love?
+a: ['Annuka']
+
+q: What nation does Chomina belong to?
+a: ['Algonquin India']
+
+q: In what year is this film set?
+a: ['1634']
+
+q: What does Annuka sacrifice to free the group?
+a: ['She engages in sex with the guard']
+

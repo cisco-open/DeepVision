@@ -1,0 +1,53 @@
+PARAGRAPH
+Oliver Tate (Roberts) is a 15 year-old Swansea boy in 1986 who is convinced that he is an unrivalled genius who is widely loved by his classmates, when in fact he is pretentious and socially alienated. He is in love with a mischievous but straight-talking girl named Jordana (Paige) in his year, and goes as far as bullying an overweight classmate to impress her. One day she invites him to meet secretly after school, instructing him to bring a Polaroid camera and a diary. She takes pictures of them kissing, but it turns out to be a plan to make her ex-boyfriend jealous. The plan backfires, the two are publicly bullied, and Oliver is beaten up for refusing to call Jordana a massive slut. Walking home after their ordeal, she takes his hand and they kiss, and Oliver quickly establishes Jordana is his girlfriend.At home, Oliver becomes concerned that the relationship and sex life of his parents is falling apart and that his dad (Taylor) is depressed. Worse yet, new age guru Graham (Considine), an ex-boyfriend of his mother's (Hawkins), has moved in next door, and his seductive and flirtatious character is arousing Oliver's suspicions.Meanwhile Oliver's relationship with Jordana is growing, but he learns that her mother has developed a potentially fatal brain tumour. Oliver considers poisoning Jordana's beloved dog to make the death of her mother less painful. Later, he attends an early Christmas dinner at Jordana's house and he witnesses her father break down. Unsettled, he decides that the Jordana he loves is at risk because the emotional events surrounding her will "make her gooey on the inside". He cuts off contact with Jordana because he thinks it will make her ordeal easier, an example of his unintentionally cruel and incompetent social methods.Suspecting his mother and Graham are having an affair, and seeing that his father is depressed Oliver attempts to repair his parents' relationship. One night he finds that his mother and Graham have gone to the beach. He tracks them down there, and whilst searching for them on the crowded shore, sees Jordana with a new boyfriend. Heartbroken, he heads home, but on the way back, sees his mother with Graham, and assumes the worst. Enraged, he breaks into Graham's house, gets drunk, and commits minor acts of vandalism. When Graham comes home, he finds Oliver but returns him home with minimal fuss. The next morning, Oliver awakens to see that both his parents aren't angry with him, and are reconciling, although his mother admits that she gave Graham a handjob.However, Oliver is still distraught about losing Jordana and is unable to obtain an audience with her to explain his actions. Frustrated, he sulks for weeks, until he sees her on the beach. Running towards her he explains his actions, and learns that Jordana has broken up with her new boyfriend. Whether the young couple gets back together is left open.
+
+
+QUESTIONS
+q: Why is Oliver distraught?
+a: ['about losing Jordana']
+
+q: how old is Oliver Tate
+a: ['15']
+
+q: Who does Oliver think is having an affair with his mother?
+a: ['Graham']
+
+q: Who does Oliver see on the beach with another boy?
+a: ['Jordana']
+
+q: How does Oliver feel when he sees Jordana with another boy?
+a: ['heartbroken']
+
+q: WHOM DID OLIVER LOST?
+a: ['Jordana']
+
+q: Whose mother has a potentially fatal brain tumour?
+a: ['Jordana']
+
+q: When does Oliver witness Jordana's father's breakdown?
+a: ['Christmas']
+
+q: Who is Oliver Tate infatuated with?
+a: ['Jordana']
+
+q: WHERE DID THEY WALK TOGETHER?
+a: ['home']
+
+q: Who is Graham?
+a: ["mother's exboyfriend"]
+
+q: How old is Oliver Tate?
+a: ['15 years old']
+
+q: Who does Oliver think his mother is having an affair with?
+a: ['Graham']
+
+q: Who cuts off contact with Jordana?
+a: ['Oliver']
+
+q: Oliver is in a relationship with who?
+a: ['Jordana']
+
+q: Where does he meet Jordana?
+a: ['on the beach']
+

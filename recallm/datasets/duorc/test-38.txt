@@ -1,0 +1,42 @@
+PARAGRAPH
+One spring morning, Boog awakens after hibernation and plans an annual guys trip to spend time with his male best friends. Unfortunately, Elliot has distanced himself from Boog since he had started a family with Giselle. They are now the parents of three children: Gisela, Giselita, and Elvis (with Boog now being the adoptive uncle). Boog is disappointed since everyone else wants to spend time with their families, which makes him go on the guys trip by himself with Dinkleman; however, this soon leads him to a Russian traveling circus called the Maslova Family Circus.
+While in the circus, Boog meets Doug, a lazy, self-centered, mean, scruffy grizzly bear who is tired of performing in the circus on the sidelines. He craves recognition as a full-fledged king of the forest, the ruler of wildlife. Thinking up a plan, Doug lies to his best friend Alistair that he won't forget his help and convinces Boog to switch his life in the forest for Doug's place at the circus. Boog accepts the offer, but the whole thing turns out a scam because all Doug really wanted to do was escape.
+Meanwhile, Boog falls madly in love with Ursa (who thinks that he is Doug), a female grizzly bear who was born in Russia and can effortlessly walk on a tightrope, juggle, and dance (which Boog finds to be "bearvana"), but has no luck convincing her that he isn't Doug. When the couple begin working together, they obtain much more as a harmonious duet than it might seem at first glance. Meanwhile, Doug arrives at the forest and disguises himself as Boog by pushing his scruffy fur back with mud. However, Gisela and Giselita get suspicious when they notice "Boog" treating the wilds like slaves, so they report to Serge and Deni and request they find Giselle for help and they do so. Afterwards, when Boog's best friends find out about Boog's disappearance when Doug's cover is accidentally exposed, they (as well as Mr. Weenie, a reformed Fifi, Roberto, and the other pets) put aside their differences and hatch a rescue mission to save Boog.
+That night, the wilds arrive at the Maslova Family Circus. They want Boog to return home, but he doesn't want to leave Ursa. Suddenly, a reformed Doug arrives, apologizes to Boog for tricking him, and reunites with Alistair. While Doug performs the circus acts for the audience, Elliot tells Boog he can stay at the circus if he wants to. Boog doesn't want to leave Elliot or Ursa, so he convinces Ursa to go live in the forest with them.
+The next morning, Ursa enjoys life in the forest and becomes Boog's girlfriend, Gisela, Giselita, and Elvis' adoptive aunt, and Elliot and Giselle's sister-in-law. Finally, Boog, Elliot, and their male best friends go on the guys trip and sing part of Willie Nelson's "On the Road Again." In a post-credits scene, Doug and Alistair reveal a slideshow of them enjoying their tour around the world.
+
+
+QUESTIONS
+q: With whom does Boog fall in love?
+a: ['Ursa', 'not mentioned', 'ursa']
+
+q: Who does Boog meet at the circus?
+a: ['Ursa', 'not mentioned', 'Doug']
+
+q: Where does Boog's trip on his own lead to?
+a: ['a Russian traveling circus called the Maslova Family Circus', 'scam', 'Maslova Family Circus', 'forest']
+
+q: Who does Boog fall in love with?
+a: ['Ursa', 'ursa']
+
+q: What does Boog plan?
+a: ['an annual guys trip', 'For Boog to switch places with him at the circus']
+
+q: Who is Boog's best friend?
+a: ['Elliot', 'elliot']
+
+q: Who does Boog meet in the Russian Traveling Circus?
+a: ['elliot', 'Doug, a lazy, self-centered, mean, scruffy grizzly bear', 'doug']
+
+q: Who craves recognition as a full-fledged king of the forest and the ruler of wildlife?
+a: ['not mentioned', 'Doug', 'Boog']
+
+q: Who is Boog's true love?
+a: ['Ursa', 'not mentioned']
+
+q: What happens in the post-credits scene?
+a: ['Doug and Alistair reveal a slideshow of them enjoying their tour around the world.', 'not mentioned']
+
+q: Who plans the annual guys trip?
+a: ['Boog']
+

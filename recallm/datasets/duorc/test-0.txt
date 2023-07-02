@@ -1,0 +1,19 @@
+PARAGRAPH
+This section needs expansion. You can help by adding to it. (October 2014)
+The film follows Max Parry (Kevin Howarth), a disturbed wedding video cameraman, and his unnamed assistant (Mark Stevenson) as they perform several murders that they have videotaped. The two have used a video store tape in order to record the proceedings, breaking the fourth wall and insinuating that the copy of the film being watched is the only existing version of the tape. Throughout the film Max uses meta-references in order to show off his gruesome activities as a serial killer. The film raises questions surrounding visceral pleasure, this can be seen in one scene in particular during which the audience cannot see the victims (two at once) being murdered, Max Parry then asks the audience "I bet you wanted to see that, and if you didn't, why are you still watching?"
+At the end of the film the audience is left to believe that since they are watching the only copy of the film, that they will potentially become one of Max's victims.
+
+
+QUESTIONS
+q: Who portrays Max Parry?
+a: ['Kevin Howarth']
+
+q: What is Max Parry's day job?
+a: ['Wedding video cameraman']
+
+q: What is Max's day job?
+a: ['wedding video cameraman']
+
+q: What role does Mark Stevenson play?
+a: ['unnamed assistant']
+

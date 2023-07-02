@@ -1,0 +1,77 @@
+PARAGRAPH
+Ben is a witty, charismatic serial killer who holds forth at length about whatever comes to mind, be it the "craft" of murder, the failings of architecture, his own poetry, or classical music, which he plays with his girlfriend. A film crew, led by Remy, joins him on his sadistic adventures, recording them for a fly on the wall documentary. Ben takes them to meet his family and friends while boasting of murdering many people at random and dumping their bodies in canals and quarries. The viewer witnesses these grisly killings in graphic detail in frequent montages.Ben ventures into an apartment building, explaining how it is more cost-effective to attack old people than young couples because the former have more cash at home and are easier to kill. In a following scene, he screams wildly at an elderly lady, causing her to have a heart attack. As she lies dying, he casually remarks that this method saved him a bullet. Ben continues his candid explanations and appalling rampage, shooting, strangling, and beating to death anyone who comes his way: women (he is profoundly misogynistic), immigrants (he is a racist xenophobe), and postmen (his favorite targets).The camera crew becomes more and more involved in the murders, first as accomplices but eventually taking an active part in them. When Ben invades a home and kills an entire family, they help him hold down a young boy and smother him. They meet a competing camera crew and take turns shooting the three men. During filming, two of Ben's crew are killed; their deaths are later called "occupational hazards" by a crew member.When Ben takes a couple hostage in their own home, he holds the man at gunpoint while he and the whole camera crew gang-rape the woman. The following morning, the camera dispassionately records the aftermath: the woman has been butchered with a knife, her entrails spilling out, and the man has been shot to death.Ben's violence becomes more and more random until he kills an acquaintance in front of his girlfriend and friends during a birthday dinner. Spattered with blood, they act as though nothing horrible has happened, continuing to offer Ben presents. The film crew disposes of the body for Ben.After a victim flees before he can be killed, Ben is arrested, but he escapes. At this point someone starts taking revenge on him and his family. Ben discovers that his parents have been killed, along with his girlfriend: a flautist, she has been murdered in a particularly humiliating manner, with her flute inserted into her anus. This prompts Ben to decide that he must leave as he must have killed someone with ties to the local mob.He meets the camera crew at another abandoned warehouse to say farewell, but in the middle of reciting a poem he is abruptly shot dead by an off-camera gunman. Remy and the camera crew are then picked off one by one by more unseen mob gunmen. After the camera falls, it keeps running, and the film ends with the death of the fleeing sound recorder.
+
+
+QUESTIONS
+q: What does Ben do when he invades a home?
+a: ['Kills an entire family']
+
+q: What does Ben do to the woman when he takes the couple hostage?
+a: ['RAPE THE WOMAN']
+
+q: Who ventures into apartment buildings?
+a: ['Ben']
+
+q: What happens to Ben?
+a: ['Shot']
+
+q: How is the woman killed?
+a: ['Woman butchered with a knife and  man has been shot to death']
+
+q: How did the man died?
+a: ['Shot to death']
+
+q: Who diaposed the body for ben?
+a: ['The film crew']
+
+q: What is Ben doing when he is shot?
+a: ['Reciting a poem']
+
+q: What killed Ben's girlfriend?
+a: ['murdered in a particularly humiliating manner']
+
+q: Who disposes of the body?
+a: ['THE CREW']
+
+q: What was Ben's girlfriend's occupation?
+a: ['a flautist']
+
+q: Do the camera men make it out?
+a: ['No']
+
+q: Who does Ben discover has been killed?
+a: ['His parents and his girlfriend']
+
+q: Who did ben killed next?
+a: ['No one, Ben died.']
+
+q: Who gets arrested?
+a: ['Ben']
+
+q: Who takes a couple of hostage in their own home?
+a: ['Ben']
+
+q: What does Ben do?
+a: ['Murder random people']
+
+q: How did ben hold the man?
+a: ['At gunpoint']
+
+q: Who is killed along with Ben?
+a: ['Camera crew']
+
+q: Who can be seen fleeing at the end?
+a: ['the sound recorder']
+
+q: Who are Ben's favorite targets?
+a: ['Postmen']
+
+q: What did his crew do to the woman?
+a: ['gang raped her']
+
+q: Describe Ben's character
+a: ['A witty, charismatic serial killer who is a mysogynistic, racist xenophobe']
+
+q: How many of Ben's crew are killed?
+a: ['Many people']
+

@@ -1,0 +1,34 @@
+PARAGRAPH
+The story is set along the Mexico/California Border, principally in Imperial Beach, CA. It concerns a female DEA agent, Dara Maren, who, in protecting her petty criminal younger brother, gets herself arrested and imprisoned in a nightmarish penal colony outside Tijuana. You can guess how bad it gets in there -- prison officials even harvest organs from the inmates. While she's in prison, Dara's brother is murdered by a drug lord who's creating a new DNA-altering drug made from human spinal fluid tapped from the living.
+Hundreds of dead bodies are turning up along the Border, and the drug addicts become something less than human. The drug is so addictive that even law enforcement and government officials are on the stuff. A rogue FBI agent bribes the prison officials to let Dara out to avenge her brother's murder as well as bring down the drug lord in ways the Feds cannot. When Dara comes out of prison, she is not the same person who went in.
+The catch? She only gets a 60-hour get-out-of-jail card and must return to the prison to serve out her 20-year sentence, or the FBI agent, who got her out, must take her place.
+
+
+QUESTIONS
+q: what are prison officials illegally harvesting from inmates?
+a: ['organs']
+
+q: Who murders Maren's brother?
+a: ['a drug lord']
+
+q: Maren is drug into the underworld of border smuggling in an attempt to protect who?
+a: ['her brother']
+
+q: Who does Maren shoot and kill?
+a: ['her brothers murderer']
+
+q: What do the prison officials harvest from inmates?
+a: ['organs']
+
+q: what does the drug do to the human body?
+a: ['DNA-altering']
+
+q: who gets shot during the drug deal?
+a: ['undercover ATF agent']
+
+q: What is the drug lord using to create a new DNA-altering drug?
+a: ['spinal fluid']
+
+q: Maren is incarcerated in a penal colony just outside of what city?
+a: ['Tijuana']
+

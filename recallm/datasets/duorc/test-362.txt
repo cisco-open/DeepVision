@@ -1,0 +1,44 @@
+PARAGRAPH
+The trio play medical school graduates whose only credentials are that they had the highest temperatures in their class. They are hired as doctors at the "Los Arms Hospital" only because they have been in their senior class for too many years. The new graduates at the hospital are warned by the superintendent that all three of them (the Stooges) are "not overly bright," but it is promised that their identities will be concealed as long as they promise to devote their lives to "the glorious cause of duty and humanity", which prompts the three to step forward and thank him profusely for not being able to let their identities be known. The superintendent has told the Stooges to rush and answer the loudspeaker whenever their names are called. The short consists of a series of skits in which the Stooges go from one patient to the next, making mistakes ranging from drinking a patient's medicine to sewing their tools inside a man on the operating table.
+Each time the Stooges rush and answer the loudspeaker, a different scenario takes place:
+1st - They rush to answer using a three-person bike. When they arrive they respond by "calling all cars". Several people appear in the hallway. After taking a woman's temperature they dismiss her and clear the area.
+2nd - The loudspeaker orders them to various rooms to check on patients.
+3rd - They report to the superintendent with their results.
+4th - They rush to answer riding a horse, where they end up greeting a telegram delivery man. The man reveals that the telgram is from Nellie (a love interest of all three men) who says she'll marry the man who does the greatest thing for "duty and humanity". They bet him "double or nothing" for his fee on a coin toss which they win by cheating. Afterwards they help observe a "comatose" patient.
+5th - They report back to the supervisor who orders them to check on a dangerous patient. They rush to his room using mini-race cars. The patient is mentally unstable and makes outlandish claims such as rats appearing through a hole in his shirt. The trio prepares medicine but drink it themselves. The patient then claims he sees a "giant green canary". Moe scoffs at this but a green canary soon enters the room frightening everyone.
+6th - After dealing with the dangerous patient, the superintendent tells them that 20 men have been injured in an accident at the oil well and they need the radium out of the safe to save their lives. However, he accidentally swallowed the combination. The Stooges perform an operation on the reluctant superintendent and retrieve the combination. But they mistakenly leave their tools inside him.
+7th - They are finally fed up with the loudspeaker and smash it to pieces. Ultimately they pull out their guns and destroy the die-hard, still-working part of the loudspeaker, which exclaims in its swan song "Oy, you got me!" The short ends with the trio raises their guns and proudly proclaiming: "For duty and humanity!"
+Every time the stooges leave the superintendent's office, Curly accidentally ends up breaking the glass door to his office. On their final entry a maintenance worker (having gotten tired of constantly replacing it) intentionally breaks the door for them.
+
+
+QUESTIONS
+q: How does the Bug try to fly away?
+a: ['One saucer']
+
+q: What name does the alien use?
+a: ['Edgar']
+
+q: What are actually the observation towers of the New York State Pavilion at Flushing Meadows?
+a: ['Two flying saucers']
+
+q: What is done to retired agents ?
+a: ['Neutralized', 'neuralizer', 'are neuralyzed and given new identities']
+
+q: who  goes to the address and undergoes a series of tests?
+a: ['James']
+
+q: who interviews James about his encounter?
+a: ['Inspector', 'K']
+
+q: Who does the Men In Black protect the Earth from ?
+a: ['ALIEN', 'from intergalactic threats', 'Dangerous Aliens', 'The Arquillians']
+
+q: What happens to the Bug?
+a: ['Laurel shoots it']
+
+q: What does the alien find in the container?
+a: ['exterminating gas']
+
+q: Who is neuralized at the end of the film?
+a: ['Kay', 'the bug', 'KAY']
+

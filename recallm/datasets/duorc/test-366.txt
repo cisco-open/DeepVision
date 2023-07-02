@@ -1,0 +1,14 @@
+PARAGRAPH
+The film is a fairly literal adaptation of the acclaimed 1960 novel by John Updike (which Updike later followed with three sequels and a novella). Harry "Rabbit" Angstrom (James Caan) comes home one day from his sad, dead-end job to his sad, cramped apartment to find his sad, pregnant wife Janice (Carrie Snodgrass) asleep, splayed in front of the TV, highball glass in hand. After only a moment's contemplation, he decides to leave. Snatching up his coat and car keys, he's off and running, taking the viewer on a rambling, aimless journey.Set in the early 60's in a suburb of Brewer, Pa - a mid-sized, working class, weary-looking town (think Scranton), the film shows some glimpses of Updike's keen sense of place and time - the songs that play on the radio during Harry's all-night drive to Virginia, the hippie-like outfits and sexual rebelliousness of Harry's sister, the once solid row-houses and factories in Brewer hinting at the urban unrest and decay that is to come. This is Harry's hometown, where in high school he was a celebrated basketball star, but now, at 26, is bewildered that the folks in Brewer seem to have forgotten that. Because Harry can't shake the belief that he is still a star, special, meant for better things, and, because he is beset with a child-like narcissism, that everyone else must see that too.After leaving his wife, Harry goes to visit his old basketball coach who introduces him to Ruth Leonard, a sometime prostitute, who he immediately moves in with. When Janice goes into labor a few months later, he leaves Ruth, eventually returning to the apartment with Janice, their 2-year-old son Nelson, and new baby daughter Becky, and taking a job working for his father-in-law selling used cars. But Harry's restlessness still dogs him and domestic harmony does not ensue.Harry is remorselessly ruled by his impulses, but is troubled and perplexed by how he seems to disappoint nearly everyone in his life: Ruth, the minister sent to lead him back to his family, his parents, his in-laws, his wife and son, even the minister's wife. So he runs. But actions have consequences, a fact lost on Harry even when his lead to tragedy.
+
+
+QUESTIONS
+q: What does Janice accidentally do to the baby?
+a: ['Drowns it']
+
+q: Who is now pregnant with Rabbit's child?
+a: ['Ruth']
+
+q: What kind of former sports star is Harry?
+a: ['Basketball']
+

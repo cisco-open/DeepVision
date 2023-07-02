@@ -1,0 +1,1 @@
+{"question_samples": 1, "num_questions": 1, "sample_0": {"q0": {"question": "how many girls committed suicide at the boarding school?", "answer": "['3 girls']", "recall": "Three girls committed suicide at the boarding school.", "vectordb": "There were three girls who committed suicide at the boarding school.\n", "hybrid": "Three girls committed suicide at the boarding school."}}}

@@ -1,0 +1,32 @@
+PARAGRAPH
+A teenage boy and girl making out in a car in the woods near Ludlow, Illinois are attacked and killed. A patrol car happens by soon after. While investigators check for foul play, one patrol officer goes into Ludlow to find the male teen's home. Instead, he finds the entire town destroyed, with no bodies.The next day, the Illinois National Guard is diverting all traffic away from Ludlow. Reporter Audrey Aimes is diverted, but smells a story and attempts to sneak into town. She's caught and taken to the local officer in charge. He takes her camera and sends her away. She goes straight to National Guard HQ and talks with Col. Sturgeon. She makes a deal with him to keep quiet in return for getting first dibs when the story is made public.In the interim, she investigates a destroyed grain storage facility at a secret governmental experimental facility, where she meets Dr. Ed Wainright and his deaf mute assistant Frank Johnson. After getting the brushoff from Wainright, she heads back to the National Guard where she meets Sturgeon again. He's just seen the town of Ludlow for himself and tries to back out on his agreement. Finally, he relents and sends Audrey into town to take pictures.Later, she talks to Wainright and convinces him and Frank to show her the grain storage site that was destroyed just before Ludlow. There, a giant locust attacks and kills Frank. Ed and Audrey escape and find Col. Sturgeon, who is naturally skeptical.Ed also reveals that he might have created the locusts. He and Frank were experimenting with radiation to increase wheat yields. Regular-sized locusts got into the wheat and lived for weeks until they grew too large to be held in.Sturgeon takes a squad of soldiers out to investigate because he has no other answer for what happened in Ludlow. Seeing no locusts at the storage site, he takes Ed and his men into the nearby woods where the locusts attack. After a short battle where several soldiers are killed, Sturgeon activates the entire Illinois National Guard, including the Air National Guard, but refuses to call in the regular army for fear of being laughed out of the service.Wainright and Audrey go to Washington, D.C. to convince the Pentagon to step in. After showing the standard obligatory insect film, Wainright fails to convince the Chiefs of Staff, until they get a phone call telling them the Illinois National Guard was wiped out.As town after town falls to the locusts, a defense line is set up near Chicago. A ferocious battle ensues but the locusts break through and attack the Chicago suburbs. Meanwhile, Wainright convinces Gen. Hanson, who is in charge, to let him try a scientific solution that could re-create the sound of the grasshopper queen. If it works, he can lure the locusts into Lake Michigan. He gets permission and then has to take a squad of soldiers to capture a live grasshopper to experiment on.Shortly afterward, Hanson informs Ed that the Pentagon is going to drop the atomic bomb on Chicago. He offers to move Ed's experiment to a different site, but Ed insists on staying as the experiment is too far along. So, it's a race against time to find the right radio frequency before Chicago is nuked.Ed finds the signal, wards off the bomb and lures the grasshoppers to downtown Chicago. He and some soldiers keep the locusts at bay long enough for Gen. Hanson and the Navy to take over the signal at Lake Michigan and lure the locusts to their death.
+
+
+QUESTIONS
+q: Where does Dr. Wainwright want to lure the locusts?
+a: ['Lake Michigan']
+
+q: What is the name of the doctor trying to understand the locust problem?
+a: ['Wainright']
+
+q: The decoy mating call is generated electronically with what?
+a: ['radio frequency']
+
+q: What is Audrey Aimes profession?
+a: ['reporter']
+
+q: What city does General Hanson want to use a nuclear weapon on?
+a: ['Chicago']
+
+q: What city do the locusts invade?
+a: ['Chicago']
+
+q: What do the locusts start eating once all the crops are gone?
+a: ['people']
+
+q: What type's of food is Dr. Ed Wainwright experimenting with radiation to make the food larger?
+a: ['wheat']
+
+q: What type of insect is suspected of eating all the crops?
+a: ['locusts']
+

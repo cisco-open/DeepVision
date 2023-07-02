@@ -1,0 +1,53 @@
+PARAGRAPH
+In the winter of 1944, World War II was coming to a close. The Japanese held some of the American prisoners who had survived the Bataan Death March in a notorious POW camp at Cabanatuan and subjected them to harsh treatment; many prisoners were also stricken with malaria. At the time of the raid the camp held about 500 prisoners.The film opens with the massacre of prisoners of war on Palawan by the Kempeitai, the Imperial Japanese military's secret police.Meanwhile at Lingayen Gulf, the 6th Ranger Battalion under Lt. Col Mucci is ordered by Lt. Gen. Walter Krueger to liberate all of the POWs at Cabanatuan prison camp before they are killed by the Japanese. The film chronicles the efforts of the Rangers, Alamo Scouts from the 6th Army and Filipino guerrillas as they undertake the Raid at Cabanatuan.Throughout the film, the viewpoint switches between the POWs at Cabanatuan, the Rangers, the Filipino resistance and the Japanese.In particular, the film covers the resistance work undertaken by nurse Margaret Utinsky, who smuggled medicine into the POW camps. The Kempeitai arrested her and sent her to Fort Santiago prison. She was eventually released, but spent six weeks recovering from gangrene as a result of injuries sustained from beatings. Once recovered, she escaped to Bataan, where she served as a nurse with the Philippine Commonwealth troops and recognized guerrilla units until liberation in February 1945.(Source: Wikipedia)
+
+
+QUESTIONS
+q: Throughout the film, the veiwpoint switches between the POWs at Cabantuan, the Filipino resistance, and....?
+a: ['Japanese']
+
+q: The film takes place where?
+a: ['Philippines']
+
+q: What is the name of the nurse in the film?
+a: ['Margaret Utinsky']
+
+q: What was Margaret's occupation?
+a: ['Nurse']
+
+q: How many prisoners were being held by the  Japanese?
+a: ['500']
+
+q: Who ordered the liberation of all the POWA at Cabanatuan prison camp?
+a: ['Lt. Gen. Walter Krueger']
+
+q: Who arrested Margaret?
+a: ['The Kempeitai']
+
+q: Where was Margaret sent after her arrest?
+a: ['Fort Santiago prison']
+
+q: What year did the American forces arrive in the Philippines?
+a: ['1944']
+
+q: What did Margaret suffer from after her arrest?
+a: ['gangrene']
+
+q: How long did Margaret Utinsky stay in prison?
+a: ['six weeks']
+
+q: Who are the Japanese military secret police?
+a: ['Kempeitai']
+
+q: Who arrested Margaret Utinsky?
+a: ['Kempeitai']
+
+q: What prison was Margaret Utinksy sent to?
+a: ['Fort Santiago']
+
+q: Who smuggled medicine?
+a: ['Nurse Margaret Utinsky']
+
+q: What did Margaret smuggle into the POW camps?
+a: ['Medicine']
+

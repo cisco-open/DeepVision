@@ -1,0 +1,32 @@
+PARAGRAPH
+The film opens with several real life shots of the Britannic being launched and fitted out in Belfast, as well as several shots of World War I taking place.On November 12th, 1916, at Southampton Docks, a boat approaches the sister ship of the Titanic, His Majesty's Hospital Ship Britannic. On board the small boat are the wife of the British Ambassador of Greece, Lady Lewis (Jacqueline Bisset), her two children, William and Sarah (Archie Davies and Eleanor Oakley) and her governess, Vera Campbell (Amanda Ryan). The Britannic's First Officer, Townsend (Ben Daniels) tells the passengers of the boat that Britannic is "their home away from home", and because of the modifications made to her after the sinking of Titanic, she is "unsinkable".Meanwhile, on the dockside, a car pulls up near an old warehouse. Out of the car steps the Britannic's Chaplain. Just he steps out of the car, however, he is attacked by two German men and killed. Out of the shadows steps another German man (Edward Atterton), who climbs into the car and talks to the driver, who is also German.On the Britannic, people are now boarding, and the ship's captain, Charles Barrett (John Rhys-Davies) is talking to Townsend about how he didn't expect to be in charge of "a cruise ship decked out like a floating nursery". Meanwhile, the Lewis family and Vera Campbell have just boarded when Campbell suddenly faints.She is taken to the ship's doctor, Doctor Baker (Bruce Payne), and when he asks her if she has sailed before, she confirms that she has. When Campbell leaves Doctor Baker's office, she goes to the bridge and asks to speak to Captain Barrett alone. He tells her that whatever she has to say can be said in front of Townsend, so she hands him an envelope marked "Top Secret". He is surprised to hear that she is not actually Lady Lewis' governess: she is working undercover for the Military. She tells him that the Military believes that there is a spy on board the ship, but Captain Barrett believes that that is ridiculous. Campbell tells him that the Germans believe that the ship is carrying munitions, so he shouts out that this is not true, apart from a few small arms to secure the ship. He then tells her that if she has not found her spy by the time that the ship has arrived at Naples to refuel, he will contact the Admiralty and ask for her to be put ashore.Campbell leaves the bridge to find the two children, William and Sarah, playing with a fire hose. She tells them that she is looking for pirates, and that they can help her look for them. As they run around looking for them, William bumps into the same German man that climbed into the car on the dock (who speaks perfect English). He tells them that he is the Chaplain, Reynolds. As he agrees to help the children look for pirates some time, the ship leaves the harbour, and Campbell becomes worried.In her cabin, Lady Lewis is being examined by Doctor Baker, as she had injured herself sometime before. She also tells Baker that it is rather strange that Campbell has been assigned as her governess, as she is not her usual one. Later, as Britannic begins her voyage, the crew have a briefing with the medical staff, and afterwards, Reynolds heads down to the boiler rooms, where he learns that the bulkhead doors are opened twice every day for about fifteen minutes.One of the stokers, Evans (Alex Ferns) talks to Reynolds, saying that his son is very ill, and getting worse every day.In this movie appears Wolf Kahler who will later play Ludendorff, chemist and Fritz Shimon Haber's close friend in Haber.
+
+
+QUESTIONS
+q: The Britannic is what?
+a: ['a ship']
+
+q: What does Campbell discover?
+a: ['William and Sarah playing with a fire hose.']
+
+q: What was year?
+a: ['1916']
+
+q: Which ship was used?
+a: ['Britannic']
+
+q: Who has placed the small arms aboard as a means of protection against mutiny?
+a: ['Captain Barrett']
+
+q: Who has boarded the Britannic posing as the ship's chaplain?
+a: ['The same German man that climbed into the car on the dock']
+
+q: Who blows a hole in the port side bow of the ship?
+a: ['Reynolds']
+
+q: What gets mortally damaged?
+a: ['The Titanic']
+
+q: How far away is Kea Island?
+a: ['seven miles away']
+

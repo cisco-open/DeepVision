@@ -1,0 +1,39 @@
+PARAGRAPH
+It is 1947. An eight year old girl named Alice is growing up on a farm near Monterrey, California and has dreams of being a singer. The background is all ruby red, a deliberately theatrical and artificial feel of classic cinema, indicating satire of Gone With the Wind and The Wizard of Oz.Flash forward to the summer of 1974, present-day when this was filmed. A view of the town of Soccoro, New Mexico with Mott the Hoople's All the Way From Memphis blasting on the soundtrack. Inside a tacky, blue-collar
+home is Alice trying to sew and she turns down her son's record player. Alice is clearly a bright and witty woman that clowns around with her son, but stuck with a bored, uncommunicative husband that works as a Coca Cola truck driver. He berates and threatens her for her son's bratty antics and behavior.One day while Alice and her friend Bea are hanging out together, she receives a phone call that her husband died in a vehicle accident while at work. Soon afterwards, she practices her piano and singing and has a sale of her household belongings and sells the houseAlice and Tommy leave Soccoro for Monterrey. They first stop in Phoenix, where she is trying to get a job singing in a bar, but the first time she's checked out by the owner and offended, but soon finds work in another bar. Soon afterwards, she meets the younger and charming Ben. Alice's son is forced to fend for himself and constantly complaining about them being stuck where they are, but she insists on staying.One morning, a woman Alice doesn't recognize comes to Alice's motel and reveals herself to be Ben's wife. Alice assures her she knew nothing about Ben being married. Ben comes to the door screaming for his wife to get out, breaks in, and beats her to get out. He threatens Alice for telling him to calm down. Alice and her son leave immediately.Alice and Tommy are in the car and Tommy seems indifferent to Alice's situation and trying to tell her a "Shoot the Dog" joke, despite her breakdown. They settle into a motel room in Tuscon. Alice gets a job as a waitress at Mel and Ruby's Cafe, which is walking distance from themAlice is at work for the first day at the cafe, for which she and the staff were the basis for the hit TV series "Alice", in the late 1970's and early 1980's. It is a backbreaking job for her at the extremely busy and chaotic greasy spoon diner. There's the owner and short order cook Mel, the sassy and foul-mouthed Flo, and the strange and neurotic Vera. Flo introduces Alice to the customers as the new girl and makes references to her body and Alice is offended and does not want anything to do with her personally. She also meets David, a soft-spoken rancher and divorcee that is a regular customer. He takes an instant liking to her.Alice reluctantly takes up a relationship with David and her son Tommy takes a liking to him as well. Meanwhile, Tommy forms a friendship with the tomboyish Audrey, whom he takes guitar lessons with.One day at the diner, Flo has an outburst with Mel when he's trying to find Vera spilling ketchup all over several customers. Alice is believed to have been hurt at the outburst, but it turns out she's laughing uncontrollably and begins a friendship with Flo. They hang out together in between shifts and Flo tells her how she can make more money at the jobAlice's son celebrates his 12th birthday at David's ranch and has an outburst over his music choices and David spanks him for it and corrects Alice for having such a bratty son. They both leave the house. Alice and Tommy have a fight and she drops him off the side of the road.Alice receives a call that Tommy is at a juvenile detention center drunk and that he and Audrey were getting drunk on ripple. She oversleeps the next dayAlice is unable to function at work and Flo takes her to the ladies room for a chat. Alice tells her about how she's depended on men her whole life, her late husband, and broken relationship with David. Flo also tells her of her single parenting and about dental work her daughter needs that will cost hundreds. Vera is in the diner alone trying to break up a fight going on.Alice and Flo return to work and publicly, she and David work out their differences and reconcile. Afterwards, Tommy tells her it's okay if they don't go to Monterrey. At the same time, a Monterrey Hotel is in front of them while they're walking.
+
+
+QUESTIONS
+q: Where does Alice decide to stay?
+a: ['Tuscon']
+
+q: What is Ben's wife's name?
+a: ['Alice']
+
+q: Where do Alice and Tommy move to?
+a: ['Phoenix and Tuscon']
+
+q: Where did Alice accept the job
+a: ['a bar']
+
+q: Where does David offer to move?
+a: ['Monterey']
+
+q: Who is hesitant to get involved with another man?
+a: ['Alice']
+
+q: Who is a good influence on Tommy?
+a: ['David']
+
+q: What is Alice's job at the bar?
+a: ['Singer']
+
+q: Alice accepted a job as what
+a: ['a waitress']
+
+q: Who does Alice meet at the bar?
+a: ['Ben']
+
+q: Who is Donald killed?
+a: ['in an accident']
+

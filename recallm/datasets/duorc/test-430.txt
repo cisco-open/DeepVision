@@ -1,0 +1,35 @@
+PARAGRAPH
+Ashfaque (Ajay Devgan) is a small town boy aspiring to be a film star in the Hindi film industry. He joins a street theatre group run by a reformed dacoit Sidhu (Pankaj Kapur) who uses street theatre as a medium to bring about an awakening in the masses. Ashfaque struggles to give a creative vent to the actor in him in order to realize his dreams. Ashfaque's determined struggle pays off and he gets a break in films. He gets a new screen name Sameer Khan. With the passage of time, the roles start becoming better and he moves up the success ladder in a very short time. Soon, he becomes Sameer Khan the superstar one who can enact any role with finesse, get under the skin of any and every character with ease and walk away with audience applause.Sadly, amidst all adulation and applause, he slowly loses his own identity. He forgets his real self and imbibes all characteristics of the various roles essayed by him on screen. Corruption takes over his entire system, alienating him from all loved ones, including his wife Sneha (Vidya Balan). A shocking incident at a party changes everything, rocking Sameer Khan's lifestyle. He gets caught between his human self on one side and his corrupted superstar image on the other.Whether the conflict within him gives way to good sense and whether he is able to discard his corrupted image and emerge as a true life hero, becomes an integral part of this true life cinema.
+
+
+QUESTIONS
+q: What industry does Ashfaque want to be film star in?
+a: ['Hindi movie industry.']
+
+q: will he take up the suceess laddder?
+a: ['Yes']
+
+q: What is Ashfaque new screen name.
+a: ['Sameer Khan']
+
+q: who runs street theatre group?
+a: ['A reformed dacoit Sidhu (Pankaj Kapur)']
+
+q: Who is aspiring to be a film star?
+a: ['Ashfaque, a small town boy']
+
+q: how street theatre is used?
+a: ['As a medium to bring about an awakening in the masses.']
+
+q: Who plays the wife Sneha?
+a: ['Vidya Balan plays the wife Sneha.']
+
+q: What finally overtakes Sameer alienating him from his loved ones?
+a: ['His loss of self-identity due to embodying so many different characters with such passion.']
+
+q: Who is a small town boy aspiring to be a film star?
+a: ['Ashfaque (Ajay Devgan)']
+
+q: what is the new screen name Ashfaque gets?
+a: ['Sameer Khan']
+

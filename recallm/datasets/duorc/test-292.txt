@@ -1,0 +1,38 @@
+PARAGRAPH
+Jabez Stone (Alec Baldwin) is a desperate, down on his luck writer who reaches rock bottom when his close friend, Julius Jensen (Dan Aykroyd), finds success. Thwarted in his attempts to get his work published, he meets a beautiful stranger (Jennifer Love Hewitt) who offers him a chance at fame and fortune in exchange for his soul. Stone, having lost faith in himself, agrees to the offer.After accepting the deal Jabez is quickly lavished with all he had ever dreamed of. A book deal, money, women, notoriety, Stone now had it all. However, despite the success, he is losing the friendship, respect and trust of those around him. Coming to the realization that he didn't quite get everything he bargained for, Stone begs the Devil to release him from their deal. When the Devil scoffs he turns to famed orator Daniel Webster (Anthony Hopkins). The two conclude that they should take the battle to court with Webster defending Stone in an otherworldly trial against the Devil in the ultimate battle of wits in a fight over the fate of Stone's soul.
+
+
+QUESTIONS
+q: After accepting what, Jabez is quickly lavished with all he had ever dreamed of?
+a: ['The deal']
+
+q: julius must exchange what for fame?
+a: ['his soul']
+
+q: what do the devil and stone go to court for?
+a: ['the fate of his soul']
+
+q: Who plays Daniel Webster character in the movie?
+a: ['Anthony Hopkins']
+
+q: what did jabez lose once he got the deal?
+a: ['friendship, respect and trust of those around him']
+
+q: Who does Stone begs to release him from their deal?
+a: ['The Devil']
+
+q: who is down on his luck?
+a: ['Jabez Stone']
+
+q: What do the two conclude that they should take the battle to?
+a: ['Court']
+
+q: Who had it all from a book deal, money, women and notoriety?
+a: ['Jabez Stone']
+
+q: what is jabex lavished with after accepting the deal?
+a: ['all he had ever dreamed of']
+
+q: Who is defending Stone in an otherworldly trial against the Devil?
+a: ['Daniel Webster (Anthony Hopkins).']
+

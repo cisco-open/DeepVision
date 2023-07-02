@@ -1,0 +1,36 @@
+PARAGRAPH
+The iconic image of the Man in the Moon
+At a meeting of the Astronomic Club, its president, Professor Barbenfouillis,[b][c] proposes an expedition to the Moon. After addressing some dissent, five other brave astronomersâNostradamus,[d] Alcofrisbas,[e] Omega, Micromegas,[f] and Parafaragaramusâagree to the plan. They build a space capsule in the shape of a bullet, and a huge cannon to shoot it into space. The astronomers embark and their capsule is fired from the cannon with the help of "marines", most of whom are played by a bevy of young women in sailors' outfits. The Man in the Moon watches the capsule as it approaches, and it hits him in the eye.[g]
+Landing safely on the Moon, the astronomers get out of the capsule (without the need of space suits) and watch the Earth rise in the distance. Exhausted by their journey, they unroll their blankets and sleep. As they sleep, a comet passes, the Big Dipper appears with human faces peering out of each star, old Saturn leans out of a window in his ringed planet, and Phoebe, goddess of the Moon, appears seated in a crescent-moon swing. Phoebe causes a snowfall that awakens the astronomers, and they seek shelter in a cavern where they discover giant mushrooms. One astronomer opens his umbrella; it promptly takes root and turns into a giant mushroom itself.
+At this point, a Selenite (an insectoid alien inhabitant of the Moon, named after one of the Greek moon goddesses, Selene) appears, but it is killed easily by an astronomer, as the creatures explode if they are hit with force. More Selenites appear and it becomes increasingly difficult for the astronomers to destroy them as they are surrounded. The Selenites capture the astronomers and take them to the palace of their king. An astronomer lifts the Selenite King off his throne and throws him to the ground, causing him to explode.
+The astronomers run back to their capsule while continuing to hit the pursuing Selenites, and five get inside. The sixth astronomer, Barbenfouillis himself, uses a rope to tip the capsule over a ledge on the Moon and into space. A Selenite tries to seize the capsule at the last minute. Astronomer, capsule, and Selenite fall through space and land in an ocean on Earth, where they are rescued by a ship and towed ashore. The final sequence (missing from some prints of the film) depicts a celebratory parade in honor of the travelers' return, including a display of the captive Selenite and the unveiling of a commemorative statue bearing the motto "Labor omnia vincit".[h]
+
+
+QUESTIONS
+q: How does Phoebe awaken the astronomers?
+a: ['By causing a snowfall']
+
+q: Who is the goddess of the moon?
+a: ['Phoebe']
+
+q: How many astronomers do the Selenites capture?
+a: ['six']
+
+q: What shape do they build the space capsule in?
+a: ['A bullet']
+
+q: What shape is the space capsule?
+a: ['bullet']
+
+q: Who is the president of the Astronomic Club?
+a: ['Professor Barbenfouillis']
+
+q: Who is Phoebe?
+a: ['goddess of the Moon']
+
+q: Who helped the astronomers fire the cannon?
+a: ['"marines"']
+
+q: Who is the President of the Astronomic Club?
+a: ['Professor Barbenfouillis']
+

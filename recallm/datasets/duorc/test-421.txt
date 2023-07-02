@@ -1,0 +1,29 @@
+PARAGRAPH
+Soldiers of the British army clear a small collection of farmhouses with two scientists who take a tissue sample from a deceased civilian who appears to have been reanimated, then shot.
+The film's first chapter, "The Outbreak", begins in the city of London, emphasizing both the dismissive and paranoid reactions of the population to an unspecified disease outbreak that is gradually making its way to Britain. The film then moves to footage of a documentary crew's travel to the countryside, where, in the process of filming material related to the virus, the characters encounter the zombie outbreak firsthand. The story of these four individuals is revisited in the second half of the movie. The second chapter, "The Scavengers", takes place one month later. Two men (one of whom is American) and one woman travel around in a small car armed only with a rifle, in search of food and radio parts.
+The final chapter, "The Survivors", tells the story of a larger group of uninfected people who have set up camp on a farm. They divide their time doing reconnaissance of surrounding areas, holding off the endless stream of incoming zombies, and bickering amongst themselves. In the opening scene of the chapter, the audience watches as "the survivors" calmly execute the approaching infected. By the conclusion, in which the film goes back in time to the first nights of the documentary crew at the beginning of the first diary ("The Outbreak"), the word "survivors" becomes an ironic title, as all but one are killed by two uninfected psychopaths.
+Both of the murderers also survive, one having disappeared after helping slaughter the film crew and the other kills off the "survivors".
+
+
+QUESTIONS
+q: How many diaries are in the film?
+a: ['None.  I think it refers to the film crews documentation.']
+
+q: Is the virus known?
+a: ['Yes']
+
+q: What kind of world is of The Zombie Diaries?
+a: ['Filled with zombies.']
+
+q: When did an unknown virus begin spreading among the populace?
+a: ["In the film's first chapter."]
+
+q: In what century does the movie take place?
+a: ['It does not specifically say.  I assume the 21st century.']
+
+q: How many home video quality diaries chart the early days of the plaque?
+a: ['Three']
+
+q: What was the new threat the planet was soon infest with?
+a: ['zombie']
+

@@ -1,0 +1,47 @@
+PARAGRAPH
+Deep in space, above a fiery prison planet named Dante, Dante 01, a scientific space station orbits the planet. Its inhabitants include two security guards, two scientists and six prisoners whose crimes were so severe that they volunteered to live under experimentation rather than face death penalties.One day, a shuttle arrives with a new scientist named Elisa. Her passenger is a man of unknown origins, who wakes up severely disoriented, unable to speak, and often falls into blank stares at what he sees as a bright, shimmering light. He seems to be aware of his surroundings, though, but is unable or unwilling to interact with them for the most part. He is introduced to the prisoners: their leader César, his right hand man Lazare, the large Moloch, the socially reclusive Bouddha, Raspoutine, a religious man who believes in repentance with God and the only one who sides with Saint George in the beginning, and Attila, a computer hacker. Raspoutine claims that the new one was sent by God to save the lot of them, calling him "Saint George, the Dragonslayer", because of a tattoo "George" has.Elisa and the station's head researcher, Perséphone, are at odds over their research methods. Meanwhile, the arrival prompts the station's commander Charon to work with Attila in hacking into Elisa's files and finding out what she is really there for. Much to Attila's horror, her experiments authorize her to kill all of them for the sake of the research.Meanwhile, Bouddha's self-righteous killing pattern takes effect when he sees George in great pain, and attempts to strangle him in order to alleviate his suffering. This leads to infighting amongst the other prisoners, and the wardens use gas to knock them out. Bouddha becomes Elisa's first experiment. She injects him with nanotechnology and returns him to the prison hold. Bouddha's own unbearable pain from the nanites bonding with his DNA summons George, who is somehow able to remove them from him (George is seen removing some kind of abstract energy creature from Bouddha and eating it; he does the same later with Moloch and César) and Bouddha becomes well again. Bouddha then becomes as convinced as Raspoutine that Saint George is a miracle worker and befriends him, swearing to protect George. Moloch attempts to attack George. In the fight, Moloch pulls a knife, and Raspoutine's struggle with him causes Moloch to accidentally slit his own throat. Gas pours in to knock the group out, but not before George runs over to assist Moloch. The prison guards discover, to their amazement, that Moloch has no wound on his throat, and is alive and well, although unconscious. On their way out they inject César with the nanotechnology as they did for Bouddha and depart.Perséphone's assumption that George is a miracle worker is scoffed at by Elisa, but Moloch's doubts prompt César to await an impending usurping of his authority, and he plots to get rid of George. However, César's sudden bouts of pain and illness from the nanotechnology render him unable to take care of George himself, and Lazare and Moloch are sent in his stead. Meanwhile, Charon is contacted by Attila and learns that Attila has locked all of the main computer systems in an attempt to resist their eventual sacrifice. While Bouddha and Raspoutine are distracted, George is attacked by Lazare, and stabbed several times in the chest and abdomen. During experiments on George's corpse, Perséphone has doubts about Elisa's methods, but she is overruled by Elisa and Charon. Before Elisa can continue with her experiments, George, who is supposedly dead, wakes up completely healed, grabs Elisa and uses her as a hostage to reach the prison quarters before releasing her. César is in severe pain from the nanomachines, and George cures him. Attila appears and tells the others of his plans to destroy them all out of spite, by making the space station crash into Dante. Objecting to this, the prisoners subdue Attila while George attempts to cure him, but Attila manages to break free and runs away. César and his crew attempt to catch Attila; they eventually find him, only to see that he has hanged himself. With Attila dead, their plans for stopping the station's decaying orbit require the scientific personnel and the prisoners to work together, since the mechanism necessary to stop the decaying orbit is located under a trapdoor below the prisoner's quarters. The prisoners agree, and while Charon and Perséphone lead the security to the prisoner's area, they leave Elisa alone to man the controls. As the station inhabitants work to open the hatch to the manual control unit, the gas goes off, knocking out the lot of them. Elisa preps and attempts to escape via shuttle, but Lazare, who had to hold his breath during gas emission, forces her into letting him escape with her. As the others awaken, one of the guards goes to check on the shuttle, and finds that as part of his meddling, Attila had also locked the shuttle controls as a result, Elisa and Lazare are killed when the shuttle crash lands on the planet below.Opening the panel, the group finds that the hatch to the override room is filled to the top with boiling water. César realizes he is the only one who can properly fit into the little space, and is wrapped in some protective fabrics, covered with cold water and jumps in. He loses his protective goggles on the short trip, and emerges on the other side horribly burned and dies in the compartment before entering the six digit code necessary to reset the control computer. Though dead, he indirectly managed to enable their escape from the planet's orbit: in a strange epilogue, Saint George emerges from the station in a space suit and floats above the planet on thin air he could not save the station, so he changed the context, suddenly using the full extent of his strange and inexplicable powers (while doing this, it is seen that the strange "creatures" he extracted from the others are now existing inside him) to terraform Dante into a livable planet, while his body disintegrated in space as a result.Source: Wikipedia
+
+
+QUESTIONS
+q: Who has a habit of trying and murdering whoever is in pain, out of misguided compassion?
+a: ['Bouddha']
+
+q: Who fulfilled his destiny by slaying the "dragon"?
+a: ['Saint George']
+
+q: Moloch accidentally slits what part of his body?
+a: ['throat']
+
+q: How can the station be saved ?
+a: ['A six digit code in the computer']
+
+q: Who cures Cesar?
+a: ['Saint George']
+
+q: What was injected into Bouddha and Cesar?
+a: ['nanotechnology']
+
+q: Who does Raspoutine say has sent the new prisoner?
+a: ['God']
+
+q: Who ambushes Elisa, forcing her to let him in the shuttle as well?
+a: ['Lazare']
+
+q: Who realizes that they are the only one short enough to fit into the small space?
+a: ['C_sar']
+
+q: Where is the manual override located ?
+a: ['Under a trap door below the prisoners unit.']
+
+q: Whom did Saint-Georges hold as hostage?
+a: ['Elisa']
+
+q: What is Cesar in pain from?
+a: ['Nanomachines']
+
+q: What is the corridor leading to the manual controls of the shuttle filled with?
+a: ['Boiling water']
+
+q: Who tries to strangle Saint-Georges?
+a: ['Bouddha']
+

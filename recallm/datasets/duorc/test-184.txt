@@ -1,0 +1,39 @@
+PARAGRAPH
+In Romania, theology student Allison has come into possession of The Lexicon, a mysterious book of prophecies that writes itself. This book contains a 23rd chapter of the book of Revelation, which is still not complete. The last chapter depicts the end of the war of angels and the name of the Antichrist. One of the angels who fell with Satan, Belial (now a demon), wants this book. Simon, a good angel, opposes him and guides Allison by taking advantage of her mental illness to speak directly to her. While searching for Allison and the book, and to avoid detection, Belial murders people and takes their form.
+Satan, pretending to be Interpol agent John Riegert, seeks the help of Dani Simionescu, a cop who, as a child, provided information to the Romanian secret police about his parents. His parents and baby sister were brought to one of the secret police headquarters and tortured. His baby sister gets hurt and is given up for adoption. Satan, as Riegert, reveals that she is Allison. During the investigation, Riegert uses Dani to help track Belial and locate his sister. After the police arrest Belial's current host, Belial possesses one of Dani's coworkers, Laurel.
+After revealing himself, Satan brings Dani to the house that was the site of the inhumane tortures. Allison, with guidance of the voices in her head, reaches the same place, followed by Belial, as Laurel. It is the only place where Belial cannot hurt Allison. It is a place of evil, which makes it Satan's domain, and he offers Allison his protection. Satan explains that, for his own motives, he is willing to assist humanity, as he does not wish Belial to succeed, though he is unable or unwilling to take direct action.
+Dani confesses his sins and seeks forgiveness but is rebuked by his sister. It is here that real motives are revealed. Belial, who was once loyal to Satan, has grown tired of the war between angels and its blurring of morality. Even Satan has taken more of shade of gray, and Belial wants to return to the black and white morality of earlier times. Satan opposes him because he wants to prolong the fighting and prevent a new Hell from emerging. Dani, realizing that Belial needs a host, shoots Laurel, but, before he can kill himself, he is possessed. Allison kills her brother, and Satan absorbs Belial's soul. After Allison forgives her brother, she leaves the house.
+At dawn, Satan tells Allison that, for the present, the war of angels is over, but it will not be for long. Showing her glimpses of her future, he advises her to keep the book safe.
+
+
+QUESTIONS
+q: Who helps the cop and Allison kill Belial?
+a: ['satan']
+
+q: What is Belial?
+a: ['a demon']
+
+q: When does the movie conclude?
+a: ['After Satan advises Allison to keep the book safe.']
+
+q: What is the name of the Angel that fell with Satan?
+a: ['Allison']
+
+q: Where is Allison living?
+a: ['Romania']
+
+q: What Nationality is Allison?
+a: ['Roman']
+
+q: What does Allison come into possession of?
+a: ['A book']
+
+q: What does Allison have possession of?
+a: ['The Lexicon']
+
+q: What does the Lexicon contain?
+a: ['A 23rd chapter of the book of Revelation.']
+
+q: Who guide Allison?
+a: ['Simon']
+

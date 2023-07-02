@@ -1,0 +1,26 @@
+PARAGRAPH
+For the past four years, Los Angeles has been terrorized by a series of mysterious murders, in which several men have been found dead with huge puncture wounds in their chests. The latest happens when private detective Mark Higbie (Franciosa) is visiting a bar. A dark-haired woman with a German accent needs help with her car, and one of Higbie's friends goes out to help her. The woman makes a pass at him, but is turned down. Minutes later, the man is found dead.
+Higbie does some digging, and finds out that Lieutenant Conti (Morrow), who is leading the investigation, knows who the culprit is but is covering up details. He soon finds out why--all of the victims have had their bodily fluids sucked out of them, and the wounds are filled with spider venom. Each time, the mysterious woman, Valerie Steffan, was in the area. Conti suspects that the Lockwood twins, Leigh (Mills) and Laura (Duke) are somehow involved. Leigh hires Higbie, concerned about the police focusing on her. It turns out she dated all of the men who have died so far.
+Higbie eventually gets in touch with a former bartender who saw one of the murders, who tells him that at least one man was killed by a man-sized black widow spider. Checking further, he finds out that Leigh and Laura's father died in a plane crash several years ago, and one of the girls was nearly bitten to death by spiders. Higbie finds out that the plane landed in an old vineyard owned by the Lockwoods, and meets the aging Indian who found the girls. The Indian says that according to an old legend, some women are affected by an ancient curse passed through the female line. During the full moon, these women turn into giant spiders in times of stress, kill their victims, encase them in webbing and feed on them. These women have a red hourglass birthmark on their abdomens, similar to those found on black widow spiders. They are practically indestructible in spider form; the only thing that can kill them is fire. The twin who was bitten by the spiders is the one affected with the curse.
+Higbie calls Laura and finds out Leigh is on her way. Laura tells him that Leigh is the one who was bitten, and Higbie tells her to get out as fast as she can. As Laura is in the midst of packing, she suddenly has violent convulsions and visions of two of the men who died. It turns out that Laura is really the killer. She has long suffered from multiple personality disorder; Valerie is the expression of her feelings of inadequacy compared to Leigh. Valerie is also the only one who knows how to use Laura's curse. It turns out that Valerie has made several advances toward Leigh's boyfriends; when they turn her down, she turns into a spider and kills them. The only other people who know the secret are their mother (June Lockhart) and their former nanny, Olga (Allyson). Their mother has been in a catatonic state since seeing Valerie kill Leigh's fiance.
+Leigh arrives and finds her mother in a panic. Suddenly, Valerie walks in, taunts Leigh and her mother, and turns into a spider. Horrified, their mother falls out of the window to her death. Valerie encases Leigh in webbing. Olga arrives minutes later and realizes Laura has to die. She goes to an old farmhouse to find Laura cowering on a stall. Laura admits that Valerie killed their mother, and hurt Leigh as well. As Olga pulls out a pistol, Valerie takes over, turns into a spider and kills Olga.
+Higbie finds the place deserted and goes to the farmhouse. He finds Leigh alive, but terrified. Just then, Valerie arrives in spider form. Higbie empties his pistol into her, to no avail. He hurls a lantern at Valerie, and she catches fire. Leigh and Higbie escape, while Valerie sets the farmhouse ablaze as she thrashes about on fire. The farmhouse burns to the ground and the police consider the ordeal to be over.
+Sometime later Higbie is at Leigh's beach house for dinner while Jennifer is shown playing on the beach with her dog. Leigh explains that Jennifer is adjusting to living with her, though she still has occasional nightmares, but with diminishing frequency. She has returned to school and is making new friends. She tells Higbie that although Jennifer doesn't really look like her, sometimes she reminds her of Laura. Jennifer asks to go for one more swim before dinner at which time she turns and waves to Higbie and Leigh on the balcony, revealing a red hourglass shaped birthmark on her abdomen, the same one that Laura had, indicating that Laura was her mother and that she has inherited the "curse of the black widow."
+
+
+QUESTIONS
+q: What does Valerie do on the full moon?
+a: ['Turn into a sipder']
+
+q: What is Laura Lockwood like?
+a: ['She is troubled by a curse, mental illness, and feelings of competitiveness with her twin.']
+
+q: Where do the murder s take place?
+a: ['Los Angles']
+
+q: What is the detective's name?
+a: ['Mark Higbie']
+
+q: What are the names of the fraternal twin sisters?
+a: ['Leigh and Laura']
+

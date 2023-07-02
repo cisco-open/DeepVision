@@ -1,0 +1,1 @@
+{"grader_name": "gpt", "question_samples": 1, "num_questions": 1, "graded_questions": 3, "q0": {"quesiton": "Where did the live for decades?", "answer": "['New York City']", "recall": 0, "vectordb": 1, "hybrid": 1}, "recall_correct": 0, "vectordb_correct": 1, "hybrid_correct": 1, "recall_accuracy": 0.0, "vectordb_accuracy": 0.5, "hybrid_accuracy": 0.5}

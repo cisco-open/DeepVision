@@ -1,0 +1,17 @@
+PARAGRAPH
+May-Alice Culhane (Mary McDonnell), a soap opera actress, is injured in a Manhattan street accident which leaves her paralyzed from the waist down. Bitter and self-pitying, she returns to her long-empty Louisiana home. There she spends her days and nights lying on a couch, watching TV and drinking wine. She runs through several live-in nurses, none of whom she gets along with.Finally the agency sends a new nurse, sullen and cold Chantelle (Alfre Woodard). Chantelle soon makes it clear she won't put up with May-Alice's drinking and laziness, and they have frequent arguments. Through all this a series of visitors to the house provide insights into May-Alice's life, while May-Alice learns from a vaguely menacing stranger that Chantelle is a recovering cocaine addict.May-Alice and Chantelle finally begin to warm to each other. May-Alice quits drinking, follows Chantelle's physical therapy regime, and takes up photography. Chantelle begins an affair with a local horse trainer, while May-Alice enjoys the increasing attentions of a married handyman she knew as a teenager.Eventually May-Alice finds out that Chantelle has a young daughter, Denita, who lives in Chicago with her legal guardian, Chantelle's father. He brings Denita down for a visit and, happy with Chantelle's progress, says he will send Denita down for the summer if Chantelle shows she can stick with the job. May-Alice, in the meantime, has been offered her New York job back, but the role is an insulting exploitation of her disability, and she turns it down. In the end, Chantelle and May-Alice decide they need each other more than they realized, and agree to continue their living arrangement.
+
+
+QUESTIONS
+q: What is Chantelle's profession?
+a: ['Nurse']
+
+q: Where is her family's old home?
+a: ['Louisiana']
+
+q: In what city is May-Alice working as an actress?
+a: ['Manhattan']
+
+q: Who is a daytime soap opera actress in this movie?
+a: ['Mary McDonnell']
+

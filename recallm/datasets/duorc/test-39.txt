@@ -1,0 +1,36 @@
+PARAGRAPH
+The film begins with a narration of the story as told by Cervantes, but the narrator is interrupted by the donkey Rucio (Luis Posada) who insists on telling the "true" story of the adventure: Don Quixote (JosÃ© Luis Gil) was not crazy, but in fact an intelligent and passionate person. In Rucio's re-telling of his adventure with Don Quixote and his squire, Sancho Panza (Andreu Buenafuente), we learn that Rucio wishes he were Quixote's horse, and that the horse, Rocinante (David FernÃ¡ndez), hates leaving his stable.
+As it develops, Dulcinea (Sonia Ferrer) has a difficult time choosing between the knight and his wealthy sidekick. The rivalry between Quixote and Panza leads the two on a journey across Spain to Barcelona as they both vie for the beautiful woman's affections. To defend his honor among the imposters, the real Quixote must duel and win against the Knight of the Moon in order to learn the true identity of Dulcinea.
+
+
+QUESTIONS
+q: Why does Don Quixote go to duel the Knight?
+a: ['To learn the true identity of Dulcinea']
+
+q: What is the donkey's name?
+a: ['Rucio']
+
+q: Who was Don Quixote's squire?
+a: ['Sancho Panza']
+
+q: Who does Don Quixote go to duel with?
+a: ['Knight of the Moon']
+
+q: Who tells the story?
+a: ['Cervantes']
+
+q: What is the name of the donkey?
+a: ['Rucio']
+
+q: What is the name of Don Quixote's horse?
+a: ['Rucio']
+
+q: What does Rocinante hate?
+a: ['Leaving his stable']
+
+q: Who was Quixote's best friend and the wealthiest man in town?
+a: ['Sancho Panza']
+
+q: What idea does Rucio defend?
+a: ['that Quixote was not  crazy']
+

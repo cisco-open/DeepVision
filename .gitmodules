@@ -4,3 +4,6 @@
 [submodule "cognitivesynergy/ONA"]
 	path = cognitivesynergy/ONA
 	url = https://github.com/opennars/OpenNARS-for-Applications
+[submodule "recallm/chroma"]
+	path = recallm/chroma
+	url = https://github.com/chroma-core/chroma.git

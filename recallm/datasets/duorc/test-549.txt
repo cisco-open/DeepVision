@@ -1,0 +1,26 @@
+PARAGRAPH
+A plane crashes somewhere in Africa and a famous biologist Dr. Charles Decker (Michael Gough) is thought killed. A year later, he re-appears back to London, safe and sound with a pet monkey. He tells everyone that he stayed with a tribe and discovered something fantastic while recovering there.Not one to rest and wait around, the Doctor tells his assistant Margaret (Margo Johns) that he wants to start working on his new idea right away. They begin by planting carnivorous plants in their laboratory, for his experiments.The doctor goes back to teaching and hires one of his students to help him in class, Sandra Banks (Claire Gordon), but Sandras would be boyfriend is a bit jealous.Taking some of the leaves of the carnivorous plants, the doctor perfects a serum. He gives it to his monkey pet Konga. The small monkey grows as big as a chimpanzee.The dean of the college (Austin Trevor) is not happy with what the doctor told the press. It infuriates the doctor. He goes back to his lab and gives Konga another dose, this time turning him into a gorilla. He hypnotizes Konga and has him kill Dean Foster.Margaret puts two and two together and for his love, she agrees to keep things quiet.Another professor was on the brink of publishing the same theory to the world and for refusing to have a join venture, Konga kills the professor.On a field trip, Sandras boyfriend tells the professor how he feels and later Konga kills him too. To help cope with what happened to her boyfriend, the Doctor invites Sandra for sinner. He later tells her how he feels about her and he wants her to come to Africa with him. Margaret hears and sees what is happening and gives Konga another dose. She tries to hypnotize him and fails. Konga grows into a 25-foot gorilla and kills her.While the doctor is trying to persuade Sandra and she's trying to get away from him, Konga grabs the doctor and leaves toward the center of London. Sandra tries to escape, but a carnivorous plant grabs her arm and begins eating her.The police and the army are frantic to get the large beast out of London. They kill the beast, but not before Konga kills the doctor. Konga reverts to what he was and both he and the doctor are dead on the streets of London.
+
+
+QUESTIONS
+q: who does the super-sized ape grab ?
+a: ['doctor']
+
+q: who is konga's first victim after he is given a large dose of the serum?
+a: ['Dean Foster']
+
+q: as a botanist, in what field is dr. charles decker specialized?
+a: ['biologist']
+
+q: what is dr. charles decker's nationality?
+a: ['London']
+
+q: what kind of scientist is dr. charles decker?
+a: ['biologist']
+
+q: what type of animal is konga?
+a: ['chimpanzee']
+
+q: what happens to sandra bank's arm ?
+a: ["is eaten by Decker's carnivorous plants"]
+

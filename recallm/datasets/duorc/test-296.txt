@@ -1,0 +1,17 @@
+PARAGRAPH
+Crooked Business is a fast-paced comedy of errors, set on Australia's notoriously trashy (always glitzy) Gold Coast. Two likeable crooks find themselves in a corner that's going to take all their street smarts to get out of - because 'if you're gonna do crooked business, you've gotta do it straight'...Small time hustler Elmo, and his best mate 'Stand-Up' Stevie are just a couple of knockabouts trying to make an easy buck on the Gold Coast. Stevie flogs dodgy cars and Elmo runs all sorts of scams. They're not exactly criminals, but then again, they're not mugs either. Elmo and his mate Stevie aren't your average squareheads, not by a long stretch, they just like to have a few of life's little luxuries now and then. They live in glitzy Surfers Paradise in Queensland, Australia. Neither of them would know one end of a surfboard from the other, but it's still paradise to them, 'with more flash cars, top sorts and lazy cash than you could poke a pointy stick at'.Life is sweet, until Stevie finds himself in hot water for selling a dodgy watch to biker Russian Tony.To buy his way out, Stevie agrees to do a job for local hood 'Bondi Bob' McLean. All he has to do is fly to Melbourne to pick up some stolen jewels in a briefcase.When it all goes pearshape and a gunfight breaks out, Stevie and Elmo narrowly escape but, in the confusion, with the wrong briefcase.The briefcase belongs to Peter Cho, a Chinatown villain with a deadly reputation - its contents: a rare go-fast potion said to turn any average horse into a race winner.The only thing to do is trade off with Cho - how hard can it be?
+
+
+QUESTIONS
+q: Where must Stevie go to pick up stolen jewelry?
+a: ['Melbourne']
+
+q: What does Stevie's job require him to sell?
+a: ['dodgy cars']
+
+q: What kind of fight causes the wrong briefcase to be taken?
+a: ['gunfight']
+
+q: Who owns the briefcase the two accidentally grab?
+a: ['Peter Cho']
+

@@ -1,0 +1,92 @@
+PARAGRAPH
+Opening scene is set in June 1963 at a gathering of a group of shadowy industrial, political and former US intelligence figures who are giving vent to their growing dissatisfaction with the Kennedy administration. The scene takes place in the plush surroundings of the lead conspirator, Robert Foster (Robert Ryan), presumably a Texas oil baron. He and the others are trying to convince Ferguson (Will Geer), a white-suited and mustachioed figure a powerful oil magnate to back their plans for an assassination of President John F. Kennedy. He remains unconvinced saying "I don't like such schemes. They're only tolerable when necessary, and only permissible when they work." James Farrington (Burt Lancaster), a black ops specialist, is also among the group. The film then cuts to somewhere in the desert where a shooting team is doing target practice at a moving object. One of the shooters says that they can only guarantee the operation's success by slowing down the target to 15 mph.The film intercuts between conversations among the lead conspirators, Farrington and Foster, and preparations for the assassination. The approval of the man in the white suit is crucial to the conspirators, although Farrington proceeds to organize two shooting teams in anticipation that he will change his mind.We then see sequences of Ferguson, the man in the white suit, watching contemporary newsreel and becoming clearly concerned at Kennedy's increasingly 'liberal' direction: action on civil rights for black people, Nuclear Test Ban Treaty, nuclear disarmament. The deciding moment comes when he's watching an anti-Kennedy news report on the deteriorating situation in South Vietnam. It is followed by Kennedy's "suicidal" October 1963 decision (National Security Action Memorandum #263, Oct. 11, 1963) to withdraw all US advisors from Vietnam by the end of 1965, effectively ending America's direct involvement in the Vietnam War. Ferguson picks up the phone to tell Foster he now fully supports their project.While the motives of the man in the white suit are clear, through dialogues between Foster and Farrington, the film attempts to cast light on the murky paranoid fears of the conspirators about the future of America and the white races. Foster forecasts the population of the third world in 2000 at 7 billion, "Most of them yellow, brown or black. All hungry and all determined to love; they'll swarm out of their breeding grounds into Europe and America". He sees Vietnam as an opportunity to control the developing world and reduce its population to 550 million: "I've seen the data," says Foster, adding that they can then apply the same "birth-control" methods to unwanted groups in the US: poor whites, blacks and Latinos.The film postulates the same theory as JFK that Lee Harvey Oswald is being steered to become the conspiracy's 'patsy', but unlike JFK, the conspirators use a double of Oswald to shadow him in the weeks leading up to the assassination to leave behind a trail of evidence that the authorities can easily follow and link Oswald alone to the assassination.The film makes no explicit link to US government agencies and the conspiracy, although the professionalism of Farrington's shooting team clearly indicates they have worked for the CIA on special assignments. The film implies that most of the law enforcement and government agencies were not involved in the conspiracy, but they were just grossly inept: no special measures were taken for the president's safety in Dallas; there is no communication between the FBI, CIA, and Secret Service on possible security risks; even the head of the Secret Service stays in Washington during the visit. This explanation helps understand why the authorities were so keen to pin all of the blame on Oswald, the rogue assassin, who is 'served up' by the conspirators to the authorities as an easy escape from any accusations of their own negligence.On November 22, 1963 the assasination is carried out. The post-assassination conspiracy is also covered in the film. Farrington tells the head of the two shooting teams, who at this point don't know who their target is, that after this job he and his men will never have to work again and they can never meet one another ever again. All the assassins are black ops professionals trained never to talk about operations they are involved in. Each one is offered $25,000 per year for the next five years provided the operation's cover isn't blown by 'removing' any people who directly witnessed the assasination of Kennedy. If the cover remains intact in five years time "every man jack of them" will receive a further $100,000 into their Swiss bank accounts for another 10 or more years. The head of the shooting teams then tells Farrington: "You just told me who we're going to hit."At the end of the film, a photo collage is shown of 18 witnesses: all but two of whom died from unnatural causes within three years of the assassination. A voice-over says that an actuary of the British newspaper The Sunday Times calculated the probability that all these people who witnessed the assassination would die within that period of time to be 100 trillion to one.
+
+
+QUESTIONS
+q: What are Foster and Farrington primarily concerned about?
+a: ['About the future of America and the white races']
+
+q: What does Foster forecast?
+a: ['The population of the third world in 2000 at 7 billion']
+
+q: What does Ferguson do at the end?
+a: ['Ferguson picks up the phone to tell Foster he now fully supports their project']
+
+q: What U.S. President does the group want to assassinate?
+a: ['John F. Kennedy']
+
+q: What do they discuss?
+a: ['They discuss the assassination of John F. Kennedy']
+
+q: Who's dialogue does the film use to cast light on the murky paranoid fears of the conspirators?
+a: ['Foster and Farrington']
+
+q: What are Foster & Farrington concerned about?
+a: ['The future of America and the white races']
+
+q: What does Foster forecast the world population to bein 2000?
+a: ['7 billion']
+
+q: Who plays Harold Ferguson?
+a: ['Will Geer']
+
+q: What are the conspirators covering up?
+a: ['The assassination']
+
+q: Who is the black ops specialist?
+a: ['James Farrington']
+
+q: What is crucial to the conspirators?
+a: ['Approval from the man in the white suit']
+
+q: Ferguson is concerned about who's liberal direction?
+a: ["Kennedy's"]
+
+q: How many shooting teams does Farrington organize?
+a: ['Two']
+
+q: Who are the lead conspirators?
+a: ['Robert Foster']
+
+q: What does Foster see victory in Vietnam reducing the population to?
+a: ['yellow, brown, or black']
+
+q: Where does Foster forecast people will swarm to?
+a: ['Europe and America']
+
+q: Where did Farrington die?
+a: ['in a hospital']
+
+q: Who is a black ops specialist?
+a: ['James Farrington']
+
+q: What year was Roosevelt's attempted assassination?
+a: ['November 22, 1963']
+
+q: Who plays Robert Foster?
+a: ['Robert Ryan']
+
+q: How many died from unnatural causes?
+a: ['two']
+
+q: Why does Ferguson become concerned?
+a: ["Kennedy's political agenda becomes more liberal"]
+
+q: What groups does Foster call unwanted in the US?
+a: ['poor whites, blacks and Latinos']
+
+q: When did the gathering occur?
+a: ['June 1963']
+
+q: Victory where will be an opportunity to reduce population and control the developing world?
+a: ['Vietnam']
+
+q: Where does the film cut to?
+a: ['From a program about Johnson']
+
+q: What was shown to the material witnesses?
+a: ['A photo collage']
+
+q: What does James call attempted assinations?
+a: ["They're only tolerable when necessary, and only permissible when they work"]
+

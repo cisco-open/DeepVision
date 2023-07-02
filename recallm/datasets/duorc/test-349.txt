@@ -1,0 +1,122 @@
+PARAGRAPH
+Franco (Franco Franchi) is an Italian fisherman working of the coast of Egypt. His crew are casting nets when they witness an American Air Force plane crash into the water, scaring Franco's crewmates off in a rowboat. The simple-mined Franco, who cannot steer the boat, is left stranded. Immediately, the incident alerts the secret services of many nations, as well as Spectralis, an Italian underground spy group headed by Pasqualino aka: Number One. It also attracts the attention of the sinister Dr. Yes (Youssef Wahby), a crazed scientist out to rule the world.When Franco is washed up on an Egyptian beach, he is abducted by a spy called Ciccio, Number 87 (Ciccio Ingrassia), a minor Spectralis agent trying to improve his position in the organization. He has been dispatched to investigate the missing nuclear bomb, and believes that the fisherman has vital information of its whereabouts. At first, Ciccio is unable to extract information from the buffoonish fisherman. His attempt to threaten Franco with torture on a mechanical ass-kicking device backfires (so to speak) when Ciccio lets himself be talked into demonstrating the necessary posture himself.Franco makes his escape and arrives at a local train station. Too dim-witted to understand that he's in Egypt, attempts to purchase a railroad ticket back to his home in Palermo. But the language barrier is an obstacle. However, an Italian priest in line at the window helps him out and Franco treats the man to a cappuccino at the station bar. As Franco explains his predicament in detail to the bewildered padre, his hollering voice attracts the attention of a beautiful woman, named Cinzia (Julie Menard) who joins in the conversation.Back at the Spectrallis base in Egypt, Ciccio is attacked by three persistent but inept spies named James Bomb (Adel Adham), Modesty Bluff (Eugenia Litrel) and Derek Flit (Franco Bonvicini). Fortunately for Ciccio, they are so fixated on depriving each other of the catch then let him escape unnoticed while they brawl it out.Meanwhile, Cinzia has lured Franco back to her hotel room with the promise of an erotic liaison. Unknown to Franco, she is an agent for Dr. Yes. While her back is turned, however, Bomb, Bluff, and Flit break into the room and attempt to abduct Franco, with the same hilarious results as before. Then Ciccio arrives, grabs his prisoner back, and spirits him away to the base. This time Ciccio uses a lie detector to probe Franco's mind by asking him questions about the atomic bomb. Seeing that Franco knows nothing, Ciccio confides in him that his superiors will have him killed for failure to find the missing atomic bomb. Franco talks Ciccio into teaming up in hatching a plot to plant a fake atomic bomb where it can be found.Franco and Ciccio make contact with Cinzia who believes their claims that they have found the missing bomb. She tricks them into a meeting with Dr. Yes at his headquarters beneath a large villa outside Cairo. Franco and Ciccio learn that the so-called mad genius is attempting to revive an Egyptian mummy of Nabuco Sonor, the Queen of the Dead. He requires the atomic bomb to achieve her reanimation. His insane experiments appear to be successful when he achieves a twitch of the thumb from a specimen. Franco and Ciccio deliver the fake bomb, only to be told that they will be sacrificed to the Queen of the Dead on her revival. The duo laugh, knowing that the bomb is not real. But their hilarity turns to terror when the mummy stands up and advances towards them. But Dr. Yes' plans are thwarted when the "mummy" is revealed to be Derek Flit in disguise. With the aid of Bomb and Bluff, Flit attack and beats up all of Dr. Yes' men, and then abduct Franco and Ciccio. Back out in the desert, the three spies fall out again over who will get the credit for turning them over to their superiors. Only they stop fighting each other when a live report on their car radio announces that the nations involved have given up the search for America has claimed that there was no nuclear bomb actually on board.Franco takes the disgraced Ciccio aboard his fishing boat still beached on the shore to sail back to Italy. When they pull up the fishing nets to set off, they discover the real atomic bomb which has been in the boats fishing nets this entire time. Several weeks later, Franco and Ciccio are aboard a yacht living in the life of luxury, with the atomic bomb pointed across the sea. Representatives of the worlds nations are offering them untold riches by telephone to avert destruction. The last shot is of Ciccio's fingers stroking the button that could trigger a nuclear catastrophe...
+
+
+QUESTIONS
+q: How many spies are in the desert?
+a: ['3']
+
+q: Who is attacked by three spies?
+a: ['Ciccio']
+
+q: Was their an atomic bomb on the plane that crashed?
+a: ['yes']
+
+q: What has Cinzia promised Franco in order to lure him to her room?
+a: ['Erotic liaison']
+
+q: Who joins in the conversation between Franco and the priest?
+a: ['Cinzia']
+
+q: What does Franco and his father see?
+a: ['A plane crash']
+
+q: What does Franco talk Ciccio into?
+a: ['hatching a plot to plant a fake atomic bomb']
+
+q: Dr. Yes is a parody of whom?
+a: ['Dr. No from James Bond']
+
+q: What language does Franco speak?
+a: ['Italian']
+
+q: Who is responsible for the abduction?
+a: ['Ciccio']
+
+q: Who is the mummy of?
+a: ['Nabuco Sonor (the queen of the dead)']
+
+q: When happened when Franco swims to the island?
+a: ['He gets kidnapped']
+
+q: What is Franco's hometown?
+a: ['Palermo']
+
+q: What does Agent 87 want?
+a: ['To improve his position in the organization']
+
+q: What does Ciccio confide to Franco?
+a: ["His superiors will have him killed if he doesn't find the atomic bomb"]
+
+q: Where is Franco sailing back to?
+a: ['Franco Sailing back to Italy']
+
+q: Where is Dr. Yes underground headquarters located at?
+a: ['beneath a large villa outside Cairo']
+
+q: Who does Flit attack?
+a: ['Dr. Yes']
+
+q: Who is stranded in a boat off the coast?
+a: ['Franco']
+
+q: What does Ciccio use to probe Franco's mind?
+a: ['Lie detector']
+
+q: The leader of SPECTRALES is a shadowy man called what?
+a: ['Pasqualino aka: Number One']
+
+q: Who helps Franco buy train tickets?
+a: ['an Italian priest']
+
+q: Where was the atomic bomb?
+a: ['in the boats fishing nets']
+
+q: How many spies are fighting?
+a: ['three']
+
+q: When Franco escapes, where does he end up?
+a: ['A train station in egypt']
+
+q: Agent 87 belongs to what international crime organization?
+a: ['Spectralis']
+
+q: Who did Franco and Ciccio make contact with when they found the missing bomb?
+a: ['Cinzia']
+
+q: Who lures Franco back to her hotel room?
+a: ['Cinzia has lured Franco back to her hotel room']
+
+q: Where are Franco and Ciccio living?
+a: ['a yacht']
+
+q: Where is Franco?
+a: ['Coast of egypt']
+
+q: Where is the SPECTRALLIS base?
+a: ['Egypt']
+
+q: What type of Air Force bomber crashes in the water?
+a: ['American']
+
+q: Who tricked Franco and Ciccio  into seeing Dr. Yes?
+a: ['Cinzia']
+
+q: Where is Franco's home?
+a: ['Palermo']
+
+q: What kind of fisherman was at the location?
+a: ['Italian']
+
+q: What are the spies falling out over?
+a: ['who will get the credit for turning them over to their superiors']
+
+q: Who is Cinzia an agent for?
+a: ['Dr. Yes']
+
+q: How does Cinzia lure Franco back to her hotel room?
+a: ['The promise of erotic liaison.']
+
+q: What was the mummy known as?
+a: ['The Queen of the Dead.']
+

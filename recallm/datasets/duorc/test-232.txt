@@ -1,0 +1,35 @@
+PARAGRAPH
+Whittier (Anne Judson-Yager) arrives at the fictional California State College hoping to join the national champion varsity cheerleading team. She meets up with her friend from cheerleading camp, Monica (Faune Chambers), and they're both impressive at the tryouts. Head cheerleader Tina (Bree Turner) is ready to ask them to join the team, but Greg (Bryce Johnson) goes a step further, telling Tina that Whittier will be the next head cheerleader. This angers Tina's pal Marni (Bethany Joy Lenz) who had the position staked out, but at the urging of Dean Sebastian (Kevin Cooney), Tina goes along with the plan, taking Whittier under her wing. Whittier meets Derek (Richard Lee Jackson), a campus D.J. who immediately takes an interest in her. Tina is very demanding and controlling and warns Whittier that Derek is not the type of boy she should be dating. Monica is bothered by Tina's meddling, but Whittier momentarily lets her cheerleading ambition get the better of her, and betrays Derek. Then, Tina, upset with Monica's sassy attitude, punishes her which leads to an injury and she forces Whittier to choose between her friendship and the squad. Whittier and Monica get fed up and quit Tina's tyranny, but Whittier's school spirit cannot be suppressed. With Monica's help, she gathers up the outcasts from the drama club, the dance club, and other groups that have lost their funding because of the squad and forms a ragtag squad of her own, determined to battle the varsity squad for a spot at the national championship. The two teams end up competing for the spot at nationals, with Whittier's squad ultimately winning. Afterward, Whittier offers Tina a spot on her squad, a position that Tina initially refuses but ends up wanting. The film ends with Tina sucking up to Whittier and Monica, deciding she wants to be on their squad after all, while Marni comically throws a fit.
+
+
+QUESTIONS
+q: When Greg says that Whittier will be the next head cheerleader, who gets mad?
+a: ['Tina']
+
+q: Who is Whittier's friend from cheerleading camp?
+a: ['Monica']
+
+q: What college does Whittier Smith go to?
+a: ['fictional California State College']
+
+q: Who is Whittier's on campus DJ boyfriend?
+a: ['Derek']
+
+q: When Whittier's squad and Tina's squad compete against each other, who wins?
+a: ['Whittier']
+
+q: who is the campus d.j. who likes whittier?
+a: ['Derek']
+
+q: who tells tina that whittier will be the next head cheerleader?
+a: ['Greg']
+
+q: When Whittier offers Tina a spot on her squad, how does Tina reply?
+a: ['deciding she wants to be on their squad after all']
+
+q: who is tina's friend that leaves the original squad with her and helps to form a new one?
+a: ['Whittier and Monica']
+
+q: what event are the cheerleading squads battling to have a place in?
+a: ['at the national championship']
+

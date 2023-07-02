@@ -1,0 +1,37 @@
+PARAGRAPH
+This film opens with the narration: "From early 1942 until the invasion of Europe over a million Americans landed in Britain. They came to serve on other battle fronts or to man the vast U.S. bases in England. Hardly a city, town or village remained untouched."
+A small northern town soon finds out that a large U.S. Army base is being established for the build-up to the Normandy landings. Soon thousands of rambunctious American troops, or "Yanks" as they are known to the British, descend upon the area. On leave in the town, an Arizona man, Sergeant First Class Matt Dyson (Richard Gere), encounters Jean Moreton (Lisa Eichhorn) while out to the cinema. She is the fiancÃ©e of Ken, a British soldier fighting overseas, and initially rebuffs Matt's advances. He is quite persistent, and she, doubtful about her relationship with Ken, eventually accepts him. The handsome, brash American sergeant is in stark contrast to the restrained Englishmen she has known. Soon, she is keeping company with Matt, though it is largely platonic at first.
+For her part, Helen (Vanessa Redgrave) is a bit more worldly in her affairs. Captain John (William Devane) comes to her estate often, and a relationship develops. They are both married, but her husband is away at sea, and his wife is thousands of miles distant.
+Eventually, the kind-hearted Matt Dyson is accepted by the Moreton family, notwithstanding Jean's engagement. They welcome his visits, when he, as an army cook, often brings hard-to-find foods normally on wartime rationing and other presents. But when news of Ken's death in action arrives, Jean's ailing mother (Rachel Roberts) condemns their relationship as a kind of betrayal.
+Jean and Matt travel together to a Welsh seaside resort, where they make love but without completion. Jean is crushed, although Matt says "not like this." She feels spurned, and that her willingness to risk everything has not been matched by him, concluding that he is "not ready" for her.
+Shortly afterwards, the Americans ship out by troop train to Southern England to prepare for D-Day. A characteristic last-minute gift and message from Matt prompt Jean into racing to the railway station. With the town and station a hive of activity, hundreds of the townswomen, some of them pregnant from liaisons with men they may never see again, scramble to catch one last glimpse of their American boyfriends before the train leaves. Matt shouts from the departing train that he will return.
+
+
+QUESTIONS
+q: who is  awaiting orders for the d-day invasion?
+a: ['Yanks']
+
+q: what is the name of the woman officer john is involved with?
+a: ['Helen']
+
+q: what holiday is celebrated at the dance the couples attend?
+a: ["New Year's Eve"]
+
+q: what is the name of the girl sgt. matt dyson is involved with?
+a: ['Jean']
+
+q: which holiday occurs near the end of the movie
+a: ['it does not say']
+
+q: where does jean moreton come from?
+a: ['A small northern town']
+
+q: who is officer john having an affair with?
+a: ['Helen']
+
+q: which year does the story take place?
+a: ['Early 1942']
+
+q: where are the american soldiers stationed?
+a: ['semi-rural England']
+

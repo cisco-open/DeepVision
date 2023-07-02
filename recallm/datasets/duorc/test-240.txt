@@ -1,0 +1,32 @@
+PARAGRAPH
+In the 1980s when the Irish civil conflict was at its most treacherous, 16-17 year old Martin McGartland was recruited by the British police to infiltrate and spy on the IRA. He lived his life under constant threat of exposure and subsequent guaranteed torture and death yet he continued because his information saved many lives. He enjoyed the buzz until one day he was discovered and had to escape against all odds. Inspired by a true story, to this day he is on the run.Marty McGartland, aged 16-17 street hustler from Ireland, living in the 1980s. He gets noticed by the Provisional Irish Republican Army, but thinks their cruel justice is no good. The British want to use Marty as well, because of his connection to the community undetected. The British police want him to infiltrate and spy on the IRA. Marty decides to work for the police because of his IRA dislike. He soon forgets his political preferences when his powerful position takes over. Despite fearing that the IRA will find out about his spying, he builds up a new sense of self esteem. Afraid his family and friends will be murdered if they are informed, Marty starts to lead a double life. Even his new girlfriend Lara knows nothing of his work.Things start to take their toll when the British sell them out. They explain their system could fall down and reveal Marty was their bait all along. The IRA capture and torture Marty, but he is able to escape. His best friend and former British police colleague finds Marty and decides to help him hide. Marty knows the IRA will turn to his family and is forced to make a decision, saving himself or his beloved ones.
+
+
+QUESTIONS
+q: What country does Marty flee to?
+a: ["Doesn't say"]
+
+q: What do the British police want Martin to do?
+a: ['to infiltrate and spy on the IRA']
+
+q: Who captures Marty?
+a: ['The IRA']
+
+q: What country does Marty work for?
+a: ['Britian']
+
+q: Who is Martin's police contact?
+a: ['His best friend no name was given']
+
+q: What is Marty's wife's name?
+a: ['Hes not married but has a girlfriend named Lara']
+
+q: Who helps Marty hide after he escapes?
+a: ['His best friend and former British police colleague']
+
+q: After capture, who is Marty's only ally?
+a: ['His best friend']
+
+q: How old is Martin McGartland?
+a: ['16-17 year old']
+

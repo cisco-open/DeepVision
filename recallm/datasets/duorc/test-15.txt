@@ -1,0 +1,41 @@
+PARAGRAPH
+One night in winter, a young girl named Gerda sees a young boy on the side of the street and shivering in the cold. Gerda gives him a penny and one of her blankets, and Gerda's mother eventually takes the boy in, feeding and clothing him. The boy, whose name is Kay, strikes up a warm friendship with Gerda. One night Gerda's mother tells the pair the story of the Snow Queen, who rules winter. Kay has seen her and has fallen in love with her at first sight, so when she returns, he looks out the window but something falls into his eye, and from that moment on his heart is cold and he is cruel towards Gerda. Although Gerda is confused over Kay's sudden change of personality, she continues to try to mend their friendship.
+One day, Kay goes sledding in the woods when he sees the Snow Queen. He hitches the rope of Gerda's sled to the Queen's own sled and travels off with her. He does not return and when the sled is discovered in the river, he is presumed dead. When Gerda mourns him by the river, she is visited by a talking raven who tells her that Kay is not in the river.
+Gerda decides to find Kay, traveling a far distance and meeting many characters. First she meets talking flowers which tell her Kay is in a palace. She befriends a King, a princess and a prince in a golden palace. The King tells her the story of the Devil's mirror. It is said that the Devil once made a mirror that would distort the image of anyone who looked into it, and when it broke, the fragments flew into the air causing more trouble. The King suspects that it is a shard of that mirror that fell into Kay's eye.
+The King, the princess and the prince let Gerda were a silk gown and the princess's fur cape for her journey and give her a ride in a golden carriage to the forest after saying their goodbyes promising they'll meet again. The carriage is attacked by robbers in the process and just as one of them is about to kill Gerda for her clothes, a robber girl saves her with a spear. After an argument, Gerda realizes the robber girl is all alone and promises she'll come for her with Kay and be friends. The robber girl gives her a reindeer to ride and they make it to the North.
+Gerda is exhausted and falls asleep in a blizzard but an old lady rescues her and her animals. She doesn't know the way to the Snow Queen's palace but she gives them a way to the Laplander's home. Gerda, the raven and the reindeer manage to beet many dangerous obstacles and make it safely to the land of the Midnight Sun where the Laplander gives them a potion which flies them through the Northern Lights. But before they do she tells them that the Snow Queen might freeze them to death.
+They finally arrive at the Snow Queen's palace but they are charged at by the Snow Queen's giant Polar Bears but they shatter into pieces when the reindeer hits them with his antlers. Gerda decides to go on alone and finds Kay unconscious on a table of ice. The Snow Queen confronts Gerda, intent on destroying her, but Gerda remembers that the King said her strong and pure sisterly love for Kay would give her the strength and bravery to defeat the Snow Queen, and the Snow Queen explodes into snow and purple light. Gerda wakes Kay with her warm tears, and the pair escape as the Snow Queen's palace collapses around them and the Snow Queen's spirit shoots into a cloud.
+They make it back to the town and are reunited with Gerda's Mother. And we see the raven fly away, the reindeer living in the North and all seems well, until a fragment of the mirror floats past the planet!
+
+
+QUESTIONS
+q: What is the name of the Lapland woman who runs the reindeer school?
+a: ['Gerda']
+
+q: Who get frozen when they fight the Queen?
+a: ['Mother Bird']
+
+q: What did the robber promise his daughter?
+a: ['This question does not have anything to do with the provided movie plot']
+
+q: Who is Dimly?
+a: ['This question does not have anything to do with the provided movie plot']
+
+q: What did the princess and prince give to Ellie and Peeps?
+a: ['This question does not have anything to do with the provided movie plot']
+
+q: What is the name of the Lapland woman who runs the reindeer school?
+a: ['Gerda']
+
+q: Who get frozen when they fight the Queen?
+a: ['Mother Bird']
+
+q: What did the robber promise his daughter?
+a: ['This question does not have anything to do with the provided movie plot']
+
+q: Who is Dimly?
+a: ['This question does not have anything to do with the provided movie plot']
+
+q: What did the princess and prince give to Ellie and Peeps?
+a: ['This question does not have anything to do with the provided movie plot']
+

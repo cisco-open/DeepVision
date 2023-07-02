@@ -1,0 +1,32 @@
+PARAGRAPH
+BIRDEMIC: SHOCK AND TERROR does, indeed, contain copious amounts of both shock and terror. The shock and terror, however, are the audience's: unbelievable shock at the horrific acting, direction, special effects, screenplay, script, and cinematography, and indescribable terror at the the thought of ever having to watch such an atrocity again. Directed and written by James Nguyen, BIREDEMIC stars Alan Bagh as Rod, the laughably inept hero (??), and Whitney Moore as Rod's love interest, Nathalie. At one point, we get to see Nathalie (who, despite being a Victoria's Secret model, is still strongly encouraged to pursue a real estate career by her mother, in case modeling "doesn't work out") in a thong and bra; this, I suspect, is the sole motivation for the making of this movie.After more than forty-five minutes of establishing shots, watching Rod slowly drive from place to place, finding out that Rod's best friend is dating Nathalie's best friend (what a coincidence!), and suffering through Rod and Nathalie's first date, in which they describe themselves as though on job interviews in robotic, flat voices, we are finally introduced to the reason for the movie's title. Rod (a recent millionaire) and Nathalie (did I mention she's a Victoria's Secret model?) are inexplicably staying at a cheap no-tell motel when they are confronted by large, vicious birds (eagles), and the viewer is confronted by the worst special effects in the entire history of movie making. Rod, Nathalie, and two other motel patrons, Ramsey (Adam Sessa) and Becky (Catherine Batcha), manage to make it into Ramsey's minivan using coat hangers to defend themselves against the large eagles that brashly toss aside all laws of physics and hover in the air. The group drives off, shooting at the birds with the various AK-47's and handguns that Ramsey apparently keeps in his van at all times.After stumbling across a few cars containing drivers who were killed by the birds and rescuing a boy and girl, both around age ten, the group stops at a gas station to buy food for the children (the children, it seems, have time to meditate on their hunger despite the fact that they saw their parents viciously attacked by killer eagles less than two hours ago). The station's patron has also been killed by the birds, but, puzzlingly, the birds have not effected the rest of the area's population, as evidenced by the dozens and dozens of cars whizzing by, driven by people oblivious to the fact that nature is on the attack.While stopped for a picnic (the danger of being outside where they are most vulnerable to the killer birds dawns on nobody), our troupe is informed by an old man that the bird attacks are the result of global warming. Afterwards, while "taking a shit" (a direct quote from Ramsey), Catherine is attacked and killed, which is made all the more tragic due to the fact that the group is forced to leave their roll of toilet paper behind as, terror-stricken, they merge carefully onto the road and drive away at a safe, moderate speed.Later, the gang comes across tourists trapped by the killer birds on a tour bus. Spraying their guns indiscriminately, the group manages to hit the birds but not the tourists, but have little time to celebrate this victory as several of the birds spontaneously combust, spewing what is evidently acidic blood and/or innards on the hapless tourists and Ramsey. Stopping for gas soon after, Rod is informed that gas is now $100/gallon due to the birds, whose influence clearly extends to such a degree that OPEC and the entire global economy are suffering. Rod, Nathalie, and the children are attacked again, but manage to escape using their guns which are, luckily, never emptied of bullets.After an brief encounter with a man who tries to steal their reserve gas but is conveniently killed by a bird while doing so, the group stops at a small forest where they meet a man, known only as "Tree Hugger" to the audience (Stephen Gustavson). "Tree Hugger," who bears a strong resemblance to Woody Harrelson in a wig, informs Rod and co. that nature is not attacking humans; rather, humans are attacking nature. Perhaps this is why, shortly later, dozens of unexplained forest fires break out all around the group, forcing them to flee once again.Continuing on with their trip to nowhere on a day which is evidently over a hundred hours long, the four stop at the beach where Rod and Nathalie try unsuccessfully to get the children to eat fish and seaweed, and where, of course, they are yet again attacked by the birds. This time, though, while cowering in the van, the group is rescued by a flock of doves, which manages to scare the eagles away. The group emerges from the van and walks to the shore, where they stand staring at the two flocks of birds flying in place--er, that is, off into the distance--over the ocean. And thus, the tragedy that is BIRDEMIC: SHOCK AND TERROR mercifully ends.
+
+
+QUESTIONS
+q: What is attacking the group?
+a: ['Birds']
+
+q: What is Nathalie?
+a: ['Fashion model']
+
+q: Who killed the two young children's parents?
+a: ['Birds']
+
+q: What was Ramsey's girlfriend name?
+a: ['Becky']
+
+q: Where do the quartet ultimately settle on?
+a: ['Beach']
+
+q: What are the bird attacks a result of?
+a: ['Global Warming']
+
+q: Who does Ramsey try to save?
+a: ['Tourists']
+
+q: What is Rod?
+a: ['Software salesman']
+
+q: What does Rod, Nathalie and the kids continue to flee from?
+a: ['Killer eagles']
+

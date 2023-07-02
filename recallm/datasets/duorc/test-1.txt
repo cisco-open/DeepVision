@@ -1,0 +1,38 @@
+PARAGRAPH
+Maggie is the only cow left on the Dixon Ranch after Alamida Slim (a cattle rustler capable of stealing 500 in a single night) stole all the rest of Dixon's cattle. Mr. Dixon sells Maggie to Pearl, a kind and elderly woman that runs a small farm called Patch of Heaven near a railroad track, and sets off to the west to start over.Maggie quickly wins the favor of the local animals by performing sleight of hand tricks using her tail, until the local Sheriff arrives to tell Pearl that her bank is cracking down on debtors. Pearl has three days to pay the bank $750, or her farm will be sold to the highest bidder. Hearing this, Maggie convinces the other cows on the farm (Grace, a happy-go-lucky character, and Mrs. Calloway, who has had leadership gone to her head) to go to town to attempt winning prize money at a fair.Meanwhile, it is revealed that Buck, the Sheriff's horse, constantly daydreams about seeing "real" law-enforcement action. While the cows are in town, a bounty hunter named Rico (who Buck idolizes) drops a criminal off and collects the reward. Stating he needs a replacement horse to go after Alamida Slim while his own horse rests, he takes Buck. When Maggie find out that the reward for capturing Slim is of exactly $750, she convinces the other cows to try and capture him to save Patch of Heaven.Along the way, Grace drives the other two cows crazy by singing horribly off tune, a fact she is unaware of because she has what she calls perfect pitch. They also pass the Dixon Ranch at the moment its auction is won by a Mr. O'delay, and Maggie reveals to the other cows that it is where she used to live. She was only spared in the theft because she had been locked in the barn for the night after winning the first prize at a fair.That night, they hide among a large heard of steers, when Alamida Slim appears. Before any of them can do anything, Slim beings a yodeling song which sends all the cattle (except Grace) into a trance that causes them to dance madly and follow Slim anywhere. Grace is able to bring Maggie and Mrs. Calloway back to their senses just before Slim closes the path behind him with a rockslide to stop Rico and his men from chasing him.As Rico discusses with his men what his next move will be, Buck starts talking with Maggie, Grace, and Mrs. Calloway as old friends and miming actions. This causes Rico to believe Buck is frightened by cows, and sends Buck back to the Sheriff. Buck escapes, determined to capture Slim for himself to prove his worth. Maggie, Grace, and Mrs. Calloway follow Buck's hoofprints to try to pass him and get to Slim first, but they have a fallout when they lose the trail in a downpour. Mrs. Calloway accuses Maggie of wanting to go after Slim only as a personal vendetta, dragging them along the way. They spend the night under a large rock.The next morning, they are awakened by a peg-legged rabbit named Lucky Jack, who lost his leg to a Rabbit's foot amulet. Jack also lost his home, and old mine, to Alamida Slim, who now uses it as his hideout. The cows then ask Jack to lead them to the mine.At the mine, Slim reveals that he used to be a skilled cowboy and ranch hand, but his patrons would not recognize his talent, repeatedly firing him (his accomplices hint that it was because they disliked his singing). In revenge, he has been stealing all their cattle. When his former patrons can't support their land anymore, he buys the land when it is auctioned off, under the guise of the respectable-looking Mr. O'delay, using the very money he gets from selling the cattle he stole. At that moment, he notices for the first time a small plot on his map labeled "Patch of Heaven", and chooses it as his next target.At the entrance to the mine, the cows find Buck is blocked from entering by Slim's steed (a buffalo), because he can only let cows in. Maggie, Grace, Mrs. Calloway, and Jack are of course allowed in. Once inside, they come up with a plan to catch Slim, part of which requires them to cut Jack's cotton tail and use it as earplugs.While performing the sale of the cattle, Slim notices that he's missing three cows from his original count, so he sets off to find Maggie, Grace, and Mrs. Calloway. While he's trying to catch Maggie and Mrs. Calloway, Grace runs into him with a mine cart and Jack hits him over the head with a prospecting pan. They run off with Slim's accomplices and buyer in pursuit on a steam train.Bittered by being rejected by Rico, Buck tricks Rico's horse into running away. However, when Rico notices the commotion in the mine, he saddles Buck instead, who is all to happy to take Rico to the scene. However, when they all crash, stopping the chase, Rico is revealed to work for Slim!Slim dons his O'delay costume and leaves the cows stranded in the middle of the desert with the train, while he goes to atend the auction. However, the cows manage to drive the train to the farm, where they convince the animals to rebel against Slim.
+
+
+QUESTIONS
+q: What is the name of the farm?
+a: ['Patch of Heaven']
+
+q: What's the name of the rabbit?
+a: ['lucky jack']
+
+q: What's Slim stealed from his former patron?
+a: ['cattle']
+
+q: Who does Rico work for?
+a: ['slim']
+
+q: How much is the reward for capturing Slim?
+a: ['exactly $750']
+
+q: What sends the cattle into a trance?
+a: ["Alamida Slim's yodeling"]
+
+q: How they lose the trail?
+a: ['rock slide']
+
+q: who sold Maggie to Pearl?
+a: ['Mr. Dixon']
+
+q: Who does Rico think is frightened by cows?
+a: ['buck']
+
+q: What is Pearl's farm called?
+a: ['Patch of Heaven']
+
+q: Who is able to bring Maggie and Mrs Caloway back to their senses?
+a: ['Grace']
+

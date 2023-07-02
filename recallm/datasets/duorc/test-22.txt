@@ -1,0 +1,67 @@
+PARAGRAPH
+TAG LINE : "America, Land of Golden Opportunity...but, Sometimes mere Survival
+can Stretch one's SoulA 1970s New York City setting finds Indian-born immigrant Ram Patel trying to establish himself in the turbulent city-life where he encounters various hurdles that prevent him from obtaining his goals of becoming successful and wealthy. The pursuit of the American dream becomes littered with pot-holes for the earnest protagonist Ram Patel. Arriving from the airport to stay with a family friend, he finds himself instantly disliked by an African-American landlord (Floyd) that attempts to make Ram miserable.Pounding the pavement for a job, Ram is taken-on by a CPA firm run by a strict, former military crew-cut martinet who hires other Indian men like Ram to do countless hours of accounting grunt-work in a hot-box dingy office. With no money to save, he begins to borrow heavily and digs himself into insurmountable debt. In the midst of this self-inducedmisery, he sends for his wife & daughter from India and continues his façade of a successful appearance to his newly arrived wife by going into even further debt on more newly printed credit cards and latched-onto friends.These friends and co-workers begin to get irritated by his lack of commitment to payback, and this leads our protagonist being pressed into self-doubt and constant searching for both a way out and purposeful meaning in his life. Proclaiming to push ahead through his frustration and predicament is based more onstubbornness than enlightenment, where a dont quit mind-set becomes fuel- to-the-fire for his out-of-control situation. Ram has his car stolen, and he becomes enslaved to his increasing debt status, which makes his wife question his responsibility as a husband, father and a man.RAMs wife RANI becomes pregnant again, and he must reluctantly send her back to India to deliver their new child due to a lack of medical insurance in the USA. Rani protests, but Ram mentions financial suicide as to their status, and Rani goes back to India for the birth of their second daughter.
+Into the life of Ram Patel comes an eccentric array of characters who swirl his life into confusion. A colleagues mother offers her connection to a spiritual Holy-man known as DADA BHAGWAN, whose followers revere him as mentor and benevolent wise master, professing the release of ego for enlightenment. Ram passes up this spiritual growth opportunity, instead trying to make his way on a fortune- seeking venture in a new business with a puffed-up, egotistical entrepreneur named ADESH.Ram continues spinning-his-wheels and finally tries an introductory session with the eminent Dada Bhagwan. Confronting himself is an intensely difficult proposition, but awareness comes suddenly like lightning and Ram turns over a new leaf as the situation begins to eventually swing in Ram Patels favor.This compelling story addresses the overall-immigrant experience of the midtolate 20th Century, where culture- clash and making it in America are the pillars under which many lives are built, or crushed by! The films ultimate message and Ram Patels plight and subsequent transformation by Dada Bhagwan become the hook whereby any individual can absorb the bracing impact of undeniable fate that results in a firmly entrenched never-give-up attitude. Old and young alike will feel a positive, uplifting cathartic reaction to Desperate Endeavors.
+
+
+QUESTIONS
+q: What is Ram's wife name?
+a: ['Rani']
+
+q: What topic is this story about?
+a: ['The pursuit of the American dream']
+
+q: Who was holy man?
+a: ['DADA BHAGWAN']
+
+q: Who does Ram try an introductory session with ?
+a: ['Dada Bhagwan']
+
+q: Where does Rani go to give birth to her second daughter?
+a: ['India']
+
+q: What is the main characters plight?
+a: ['Debt']
+
+q: Why he send his wife and daughter?
+a: ['prevent financial ruin']
+
+q: What ram taken?
+a: ['CPA firm']
+
+q: What century does this story take place?
+a: ['20th century; 1970s']
+
+q: Someone steals what from Ram?
+a: ['His car']
+
+q: In what decade does Ram Patel try to establish himself in New York City?
+a: ['1970s']
+
+q: Who helps the main character?
+a: ['DADA BHAGWAN']
+
+q: Who along with his friends, begin to get irritated by his lack of commitment to payback?
+a: ['co-workers']
+
+q: Who is Ram's wife?
+a: ['Rani Patel']
+
+q: What does Ram turn over ?
+a: ['A new leaf']
+
+q: Whose wife gets pregnant again?
+a: ['Ram Patel']
+
+q: In what country does this story take place?
+a: ['United States']
+
+q: What does Ram continue to do ?
+a: ['Increase his debt']
+
+q: What race is Ram's landlord?
+a: ['African-American']
+
+q: Who passed the opportunity?
+a: ['Ram Patel']
+

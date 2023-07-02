@@ -1,0 +1,11 @@
+{
+    "total_question": 13450,
+    "recall_correct": 6474,
+    "vectordb_correct": 7494,
+    "hybrid_correct": 7085,
+    "hybrid_maximum_correct": 9181,
+    "recall_accuracy": 0.4813382899628253,
+    "vectordb_accuracy": 0.5571747211895911,
+    "hybrid_accuracy": 0.5267657992565056,
+    "hybrid_accuracy_maximum": 0.6826022304832714
+}

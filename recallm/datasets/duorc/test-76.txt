@@ -1,0 +1,39 @@
+PARAGRAPH
+In this version of Charlotte BrontÃ«'s great novel, Jane Eyre (Sorcha Cusack) is an independent and strong-minded young woman who is hired by Mr. Rochester (Michael Jayston) to work as a governess. What she does not realize is that she must share the estate (and ultimately Mr. Rochester) with his wife, Bertha (Brenda Kempner), who is, by this point in her life, mentally ill and kept locked away in an upstairs attic.
+For a full length summary see: Jane Eyre plot summary.
+
+
+QUESTIONS
+q: How are Jane and John Reed related?
+a: ['Cousins']
+
+q: Who does Mr Rochester visit ?
+a: ['Lady Blanche']
+
+q: What did Jane find one night ?
+a: ["Mr. Rochester's room on fire"]
+
+q: How did Jane awaken?
+a: ['by strange laughter']
+
+q: What is the name of the young French orphan girl?
+a: ['Jane Eyre']
+
+q: How many years later does Jane leave Lowood?
+a: ['Ten years later']
+
+q: Who does Mr Rochester ask Jane to secretly tend to ?
+a: ['Richard Mason']
+
+q: How old is Jane in 1840?
+a: ['20-year-old']
+
+q: What is the name of Jane's old nurse?
+a: ['Bessie']
+
+q: How old is Jane Eyre?
+a: ['ten-year-old']
+
+q: What type of work does Jane do?
+a: ['Governess']
+

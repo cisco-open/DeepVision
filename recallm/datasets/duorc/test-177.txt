@@ -1,0 +1,28 @@
+PARAGRAPH
+Former soldier Frank Prior arrives in London to visit a wartime girlfriend, whom he hasn't seen in six years. His plane's landing at the airport coincides with a fellow passenger being killed by a sniper.
+Scotland Yard inspector Braddock and detective Cameron are assigned to investigate. The dead man, identified as Kendal Brown, is carrying forged documents as well as a photograph that leads them to Pauline French, an actress.
+Pauline is the woman Frank has come to see. She also happens to be an expert marksman with a rifle. After they kiss, Pauline tells Frank that she had tried unsuccessfully to notify him to delay his visit.
+An autographed picture of another actress, Helene Castle, is found in Kendal Brown's flat. The detectives learn that Helene is the victim's ex-wife. In the meantime, Frank spends a few hours with Pauline on her boat. When they later go to a pub, a limping man seems to menace and unnerve Pauline, who runs away.
+Pauline confesses to Frank that she once let Kendal Brown use her boat for a smuggling operation. He began blackmailing her with letters she wrote, which Helene now possesses. At the theater, the limping man turns out to be George, the stage manager. But to everyone's shock, the late Kendal Brown turns up very much alive. The victim on the plane was a man he'd hired to impersonate him.
+After knocking the limping man unconscious, Kendal Brown ends up in a fistfight with Frank in the theater's balcony. But as these events reach their climax, a huge surprise is revealed, one involving Frank and his fellow passengers from the plane.
+
+
+QUESTIONS
+q: What is wrong with Frank's walk?
+a: ['Nothing']
+
+q: Who did Frank take a flight to visit?
+a: ['Pauline']
+
+q: What is the name of the inspector leading the investigation?
+a: ['Braddock']
+
+q: What is the relationship between Frank and Pauline?
+a: ['friends']
+
+q: What is Pauline selling?
+a: ['Boat']
+
+q: Where does Frank fly to in order to visit Pauline?
+a: ['London']
+

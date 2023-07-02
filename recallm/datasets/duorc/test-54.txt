@@ -1,0 +1,72 @@
+PARAGRAPH
+In 1958, Katey Miller (Romola Garai), her parents (Sela Ward and John Slattery), and her younger sister Susie (Mika Boorem) arrive in Cuba during the Cuban revolution. A self-described bookworm, Katey is not very happy about having to move to a different country during her senior year of high school, as she had been planning to attend Radcliffe College, although the rest of her family seem extremely pleased to be in Cuba. Meeting several other rich American teenagers down by the pool, including James Phelps (Jonathan Jackson), the son of her father's boss, Katey becomes disgusted when one of the teenagers insults a local waiter when he accidentally knocks over some of their drinks. Katey attempts to talk to the waiterâJavier (Diego Luna), who works at the hotel to support his familyâbecause she feels awful about what had occurred but he is not interested.
+Katey watches a film of her mother and father dancing and wishes she could dance as well as they did. She and her father dance a bit. The next day in class, Katey is asked to read aloud from The Odyssey; it is a passage about love and passion. After class, James invites her to a party at the country club and she accepts.
+While walking home from school, she sees Javier dancing at a street party, and he offers to walk her home. They stop to listen to a street band and police show up, stopping Javier while Katey runs away.
+The next day, Katey tries some of the dance moves she saw. Javier sees her and asks her to come see the real dancers Saturday night, but she says she is already going to the country club. Javier gets upset and leaves. Katey wears one of her maid's sexy dresses to the country club party and impresses James. Katey convinces him to take her to the Cuban club where Javier is dancing with the ladies. Javier dances with Katey while James sits at the bar. Soon he is accosted by Javier's brother, who tells him that they will eventually kick the Americans out of Cuba. Javier comes over and argues with his brother. James takes Katey back to the car and assaults her after she refuses to kiss him and asks him to take her home. She slaps him and runs into the club and Javier agrees to walk her home.
+The next day, Katey walks by a dance class. The teacher (Patrick Swayze) asks if anyone wants to enter the big dance contest and then dances with Katey for a bit. She grabs a flyer for the competition.
+While walking to the pool, James apologizes to Katey and then tells her that Susie saw Javier with her and got him fired. Katey argues with Susie and goes to find Javier. He is now working at a chop shop with his brother. She asks him to enter the dance contest with her, but he refuses. Meanwhile, it is becoming apparent that Javier's brother is helping the revolutionaries.
+The next day, Javier shows up at Katey's school and agrees to enter the dance contest with her. They start teaching each other dance moves and Javier convinces her to "feel the music". They practice all the time, and Katey dances some more with the dance teacher, until it is the night of the dance. Katey and Javier dance with the other couples on the floor and are chosen to go on to the next round. Katey's parents, however, disapprove of her relationship with Javier but Katey reconciles with them. On the night of the contest's final round, while Katey and Javier are on the dance floor, Javier sees his brother and some revolutionaries disguised as waiters and the police soon try to arrest them. The contest stops as everyone flees the club, and Javier has to save his brother from the police. Javier and his brother talk about how they miss their dad, then they hear that Batista has fled the country and join the celebration.
+Later, Javier comes to the hotel and finds Katey. He takes her to the beach and they make love. The next day, Katey's parents tell her they are leaving Cuba and she has one last night with Javier. They go to the Cuban club where they first danced, and the floor is theirs. Katey's family is there to see her and Katey narrates that she doesn't know when she will see Javier again, but this will not be their last time to dance together.
+
+
+QUESTIONS
+q: Where did Katey and Javier do the horizontal mambo?
+a: ['the beach']
+
+q: What is Javier carrying that Katie accidentally knocks over?
+a: ['their drinks']
+
+q: What do Katey and Javier stop to listen to?
+a: ['a street band']
+
+q: What did Katey read aloud in class?
+a: ['a passage from The Odyssey']
+
+q: What was the mission of the revolutionaries?
+a: ['kick the Americans out of Cuba']
+
+q: Where does Javier work after he is fired?
+a: ['Chop shop']
+
+q: What was Javier doing at the Cuban Club?
+a: ['dancing with the ladies']
+
+q: Where did Javier find a new job after being fired?
+a: ['chop shop']
+
+q: Who is leading a revolution against the current government of Cuba?
+a: ["Javier's brother"]
+
+q: Who asks Katey to attend a party at the country club?
+a: ['James']
+
+q: Who enters the dance contest with Katey?
+a: ['Javier']
+
+q: Who is carrying the drinks that Katey knocks over?
+a: ['Javier']
+
+q: Who is leading a revolution against the Cuban government?
+a: ['Castro']
+
+q: Who was helping the revolutionaries?
+a: ["Javier's brother"]
+
+q: What are Katey's mother and father doing in the movie she watches?
+a: ['dancing']
+
+q: What book is Katey asked to read aloud from in class?
+a: ['The Odyssey']
+
+q: Who is teaching the dance calss that Katey sees?
+a: ['Patrick Swayze']
+
+q: What does Katey wish she could do as well as her parents?
+a: ['dance']
+
+q: Whose dress does Katey borrow to try to impress James?
+a: ['her maids']
+
+q: What attracted James to Katey in their first meeting?
+a: ['read aloud from The Odyssey']
+

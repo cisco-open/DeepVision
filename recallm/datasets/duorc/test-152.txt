@@ -1,0 +1,44 @@
+PARAGRAPH
+Picking up immediately where the previous film 'Fast & Furious' left off, Dominic "Dom" Toretto (Vin Diesel) is being transported to Lompoc prison by bus, his sister Mia Toretto (Jordana Brewster) and friend Brian O'Conner (Paul Walker) lead an assault on the bus, causing it to crash, freeing Dom. While authorities search for them, the trio escape to Rio de Janeiro, Brazil.Awaiting Dom's arrival, Mia and Brian join their friend Vince (Matt Schulze) (from the first Fast and Furious film) and other participants on a job to steal three cars from a train. While aboard the train, Brian and Mia discover the train is carrying DEA agents and that the cars are seized property. When Dom arrives with the rest of the participants, he realizes that one of them, Zizi (Michael Irby), is only interested in stealing one car (a Ford GT40). Dom has Mia steal the car herself while Dom and Brian fight Zizi and his henchmen, with Zizi killing the DEA agents assigned to the vehicles. Dom and Brian are captured and brought to crime lord and owner of the cars Hernan Reyes (Joaquim de Almeida), Zizi's boss, where he orders the pair be interrogated to discover the location of the car. However, they manage to escape and retreat to their safehouse.While Brian, Dom, and Mia examine the car to discover its importance, Vince arrives and is caught trying to remove a computer chip from the car, admitting that he was planning to sell it to Reyes on his own. Dom forces Vince to leave and after investigating the chip, Brian discovers it contains details of Reyes' criminal empire including the locations of $100 million in cash.Following the murder of the DEA agents aboard the train, blamed on Dom and his team, U.S. Diplomatic Security Service (DSS) agent Luke Hobbs (Dwayne Johnson) and his team arrive in Rio to capture Dom and Brian. They travel to Dom's safehouse with assistance from local officer Elena Neves (Elsa Pataky), but find it under assault by Reyes' men. Brian, Dom and Mia escape with Dom suggesting they split up and leave Rio, but Mia announces she is pregnant with Brian's child. Dom agrees to stick together and suggests they steal Reyes' money to start a new life.The trio organizes a team to perform the heist, recruiting Dom's old friend Han Lue (Sung Kang) (from the third Fast and the Furious: Tokyo Drift and the previous film), Roman Pearce (Tyrese Gibson), Tej Parker (Ludacris) (both from 2 Fast 2 Furious), former Braga associate Gisele Yashar (Gal Gadot) (from the previous film), and Dom's Dominican hijackers from the previous film; Tego Leo (Tego Calderon) and Rico Santos (Don Omar). Vince later joins the team after saving Mia from being captured by Reyes' men, earning Dom's trust once more.Hobbs and his team eventually find and arrest Dom, Mia, Brian and Vince. While transporting them to the airport for extradition to the United States, the convoy is attacked by Reyes' men, killing Hobbs' team and Vince. Hobbs is saved by Dom, Brian and Mia as they fight back against Reyes' men and escape. Wanting revenge for his murdered team, Hobbs and Elena agree to help with the heist.The gang breaks into the police station where Reyes' money is kept and tear the vault from the building using their cars, dragging it through the city with police in pursuit. Believing they cannot outrun the police, Dom makes Brian continue without him while he attacks the police and the pursuing Reyes, using the vault attached to his car to smash their vehicles. Brian returns to kill Zizi, while Reyes is badly injured by Dom's assault. Hobbs arrives on the scene and executes Reyes. Hobbs refuses to let the pair go free, but unwilling to arrest them, agrees to give them a 24-hour head start to escape. The gang split Reyes' money, with Dom leaving Vince's share to his family, before the members go their separate ways.In the South Pacific, Brian and Mia, now visibly pregnant, relax on a beach, where they are met by Dom and Elena. Brian challenges Dom to a final, no-stakes race to prove who is the better driver.In a post-credits scene, Hobbs is given a file by US Customs agent Monica Fuentes (Eva Mendes) (from 2 Fast 2 Furious) concerning the hijack of a military convoy in Berlin. In the file, Hobbs discovers a recent photo of Letty Ortiz (Michelle Rodriguez), Dom's presumed-deceased girlfriend, implying that she survived the events of Fast & Furious 4.
+
+
+QUESTIONS
+q: who kills zizi?
+a: ['Brian']
+
+q: To what city do Hobbs and his team travel?
+a: ['Rio De Janeiro']
+
+q: Where are Brian and Mia?
+a: ['In the South Pacific']
+
+q: Who is Hernan Reyes?
+a: ["Zizi's boss."]
+
+q: Who are Hobbs and his team trying to arrest?
+a: ['Dom, Mia, Brian, and Vince']
+
+q: Who is Dom Toretto's sister
+a: ['Mia Toretto.']
+
+q: who attacks the convoy?
+a: ["Reyes' Men"]
+
+q: what do they steal from the police station?
+a: ["Reyes' money"]
+
+q: Who does Vince admit he was planning to sell the chip to ?
+a: ['Reyes.']
+
+q: What is Vince caught trying to do ?
+a: ['Trying to remove a computer chip from a car.']
+
+q: Who kills the DEA agents?
+a: ['Zizi.']
+
+q: Who does Vince save from being captured?
+a: ['Mia']
+
+q: What happened to the military convoy?
+a: ["Attacked by Reyes' men"]
+

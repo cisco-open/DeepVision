@@ -1,0 +1,50 @@
+PARAGRAPH
+Jason Shepherd (Frankie Muniz), a 14-year old living in the fictional town of Greenbury, Michigan, is an incorrigible liar and a con artist. When his English teacher, Ms. Phyllis Caldwell (Sandra Oh), assigns her class a creative writing assignment, Jason does not complete it. His parents are later called into school, where Ms. Caldwell tells Jason that if he can't bring her a handwritten story to the community college by 6 p.m., she will not consider it a valid contribution. After remembering that his father told him that "making up stories appears to be his God-given talent", Jason finally writes a story entitled Big Fat Liar, based on his experiences of how he lies all the time. Now finished, Jason rides his older sister's old bicycle and accidentally collides with the limousine of an arrogant Hollywood producer Marty Wolf (Paul Giamatti), whereupon Jason blackmails Wolf into giving him a ride to school. During his ride, Wolf reveals to Jason that he is also a liar and con man, but a more professional one than Jason, however. When the limousine reaches the college, Jason hastens out of the limo, not realizing that he has left his story behind. Wolf initially attempts to give it back to Jason, but when he sees that it is excellent, he decides to keep it for himself.Upon entering school, Jason realizes that he does not have the story. Neither his parents nor Ms. Caldwell believe him when Jason claims to have written it, and he is therefore ordered to undergo summer school. Later, Jason and his best friend Kaylee (Amanda Bynes) found out that Wolf has plagiarized his composition by making his film Big Fat Liar. When Jason's parents and sister leave town for a summer holiday, Jason and Kaylee use their savings to fly to Los Angeles to confront Wolf, leaving local bully Bret Callaway (Taran Killam) to attend to Kaylee's absent-minded grandmother after Jason bribes him by promising to do his summer school homework for him. After arriving in Los Angeles, Jason and Kaylee trick limo driver Frank Jackson (Donald Faison) into giving them a ride to the studio, where Jason tricks receptionist Astrid Barker (Rebecca Corry) into leaving her post to allow him to speak with Wolf about his situation. Wolf agrees to return the story, but intentionally burns it and has Jason and Kaylee removed from his office.Angered, Jason and Kaylee plan to inconvenience Wolf until he admits to having stolen Big Fat Liar. Frank eventually discovers their true identities and plans, but eventually joins them, as Frank explains that he was an actor formerly mistreated by Wolf. After gathering intel about how he treats his workers, Frank takes Jason and Kaylee to Wolf's mansion, where they add blue and orange dye to Wolf's swimming pool and shampoo, giving him blue skin and orange hair. Kaylee, impersonating the Universal Studios' president's secretary, sends Wolf to a child's birthday party to get vengeance for veteran stunt coordinator Vince (Lee Majors), an elderly employee of his whom he criticized and who had wanted to take his granddaughter to the same party. There, Wolf is mistaken for a clown and a group of children attack him. Meanwhile, Jason and Kaylee modify the controls to Wolf's blue Jaguar XKR convertible, causing various controls to perform the incorrect function and playing the song "Blue (Da Ba Dee)" by Eiffel 65, resembling his blue skin. Struggling to control his convertible, Wolf stops just behind a monster truck, but is later rear ended by a vengeful old lady, whom he had insulted earlier, which causes him to crash into it, therefore causing its driver, The Masher (Brian Turk), to destroy Wolf's convertible in anger.As a result of these pranks, Wolf misses his appointment with his boss Marcus Duncan (Russell Hornsby), president of Universal Studios. Wolf and Duncan met at a party to celebrate the premiere of another film Whittaker and Fowl, which proves to be a box office failure. Duncan distrusts Wolf to create anything better and tells him that all the funding for Big Fat Liar will be withdrawn unless Wolf can convince him otherwise. Jason agrees to help Wolf in exchange for a confession of the truth to his father. Wolf, guided by Jason, makes a successful presentation which convinces Duncan to green-light Big Fat Liar and warning him should any little mishap occur, funding for the film will be withdrawn and his career will be over. However, Wolf betrays Jason again and calls his security guards to remove Jason and Kaylee from his office for the second time, but this time, after their true identities, schemes, and hiding place have been and revealed. Jason and Kaylee are told by Rocko, the head of security, that they will be forced out of Hollywood, the incidents they caused covered up, and may be sent back to their hometown in disgrace.Jason is about to throw in the towel and prepares to be forever humiliated and disbelieved in his hometown when Wolf's personal secretary, Monty Kirkham (Amanda Detmer), appears after dismissing Rocko, who was keeping an eye on him and Kaylee, and states that because many of Wolf's co-workers and employees have been abused by him, they are able to help Jason and Kaylee to take revenge against Wolf. Together, Jason, Kaylee, and the studio crew members devise their plan by which to do so. By now, Wolf has either removed or concealed the color of his skin and hair. En route to the studio, Wolf falls into several traps organized by his co-workers including skydiving out of a helicopter piloted by Vince and getting soaked from the Universal Studios Hollywood flash flood backlot prop. Upon arriving at the studio, bedraggled and desperate, Wolf finds out that Jason has taken his beloved toy chimpanzee, Mr. Funny-Bones, hostage. Wolf pursues Jason until they reach a climactic rooftop confrontation, where Wolf admits to having stolen Jason's story, thinking they are alone, and swearing that Wolf will never tell the truth because it's 'overrated'. Immediately, it is revealed that Wolf has been filmed throughout the confession with multiple cameras. As a result, Wolf is exposed and shamed before all those whom he has abused, including Duncan, who is outraged at him for his act of plagiarism, and from a kid no less. Without hesistation, Duncan fires Wolf for his actions, and Jason thanks Wolf for having taught him that "the truth is not overrated". Enraged, Wolf chases Jason, but Jason runs off the side of the building and eventually lands on an inflated crash pad. Afterwards, Jason and his parents re-establish their trust.The epilogue.In the epilogue, Big Fat Liar is later reproduced and shown in movie theatres across North America, utilizing the talents and skills of all those whom Wolf had abused. During the closing credits, Jason is credited for having written the original story, and Ms. Caldwell is impressed and very proud of him. Meanwhile, Wolf declares bankruptcy and starts his new job as a clown, which role he is assigned to entertain the son of the Masher, whom he insulted earlier. Recognizing him, the Masher orders his son: "Yo, Little Mash, show him your nutcracker!", a newly-learned prizefighting technique as a means of avenging the earlier offense. He delivers a flying kick to Wolf's scrotum, and Wolf's eyes dilate and rotate.
+
+
+QUESTIONS
+q: What is the receptionist name ?
+a: ['Astrid Barker']
+
+q: WHERE THEY GO?
+a: ['Summer school', 'Los Angeles']
+
+q: WHO JOINED THEIR PLAN?
+a: ['employees', 'Frank Jackson']
+
+q: How old is Jason Shepherd?
+a: ['14-year old']
+
+q: What does Marty "accidentally" do to the essay ?
+a: ['Burns it']
+
+q: Who joins Jason and Kaylee in their plan ?
+a: ['Frank Jackson']
+
+q: What did they put Marty headset on ?
+a: ["To impersonate the Universal Studios' president's secretary"]
+
+q: WHO IS JASON'S FRIEND?
+a: ['Kaylee']
+
+q: Who hit Jason with his limousine?
+a: ['Marty Wolf']
+
+q: WHERE DOES THE CAR STOP?
+a: ['Behind a monster truck']
+
+q: Where is Jason send ?
+a: ["Principal's office"]
+
+q: Who fires Marty?
+a: ['Marcus']
+
+q: Why is Marty fired?
+a: ['plagiarism and dishonesty']
+
+q: Who recognizes Marty as the birthday clown?
+a: ['The Masher']
+
+q: Who is tired of being bossed around and abused?
+a: ['Wolf']
+

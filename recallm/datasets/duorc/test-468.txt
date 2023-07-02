@@ -1,0 +1,159 @@
+PARAGRAPH
+Retired detective Harry Kilmer (Robert Mitchum) is called upon by an old friend, George Tanner (Brian Keith). Tanner has been doing business with a yakuza gangster, Tono (Eiji Okada), who has kidnapped Tanner's daughter to apply pressure in a business deal involving the sale of guns. Tanner hopes that Kilmer can rescue the girl using his Japanese connections.
+Tanner and Kilmer had been Marine MPs and friends in Tokyo during the post-war occupation. Kilmer became aware of a woman, Eiko (Keiko Kishi), who was involved in the black market so that she could procure penicillin for her sick daughter. Kilmer intervened on behalf of Eiko during a skirmish, saving her life. After they'd been living together, with Kilmer repeatedly asking Eiko to marry him, her brother (secretly her husband) Ken (Ken Takakura) returned from an island where he'd been stranded as an Imperial Japanese soldier. Both outraged that she was living with his former enemy and deeply indebted to Kilmer for saving the lives of his (apparently) only remaining family, Ken disappeared into the yakuza criminal underground and refused to see or speak to his sister. Eiko, cautious to do nothing to offend Ken further, broke off contact with Kilmer. Before returning to the US, Kilmer bought Eiko a bar (with money borrowed from George Tanner) which she operates to this day, named Kilmer House in his honor. Kilmer has never stopped loving her.
+Ken's debt to Kilmer, giri, is a lifelong obligation that traditionally can never be repaid. Tanner believes that Ken would therefore do anything for Kilmer, including rescuing Tanner's daughter. Traveling to Tokyo with Tanner's bodyguard Dusty (Richard Jordan), they stay at the home of another old military buddy named Oliver Wheat (Herb Edelman). Kilmer visits Eiko at the bar's closing time, seeking to find Ken. Eiko's feelings for Kilmer are clearly as strong as ever. He also becomes reacquainted with Eiko's daughter, Hanako, who is delighted to see Kilmer again. Eiko tells Kilmer that her brother can be found at his kendo school in Kyoto.
+Kilmer travels by train to visit Ken at his kendo school. Ken is no longer a yakuza member, but will still help Kilmer. They find and free the girl. In so doing, Ken "takes up the sword" once again, using it on one of Tono's men. This is an inexcusable intrusion by Ken in yakuza affairs. Contracts on both Ken's and Kilmer's lives are issued. Kilmer resists leaving until the danger to Ken can be resolved. Eiko suggests he see Ken's brother, a high-level legal counselor to the yakuza chiefs. Goro (James Shigeta) is unable to intercede due to his impartial role in yakuza society, but suggests Ken can remove the death threat by killing Tono with a sword. The only alternative is for Kilmer to kill Tono himself, by any means (as an outsider, he is not bound to use a sword). Because Kilmer is known to Goro as an unusual gaijin who understands and accepts Japanese values, he proposes that Kilmer now has an obligation to Ken.
+After a failed attempt on Kilmer's life, he learns that his old friend Tanner has taken out the contract on him. Tanner secretly is broke and owes Tono a huge debt. Dusty discloses that Tanner and Tono are business partners. During a violent attack on Ken and Kilmer in Oliver Wheat's house, Dusty is killed with a sword and Eiko's daughter, Hanako, is shot and killed.
+Seeking advice again from Ken's brother, Goro advises them that they have no choice but to assassinate Tanner and Tono. This will embarrass the partners in the eyes of the yakuza. Goro discloses that he has a "wayward son" who has joined Tono's clan and asks that Ken protect him should he be caught in the battle. In private, Goro then discloses the shocking family secret to Kilmer that Eiko is not Ken's sister but his wife, and Hanako their only child. Kilmer comprehends the true meaning of Eiko and Ken's rift, and Ken's anguish at the death of Hanako, all brought about by his repeated intercessions in their lives.
+Kilmer finds and kills Tanner, then joins Ken for a near-suicidal attack on Tono's residence. During a prolonged battle, after Ken kills Tono in the traditional way with a katana, Goro's son attacks them and Ken kills him in self-defense. Bearing the news to his brother, Ken moves to commit Seppuku, but his brother pleads with his brother not to bring more anguish to their family. Instead, Ken performs yubitsume (the ceremonial yakuza apology by cutting off one's little finger). After Ken excuses himself, Goro compliments Kilmer on his adherence to Japanese traditions, and dedication to his family.
+Before leaving Japan, Kilmer visits with Ken at home and asks to speak to him formally. While Ken prepares tea, Kilmer quietly commits yubitsume, and when Ken enters the room, waits for him to be seated. Sliding the folded handkerchief that contains his finger to Ken, he says "please accept this token of my apology" for "bringing great pain into your life, both in the past and in the present." Ken accepts, and Kilmer asks that "if you can forgive me, then you can forgive Eiko," adding, "you are greatly loved and respected by all your family." Ken professes that "no man has a greater friend than Kilmer-san," and Kilmer, overcome by emotion, says the same of Ken. Their obligations now apparently resolved, Ken takes Kilmer to the airport, and both men bow formally to each other before parting forever.
+
+
+QUESTIONS
+q: Where did Ken disappear ?
+a: ['Ken disappeared into the yakuza criminal underground', 'the Yakuza criminal underground']
+
+q: Who is Tanner's bodyguard?
+a: ['Dusty', 'Dusty']
+
+q: Where did Ken return from
+a: ["Ken returned from an island where he'd been stranded as an Imperial Japanese soldier", 'an island he was stranded on as an Imperial Japanese soldier']
+
+q: Who does Kilmer visit with?
+a: ['Ken', 'Eiko']
+
+q: Who is Dusty?
+a: ["Tanner's bodyguard", "Tanner's bodyguard"]
+
+q: What did Kimer buy Eiko before returning to the US ?
+a: ['Before returning to the US, Kilmer bought Eiko a bar', 'a bar']
+
+q: Who believes that Ken would do anything for Kilmer?
+a: ['Tanner', 'Tanner']
+
+q: Who are they going to asssinate?
+a: ['Tanner and Tono', 'Tanner and Tono']
+
+q: What did Goro disclose that he had?
+a: ['wayward son', 'Wayward son']
+
+q: Who has feelings for Kilmer?
+a: ['Eiko', 'Eiko']
+
+q: How does Kilmer travel to meet Ken?
+a: ['By train', 'Kilmer travels by train to visit Ken']
+
+q: Who was not Ken's sister but his wife?
+a: ['Eiko', 'Eiko']
+
+q: Who else does Kilmer ask for Ken to forgive?
+a: ['Eiko', 'Eiko']
+
+q: Who does Kilmer visit before leaving Japan?
+a: ['Ken', 'Ken']
+
+q: What did this do to the partners in the eyes of Yakuza?
+a: ['assassinate', 'This will embarrass the partners in the eyes of the yakuza.']
+
+q: Why did Eiko break off contact with Kilmer ?
+a: ['Eiko not to offend Ken further, broke off contact with Kilmer.', 'Eiko, cautious to do nothing to offend Ken further, broke off contact with Kilmer.']
+
+q: In what country does the movie take place?
+a: ['Tokyo', 'Japan']
+
+q: How does Ken kill Tono?
+a: ['Katana', 'Ken kills Tono in the traditional way with a katana']
+
+q: Goro sought advice from whom?
+a: ["Ken's brother"]
+
+q: Who is Ken's brother?
+a: ['A high-level legal counselor to the yakuza chiefs', 'Goro']
+
+q: Who does Tanner owe a debt to?
+a: ['Tono', 'Tanner owes a debt to Tono.']
+
+q: What did Ken's brother advise to do to Tanner and Tono?
+a: ['assassinate', 'assassinate them']
+
+q: What does Kilmer travel by?
+a: ['Train', 'plane']
+
+q: What kind of school does Ken attend?
+a: ['A kendo school', 'kendo']
+
+q: How do Tanner and Kilmer know each other?
+a: ['old friends', "Tanner and Kilmer were marine MP's and friends in Japan during post war occupation"]
+
+q: What do the men do before parting?
+a: ['Bow', 'bow formally to each other']
+
+q: Who has been kidnapped by the yakuza gangster?
+a: ["Tanner's daughter", "Tanner's daughter has been kidnapped by the yakuza gangster."]
+
+q: What is in the handkerchief that Kilmer gives Ken?
+a: ['Finger', "Kilmer's finger, that he cut as 'yubitsume'"]
+
+q: Who's daughter needs to be rescued?
+a: ["Tanner's", "Tanner's"]
+
+q: How are Eiko and Hanako related?
+a: ['Mother and daughter', 'Mother and daughter']
+
+q: Where does Ken take Kilmer?
+a: ['To the airport', 'Airport', 'to the airport']
+
+q: What must Ken use to kill?
+a: ['Sword', 'Sword']
+
+q: Who can Ken kill to remove the death threat?
+a: ['Tono', 'Ken can remove the death threat by killing Tono with a sword']
+
+q: Who saves Eiko's life?
+a: ['Kilmer', 'Kilmer']
+
+q: What does Goro ask Ken to do in regards to his son?
+a: ['Protect him', 'Protect his son should he be caught in the battle']
+
+q: What happened to Hanako?
+a: ['Died', 'She was shot and killed.']
+
+q: Who is the actor who portrays Goro?
+a: ['James Shigeta', 'James Shigeta']
+
+q: What does Kilmer slide to Ken?
+a: ['A Handkerchief', 'folded handkerchief']
+
+q: What is the relationship between Kilmer and Tanner ?
+a: ['Tanner and Kilmer had been Marine MPs and friends in Tokyo during the post-war occupation.', 'Kilmer and Tanner are friends and have worked together as Marine MPs.']
+
+q: Who does Kilmer kill?
+a: ['Tanner', 'Kilmer kills Tanner']
+
+q: Who does Kilmer learn took a contract out on him?
+a: ['Tanner', 'Kilmer learns that Tanner took out a contract on him']
+
+q: What does Ken take up again?
+a: ['The sword']
+
+q: What does Ken prepare?
+a: ['Tea', 'Ken prepares tea']
+
+q: Who is Eiko's daughter?
+a: ['Hanako']
+
+q: The wayward son would be protected by whom should he be caught in the battle?
+a: ['Ken']
+
+q: Where is Eiko's brother at?
+a: ['School in Kyoto', 'The Yakuza criminal underground']
+
+q: What was Ken a member of?
+a: ['Yakuza']
+
+q: Who plays Eiko?
+a: ['Keiko Kishi', 'Keiko Kishi']
+
+q: Who is the old military buddy Ken and Dusty stay with?
+a: ['Oliver Wheat']
+

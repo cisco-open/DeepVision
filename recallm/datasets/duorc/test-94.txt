@@ -1,0 +1,44 @@
+PARAGRAPH
+Rachel Phelps, a former Las Vegas showgirl, has inherited the Cleveland Indians baseball team from her deceased husband. She wants to move the team to Miami, which has promised her a sweetheart deal including a new stadium. In order to do this, she must reduce the season's attendance at Cleveland Stadium to under 800,000 tickets sold, which will trigger an escape clause in the team's lease with the city of Cleveland. Believing that finishing dead last will knock attendance down low enough for her to move, she instructs her new General Manager Charlie Donovan to hire the worst team possible from a list she has already prepared. The list includes veteran catcher Jake Taylor, who has problems with his knees and was last playing in Mexico; incarcerated pitcher Ricky Vaughn; power-hitting outfielder Pedro Cerrano, who practices voodoo to try to help him hit curve balls; veteran pitcher Eddie Harris, who no longer has a strong throwing arm and is forced to doctor his pitches; and third baseman Roger Dorn, a one-time star who is under contract but has become a high-priced prima donna. As manager, Phelps hires Lou Brown, a career minor league manager of the Toledo Mud Hens who works in the off-season as a tire salesman.At spring training in Tucson, Arizona, the brash but speedy center fielder Willie "Mays" Hayes crashes camp uninvited, but is invited to join the team after displaying his running speed. Spring training reveals several problems with the new players. Vaughn has an incredible fastball but lacks control. Hayes is able to run the bases quickly but hits only pop flies, and Cerrano, despite his tremendous power, cannot hit a curveball. The veterans have their own problems: Dorn refuses to aggressively field ground balls, afraid that potential injuries will damage his upcoming contract negotiations, and it becomes clear that Taylor's bad knees will be a season-long concern. On the final day, when Brown is to cut the team down to 25 players, Dorn plays a practical joke on Vaughn, making him believe he was cut, resulting in a locker-room brawl.After the team returns to Cleveland before the season begins, Taylor takes Vaughn and Hayes out to dinner but comes across his ex-girlfriend Lynn, who is dining with her current beau. Taylor believes he can try to win her back by proclaiming that he has a major league job again, but is disappointed to hear that she is already engaged.The Indians' season starts off poorly. Vaughn's initial pitching appearances end in disaster, with his wild pitches earning him the derogatory title "Wild Thing." On a rare occasion when Vaughn does get a ball over the plate, it is hit well over 400 feet by the New York Yankees' best hitter, Clu Haywood. Brown discovers that Vaughn's eyesight is poor; once Vaughn gets glasses his control greatly improves, and he becomes the team's ace. Despite their flaws, the team begins to improve, so Phelps decides to demoralize them further by removing luxuries, such as replacing their team jet airplane first with a dilapidated prop plane, then with an old bus. However, these changes do not affect the Indians' performance and the team continues to win. One night after an Indians loss where the team showed great promise, Brown mentions to Donovan that the team could do much better, perhaps even providing a few All-Stars for the league, if there was one thing to pull them all together. Donovan reveals Phelps' plan to Brown, who then relays the same news to the players. Brown also tells them that if the team plays too well for Phelps to void the lease, she will release them all regardless. With nothing to lose, the team agrees to get back at Phelps by winning the pennant. Brown motivates the team further by providing a double-layered cardboard cutout of Phelps from her showgirl days; after every victory, a piece of the second layer is removed, eventually presenting a nude picture of Phelps.The team plays very well down the stretch of the season, and clinch a tie for first in the American League East by beating the Chicago White Sox on the last day of the season. This forces a one-game playoff with the division's co-leaders, the Yankees. Prior to the playoff, Taylor continues to try to woo Lynn back and they share a night together. Vaughn learns that he will not be the starting pitcher for the game and goes to a bar to mope, where he encounters Suzanne Dorn. Feeling spited after witnessing her husband Roger with another woman; she retaliates by luring Vaughn to sleep with her. Vaughn is unaware of who she is until she tells him before leaving the apartment.Taylor advises Vaughn to keep his distance from Dorn for most of the game by staying in the bullpen. The game remains scoreless until the seventh inning when Harris gives up two runs. Cerrano comes to the plate in the bottom of the seventh and misses badly on two curveballs. He angrily threatens his voodoo god Jo-bu, then hits the next pitch--another curve--for a two-run homer. In the top of the ninth, the Yankees are able to load the bases for the power-hitting Clu Haywood, and Lou decides to bring Vaughn in to pitch to him. While Taylor taunts Haywood from behind home plate, Vaughn strikes out his nemesis on three straight fastballs to end the inning.With two outs in the bottom of the ninth, Hayes manages an infield single. The Yankees respond by bringing in their headhunting closer, Duke Simpson, to pitch to Taylor. After Hayes steals second, Taylor and Lou trade signs in the dugout, and Taylor points to center field, calling his shot. The Duke responds by throwing a fastball straight at Taylor's head, but the catcher is undeterred and gets back up and points again. However, with Hayes running, Taylor bunts instead, catching the Yankees infield off-guard. Despite his weak knees, Taylor manages to beat out the throw to first as Hayes rounds third and heads for home plate. Hayes slides safely into home, giving the Indians the win on a walk-off single. As the team celebrates, Dorn punches Vaughn in the face but then helps him up to continue the celebration. Jake finds Lynn in the stands, who raises her left hand to show that she is no longer wearing an engagement ring, and they reunite as the film closes.
+
+
+QUESTIONS
+q: What is the nickname of Ricky Vaughn due to his fastball but uncontrolled nature?
+a: ['Wild Thing']
+
+q: Who is trying to win back an ex-girlfriend who is engaged and living in Cleveland?
+a: ['Roger Dorn']
+
+q: Where was the playoff held?
+a: ['Cleveland']
+
+q: Whom does Phelps Hire to manage the team?
+a: ['Lou brown']
+
+q: Who hit a home run to tie the game?
+a: ['Pedro Cerrano']
+
+q: What is Roger Dorn's nature described as that could be termed a struggle?
+a: ['He is a prima donna.']
+
+q: Who manages a single to get on base
+a: ['Willie hayes']
+
+q: Who does Rachel think can bring the ragtag team together?
+a: ['Charlie Donovan']
+
+q: Which team did they tie the division with?
+a: ['Yankees']
+
+q: Who inherits Cleveland Indians baseball team?
+a: ['Rachel phelps']
+
+q: From whom did Rachel Phelps inherit the club from?
+a: ['Her dead husband']
+
+q: WHO taylor signaling to CENTER field
+a: ['Duke simpson']
+
+q: Who conceived the Miami scheme?
+a: ['Rachel Phelps']
+

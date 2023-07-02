@@ -1,0 +1,40 @@
+PARAGRAPH
+Chicago DEA agent John Hatcher returns from Colombia, where drug dealers killed his partner Chico. As a result of Chico's death and years of dead end work, John retires and heads to his family's home in suburban Chicago. He visits the local school to meet his old friend and army buddy Max (Keith David) who works there as a coach.
+As John and Max celebrate their reunion, a gunfight breaks out between local drug dealers and a Jamaican gang at the bar where they celebrate. The gang, known as the Jamaican Posse, is led by a notorious psychotic drug kingpin named Screwface (Basil Wallace) full of West African Vodun and sadism. John arrests one of Screwface's henchmen as the gunfight ends. News that Posse crimes occurring in Chicago and across the United States spread as the Posse increases their crime and members. The next day, Screwface and his henchmen do a drive-by shooting on the house where John, his sister Melissa, and Melissa's 12-year-old daughter Tracey live. Tracey is injured and hospitalized in critical condition.
+John encounters a gangster named Jimmy whom he is forced to kill. A Jamaican gangster named Nesta arrives and is subdued by John, who asks about Screwface. Nesta gives information but tells him to go after Screwface alone and jumps out the window to his death. The next day, John discovers a strange symbol engraved on a carpet, and with the help of Jamaican voodoo and gang expert Leslie, a detective for the Chicago Police Department, he learns that it is an African blood symbol used to mark their crimes. John decides to come out of retirement to join Max in a battle against Screwface.
+At the same night of their rendezvous, John gets a phone call from Melissa, which is cut short when Screwface and his men invade the Hatcher household, but they leave upon his arrival. The next day, John and Max encounter another batch of Screwface's henchmen which results in a car chase wherein one of the henchmen is killed. The henchmen's car crashes into a mall wherein they are subsequently killed by the duo amidst the chaos of shoppers fleeing the scene. During a meeting with Leslie, John realizes that the only way to stop the Jamaican Posse is to bring down Screwface. That evening, Screwface ambushes John under the guise of a construction crew; John escapes and survives after Screwface plants a molotov cocktail in his car.
+The two team up with Charles, a Jamaican-American detective employed by the Chicago police, who has been trailing Screwface for five years, and trying to get to the root of the drug problem in the city. They acquire weaponry from a local weapons dealer, and, after testing the arsenal, they head for Kingston, Jamaica to find Screwface. Upon arrival, Max and Charles ask people in the streets information about Screwface's and his hideout. They meet a Jamaican local who gives them a photo of a woman who is acquainted with Screwface. John meets her in a nightclub, and she describes hanging out with Screwface, his drug business, and his hideout. The woman also informs John of a cryptic clue: the secret of Screwface's power is that he has two heads and four eyes.
+By nightfall, John, Max, and Charles (disguised as members of the Posse) head for Screwface's mansion, where there is a party in progress. Secretly infiltrating the premises through a nearby plantation, John assassinates three henchmen on the balcony with a silenced sniper, then plants a bomb at a nearby power station. He infiltrates the inner grounds by climbing across roofs while Max and Charles keep a lookout. Hatcher detonates the bomb, causing the party to erupt in violence and gunfire. With Max and Charles opening fire on the ambushing Posse gang, John enters the building and disposes of many henchmen. He finds a sacrificial area but is captured by Screwface and his remaining henchmen. John manages to break free and kills every henchman before decapitating Screwface in a sword fight.
+Upon returning in Chicago, John displays Screwface's severed head to the Jamaican Posse to get them to end their crimes and leave. However, Screwface's identical twin brother, who runs the Chicago Posse crime business, arrives and kills Charles, causing the gang (as well as the audience) to think that Screwface has returned from the dead. At this point, it is revealed that Screwface's twin was the main perpetrator of all Posse crimes in Chicago and the entire United States while the real Screwface supplies him with drugs and money. The meeting erupts in chaos, and the gang members open fire on the duo.
+During the gunfight, Max holds off the henchmen while John kills more gang members before he engages Screwface's twin brother in a sword fight. The fight moves to a nightclub owned by the twin himself wherein Hatcher gives him more fatal injuries by gouging his eyes and breaks his spine before dropping him down an elevator shaft, impaling the twin in the process. With both the Screwface brothers dead, the remaining Posse members are presumed to be arrested by law enforcement at the end.
+The final scene shows John carrying Charles' body with Max, shot in the leg, limping next to him before ending with Jimmy Cliff's song "John Crow" being played in the credits.
+
+
+QUESTIONS
+q: What does John use to scare the Jamaican Posse away?
+a: ['A bomb at a power plant']
+
+q: What is Max's profession?
+a: ['Coach']
+
+q: Whose body does John carry at the end?
+a: ['Charles']
+
+q: How did John Hatcher kill Screwface's brother?
+a: ['Sword Fight and a fall that resulted in him being impaled']
+
+q: Why did John Hatcher decide to retire?
+a: ["Chico's Death and years of dead end work"]
+
+q: Who is the leader of the Jamaican posse?
+a: ['Screwface']
+
+q: Whose the leader of the Jamaican Posse?
+a: ['Screwface (Basil Wallace)']
+
+q: Where does the henchman's car crash?
+a: ['The mall']
+
+q: Who was John Hatcher's partner?
+a: ['Chico']
+

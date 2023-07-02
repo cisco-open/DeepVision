@@ -1,0 +1,17 @@
+PARAGRAPH
+The story takes place in the fictional town of Greendale in "the state of Northern California" and centers on high schooler Lane Myer (John Cusack), whose two main interests are skiing and his girlfriend of six months, Beth (Amanda Wyss). At the start of the film, Beth dumps Lane for the captain of the ski team, Roy Stalin (Aaron Dozier). Roy is handsome, popular, and has skied the dangerous K-12 slope, but is also an arrogant bully who publicly mocks Lane and unfairly rejects him at ski team tryouts. Beth also criticizes Lane's car, an old station wagon. Although Lane also owns a disabled 1967 Camaro, he has not been able to get it running.
+Lane lives in a suburban development with his mother, Jenny (Kim Darby), a ditzy housewife who improvises gut-wrenching recipes for family meals; his genius little brother, Badger (Scooter Stevens), who never speaks but at the age of "almost 8" can build powerful lasers and attract trashy women; and his lawyer father, Al (David Ogden Stiers), who daily tries to stop the menacing paperboy, Johnny, from damaging his garage with thrown newspapers. Furthermore, Johnny claims that the Myers owe him two dollars for newspapers, and persistently hounds Lane uttering the catchphrase, "I want my two dollars!" Lane also regularly encounters two Japanese drag racers, one of whom (Yuji Okumoto) learned to speak English by listening to Howard Cosell.
+Lane cannot get past Beth's rejection and decides that death is the only way out of his misery. He makes several half-hearted attempts at suicide, which all comically fail. With the help of his best friend, Charles de Mar (Curtis Armstrong), who in lieu of "real drugs" constantly inhales everyday substances like Jell-O, snow, and nitrous oxide in a whipped cream can (known as a whippit), Lane tries to ski the K-12 himself in hopes of getting Beth back, but wipes out. Lane is further embarrassed when he gets fired from his humiliating fast food job at Pig Burgers in front of Roy and Beth, who are there on a date.
+As Lane attempts to either end his life or win back his ex-girlfriend, he gradually gets to know a new girl: a French foreign-exchange student named Monique (Diane Franklin), who has a crush on him. She is staying with Lane's overbearing neighbor Mrs. Smith (Laura Waterbury) and her fat, socially backward son Ricky (Daniel Schneider), who are so annoying that Monique pretends she cannot speak English. Monique turns out to be an excellent auto mechanic and skier who helps Lane fix up his Camaro and tries to build his confidence. When Roy insults Monique, Lane challenges him to a ski race down the K-12, with the winner to be captain of the ski team. Monique helps Lane prepare for the race, which he ultimately wins despite losing one ski and being pursued by Johnny. Beth rushes to embrace Lane at the finish line, but he rejects her and, after besting Ricky in a ski-pole swordfight, drives off with Monique in his Camaro. Both Lane and Monique are last seen kissing at home plate at Dodger Stadium as Johnny rides up to them.
+
+
+QUESTIONS
+q: What does Lane challenge the new captain to?
+a: ['A ski race down the K-']
+
+q: Who does Lane's girlfriend dump him for?
+a: ['Roy Stalin']
+
+q: Who plays Lane Meyers?
+a: ['John Cusack']
+

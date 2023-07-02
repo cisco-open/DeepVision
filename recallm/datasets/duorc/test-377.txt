@@ -1,0 +1,26 @@
+PARAGRAPH
+Walter Black (Mel Gibson) is depressed and sleeps most of the day. It's driving his family crazy, and his wife Merideth (Jodie Foster) kicks him out. Henry, the youngest son (Riley Thomas Stewart) is very shy, and son Porter (Anton Yelchin) is trying hard not to be like him. Porter is a talented writer, and makes money writing papers for other students.Walter starts carrying a beaver puppet and tries to commit suicide (unsuccessfully). He uses the puppet to talk to himself, trying to bolster his spirits. Soon he's using the beaver to talk to others, and is trying to rebuild his life. Meridith invites him to stay for dinner.Through the beaver, the family begins to learn about Walter's history and problems. Porter thinks he's insane. The beaver introduces himself to Walter's company, and sets a new direction for the company. Based on Henry's woodworking hobby, the beaver encourages the company to make woodworking kits, which sell well.Porter is approached by Norah (Jennifer Lawrence), the high school valedictorian, who needs him to write her graduation speech. While interviewing her, he begins to fall in love. She has a history of getting in trouble for graffiti. He asks her out, and they go on a date, but end up getting arrested while spray painting a wall. At the same time, Merideth and Walter go out (without the beaver), and conversation is stilted. Merideth tries to get Walter to remember their past, and he breaks down and brings out the beaver. They bail Porter out, but he is mortified.Refusing to accept the beaver, Merideth and the boys move out. The beaver goes on the Today Show and is interviewed by Matt Lauer. The beaver explains that reinventing yourself is a way to break out of the cycle of depression, and his family, watching on TV, begins to understand.The beaver becomes a worldwide phenomenon, but when Walter tries to reach out to Merideth, the beaver attacks him. In an effort to divorce from the beaver, Walter cuts off his hand. He is rushed to the hospital by Porter.Next scenes show the beaver woodkit losing popularity, Walter's VP (Cherry Jones) assuming control of the company, Walter being treated in hospital, and Porter getting in trouble for writing other people's papers.Porter now sleeps all the time, like his father, and Walter has an artificial hand. Norah gives him another chance, and they make up. She paints a mural for him, and he uses it for inspiration for her graduation speech. She departs from her speech and Porter realizes he needs to make up with his father.End.
+
+
+QUESTIONS
+q: Where does Walter end up?
+a: ['with Norah']
+
+q: What happens to Walter Black?
+a: ['He cuts his hand off to divorce the beaver']
+
+q: Who reunites with his father ?
+a: ['Porter']
+
+q: What did Norah ask Porter to write?
+a: ['her graduation speech']
+
+q: How are Walter and Henry related?
+a: ['farther and son']
+
+q: What does Walter's wife do ?
+a: ['Kicks him out']
+
+q: What is the name of Walter's puppet?
+a: ['It is a beaver but does not have a name.']
+

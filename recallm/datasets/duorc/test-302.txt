@@ -1,0 +1,35 @@
+PARAGRAPH
+In New York City, body parts are showing up in the Hudson River at the same time that a serial killer is targeting gay men. The police believe it to be the work of one man. In the opening scene, two uniformed policemen, DiSimone (Joe Spinell) and Dresher (Mike Starr), are driving in their patrol car checking out a report of another dead body sighted. They pick up two young men for brawling in the streets and while in their car, the two cops proposition to them in order not to arrest them.The film then shifts to Patrolman Steve Burns (Al Pacino), who wants to be a detective and physically resembles the victims, agrees to go deep undercover to catch the killer. He will infiltrate the gay community, particularly the S&M; and leather bars where the victims were known to frequent, and only his supervisor Captain Edelson (Paul Sorvino) will know his true identity. The killer's victims were picked up in the bars and taken to cheap hotels, where they were tied up and stabbed to death.Steve, under the name John Forbes, moves into an apartment in the area and quickly befriends his neighbor Ted. Ted is a struggling playwright who lives with his dancer boyfriend Gregory (James Remar). Through Ted, Steve quickly learns about living a gay lifestyle, but Ted doesn't go to the bars because he works nights at his full-time job. Steve starts going to the gay bars and clubs that specialize in S&M; as part of his investigation, but over time he starts to embrace that lifestyle.However, the pressure of the job is taking a toll on Steve, and it begins to affect his relationship with his girlfriend Nancy (Karen Allen). He not only can't tell her about the job, but he also doesn't want to tell her that he might be developing feelings for Ted.Another victim is found, this time inside an adult bookstore. But the police catch a break in that the killer left a fingerprint. Steve's investigation leads to a waiter named Skip, who works in a steakhouse that uses knives similar to the murder weapon. He is taken into custody, and the other detectives attempt to beat a confession out of him, until it's revealed that his prints do not match the killer's. A disgusted and exhausted Steve nearly quits the case as a result, but the Captain is able to convince him to continue the investigation. He then tells Steve to follow a new lead: the killer may have been a former student of the first victim, a college professor.With a copy of the college's yearbook, Steve recognizes one of the students from the bars named Stuart. Steve then begins to stalk Stuart, hoping to catch him in the act. But one night before heading out, Steve wants to see Ted and instead encounters Gregory. Gregory knows that Ted is developing feelings for "John" because Steve can hear their arguments about him. Gregory pulls a knife on "John" and tells him to stay away from Ted. Later that night, Steve meets Stuart in a park, and they agree to a liaison in a tunnel. As they are undressing, Stuart pulls a knife, and Steve immediately stabs him with his own knife.In the hospital the next day, the Captain and Steve (no longer undercover) tell Stuart that his fingerprint matches the one found in the bookstore, so he is under arrest for that murder. He then tells Stuart that if he confesses to the other murders, the DA will give him a reduced sentence. Stuart refuses to do so, still protesting his innocence. As they are leaving the hospital, the Captain tells Steve that he did a great job and is now a detective.The Captain is then called to another case. Ted was found stabbed to death in his apartment, and Gregory is nowhere to be found. As the Captain issues an arrest warrant for Gregory, Steve goes to his and Nancy's apartment. He tells her the case is over and he can now tell her everything about it. In the final shot, Steve is in the bathroom shaving off his beard while Nancy sees the clothes she thinks Steve wore while undercover (which are actually Stuart's clothes). At the same time, the Captain realizes that Ted lived next door to John Forbes. As Steve looks at the camera through the mirror's reflection, it's implied that Steve may have killed Ted and, because he has Stuart's clothes.... and Steve might now has become a serial killer himself.
+
+
+QUESTIONS
+q: Who does Burns think is the serial killer?
+a: ['John Forbes']
+
+q: Where are men's body parts showing up?
+a: ['The Hudson River']
+
+q: Who resembles the victims?
+a: ['Steve burns']
+
+q: Burns wipes off what and looks directly at the camera?
+a: ['Shaving cream']
+
+q: The police suspect it to be the work of a serial killer who is picking up homosexual men from bars located where?
+a: ['S and M, LEATHER BARS']
+
+q: Burns moves back in with who?
+a: ['policemen']
+
+q: Who compels the police to interrogate Skip Lee?
+a: ['Steve Burns']
+
+q: What is Ted Bailey's profession?
+a: ['Playwright']
+
+q: Who convinces Burns to continue with the investigation?
+a: ['Captain Edelson']
+
+q: Who sent Burns undercover?
+a: ['Captain Edleson']
+

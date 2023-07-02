@@ -1,0 +1,73 @@
+PARAGRAPH
+It's three days before Christmas, as the conductor aboard the Toyland Express, Humpty Dumpty (Charles Nelson Reilly), meets two children, Jack and Jill (Joseph Ashton and Lacey Chabert), who are on their way to Toyland. After meeting Tom Piper (Raphael Sbarge) and Mary Lamb (Cathy Cavadini), who runs her late father's toy factory, they go to live with their uncle, the evil Barnaby Crookedman (Christopher Plummer), who despises toys and keeps Jack and Jill in the attic. He has plans to shut down the toy factory, and earlier shot down Tom's hot air balloon as he was flying over the Goblin Forest in an attempt to get him eaten by goblins (and is quite shocked to see him alive).
+Jack and Jill sneak out and go to the Toy Factory, which had received a big order from Santa Claus requesting a thousand giant toy soldiers. Just as Jack and Jill offer to help, Barnaby takes them back to the attic of his house and threatens to send them to the Goblin Forest if they go near the toy factory again. Shortly afterward, he hires two crooks named Gonzargo and Rodrigo (James Belushi and Bronson Pinchot) to sabotage the toy factory. AS Jack and Jill sneak out and go to the toy factory again, where Gonzargo and Rodrigo, disguised as sheep, drop a monkey wrench into one of the machines, Jack manages to remove it before the machine can explode. Jack and Jill immediately suspect Gonzargo and Rodrigo, though believing them to be sheep, and chase after them, resulting in Rodrigo and Gonzargo being knocked into a well by a ram and Jack and Jill, respectively, get knocked down by an empty pail and fall down the hill again.
+Barnaby catches Jack and Jill and orders Gonzargo and Rodrigo, who expose the children's interference with the sabotage, to take them to the Goblin Forest. There, they meet the evil Goblin King (Lindsay Schnebly) who tries eat Gonzargo and Rodrigo. Mr. Dumpty informs Tom and Mary, who go to the forest to rescue them. As the goblins are weak against light, they use a flashlight to fight them off and escape. Barnaby knocks Mr. Dumpty over a bridge (while giving a mockery saying of the nursery rhyme which bears the egg's name) for the key to the factory and tries to enter it, but is stopped by Tom, Mary, Jack, Jill, Gonzargo, and Rodrigo, and is forced to retreat.
+As Tom and Mary finish the Toy Factory's order and fall in love, Barnaby leads the goblins to Toyland, where they invade, setting fire to the buildings and roasting Gonzargo and Rodrigo on a spit. Tom activates the toy soldiers, who soundly defeat the goblins and put out the fire, saving all of Toyland (including Gonzargo and Rodrigo). As Barnaby insults the Goblin King, who tries to eat him, Jack and Jill shine a flashlight on him, while all the toy soldiers do the same, destroying the Goblin King. Barnaby calls him a "pathetic ogre", and the other goblins confront him and chase him off, out of Toyland (though whether they finally catch him and eat him is unclear).
+Finally Christmas arrives; Tom has repaired Mr. Dumpty. Santa transforms all the giant toy soldiers into small toy soldiers. He notices Barnaby's cat, Scat, who is now homeless since Barnaby's disappearance; he picks her up and pets her. Jill asks for Scat, and just as she gets her, Santa continues on his journey.
+In the end, Jack and Jill become the adopted children of Tom and Mary.
+
+
+QUESTIONS
+q: Who escorts Tom, Mary and the children part of the way on their journey?
+a: ['Ollie and Stannie', 'by the trees', 'Humpty Dumpty']
+
+q: Who follows the children?
+a: ['Tom and Mary', 'The trees', 'Georgie Porgie']
+
+q: Where does Barnaby lock Tom up?
+a: ["Tom-Tom's house"]
+
+q: Who children help of more toys in time for Christmas?
+a: ['Tom and Mary']
+
+q: How many rate of Toymaker machine ?
+a: ['High']
+
+q: Barnaby hires how many crooks?
+a: ['One']
+
+q: Who is the toy maker?
+a: ['The Mayor and Chief of Police']
+
+q: what is the name of the custodian of trees?
+a: ['no one']
+
+q: The trees seem just like ordinary trees to whom
+a: ['no one']
+
+q: Who does Barnaby force to marry him?
+a: ['Bo Peep']
+
+q: When do Tom and Mary see the trees come to life?
+a: ['forest']
+
+q: Who throws the shrinking gun out of the window?
+a: ['Toymaker']
+
+q: Who does Barnaby threaten to destroy if he doesn't marry them?
+a: ['foreclose on the shoe']
+
+q: who find the children in the forest?
+a: ['no one']
+
+q: who sneak away to forest?
+a: ['no one', 'No Amswer']
+
+q: Over whom do the trees have custody?
+a: ['of the Toymaker in Toyland']
+
+q: What do Gonzorgo and Rodrigo do to Mary?
+a: ['Bo Peep']
+
+q: What does the shrinking gun do?
+a: ['Reduces every object to toy size']
+
+q: Why do the children sneak away into the forest?
+a: ['to search for the missing sheep']
+
+q: What captures the children in the forest?
+a: ['Barnaby', 'Toymaker', 'Trolls', 'goblins']
+
+q: What do Gonzorgo and Rodrigo do to Tom?
+a: ['plots his revenge']
+

@@ -1,0 +1,31 @@
+PARAGRAPH
+Turbo-Charged Prelude[edit]
+Main article: Turbo-Charged Prelude
+After allowing fugitive Dominic Toretto (Vin Diesel) to evade arrest, former LAPD officer Brian O'Conner (Paul Walker) finds himself on the run from the FBI and the LAPD for his actions. He flees Los Angeles to start a new life, traveling across the U.S. in a red Mitsubishi GTO. At each stop along the way he enters drag races, winning large amounts of money, and staying one step ahead of the FBI, who issue a country-wide manhunt against him. The police eventually locate Brian and repossess his car, forcing him to flee on foot. A young woman (Minka Kelly) picks him up hitchhiking, and drops him off at a local car lot, where he buys a 1999 Nissan Skyline GT-R R34 with his various winnings. After winning several more races, Brian decides to settle in Miami.
+While in Miami, he meets Tej Parker (Ludacris), an ex-street racer who runs a top racing garage. Tej's crew includes Jimmy (Jin Auyeung), a well-known car tuner, and Suki (Devon Aoki), another street racer, and lives in a small cot near Tej's garage. After taking his Skyline to the streets of Miami and winning in races organized by Tej, he establishes himself as one of Miami's top drivers, earning the nickname Bullitt (a reference to the well-known 1968 Steve McQueen movie).
+Plot[edit]
+After settling in Miami, Brian makes a living by racing for money. Tej organizes a local street race, involving Suki, Orange Julius (Amaury Nolasco) and Slap Jack (Michael Ealy), and calls Brian, who agrees to be the fourth driver for the race. Brian wins, giving a few thousand of his winnings to Tej to show his gratitude. The police arrive on the scene, forcing all the racers to flee.
+Watched by undercover United States Customs Service Agent Monica Fuentes (Eva Mendes), Brian is caught by U.S. Customs agents after his car is disabled by a grappling hook-like electronic disruption device. Brian is given a deal by his former boss, F.B.I. agent Bilkins, and Custom Agent Markham (James Remar) to go undercover and try to bring down drug lord Carter Verone (Cole Hauser) in exchange for the erasure of his criminal record. Brian agrees but only if he is given permission to choose his partner, refusing to partner with the agent assigned to watch him. Brian heads home to Barstow, California, where he recruits Roman Pearce (Tyrese Gibson), a childhood friend of Brian who had served jail time and is under house arrest, to help him. Pearce agrees, but only for the same deal Brian was offered, and with the help of Monica, Brian and Roman work together to take down Verone. After acquiring confiscated vehicles and being hired by Verone as his drivers, the duo return to a Customs/FBI hideout, where Roman confronts Markham over the latter's interference with the mission. After the situation is cooled down, Brian tells Bilkins and Markham that Verone plans to smuggle the money into his private jet and fly off, but also suspects something wrong with Monica's role in the mission.
+Later, Brian and Roman race two of Verone's drivers for their cars and begin to devise a personal backup plan if the operation goes awry. The team challenges a pair of muscle car drivers they raced earlier for pink slips. Despite engine and power output handicaps, Brian and Roman manage to win the race and the other two cars. Meanwhile, Roman confronts Brian about his attraction to Monica and the constant threat of Verone's men. However, the two men patch up their differences.
+After witnessing Verone torture Detective Whitworth (Mark Boone, Jr.) of the Miami Police Department into giving them a window of opportunity to make their getaway, Brian and Roman are warned by Monica that they will be killed once the drop is made. Despite this information, Markham refuses to call off the job, claiming this is their one chance to catch Verone; he threatens Brian and Roman with jail if they refuse to follow through with the plan.
+On the day of the mission, Brian and Roman begin transporting duffel bags of Verone's money, with two of Verone's men Enrique (Mo Gallini) and Roberto (Roberto Sanchez) riding along to watch Brian and Roman. Before the 15-minute window is set, the detective in charge, Whitworth decides to call in the police to move in for the arrest, resulting in a high-speed chase across the city. The duo lead the police to a warehouse, where a "scramble" by dozens of street racers disorient the police. Following the scramble, police manage to pull over the Evo and the Eclipse, only to find out that they were driven by Tej and Suki.
+As Brian approaches the destination point in a Yenko Camaro, Enrique tells him to make a detour away from the airfield to the Tarpon Point Marina exit. Meanwhile, Roman gets rid of Roberto by using an improvised ejector seat in his (orange) Dodge Challenger powered by nitrous oxide. At the airfield, Customs Agents have Verone's plane and convoy surrounded, only to discover they have been duped into a decoy maneuver while Verone is at a boatyard several miles away. As he knew Monica was an undercover agent, he gave her the wrong information on the destination point and plans to use her as leverage. When Brian arrives at the intended drop-off point, Enrique prepares to kill him when Roman suddenly appears and the both of them dispatch Enrique. Verone makes his escape aboard his private yacht, but Brian and Roman use the Yenko Camaro and drive off a ramp, crashing on top of the yacht. The duo manage to apprehend Verone and save Monica.
+With their crimes pardoned, Brian and Roman ponder on what to do next other than to settle in Miami when the former mentions starting a garage. Roman asks how they would afford that and Brian reveals that he took some of the money, as Roman also reveals that his pockets aren't empty, having taken money for himself.
+
+
+QUESTIONS
+q: Who does Brian race?
+a: ["two of Verone's drivers"]
+
+q: What is Brian's result in the race?
+a: ['He wins']
+
+q: What happens to Brian after the race?
+a: ['Roman confronts Brian']
+
+q: Who does Tej call to a race?
+a: ['Brian']
+
+q: Who is Brian O'Conner?
+a: ['A former LAPD officer']
+

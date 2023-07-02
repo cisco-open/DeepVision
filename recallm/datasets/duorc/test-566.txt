@@ -1,0 +1,41 @@
+PARAGRAPH
+Amelie Poulain (Audrey Tautou) is the only child of Raphael and Amandine; a doctor and a schoolteacher, respectively. Raphael (Rufus) is a stoic and distant father, and never makes physical contact with his daughter except for a monthly medical checkup. When Amelie is six, he concludes that she has a serious heart defect (when in reality, Amelie's heart beats faster due to nervousness from her father's rare contact). He declares Amelie to be too delicate for school, and she is taught at home by her mother. Amandine (Lorella Cravotta) is constantly stressed and anxious, and breaks down over strange and minor events such as Amelie's goldfish leaping from its bowl. Given no mental stimulation from her parents and isolated from other children, Amelie develops an intricate imagination to entertain herself. She becomes fairly comfortable in her solitude, but her life is shaken when her mother is inadvertently fatally crushed by a suicidal tourist leaping from the roof of Notre Dame. Her father becomes deeply depressed, and Amelie receives even less parental affection. In her late teens, she moves to her own apartment and takes a job as a café waitress in Montmartre.Amelie amuses herself with life's simple, everyday pleasures, since her romantic relationships were often disappointing. She takes interest in the lives of others, but does not get involved. Residents of her apartment building include Raymond Dufayel (Serge Merlin), an elderly reclusive artist with very brittle bones; Madelene Wells (Yolande Moreau), the sulking concierge who mourns the death of her cheating husband; Collignon (Urbain Cancelier), the grouchy grocer; and Lucien (Jamel Debbouze), Colignion's clumsy employee. On August 31, 1997, as she watches a news report of Princess Diana's death, chance leads Amelie to discover a small box behind a wall in her bathroom. It contains pictures, toys, and mementos from decades before. Amelie decides to find the box's owner to return it, and if he is touched by the gesture, she will dedicate her life to such acts of kindness.After consulting Colingion's parents, who had lived in her apartment building around the time the box was hidden (roughly 1950), Amelie receives a possible name for the owner: Domonique Bredoteau. Amelie looks up several Bredoteaus in the city, but to no avail. Her neighbor Dufayel provides her with the correct spelling- Bretodeau- and Amelie is able to track him down. She slyly returns the box to him, and the aging Bretodeau (Maurice Benichou) is brought to tears by his childhood memories. After anonymously trailing him to a bar, Amelie learns that her act had inspired him to visit his estranged daughter and finally meet his grandson. Amelie is delighted.Amelie decides to encourage her aging and morose father to travel for the first time. She steals his beloved garden gnome and gives it to her stewardess friend, who takes pictures of it in famous foreign locations at her flight stops. Amelie anonymously sends the pictures to her father, hoping to inspire wanderlust. One day at the train station, Amelie encounters Nino Quincampoix (Matthieu Kassovitz), an eccentric young man whose hobby is reconstructing torn-up pictures found underneath photo booths. Nino drops one of his photo albums when chasing a mysterious man through the station, and Amelie looks through it. The man Nino was chasing appears in multiple reconstructed photos throughout the album, and Nino is intent on discovering his identity. Nino himself had an isolating childhood, much like Amelie, and the two grew up only a few miles apart, longing for friends but never meeting.Amelie decides to return the album, but is interested in meeting Nino. After visiting the pornography shop where he works as a clerk, she learns he has another job at a carnival. She sets up a series of clues for him that would eventually bring them together. Meanwhile Gina (Clotilde Mollet) , a co-worker at the cafe, is plagued by her ex-lover, Josef (Dominique Pinon), who jealously spies on her all day and mutters notes into a tape recorder. Amelie attempts to remedy this by setting him up with another co-worker, the hypochondriac Georgette (Isabelle Nanty). Meanwhile, her cat-and-mouse games with Nino have captured his attention, and he wants to meet her as well.In the meantime, Amelie steals Madame Wells's letters from her husband (written to her decades before) and cleverly creates a new letter in which he apologizes to his wife for his infidelity. After receiving the false letter, Madame Wells is overjoyed with the news that her husband loved her after all. Amelie also avenges Lucien by playing practical jokes on Colingion (whom she dislikes for constantly insulting Lucien). Amelie has regular visits with Raymond Dufayel, who has been recreating the same Renoir painting for 20 years. He reminds her that, despite her intentions to help others, she is neglecting her own pursuit for happiness. Amelie resolves to meet Nino once and for all, and lures him to her café with a note. He arrives but she is too shy to address him, even when he gently confronts her with the note. While Amelie is out of earshot, her fellow waitress Gina asks Nino to talk with her in private, to ensure that Amelie will not be hurt by him. After speaking with Nino, Gina sees that he is a good man. However, Gina's ex-boyfriend Josef sees the two leave together and, after being dumped by Georgette, reveals his (incorrect) observation that Nino and Gina are dating. Amelie hears this, and is crushed.At home, Amelie weeps while frustratingly baking a cake. She daydreams of a life with Nino, amid all the current characters in her life. She is startled when her doorbell rings. She hears Nino speaking to her from the hallway, but she is too nervous to answer. Assuming she is not home, Nino slips a note under her door, assuring her that he will return.A conflicted Amelie finds a personal videotape from Mr. Dufayel, in which he encourages her to pursue the man she loves, or risk eternal unhappiness. Amelie rushes to the door just as Nino returns. She brings him in without speaking, and after finally seeing each other under new circumstances, they begin a relationship. Some time later, Amelie and Nino are still happy together. A narrator encourages the audience to observe the miraculous details of life that occur every moment.
+
+
+QUESTIONS
+q: Who happily embarks on her new mission?
+a: ['Amelie']
+
+q: How old is Amelie when her mother dies?
+a: ['six']
+
+q: Where does Amelie escort the blind man to?
+a: ['to the Métro station']
+
+q: Who does Amelie fall in love with?
+a: ['Nino']
+
+q: Who is startled by the news of the death of Princess Diana?
+a: ['Amelie']
+
+q: When is Amelie born?
+a: ['February 1974']
+
+q: Where does Amelie work?
+a: ['cafe']
+
+q: What does Amelie steal from her father?
+a: ['his beloved garden gnome']
+
+q: Amlie is playing catch and mouse game with who
+a: ['Nino']
+
+q: What's the relationship between Georgette and Amelie?
+a: ['co-workers']
+
+q: When did Princess Diana die?
+a: ['August 31, 1997']
+
+q: Where is the Caf_l des 2 Moulins?
+a: ['Monmartre']
+

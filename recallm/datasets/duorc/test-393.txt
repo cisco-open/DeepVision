@@ -1,0 +1,39 @@
+PARAGRAPH
+Still from Las Meninas
+The film is about what the routine of everyday life can do to the human mind and psyche. It also reflects on the importance of the choices we make and how limited these choices are in the first place. The plot evolves around a family of four. They live in the suburbs, in a strange villa that appears, through a complex game of mirrors, to be more like a piece of installation art than a real house. The main character, who hardly appears on screen, is the son, a man in his thirties. Suffering from asthma and eczema since childhood, he uses his condition to manipulate his parents and his sister. Thus the existence of the terrorized family turns into an endless ritual of attempting to satisfy his whims, and always on the alert for yet another one of his âhealth crisesâ.
+Las Meninas resembles the scattered pieces of a puzzle. It is up to the viewer to assemble them in order to form his very own picture â something that makes the film itself personal and unique.
+
+
+
+
+Ihor Podolchak and Serhiy Mykhalchuk. Movie set. 2006
+
+
+QUESTIONS
+q: What does Las Meninas resemble?
+a: ['Scattered Pieces of a puzzle']
+
+q: Who is the main character?
+a: ['The main character is the son of the family.']
+
+q: How many people are in the family the plot revolves around?
+a: ['Four.']
+
+q: What does this film reflect?
+a: ['The importance of choices and how those choices are limited']
+
+q: What does the plot revolve around?
+a: ['It revolves around a family of four']
+
+q: What does the son suffer from?
+a: ['Asthma and eczema that he has had since childhood']
+
+q: Where does the family live?
+a: ['Surburbs']
+
+q: What diseases do the adult son have?
+a: ['Asthma and eczema.']
+
+q: What is this film about?
+a: ['wwhat the routine of everyday life can do to the human mind and psyche']
+

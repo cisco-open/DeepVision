@@ -1,0 +1,66 @@
+PARAGRAPH
+Best in Show is presented as a documentary of five dogs and their owners destined to show in the Mayflower Kennel Club Dog Show, held in Philadelphia. Segments of the documentary continuously cycle among owners and handlers as each prepares to leave for the show, arrives at the hotel, prepares backstage, handles their dog's performance, and appears in a post-show follow-up. The owners and their dogs include:
+
+Gerry and Cookie Fleck (Eugene Levy, Catherine O'Hara), with their Norwich Terrier Winky -
+
+
+A middle-class couple from Florida, who run into monetary problems and are forced to sleep in the hotel's storage room when they finally arrive. Throughout the film, they encounter men Cookie has slept with during her youth.
+
+
+Meg and Hamilton Swan (Parker Posey, Michael Hitchcock), with their Weimaraner Beatrice -
+
+
+An upper-class, stereotypical yuppie couple from Chicago, they think they are taking great care of Beatrice (although really they are just confusing and upsetting her with their neurotic behavior), going as far as taking her to a therapist after she sees Meg and Hamilton have sex. At the show, the Swans believe that Beatrice will become unnerved without her favorite toy, the "Busy Bee", and frantically search for a replacement for it before the show.
+
+
+Harlan Pepper (Christopher Guest) and his Bloodhound Hubert -
+
+
+Harlan is the owner of a fishing goods store, and prides himself on being able to name nuts. Pepper's family has raised a variety of hounds for generations, and Harlan continues the tradition by raising bloodhounds (though he has aspirations of becoming a ventriloquist; the dummy known as "Lil Buddy" was carved by Tim Selberg).
+
+
+Sherri Ann and Leslie Ward Cabot (Jennifer Coolidge, Patrick Cranshaw) with their Standard Poodle Rhapsody in White (a.k.a. Butch) -
+
+
+A two-time past winner of the show. Sherri Ann is a trophy wife to the elderly Leslie, her sugar daddy. They are assisted by trainer Christy Cummings (Jane Lynch) who makes sure the dog is truly ready for the show, while Sherri Ann fixates on giving Christy a makeover and Leslie remains utterly oblivious. Over the course of the film, Sherri Ann and Leslie's sham marriage and Sherri Ann and Christy's romantic involvement becomes apparent.
+
+
+Scott Donlan and Stefan Vanderhoof (John Michael Higgins, Michael McKean) and their Shih Tzu Miss Agnes -
+
+
+A campy gay couple, they take great pride in their dog, and are confident that she will win the competition. They have a love of old movies, and enjoy making fun of Christy Cummings, but are friendly to the other competitors, especially the Flecks. In fact, when Winky wins Best in Show, Scott is the first to walk up and congratulate Gerry.
+The owners and their dogs all arrive in time for the show, which is hosted by dog expert Trevor Beckwith (Jim Piddock), and oblivious "color" commentator Buck Laughlin (Fred Willard). During the first round, Beatrice is disqualified when Hamilton cannot control her, but the other four dogs advance to the final round. Just before the finals, Cookie dislocates her knee and insists that Gerry take over for her. Though the audience is initially awed by seeing Gerry's "two left feet" (the result of a birth defect), ultimately Winky takes Best in Show.
+Afterwards, the film explores what each character is doing after the competition. Gerry and Cookie return home to Florida and are overcome with attention after the victory. They go on to record, in amusingly bad style, songs about terriers but discover to Gerry's frustration that the recording engineer is yet another of Cookie's ex-boyfriends (Steven Porter). Sherri Ann and Christy have entered into a partnership (It is unknown if either Leslie has died or if he has gotten divorced from Sherri Ann.) and publish a magazine for lesbian owners of purebred dogs, called American Bitch. Harlan fulfills his dreams and becomes a ventriloquist, entertaining sparse crowds with a honky tonk song and dance number. Stefan and Scott are in the process of designing a calendar featuring Shih Tzu dogs appearing in scenes, with appropriate costume, from famous classic films, such as Gone with the Wind and Casablanca (and McMillan and Wife, for some reason.) Hamilton and Meg Swan have given Beatrice away, allowing them to enjoy a calmer, more loving partnership as well as a new dog (a pug) named Kipper, that they claim enjoys watching them make love. The closing shot is of the Pug attempting to have sex with the therapist's leg.
+
+
+QUESTIONS
+q: Who plays Leslie Ward?
+a: ['Patrick Cranshaw']
+
+q: Where is the Mayflower Kennel Club Dog Show held?
+a: ['Philadephia']
+
+q: Who alongwith Christy have entered into a partnership?
+a: ['Sherri Ann']
+
+q: What kind of dog do Meg and Hamilton Swan own?
+a: ['Weimaraner']
+
+q: Who plays Trevor Beckwith?
+a: ['Jim Piddock']
+
+q: With whom does Sherri Ann become romantically involved?
+a: ['Christy Cummings']
+
+q: Who owns the Norwich Terrier Winky?
+a: ['Gerry and Cookie Fleck']
+
+q: Who alongwith Scott are in the process of designing a calendar?
+a: ['Stefan']
+
+q: Who is the "color" commentator?
+a: ['Buck Laughlin']
+
+q: Why does Gerry have "two left feet"?
+a: ['birth defect']
+

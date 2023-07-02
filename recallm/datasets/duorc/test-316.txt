@@ -1,0 +1,45 @@
+PARAGRAPH
+This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (November 2015) (Learn how and when to remove this template message)
+In the fictional town of Garrison, New Jersey, located across the Hudson River from New York City, a number of residents are NYPD officers. Local Sheriff Freddy Heflin (Sylvester Stallone) is secretly in love with Liz Randone (Annabella Sciorra), whose life he once saved after a car accident. Her rescue cost him the hearing in one ear which made him ineligible to become a New York City cop, as so many of his peers did, including Liz's abusive and unfaithful husband Joey Randone (Peter Berg).
+One night, Murray "Superboy" Babitch (Michael Rapaport), nephew of Lt. Ray Donlan (Harvey Keitel), is driving across the George Washington Bridge when his car is side-swiped by a couple of African-American teens. Babitch attempts to force them to pull over. The passenger points what Babitch thinks is a weapon just before (Babitch's) front tire "blows out". Believing they have fired at him, Babitch shoots back. In an ensuing accident, the teens are killed. Jack Rucker (Robert Patrick) removes the steering-wheel lock that Babitch mistook for a weapon from the hands of one of the dead teens and is caught trying to plant a sub-machine-gun in their vehicle to justify the shooting. Worried about the repercussions to his career, Babitch is persuaded by Donlan to fake his own suicide; with help from several other cops, Donlan pretends that Babitch has jumped off the bridge.
+Other corrupt police officers, including Detective Leo Crasky (John Spencer) and Frank Lagonda (Arthur Nascarella), fear that Babitch will resurface and testify about their corruption to Internal Affairs. Internal Affairs investigator Lt. Moe Tilden (Robert De Niro) asks if Heflin will provide information on the corrupt cops who live in Garrison. Heflin is intimidated by the New York City cops and is reluctant to betray them, derailing Tilden's investigation. Superiors in the department, related to the corrupt cops, order Tilden to shut down the investigation.
+Although the Babitch cover-up appears to be initially successful, Donlan is told by Patrolmen's Defense Association President Vincent Lassaro (Frank Vincent) that without a body, the case will not stay cold. Donlan reluctantly decides that his nephew must be killed. Babitch is tipped off by his aunt Rose (Cathy Moriarty) and escapes. He goes to Heflin's house looking for help, but when he sees Heflin's friend (and fellow NYPD cop) Gary "Figgsy" Figgis (Ray Liotta), he flees.
+During the same evening, Joey Randone gets into a fight with a suspect and is thrown off a rooftop. While he is clinging to an aerial and calling for help, Donlan sees him but fails to help, in revenge for Randone's affair with Donlan's wife. By the time the cops get to the roof, Randone has fallen to his death.
+When Heflin realizes his mistake, he visits Tilden and is angrily told that the case was blown by his failure to co-operate sooner. As he leaves, Heflin sees a number of NYPD case files on the corrupt cops and steals them. He studies the files and realizes the extent of his friends' corruption. Deputy Cindy Betts (Janeane Garofalo) decides to leave Garrison, frustrated by the New York City cops having turned the town into their own personal fiefdom.
+Heflin returns home to find Figgsy packing to leave, not wanting to be further involved. Heflin finds out that Figgsy burned down his own house for the insurance money, accidentally killing his crack-addicted girlfriend Monica (Mel Gorham). Heflin manages to convince Rose to reveal where Babitch is hiding, then takes him to Garrison's jail. Heflin permits Deputy Bill Geisler (Noah Emmerich), who is nervous about protecting Babitch, to go home and take care of his pregnant wife.
+Heflin attempts to bring Babitch to New York City to turn over to Tilden there, but Lagonda, Donlan and Rucker ambush him. Rucker fires a gun next to Heflin's good ear, deafening and disabling him. Babitch is taken, presumably to be killed.
+On foot and almost totally deaf, Heflin follows them to Donlan's house, where a shootout commences. Heflin kills both Rucker and Lagonda. Heflin is then shot in the shoulder by Crasky, but is saved by the arrival of Figgsy, who kills Crasky. In the house, Babitch is trying to escape through a window. Donlan sneaks up behind Heflin, but before he can fire, Figgsy shoots. Barely hearing the shot, Heflin turns and shoots, fatally wounding Donlan. As he lies dying on the floor, Donlan mutters obscenities, to which Heflin replies simply: "I can't hear you, Ray."
+Figgsy and Heflin personally take Babitch to New York City to Internal Affairs, refusing to allow any other cop to intervene. Tilden takes Babitch into custody. After the scandal has been investigated and indictments handed down, Heflin, who has recovered hearing in his good ear, surveys the New York City skyline from across the Hudson River. Deputy Geisler notifies him about a jack-knifed truck requiring assistance, and Heflin goes back to work.
+
+
+QUESTIONS
+q: What state is Garrison in?
+a: ['New Jersey']
+
+q: What does Freddy to in the end?
+a: ['Goes back to work']
+
+q: Why can't Freddy become a New York City cop?
+a: ['He lost hearing in one ear']
+
+q: What is the name of the fictional town?
+a: ['Garrison']
+
+q: Where does Babitch go looking for help?
+a: ["Heflin's house"]
+
+q: Where does the story take place?
+a: ['New Jersey']
+
+q: Why did Figgsy burn down his house?
+a: ['For the insurance money']
+
+q: Who is the local Sheriff?
+a: ['Freddy Heflin (Sylvester Stallone)']
+
+q: What is the name of Liz's husband?
+a: ['Joey Randone']
+
+q: Garrison is across the river from what?
+a: ['New York City']
+

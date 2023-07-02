@@ -1,0 +1,37 @@
+PARAGRAPH
+The film opens with NCAR climatologist Ilana Green (Lindsay Crouse) examining a poppy field and remarking that it "shouldn't be here". We then see that the poppy field is in the middle of the Arctic.
+Zane Zaminsky (Charlie Sheen), a radio astronomer working for SETI, discovers an extraterrestrial radio signal from Wolf 336, a star 14 light years from Earth. Zane reports this to his supervisor, Phil Gordian (Ron Silver) at the NASA Jet Propulsion Laboratory (JPL), but Phil dismisses the claims. Zane soon finds that he has been fired because of supposed budget cuts, and blacklisted, preventing him from working at other telescopes. Taking a job as a television satellite installer, he creates his own telescope array using his customers' dishes in the neighborhood, operating it secretly from his attic with help of his young next door neighbor, Kiki (Tony T. Johnson).
+Zane again locates the radio signal, but it is drowned out by a terrestrial signal from a Mexican radio station. Zane attempts to tell his former coworker, Calvin (Richard Schiff), but finds he has just died suspiciously from carbon monoxide poisoning. Zane travels to the fictional town of San Marsol in Mexico and finds that the local radio station, from which the signal apparently originated, was burnt to the ground. Searching the area around town, he comes across a new power plant. There, he meets Ilana Green, and tries to help protect her atmospheric analysis equipment from the plant's overzealous security forces. While in custody at the plant, Ilana explains that the Earth's temperature has recently risen several degrees, melting the polar ice. She is investigating the power plant, one of several recently built across the developing world, that appears to be the cause of this increase. The two are released, but without Ilana's equipment. Surprisingly, Zane realizes one of the guards could pass as the identical twin of his former boss, Phil. As Zane and Ilana regroup, Phil instructs some agents, posing as gardeners, to release an alien device in Zane's attic that creates a miniature black hole, consuming all of Zane's equipment. Zane leaves Ilana to again investigate the power plant and she is soon killed by scorpions planted in her room.
+Zane discovers the plant doubles as a front for an underground alien base. The very different looking aliens are able to disguise themselves with an external skin to infiltrate human society. Zane finds that all of the bases expel large amounts of greenhouse gas into the atmosphere. Zane is discovered but escapes back into the nearby town and attempts to convince the local sheriff of the situation. However, alien agents bring Ilana's body to the police station, making Zane a suspect in her death; Zane escapes and sneaks back into the United States. He accosts Phil on the JPL grounds, forcing him to admit that the aliens are trying to raise the Earth's temperature to not only kill off humans (by greatly exacerbating anthropogenic climate change) but to make the planet hospitable for themselves. Zane secretly records the conversation and once Phil discovers the recording he sends agents to stop Zane.
+Zane returns home to find his attic devoid of equipment. He figures out the only way to broadcast the tape is to go to a nearby large satellite up-link and beam the signal directly to a hacked news satellite, broadcasting it worldwide. With the help of his girlfriend Char (Teri Polo) and Kiki, he travels to the satellite ground station. Phil and his agents soon disable the satellite controls from the main building. Wondering how they were found so quickly, Zane briefly suspects Char of being an alien, until they are both attacked by one of Phil's agents. Zane leaves the tape with Kiki and instructs him to transmit it when he gives the order and then he and Char sneak over to the satellite's base and barricade themselves in the control room. Zane makes the necessary adjustments and tells Kiki to activate the tape, but Kiki reveals himself to be an alien agent and he opens the door to allow Phil inside, who confiscates the tape.
+Phil and his agents ram down the door to the satellite control room with a van, but Zane freezes them with liquid nitrogen vapors. As he works to free the tape stuck in Phil's frozen jacket, one of the agents drops a sphere which starts to form another singularity in the room. Phil begins to defrost, and tries to grab Zane's arm, but Zane smashes off Phil's arm with a fire axe. Zane and Char escape through the satellite's optical path, exiting safely onto the collapsed dish before the device implodes most of the satellite dish's base. In the distance they see Kiki, and Zane tells him to tell the aliens that he will soon broadcast this tape; they watch as Kiki runs off. In the film's epilogue, Zane's conversation with Phil is broadcast across the globe.
+
+
+QUESTIONS
+q: How does Zane's former co-worker, Calvin, die?
+a: ['Carbon monoxide poisoning']
+
+q: How for from earth is Wolf 336?
+a: ['14 light years']
+
+q: What is Zane Zaminski's original job?
+a: ['radio astronomer']
+
+q: How many light years from earth is Wolf 336?
+a: ['14 light years']
+
+q: What kills Ilana?
+a: ['Scorpions']
+
+q: What does Kiki reveal himself to be?
+a: ['An alien agent']
+
+q: What job does Zane take after he's been fired?
+a: ['television satellite installer']
+
+q: What is the name of Zane's girlfriend?
+a: ['Char']
+
+q: After being fired, where does Zane secretly work from with this homemade telescopes?
+a: ['His attic']
+

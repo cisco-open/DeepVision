@@ -1,0 +1,35 @@
+PARAGRAPH
+In the early 1900s, young widow Lucy Muir (Gene Tierney) moves to the seaside English village of Whitecliff despite the fierce disapproval of her caterwauling mother-in-law and domineering sister-in-law. Despite its reputation of being haunted, she falls in love with and rents Gull Cottage, where she takes up residence with her young daughter Anna (Natalie Wood) and her maid Martha (Edna Best). On the first night, she is visited by the ghostly apparition of the former owner, a roguish but harmless sea captain named Daniel Gregg (Rex Harrison), who tells her that his death four years ago was accidental. He was trying to close a window which blew open during a storm, when he kicked his gas heater on with his foot in his sleep. He further explains that he had wanted to turn Gull Cottage into a home for retired seamen in generations to come. After learning of Lucy's appreciation of the house, Daniel reluctantly agrees to allow her to live in Gull Cottage and promises to make himself known only to her (Anna is too young for ghosts). Despite a few differences and disagreements with Captain Gregg, Mrs. Muir and her household settle comfortably into Gull Cottage. However, it is not long before Mrs. Muir's in-laws arrive with the news that Lucy's investment income has dried up, and they insist that Lucy move back to London with them. After his ghostly eviction of the in-laws, Captain Gregg comes up with an idea to save the house: he will dictate his memoirs to her and she will have them published, with the royalties going to her. During the course of writing the book, they find themselves falling in love, but as both realize it is a hopeless situation, Daniel tells her she should find a real (live) man.
+When she visits the publisher in London, Lucy becomes attracted to suave Miles Fairley (George Sanders), a writer of children's stories under the nom-de-plume of "Uncle Neddy," who helps her obtain an interview. Despite a rocky beginning, the publisher agrees to publish the Captain's book. The Captain's racy recollections, published under the title Blood and Swash, become a bestseller, allowing Lucy to buy the house. Fairley follows her back to Whitecliff and begins a whirlwind courtship. Captain Gregg, initially disgusted of their relationship, decides finally to cease being an obstacle to her happiness. While Lucy sleeps, Daniel places the suggestion in her mind that she alone wrote the book and that he was just a dream. His task accomplished, Captain Gregg disappears from the house. Shortly thereafter, while again visiting her publisher in London, Lucy decides to pay a surprise visit to Fairley's home. There she discovers to her horror that not only is Miles already married with two children, but that this sort of thing has happened before with other women. Lucy leaves heartbroken and returns to Whitecliff to spend the rest of her life as a recluse in Gull Cottage, with Martha to look after her.
+About ten years later, Anna (Vanessa Brown) returns with her fiancÃ©, a Royal Navy lieutenant. In the course of a conversation with her mother, Anna reveals that Captain Gregg's ghost was her childhood companion during the same year Lucy and the Captain were acquainted. She also knew about her mother's relationship with Miles Fairley all the time, rekindling faint memories in her mother of the Captain. It is also revealed that Fate has not been kind to Fairley; he has become fat, bald and a heavy drinker, and his wife and children have finally left him.
+Lucy spends a long peaceful life at the cottage, still tended to by Martha. One foggy night, as Lucy sits dozing in her bedroom chair before the gas fire, she dies. Captain Gregg appears before her at the moment of her death. Reaching out, he lifts her young spirit free of her aged body. The two walk arm in arm down the stairs, out of the front door, and into a brightly lit mist.
+
+
+QUESTIONS
+q: Who does Lucy intend to marry?
+a: ['Miles Fairley']
+
+q: What is the name of Lucy's daughter?
+a: ['Anna (Natalie Wood)']
+
+q: Who did Anna spend time with as a child?
+a: ["Captain Gregg's ghost"]
+
+q: What year does this movie take place in?
+a: ["Early 1900's"]
+
+q: Who is the ghost?
+a: ['Daniel Gregg']
+
+q: Who is Lucy's daughter?
+a: ['Anna']
+
+q: Who does Lucy fall in love with?
+a: ['Captain Gregg']
+
+q: What does Lucy find out about Miles?
+a: ['Married']
+
+q: Who does Lucy decide to marry?
+a: ['Captain Gregg']
+

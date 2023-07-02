@@ -1,0 +1,59 @@
+PARAGRAPH
+Earth's population has been decimated by a virus, related to the mad cow disease, that turns everyone into flesh-craving zombies. Only a handful of humans remain, including Columbus (Jesse Eisenberg), a student at the University of Texas trying to make his way to his home town of Columbus, OH, where he hopes his parents are still alive. Columbus has long been an outsider and somewhat phobic, which he uses to his advantage in avoiding zombies. In fact, zombies are not his greatest fear: clowns are.While walking down the highway, he encounters Tallahassee (Woody Harrelson), driving an Escalade. He is trying to get to Florida and kill as many zombies as he can on the way, and he is also on a quest to find a Twinkie. Tallahassee agrees to give Columbus a ride as far as Texarkana. When they stop at a grocery store in hopes of finding Tallahassee's coveted Twinkies, they fight off three zombies then find two teenage girls, Wichita (Emma Stone) and her younger sister, Little Rock (Abigail Breslin) in the store room. Little Rock is apparently bitten and asks them to kill her. Columbus gives Wichita his shotgun, which she then uses to rob Tallahassee and Columbus of their remaining weapons and the Escalade. Little Rock is fine, and she drives away with Wichita. Wichita and Little Rock have been on their own since before the zombie holocaust, using Wichita's good looks to swindle money so they could travel to Los Angeles.Columbus and Tallahassee find a Hummer with a duffel bag full of guns. They drive west because Tallahassee wants to get revenge on Wichita and Little Rock. They eventually find the Escalade broken down. Talahasse goes to investagate and tells Columbus to stay down the road in case of trouble. He goes to the Escalade and finds that it is empty. He gives a signal for Columbus to drive down and pick him up, and as he gets in, the girls pop out from the backseat. After a standoff, they agree to travel together. Wichita and Little Rock hope to make it to an amusement park near Los Angeles that is rumored to be zombie-free. Wichita confides to Columbus that she knows the rumor is bogus but she will do anything for Little Rock. Columbus then says he needs to go his own way, in hopes of finding his family. As he is about to leave, he decides against it and stays.When they arrive in Hollywood, they dodge zombies and use a map of stars' homes to find Bill Murray (Bill Murray)'s residence. Aghast that Little Rock has no idea who Bill Murray is, Columbus takes her to Murray's private screening room to watch Ghostbusters, and also to inquire if Wichita has a boyfriend. Tallahassee and Wichita continue to look around and come upon a very much alive Bill Murray. He has managed to survive by disguising himself as a zombie, which allows him to to roam the city freely because zombies won't attack their own kind. After play acting scenes from Ghostbusters, they decide to scare Columbus as a joke. Caught off-guard, Columbus shoots and kills Murray.During a game of Monopoly, Tallahassee breaks down and reveals that he lost his young son, Buck, to the zombies. While he and Little Rock take out their pain by shooting fine art, Columbus and Wichita get drunk. They almost kiss but are interrupted by Tallahassee. The next morning, Wichita and Little Rock leave, afraid that any further bonds will break their sisterly bond. They go the amusement park. Believing it is deserted, they turn on the all the power and everything in the park turns on and lights up. However, the noise and lights attracts zombies from the surrounding area. The girls manage to get to temporary safety atop one of the rides.Columbus announces he is going after Wichita and Little Rock. Tallahassee plans to go to Mexico but agrees to save the girls with Columbus. They get to the amusement park and see that zombies have trapped Wichita and Little Rock atop the ride. While Tallahassee runs throughout the park to distract and kill as many zombies as he can, Columbus faces and dispatches the ultimate fear: a zombie clown. He then helps Wichita and Little Rock down off the tower. Wichita embraces Columbus and tells him her real name. (Krysta)Columbus goes looking for Tallahassee and finds him in a resturant looking for twinkies. They hear a noise in the closet and Talahassee fires at the door. As they open the door, they discover he has shot the box of twinkies and none of them survived the blast. They leave the resturant and the girls show up in a Hummer, and Little rock throws Talahasse a twinkie she found. He eats it within seconds.The four of them realize they have made a new family and drive off looking for a new home.
+
+
+QUESTIONS
+q: What is Wichita's younger sister's name?
+a: ['Little Rock']
+
+q: What type of vehicle do the sisters steal from Tallahassee and Columbus?
+a: ['Escalade']
+
+q: What does Tallahassee have an affinity for?
+a: ['Twinkies']
+
+q: What game does Columbus play in the movie?
+a: ['Monopoly']
+
+q: What is Wichita's real name?
+a: ['Emma Stone']
+
+q: Who did the sister trick to give over their weapons
+a: ['Tallahassee and Columbus']
+
+q: Who does Tallahassee have a stand-off with?
+a: ['Wichita and Little Rock']
+
+q: Whose attention do the sisters attract, by activating all the rides and lights at the park?
+a: ['The Zombies']
+
+q: Who shoots the last remaining box of Twinkies?
+a: ['Tallahassee']
+
+q: Where do the pair meet Wichita and Little Rock?
+a: ['grocery store']
+
+q: Who raids a deep fried Twinkies stand?
+a: ['Tallahassee']
+
+q: Why is Columbus making his way to Columbus, Ohio?
+a: ['Looking for his parents']
+
+q: Who does Columbus persist to impress and woo?
+a: ['Wichita']
+
+q: What is Wichita real name
+a: ['Krysta']
+
+q: Who does Tallahassee mention he misses, that was killed by zombies?
+a: ['his son, Buck']
+
+q: Who shoots Bill Murray?
+a: ['Columbus']
+
+q: Who lures the zombies away from the tower?
+a: ['Tallahassee']
+
+q: Where does Wichita go after leaving Columbus?
+a: ['Amusement park']
+

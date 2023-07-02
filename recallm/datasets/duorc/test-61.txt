@@ -1,0 +1,23 @@
+PARAGRAPH
+In a dystopian near-future, the Jeffers Corporation is the "largest, friendliest and most profitable business in the history of Mankind," and is driving out a culture of independent thought and intimacy. The corporation and its leader, Mr. Jeffers, claim success is achieved by its strict philosophy of mindless productivity. Jeffers teaches that productivity equals happiness, and the business logo (a middle finger) is the standard greeting in society.
+George Washington Winsterhammerman (Zach Galifianakis), a descendant of George Washington, is a Level-3 "tunt" employee at the Jeffers Corporation, and is suffering from overeating and impotence as a result of alienation common in this society. George then begins to "suffer from dreams" wherein he is the first president of the United States, beset by the prospect of losing the American Revolutionary War, and contemplating surrender to the British. Winsterhammerman is told by authority figures that dreams are a symptom of stress that leads to spontaneous bodily explosion, an escalating problem across the world.
+Despite the government's increasingly intrusive attempts to combat explosions, culminating in mandatory neck-worn "inhibitors" created by the Jeffers Corporation, people including George's co-worker, Todd, continue to explode. After George's friend and superior, Charisma, is fired, George discovers she now works in a cafÃ©, and meets with her in an attempt to avoid unhappiness. After a brief talk, Charisma confides that she has dreams too, and that they involve George and her running away together.
+After his wife and son leave due to their own unhappiness, George is visited by Mr. Jeffers, who says he wants to know why George drew a sunset to encapsulate his vision of the future. Mr. Jeffers is impressed with George, believing him to be a nearly perfect Jeffers Corporation drone, and an ally against an anticipated revolt over the Jeffers way of life. Hoping to help George purge himself of all dreams, thereby ending his anger, pain and desire, he recommends George to kill the thing he loves. George returns to Charisma, who has joined many others in being brainwashed through an inhibitor device. After taking her on a yacht with the intent of killing her, George makes a final attempt to rekindle the intimacy they shared at the cafÃ© by removing her inhibitor. She initially cannot remember him, but later she recalls him and begins to cry. They embrace. After spending the night with Charisma, George imagines he sees George Washington crossing in a canoe, salutes him, and turns to bask in the sun.
+
+
+QUESTIONS
+q: What was George's symptom of impending explosion?
+a: ['Dreams']
+
+q: Where did George work?
+a: ['Jeffers Corporation']
+
+q: Where does George work?
+a: ['Jeffers Corporation']
+
+q: What time of film is Visioneers?
+a: ['Science Fiction']
+
+q: What did George become in one of his dreams?
+a: ['is the first president of the United States']
+

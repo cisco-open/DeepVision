@@ -1,0 +1,27 @@
+PARAGRAPH
+A freeze frame shows Andre (Jamel Debbouze), who describes himself via a voice over, stating that he lives in America though is currently in Paris. Andre concludes that he is a good guy, though laments that he is lying all the time, including to himself. When the frame unfreezes, Andre is slapped to the ground, and three thugs demand he pay back the money he owes. In the next scene, Andre is shown being held over the railing of the Eiffel Tower by a bodyguard of Franck (Gilbert Melki), who also demands Andre repay him owed money. Desperate, Andre pleads his case to both the American embassy and a Paris police station, though neither is able to help him.
+Andre decides to kill himself by jumping off a bridge into the Seine, but first he notices a beautiful young woman (Rie Rasmussen) who is also standing over the railing. The woman jumps off the bridge, and Andre jumps in after her, dragging her to safety. The woman states her name is Angela, and that she jumped because she had the same problems as Andre. In order to thank him for saving her, Angela pledges her life to Andre, stating she will do everything she can to help him.
+Andre goes to visit Franck, believing that Franck will respect him more if he has a beautiful woman with him. Franck is uninterested in Andre, but accepts an offer from Angela to discuss Andre's case in private. When Angela emerges, she informs Andre that his debt has been cleared, and gives him a large amount of cash. Andre eventually accepts the money, though is reluctant to do so, believing that Angela slept with Franck to get it. Upon realising that he needs more money, Angela agree to help him, and the two go to a nightclub. One by one, Angela lures men into the toilets with her, promising them sex in exchange for money. Andre is disgusted by what Angela is doing, and protests with her. Later, the two of them go to another club to pay off his remaining debt. Andre meets Pedro (Serge Riaboukine), and offers to repay him. Pedro advises Andre to bet the money on a horse, telling him that the race has been fixed. Angela advises him against it, but Andre bets all their money on the horse, which comes last.
+Andre finds himself desperate again, whereupon Angela informs him that she is actually an angel sent to help him. Andre is incredulous at first, until Angela demonstrates she has divine powers, such as the ability to levitate objects. Andre is fascinated, and tries to learn as much as he can about Angela. The three thugs from the beginning of the film confront Andre; Andre asks Angela to take care of them, and she knocks them all unconscious. Angela helps Andre find the courage to see the good within himself, and also reveals that she did not have sex with any of the men in the bathroom or with Franck, rather she knocked them all unconscious.
+Angela convinces Andre to confront Franck, and be honest with him instead of lying. Angela breaks into Franck's hotel room after knocking out his guards. Franck believes Andre is about to kill him, and pleads for his life. Andre apologizes to Franck for borrowing his money, stating he should not have done it. He then tells Franck of his love for the woman who came into his life and opened his eyes. Angela, who is emotionally moved by Andre's speech, leaves. Andre pursues her, eventually catching up to her on the bridge where they first met. Angela reveals that she is going home as her work as done. Andre pleads with her to stay, professing his love for her. An emotional Angela tries to reason with Andre, stating they cannot be together. She sprouts wings from her back, and begins to ascend, though Andre grabs hold of her. They crash into the Seine for the second time. Andre climbs out of the water and Angela climbs out after him. Angela has lost her wings, and she rejoices when she sees Andre.
+
+
+QUESTIONS
+q: Where did Andre return to in the hope of making some easy money?
+a: ['Paris']
+
+q: What is the name of the woman Andre saved?
+a: ['Angela']
+
+q: What does the woman do to thank Andre for saving her?
+a: ['She helps him to get money to pay off his debts.']
+
+q: What is the name of the woman Andre saves?
+a: ['Angela']
+
+q: What is the name of the River Andre travels to?
+a: ['Seine']
+
+q: With whom did Andre fall in love with?
+a: ['Angela']
+

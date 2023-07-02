@@ -1,0 +1,104 @@
+PARAGRAPH
+The film opens with two sewer workers in London, Arthur (Ken Campbell) and George (Vas Blackwood), who discover a tunnel in one of the walls that neither of them is familiar with. Arthur enters and when he does not emerge or respond to George afterwards, George follows. He soon discovers Arthur, injured and in a state of shock. Moments later, a similarly injured young woman jumps out in front of them, crying for help, only to be pulled back into the darkness.The focus then shifts to a young German woman, Kate (Franka Potente), at a party. After hearing of another party that George Clooney is supposedly attending, she decides to travel there. After unsuccessfully trying to get a taxi, she heads to Charing Cross tube station, but soon falls asleep on the platform while waiting for the train. When she awakens, she is alone and finds the entire station locked up for the night. Another empty train arrives and she boards it, but it stops abruptly. Confused, Kate makes her way to the conductor's compartment but is unsuccessful in finding a reason for it as unbeknownst to her, the driver has been killed. Kate soon encounters Guy (Jeremy Sheffield), an obsessive acquaintance from the previous party. Guy, intoxicated by cocaine, crudely attempts to seduce her, but Kate is not interested and tries to leave the train. Guy then sexually assaults her, but is dragged off of her and out of the train by an unseen attacker.Kate flees from the train and runs into a homeless couple, Jimmy (Paul Rattray) and Mandy (Kelly Scott), and their dog, a Jack Russell terrier called Ray (Strapper). Kate explains what has happened and Jimmy reluctantly agrees to help her after she pays him. Meanwhile, Mandy is also attacked while alone. Kate and Jimmy find Guy lying on the railway track with his back mutilated. After they pull him onto the platform, Ray appears with blood smeared on his fur. Jimmy, immediately thinking of Mandy, goes with Ray back to their shelter where she is nowhere to be found. Kate attempts to contact a watchman via speakers to get help. Suspicious of her, the watchman demands Guy to be dragged in front of the security cameras to prove that she is not lying. When she does so, Guy dies and the watchman is also killed in his office by having his throat slit by the stalker. Kate runs back to a despondent Jimmy who has shot himself full of drugs. She eventually persuades him to help her find Mandy and a way out of the station. After exploring a tunnel together, another train pulls up in front of them. Jimmy enters and is killed by the stalker, who was lurking on the roof. Kate flees into the sewer system below the station, but is soon captured by the killer; a hideously deformed, mentally ill hermit named "Craig" AKA The Creep (Sean Harris).Kate finds herself in a water-filled cage deeper underground, presumably being stored as food for Craig. She also meets George, who is still alive and also trapped. However, before Craig can harm either of them, Kate manages to escape, temporarily incapacitate Craig, and release George. Together, they run through several dark corridors and end up in a secret, deserted abortion clinic, where they find an unconscious Mandy strapped on an operating chair and mistakenly presume her to be dead. However, before they can investigate further, Craig appears and they are forced to flee and leave Mandy alone with him, who kills her in a twisted imitation of an abortion.George and Kate eventually find themselves in an abandoned platform and Craig soon catches up to them once again. George attacks Craig, but is impaled through the head with a serrated blade protruding out of a wall. Kate attempts to escape, but is soon cornered by Craig. She breaks down until she spots a large hook on a long chain, with which she stabs Craig's throat. She then hears the distant sounds of an approaching train and she throws the other end of the chain over the tunnel, in an attempt to electrocute him. Her plan fails, and although severely wounded, Craig rises and attempts to crush Kate with a barrel. Then the train passes through the tunnel and smashes into the chain, which tears out his throat. Craig finally dies, and Kate makes her way through the tunnel and finds herself back in Charing Cross Station. Tattered and filthy, she collapses on a platform and Ray appears, curling onto her lap. The film ends when a man waiting for a train puts a coin next to her, thinking she is a beggar, and she breaks into hysterical giggles and tears.
+
+
+QUESTIONS
+q: What stops Guy from attacking Kate?
+a: ['An unseen attacker']
+
+q: What is the killer's name?
+a: ['Craig aka "The Creep"']
+
+q: what was the name of jimmy and mandy's dog?
+a: ['Ray']
+
+q: where does craig live?
+a: ['in a storage facility']
+
+q: who do they find strapped to the surgical chair?
+a: ['Mandy']
+
+q: what does the man waiting for a train give to kate?
+a: ['A coin']
+
+q: who comforts kate on the train platform?
+a: ['Guy']
+
+q: Who does Kate talk to, through the intercom?
+a: ['A watchman']
+
+q: Who is kidnapped?
+a: ['Mandy']
+
+q: Whose death does Jimmy try to avenge?
+a: ['Mandy']
+
+q: where were jimmy and mandy living when kate runs into them?
+a: ['in a storeroom']
+
+q: What happens to Kate while she is fleeng?
+a: ['runs into a homeless Scottish couple living in a storeroom']
+
+q: What does Kate do while waiting for her train?
+a: ['Sleeps']
+
+q: what is the young german woman's name in the movie?
+a: ['Kate']
+
+q: What does Guy attempt to do to Kate?
+a: ['Seduce her']
+
+q: how does craig kill his victims?
+a: ["keeps his victims in semi-submerged, rat-infested cages until they're dead"]
+
+q: how is kate able to communicate with the security guard?
+a: ['Via speaker']
+
+q: Jemma went to seek which male celebrity at another party without Kate even though they had planned to go together?
+a: ['George Clooney']
+
+q: what jumps out at the two sewage workers in the tunnel?
+a: ['An injured young woman']
+
+q: Who's body does Kate find?
+a: ["Guy's"]
+
+q: Where do Kate and Jimmy go to get to the station?
+a: ['abortion clinic']
+
+q: what does kate find after falling in the swer system
+a: ["Arthur's body"]
+
+q: What is the homeless couple?
+a: ['drug addicts']
+
+q: is ir arthur or george that explores the tunnels alone at first?
+a: ['Arthur']
+
+q: in the movie, which character heads to charing cross tube station, but falls asleep on the platform while waiting for the train instead?
+a: ['Kate']
+
+q: Who does Kate and the couple find?
+a: ['Guy']
+
+q: Who kills Craig?
+a: ['Kate']
+
+q: Who kills George?
+a: ['Craig']
+
+q: Who is Kate captured by in the storage facility?
+a: ['Craig']
+
+q: Who is Ray?
+a: ["Jimmy and Mandy's dog"]
+
+q: What are the pictures in Craig's railcar of?
+a: ['old pictures of a medical doctor with a deformed child']
+
+q: Where does Kate end up after finding Arthur's body?
+a: ['up in a storage facility with hundreds of boxes']
+
+q: Who does Kate run into while searching for help?
+a: ['Guy']
+

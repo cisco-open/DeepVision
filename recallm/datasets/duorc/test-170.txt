@@ -1,0 +1,83 @@
+PARAGRAPH
+King Acrisius of Argos (Donald Houston) locks his daughter Danaë (Vida Taylor) away from mortal men to avoid a prophecy that he would die if his daughter had a son. While she is imprisoned, the god Zeus (Laurence Olivier) impregnates her. After discovering the pregnancy, Acrisius casts his daughter and her newborn son Perseus out to sea in a wooden coffin, hoping to kill both and avoid his fate. In retribution, Zeus not only kills Acrisius, but also orders the god of the sea, Poseidon (Jack Gwillim), to release an ancient monster known as the Kraken to destroy Argos, fulfilling the prophecy. Meanwhile, Danaë and Perseus safely float to the island of Seriphos.Calibos (Neil McCarthy), son of the sea goddess Thetis (Maggie Smith), is a handsome young man destined to marry Princess Andromeda (Judi Bowker), the daughter of Queen Cassiopeia (Sian Phillips) and heir to the rich city of Joppa. But cruel and destructive Calibos has destroyed every living thing surrounding the Wells of the Moon, including Zeus's entire sacred herd of flying horses (except for Pegasus). As punishment for this and his many other transgressions, Zeus transforms Calibos into a satyr-like creature who is subsequently shunned and forced to live as an outcast in the swamps and marshes. Thetis, furious at her son's fate, vows that if Calibos cannot marry Andromeda, no other man will, either. Equally infuriated by Zeus's total devotion for his own son, Thetis transports Perseus (Harry Hamlin) from Seriphos to Joppa. Perseus, befriended by the scholar and playwright Ammon (Burgess Meredith), learns of Andromeda and her plight: she cannot marry unless her suitor successfully answers a riddle, and any suitor who fails to answer the riddle correctly is burned at the stake. Armed with gifts from the gods (a sword, shield, and a helmet that renders its wearer invisible), Perseus captures Pegasus and follows Andromeda's spirit on her nightly journey to learn a new riddle from Calibos. Armed with the answer, Perseus is nearly killed by Calibos but escapes, losing the magical helmet in the swamps in the process.Perseus appears at the next ceremony for a new suitor and answers the riddle correctly, presenting Calibos's severed hand (with a gold ring on one of the fingers, which is the answer to the riddle) and winning Andromeda's hand in marriage. At the temple to Thetis, Calibos prays to his mother Thetis to take vengeance on Perseus. Thetis tells Calibos that she cannot do so because Perseus is protected by Zeus, but she can take vengeance on Joppa. At the wedding, Queen Cassiopeia compares Andromeda's beauty to that of Thetis herself, which angers the goddess and gives her an excuse to fulfill her son's wish. The statue of Thetis collapses and its head comes to life, demanding Andromeda as a virgin sacrifice to the Kraken in thirty days, or else Joppa will be destroyed.Perseus seeks a way to defeat the Kraken and leads a small group of soldiers with him with Andromeda and Ammon tagging along. At the same time, Pegasus is captured by Calibos and his men. Zeus commands Athena (Susan Fleetwood) to give Perseus her owl Bubo as a replacement for his lost helmet of invisibility. Instead she orders Hephaestus (Pat Roach) to build a mechanical replica of Bubo as an aid for Perseus.Bubo leads Perseus to the Stygian Witches, three blind women (Flora Robson, Anna Manahan, and Freda Jackson) who reside on a hilltop in a remote region. Perseus, with Bubo's help, manage to snatch from the three cannibalistic witches a magical glass orb which is their 'eye' to forcibly interrogate them on how to defeat the Kraken. The witches tell him the only way to defeat the Kraken is by using the head of another monster, Medusa the Gorgon. Once a beautiful woman, Medusa had been punished by the goddess Aphrodite (Ursula Andress) by being transformed into a horrible monster. Meeting Medusa's gaze will turn any living creature to stone, including the Kraken. She makes her home on the Isle of the Dead, which lies across the River Styx, at the very edge of the Underworld. Perseus throws back the glass eye to the witches and makes his escape.That evening, Perseus tells Andromeda to return to Joppa with Ammon as he must go on alone with Cassiopeia's soldiers to the underworld to kill Medusa and claim her head. She reluctantly allows him to leave.The next day, Perseus and his men arrive at the Dead Lake where the skeletal ferryman, Charon is to row them to the Isle of the Dead in exchange for a silver coin. Perseus takes three of his men with him to cross the dead lake to the island.Once there, Perseus and his men find the Temple of Medusa and soon battle Dioskilos, a two-headed dog that is the guardian of Medusa. One of the soldiers dies, but Perseus and the other two succeed in the slaying of Dioskilos and set forth into the underground ruins where Medusa resides. Armed with a bow and several arrows, Medusa takes on the three intruders to her domain. One of Perseus's men loses his life to one of Medusa's blood-poisoned arrows, while the last becomes caught in the stare of Medusa and is transformed into a stone statue. Perseus eventually manages to not only deceive Medusa with the help of his shield, but also decapitate her with his sword and collects her head, but loses the shield in a pool of Medusa's acidic blood. Medusa's headless body finally dies and Perseus wraps up Medusa's severed head in his red cloak and returns to the mainland.That night, as Perseus and his party set out to return to Joppa, Calibos raids the camp, drives off the group's horses and punctures the cloak carrying Medusa's head, causing her blood to spill and spawn three giant scorpions. The scorpions and Calibos attack the party. After the last two of his men are killed (one by a scorpion and the chief guard, Thalan, by Calibos himself), Perseus is able to slay the remaining scorpion and manages to best Calibos, whom he finally kills with Aphrodite's sword.Perseus, weakened by his struggle and running out of time, asks Bubo to find Pegasus. The mechanical owl locates Pegasus in the swamp, guarded by Calibos's men and the giant vulture. Bubo manages to scare them off, destroy the camp, and free the winged stallion.Back in Joppa, just as Andromeda is about to be sacrificed to the Kraken, Bubo appears, trying to stall the Kraken while Perseus catches up flying on Pegasus. Perseus approaches the Kraken, but is knocked off, falling into the ocean. Bubo retrieves the head and delivers it to Perseus, who frees the head, turning the Kraken into stone which collapses into the bay. Perseus throws the head into the ocean and frees Andromeda. Pegasus emerges from the sea to the crowd's delight.The gods discuss the outcome of the adventure: Perseus and Andromeda will live happily, rule wisely and produce good children. Zeus forbids the other gods to pursue any vengeance against them. In addition, the likenesses of Perseus, Andromeda, Pegasus and Cassiopeia are set among the stars as constellations to forever remind mankind of the values of heroism and bravery.
+
+
+QUESTIONS
+q: Who received the portion of the universe called the seas?
+a: ['Poseidon', 'Poseidon']
+
+q: Who finds a coffin adrift in the sea ?
+a: ['Spyros.', 'no one', 'Spyros']
+
+q: Who captures Pegasus?
+a: ['Perseus']
+
+q: Who survives the destruction of the families fishing vessel ?
+a: ['Perseus.', 'Perseus']
+
+q: Who arrives to punish the mortals?
+a: ['Hades', 'Hades', 'The kraken']
+
+q: Who is Prokopion?
+a: ['The leader of the Cult of Hades.', 'No Answer']
+
+q: What is the King's Guard captain's name
+a: ['Draco', 'Thalan', 'Draco.']
+
+q: Who is Perseus' father?
+a: ['Zeus', 'Zeus', 'Zeus.']
+
+q: Where does Perseus arrive?
+a: ['Argos.', 'Seriphos', 'Argos.']
+
+q: WHO IS FORBIDDEN FROM ENTERING THE TEMPLE?
+a: ['IO.', 'every living thing', 'Women.']
+
+q: WHAT MUST THE GROUP OBTAIN TO KILL KRAKEN ?
+a: ['OBTAIN AND USE THE HEAD OF MEDUSA.', 'The head of Medusa.', "Medusa's head"]
+
+q: What happens to Queen Danae?
+a: ['She dies', 'There is no Queen Danae mentioned in the plot summary.', 'Cast to sea']
+
+q: What are Scorpioxs?
+a: ['giant scorpions', 'There are no Scorpioxs mentioned in the passage.', 'Giant scorpions']
+
+q: Who  wins Andromeda's hand in marriage?
+a: ['Perseus']
+
+q: What does the helmet that Zeus sends Perseus do?
+a: ['its wearer invisible']
+
+q: What is Perseus looking to kill
+a: ['The Kraken', 'Medusa by beheading, and then the Kraken', 'Kraken']
+
+q: What does Zeus transform Calibos into?
+a: ['Acrisius in human form']
+
+q: Who answers the riddle correctly?
+a: ['Perseus']
+
+q: What is the only way to defeat the Kraken?
+a: ['The head of Gorgon Medusa']
+
+q: How many soldiesr does Perseus have by his side?
+a: ['several']
+
+q: Who is Calibos engaged to?
+a: ['Andromeda']
+
+q: Who is crowned Queen of Argos?
+a: ['Andromeda.', 'Andromeda']
+
+q: Who commands Athena to give Perseus her owl?
+a: ['Zeus']
+
+q: WHO KILLS MEDUSA?
+a: ['PERSEUS.', 'Perseus']
+
+q: Who received the part of the universe called the skies?
+a: ['Zeus', 'No Answer']
+
+q: Who does Zeus forbid other gods from pursuing vengeance against?
+a: ['no one']
+

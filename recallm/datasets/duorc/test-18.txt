@@ -1,0 +1,50 @@
+PARAGRAPH
+One cannot speak of "the plot" of the film in the usual sense, since it is the autobiographical story of Duras. As such, the story is driven by the remembrances of the events in her life, rather than a formally constructed story. The story illuminates one and one-half years in the life of the adolescent Duras (Jane March), as they are recalled by the seventy-year-old writer.The film is also about life in South Vietnam, under French colonial rule. But it is also an example of this life turned upside down, as the girl is white and poor, while the man is Chinese and rich.The film opens in the present day (circa 1980) with Jeanne Moreau's voice-over as the elderly Duras reading the opening paragraphs of the novel. This is immediately followed by a flashback to an afternoon in 1929, on the Mekong River shore. On that particular day, the fifteen and one-half year old girl was returning to Saigon, as was the twenty-eight-year-old rich "Chinaman" (Tony Leung Ka Fai). They arrive at the Mekong ferry crossing, she in a public bus, and he in his black Morris Leon-Bollet limousine. The girl wears an old sleeveless silk dress, gold-spangled high-heels, and a man's pink fedora decorated with a black ribbon. She wears her hair in pigtails and her lips are painted with a brilliant red lipstick: this is a striking resemblance to the photographs of the young Duras, who wanted to be a woman before her time. The young man, impeccably dressed in a white cotton suit, emerges from his limousine and approaches the girl.At this point, we view the preceding night, at the girl's familial house in Sa Dec. We are introduced to the poisonous atmosphere which permeates it, and meet her older brother, the family tyrant (Arnaud Giovaninetti), her weak younger brother (Melvil Poupaud), and her listless mother (Frederique Meininger).We return to the ferry, where the Chinaman offers the girl a lift to Saigon. She accepts his offer of a ride to town, and in so doing, embarks on a lengthy, forbidden love affair.Each of the following days, the Chinaman arrives in his black limousine at the girl's lycée, where she attends class, and drives her to the boarding house, where she eats and sleeps. Soon, one afternoon, he picks her up at the boarding house and they drive instead to his garconnière in Cholon, the Chinese quarter of Saigon. The garconnière is a bachelor apartment provided for him by his father. It is there that the pair have their first sexual encounter.During the ensuing eighteen months, the couple meet countless times in the garconnière. In the course of the film, we are shown three such encounters, each for different reasons.The situation the lovers find themselves in is truly romantic and tragic. In the colonial society, it is totally out of the question for her, a white girl, to marry a Chinese man. The Chinese tradition forbids him to marry just anybody, especially a white girl. His wife will be chosen by his father (Xiem Mang), for social/financial reasons. Besides, following their first sexual encounter, he says that since she is no longer a virgin, he can no longer accept her as his wife. This is all right with her, she answers, since he is Chinese and, "[...], I don't particularly like the Chinese much." Therefore, they know that their love affair is doomed from the beginning, but they pursue it nevertheless to its cruel and inevitable conclusion.Eventually, the girl wants to show her "prize" to her family, and satisfy the family's curiosity.She arranges a dinner in town for her family to meet her lover. The result is an unmitigated disaster. The mother and the two brothers gorge themselves on food, get drunk, and never speak to the Chinaman, except for her older brother, who insults him and tries to provoke a fight. Following the dinner, the group goes dancing. The young brother and the girl dance together, alluding to the peculiar, somewhat incestuous relationship which exists between them, and awaken the jealousy of the Chinaman. This later leads to a violent scene between the girl and the Chinaman, back at the garconnière.Since the Chinaman is generous, the family pretends not to think about the relationship which likely exists between him and the girl. Deep inside, however, the mother is revolted by her daughter's relationship with the Chinaman, and she has several violent scenes with the girl, exacerbated by her oldest son's vicious interference.The Chinaman marries the young (sixteen years old), rich Chinese girl who his father chose for him, in a beautifully elaborate Chinese ceremony. The wedding proceeds in very festive mood, in sharp contrast to the Chinaman's demeanor, and the girl watches, impassive.A few days after the wedding, the girl leaves for France. She leans on the rail, dressed in the same clothes she wore on the first ferry ride. As her boat departs, she sees for the last time the long, black auto on the pier, and feels his gaze upon her.Many years later, the Chinaman comes to Paris with his wife. He calls her on the telephone and, as she says, "[...] told her that it was as before, that he still loved her, he could never stop loving her, that he'd love her until death." So ends this beautiful and tragic love story. In a "Hollywood" movie, the lovers could have eloped and lived "happy ever after," but this is real life, with its somehow inescapable rules.
+
+
+QUESTIONS
+q: How old is the girl?
+a: ['15 and one half years']
+
+q: Where do the young girl and her family live?
+a: ['Saigon, Vietnam']
+
+q: What does the young girl's mother do?
+a: ['nothing']
+
+q: What hat does the young girl wear?
+a: ["man's pink fedora with a black ribbon"]
+
+q: What race is the girl?
+a: ['White']
+
+q: Where is she scheduled to go go?
+a: ['Saigon']
+
+q: What career did the girl find success in?
+a: ['Writer']
+
+q: What colour does the young girl paint her lips?
+a: ['brilliant red']
+
+q: How many brothers does the girl have?
+a: ['2']
+
+q: What do they realise?
+a: ['That they are in a doomed love affair']
+
+q: What does the young girl dream of being?
+a: ['of being a writer']
+
+q: Which method of transportation does the girl use to return to France?
+a: ['Boat']
+
+q: Where is the girl offered a ride to?
+a: ['Saigon']
+
+q: Where does the boy wait to pick up the girl?
+a: ['Limousine']
+
+q: Where is the Chinese man visiting?
+a: ['His garconnire in Cholen, the Chinese quarter in Saigon']
+
