@@ -34,6 +34,8 @@ class DatasetCollector:
     def __init__(self, scrapeops_api_key) -> None:
         self.SCRAPEOPS_API_KEY = scrapeops_api_key
         self.USE_SCAPEOPS = True # Without scrapeops some website might block simple python requests
+        if scrapeops_api_key == '':
+            self.USE_SCAPEOPS = False
 
     def fetch_html_source(self, url):
         # User agent generator - https://www.useragentstring.com/pages/useragentstring.php

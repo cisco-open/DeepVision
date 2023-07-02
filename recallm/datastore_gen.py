@@ -67,7 +67,7 @@ class DatastoreHandler:
         if reset_collection:
             reset_graph_db(driver=self.driver)
 
-        self.knowledge_crawler = DatasetCollector(api_keys['scrapeops'])
+        self.knowledge_crawler = DatasetCollector(api_keys['scrapeops'] if 'scrapeops' in api_keys else '')
 
         # self.ner_pipeline = create_ner_pipeline()
         self.nltk_pipeline = create_nltk_pipeline()
