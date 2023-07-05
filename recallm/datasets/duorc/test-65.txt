@@ -1,0 +1,41 @@
+PARAGRAPH
+At a government laboratory in rural California, a weaponized version of influenza (called Project Blue) is accidentally released, immediately wiping out everyone on staff except for military policeman Charles Campion, who flees the base with his family. However, Campion is already infected by the superflu, nicknamed "Captain Trips", and spreads it to the outside world. Days later, Campion crashes his car at a gas station in East Texas, where Stu Redman (Gary Sinise) and some friends have gathered. When they investigate, they find Campion dying of the flu next to his wife and baby daughter, who are already dead. Campion tells Stu with his dying breath that he was followed from the base by a mysterious figure and states: "You can't outrun the Dark Man". The next day, the U.S. military arrives to quarantine the town. While the other townspeople quickly become ill and die, Stu remains healthy and is confined at a CDC facility in Vermont, in order to research a possible cure. The research proves futile, and the superflu rages unchecked, causing civilization to collapse and killing over 99% of the entire world's population in less than two months.
+After the infection runs its course, a small group of immune survivors is scattered across the country. These include rock star Larry Underwood (Adam Storke), who has just had his big break but is now stranded in New York City; Nick Andros (Rob Lowe), a deaf man in Arkansas; Frannie Goldsmith (Molly Ringwald), a teenager living in Ogunquit, Maine; Lloyd Henreid (Miguel Ferrer), a criminal stuck in a prison cell in Arizona; and "Trashcan Man" (Matt Frewer), a mentally ill arsonist and scavenger. The survivors soon begin having visions, either from kindly Mother Abagail (Ruby Dee) or from the demonic Randall Flagg (Jamey Sheridan). The two sets of survivors are instructed to either travel to Nebraska to meet Mother Abagail, or to Las Vegas to join Flagg.
+As their journeys begin, Lloyd is freed from prison by Flagg in exchange for becoming his second in command. Trashcan Man, who is a pyromaniac, destroys a set of fuel tanks in Indiana, then much of Des Moines, in order to win Flagg's favor. Larry escapes New York and meets a mysterious woman named Nadine Cross (Laura San Giacomo). Despite their mutual attraction, Nadine is unable to consummate a relationship with Larry because of her visions of Flagg, who commands her to join him as his concubine. Nadine eventually leaves Larry to travel on her own. Stu escapes from the CDC facility and gathers a group of survivors, including Frannie; Harold Lauder (Corin Nemec), a hometown acquaintance of Frannie's; and Glen Bateman (Ray Walston), a retired college professor.
+As the group travels west, Harold grows frustrated at the way that Stu has assumed leadership and grown close to Frannie. Meanwhile, Nick makes his way across the Midwest, eventually joined by Tom Cullen (Bill Fagerbakke), a gentle, mentally challenged man. Eventually, Nick's group reaches Mother Abagail's farm in Hemingford Home, Nebraska. She tells them a great conflict is imminent, and they must all travel on to Boulder, Colorado. There, the various survivors, including Stu, Frannie, and Larry, join with others to form a new community founded on Mother Abagail's teachings. Meanwhile, Flagg sets up an autocratic society in Las Vegas.
+Initially, all is well in Boulder. However, Frannie discovers she is pregnant by her deceased ex-boyfriend, causing her anxiety because she is not sure whether or not her child will be immune to the superflu. Meanwhile, Harold grows increasingly dissatisfied with his life in Boulder and begins experiencing visions from Flagg. He is soon seduced by Nadine and decides to follow Flagg's dictates. Mother Abagail, now the spiritual center of Boulder, becomes convinced that she has fallen into the sin of pride and leaves town to walk in the wilderness. Shortly thereafter, Harold and Nadine plant a bomb in Frannie and Stu's home, and set it off during a meeting of the Free Zone council. Meanwhile, Abagail returns to town greatly weakened and gives a psychic warning to the council members at the meeting. The warning allows most of the council to escape the explosion, but Nick and Susan Stern are killed. In the hospital after the bombing, Mother Abagail tells Stu, Larry, Glen, and fellow council member Ralph Brentner that they must travel to Las Vegas to confront Flagg; then she passes away. Meanwhile, Nadine and Harold make a run for the hills, where Harold dies in an accident created by Flagg, and Nadine is raped by Flagg, who shows his demonic face.
+Flagg returns to Las Vegas with a traumatized Nadine. He becomes increasingly unstable, showing his true face to Lloyd in a rage. Shortly after this, Nadine taunts Flagg's loss of control over the situation, then commits suicide with Flagg's unborn baby inside her. With winter fast approaching, the group of Stu, Larry, Glen, and Ralph set out on their quest. While crossing a washed out road, Stu breaks his leg and stays behind while the others continue. Larry, Glen, and Ralph are soon captured by Flagg's forces and temporarily imprisoned, although Glen is later shot to death for refusing to betray the Boulder group in exchange for his life. Larry and Ralph however, are forced to endure a show trial before being publicly executed in Fremont Street. As they are being tortured, to the delight of Flagg's acolytes, Trashcan Man arrives with a stolen nuclear weapon. As Flagg transforms into a demonic visage, a spectral hand reaches out and detonates the bomb, while the voice of Mother Abagail declares that God's promise has been kept, destroying Las Vegas and apparently killing Flagg. Stu is rescued by Tom, who takes him to a nearby cabin to heal as winter sets in. They eventually return to Boulder in the midst of a blinding snow storm. While Stu is away, Frannie gives birth to a baby who had caught the flu. When Stu arrives back home, the baby, named Abagail (after Mother Abagail), survives the flu.
+With the end of both Captain Trips and Flagg, Stu, Frannie, and the other survivors work on rebuilding their lives.
+
+
+QUESTIONS
+q: What does Trashcan Man do to win Flagg's favor?
+a: ['Destroy fuel tanks in Indiana, and most of Des Moines Iowa']
+
+q: Why is Glen shot to death?
+a: ['He refuses to betray the Boulder group']
+
+q: Where does Stu get confined?
+a: ['the CDC facility in Vermont']
+
+q: What must Lloyd become in exchange for having been freed from prison?
+a: ["Flagg's second-in-command."]
+
+q: Who does Frankie name her baby after?
+a: ['Mother Abagail']
+
+q: What is the name of the weaponized version of influenza that is accidentally released at a government laboratory in California?
+a: ['Project Blue']
+
+q: Who rescues Stu then takes him to a cabin to heal?
+a: ['Tom']
+
+q: Why was Glenn shot to death?
+a: ['refusing to betray the Boulder group']
+
+q: What is Campion's nickname?
+a: ['Captain Trips']
+
+q: What is Project Blue?
+a: ['weaponized version of influenza']
+

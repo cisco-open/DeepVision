@@ -1,0 +1,72 @@
+PARAGRAPH
+Wade Whitehouse (Nick Nolte) drives his daughter Jill (Brigid Tierney) to a Halloween party, as his brother Rolfe (Willem Dafoe) narrates the opening story. Wade is the sheriff of Lawford, a small New Hampshire town, and knows everyone in town. Wade is divorced from his wife, and Jill doesn't want to be at the party. Wade runs into his friend Jack (Jim True-Frost), who's planning to take hunting party out the following day.The next day, Jack tries to bolster his hunting guest's (Sean McCann) confidence while Jack appears a bit shaken from his daughter's rebellion. Wade also operates the town snow plow, and hears about a hunting accident with Jack and his guest Twombley. Wade and Gordon LaRiviere (Holmes Osborne) head to the woods and hear that Twombley was shot dead. Gordon wants to keep a lid on the accident, but Wade starts asking questions.Wade finds out that Twombley was scheduled to testify against organized crime. He talks to his brother Rolfe and says he's getting a divorce lawyer and may start to "bite back". He serves a traffic violation to Mel Gordon, who's Trombley's son-in-law, who threatens to get Wade fired. Wade continues to probe for the truth. Wade spends time with Margie Fogg (Sissy Spacek), and wants to marry her. He tests his theories to her, but she thinks he's crazy.Through various flashbacks, we learn that Wade and Rolfe's father Glen (James Coburn) was an abusive drunk. Wade takes Margie to see his folks. His father is still a drunk, and his mother (Joanna Noyes) is dead. Rolfe breaks the news to his sister Lena (Martha-Marie Kleinhans), and the remaining family gathers together. Glen lashes out at his sons and daughter in grief, and Wade threatens him. Wade and his ex-wife Lillian (Mary Beth Hurt) have a tense discussion at the funeral.Rolfe and Wade talk about the murder, and Rolfe thinks Mel (the victim's son-in-law) organized the hit to keep potential illicit affairs from becoming public. Jack covered it up so as not to lose his hunting license.Mel Gordon talks to Wade's boss, and Wade reviews his custody case with his lawyer (Eugene Lipinski). Afterwards, Wade's boss offers him a new car and tries to keep Wade from prosecuting Mel. Wade now believes Gordon is in cahoots with Mel and Jack. Later, Wade follows Jack in his car and confronts him. Jack pulls out a rifle and shoots Wade's tires.Wade returns to Margie's diner, where she's babysitting Glen. Glen is belligerent, and they fight. He calls Rolfe and describes his latest theory. Wade goes to Alma Pittman (Marian Seldes), who explains that Glen's land and the area around it is being bought by Gordon and Mel. Wade confronts Gordon and Jack in Gordon's office, then storms out, fired by Gordon. Rolfe's advice is to take care of small things, like his recurring toothache and broken transmission. Glen and Margie argue, and Wade finally pulls his tooth with pliers.Wade picks up Jill for visitation, and Lillian is angry about the lawyer. Jill doesn't want to spend time with Wade, and he gets angry. His world is falling apart. Margie leaves him, and Wade strikes Jill. After they leave, Glen and Wade fight, and Wade clubs Glen, killing him. Numbly, Wade douses Glen in gasoline and sets him and the garage on fire. He walks into the kitchen, pours himself a drink, and watches it burn.Rolfe narrates the end of the story. Wade kills Jack, thinking his theories were correct. Lawford is now a zone near the ski resort built by Gordon LaRiviere and Mel.Wade's whereabouts are unknown.(previous synopsis)
+The real drama takes place inside the mind of the lead character, Wade. "What is real?" is the fascinating question here. How far do we go to rationalize our acts and desires? This flick is definitely worth watching from a psychological standpoint!
+
+
+QUESTIONS
+q: Who murdered Jack?
+a: ['Wade']
+
+q: Through the film what are the flaskbacks?
+a: ["Wade and Rolfe's alcoholic father"]
+
+q: Who does Jill leave with?
+a: ['Wade']
+
+q: What does Jack threaten Wade with?
+a: ['rifle']
+
+q: What happens to Jill when Wade pushes her?
+a: ['causing her nose to bleed']
+
+q: What does Rolfe suggest at first?
+a: ["at first that Wade's murder theory could be correct"]
+
+q: Who kills Wade's father?
+a: ['Wade']
+
+q: What is Wade's occupation?
+a: ['Wade is the sheriff of Lawford.']
+
+q: Why does Wade attack the bartender?
+a: ['he jokingly insults Wade']
+
+q: Who did Wade accidentally kill?
+a: ['Glen']
+
+q: Where does Wade burn the corpse?
+a: ['garage']
+
+q: What is Jake's job?
+a: ['none']
+
+q: Who rushed to the scene of a crime?
+a: ['Wade and Gordon LaRiviere rush to the scene of a crime.']
+
+q: Who is Wade's father?
+a: ["Glen is Wade's father."]
+
+q: Who is Gordon Lariviere?
+a: ['architect']
+
+q: What type of weapon did Jack have?
+a: ['Rifle']
+
+q: Who is narrating the story?
+a: ['Wade', 'Rolfe Whitehouse']
+
+q: Does Wade forget about his conviction?
+a: ['yes']
+
+q: What type of job did Wade get fired from?
+a: ['He was not fired']
+
+q: Who did Wade meet on halloween?
+a: ['Wade meets Jack.']
+
+q: Why is Wade fired from his police job?
+a: ['Traffic violation']
+
+q: Where did Wade burn the corpse?
+a: ['garage']
+

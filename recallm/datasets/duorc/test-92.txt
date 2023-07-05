@@ -1,0 +1,11 @@
+PARAGRAPH
+(spoilers!!!!)the movie starts out with Zack, an out-of-work cant be pleased with anyone or anything radio DJ who has just gotten kicked out of his girlfriends apartment. Angry and upset, he gets nearly wasted and stays out in front of a local bar, where a mob boss gives him 2000 dollars to drive "a clean car" from Point A (The Bar) to Point B (the next city over), little does Zack know that inside of the trunk contains a dead body. Because Zack is drunk, the cops pull him over, search the car, and take him directly to prison.Cut to a scene of a local pimp named Jack, attempting to cut a deal with a customer. This man is big stuff around the city and has lots of enemies. Cut to the next scene where the phone rings, and one of Jacks enemies tells him of a girl whos interested in "working for him". Jack goes to the hotel to find that the girl is a little child, and that this was a police set-up to nail Jack.Cut to the next scene where Zack, sitting in jail is introduced to Jack the pimp. And later on we meet Roberto, an Italian man who committed manslaughter.After months of rotting in prison, Roberto finds a way for the men to escape.The rest of the movie is them running from the law, and how they escape and the fate of the three men
+
+
+QUESTIONS
+q: What city are Zack, Jack and Bob arrested in?
+a: ['Italy']
+
+q: Who escapes the prison with Zack and Jack?
+a: ['Roberto']
+

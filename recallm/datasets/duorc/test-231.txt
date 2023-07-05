@@ -1,0 +1,29 @@
+PARAGRAPH
+On Mars in the year 2046, in the Union Aerospace Corporation (UAC)-owned Olduvai Research Facility, scientists are attacked and pulled into the darkness by an unseen monster. Doctor Carmack (Robert Russell) transmits a warning about a Level 5 security breach before the door behind him is torn open. He turns around and sees something through the gap.On Earth, a team of eight Marines known as the RRTS (Rapid Response Tactical Squad) are preparing to go on leave. Their leave is cancelled when the squad leader, Sarge (Dwayne Johnson), receives new orders. Contact with Olduvai has been lost and the RRTS is being sent to investigate. The Mars station is quarantined and the 85 UAC employees on Mars are not allowed to return to Earth. As the men suit up, Sarge pulls aside John "Reaper" Grimm (Karl Urban) and asks him not to go because Reaper's sister is on the station. Reaper suits up anyway, and their team is deployed to Mars via a teleportation device called the "Ark", located at Area 51. The Ark was discovered in 2026, and scientists have been studying it. The team meets an early victim of the Ark system, Pinky (Dexter Fletcher), who "went to one galaxy while his ass went to another" (his lower torso now a two-wheeled engine resembling a Segway) during an Ark teleportation event. They meet up with Dr. Samantha Grimm (Rosamund Pike), Reaper's sister.Their mission is simple: eliminate the threat, secure the facility and retrieve UAC property. Reaper converses with his sister and learns that they discovered humanoid remains on Mars that contain a 24th chromosome, making the creatures superhuman, invulnerable to disease and with the ability to rapidly heal injuries. The team locates Carmack, who is deranged to the point of tearing off his own ear. They return him to the lab and Grimm tries sedating him. The Marines explore the facility, encountering creatures intent on killing them. An Imp slays Goat (Ben Daniels) before being killed and brought to Grimm. Blood samples taken from two hostile creatures reveal that they were human. Grimm determines that their genetics have been altered by the addition of the Martian chromosome; however, the chromosome seems to "choose" whether it causes the person to be superhuman or a monster, apparently able to determine on a genetic level whether a person has the capacity to be evil. The chromosome is spread by the projectile tongues of those infected. The Marines discover that Carmack deliberately injected the chromosome into an "evil" subject (prisoner Curtis Stahl, a multiple murderer), who later transformed and broke loose.Multiple attacks by the Imps kill Mac, Destroyer and Portman, reducing the squad to Sarge, Reaper, The Kid (Al Weaver), Duke (Raz Adoti) and Grimm. The surviving team realize that a Hell Knight has escaped through the Ark to the Earth due to Pinky's refusal to trigger a grenade Mac left with him to destroy the Ark. Sarge takes the Bio Force Gun, dubbing it the "Big Fucking Gun".The group finds the UAC facility on Earth full of corpses. Sarge orders his men to kill anything alive in order to prevent the infection from spreading. The Kid finds a group of non-infected humans, and Sarge kills him for insubordination when he refuses to kill them. Pinky reappears, aiming a pistol at Sarge, but is dragged off by a monster.Zombies attack, killing Duke and dragging Sarge through a malfunctioning bulletproof screen. Reaper is hit by a ricochet. To save his life, Grimm injects Reaper with Chomosome 24. Instead of becoming a monster, Reaper awakens as a superhuman with enhanced strength and healing abilities.Following Reaper's transformation and the discovery that Grimm is missing, the movie takes on a first-person shooter perspective. Within a few minutes, Reaper slays an array of monsters, including Pinky, who has mutated into a Demon dragging his lower mechanism behind it.Switching back to a standard camera angle, Reaper emerges at the facility's exit. Bodies are scattered everywhere, and a melted blue hole in the wall, the mark of a BFG blast, is still cooling. Reaper encounters Sarge and an unconscious Grimm lying on the floor. Reaper asks Sarge what happened to the non-infected survivors, to which he replies that he killed them. Reaper notices the same injury on Sarge that Carmack had before he turned into an Imp, something Sarge has been hiding. After a badly injured Grimm crawls to safety, the Marines face off. As he holds Reaper against the wall Sarge begins transforming, developing features such as a prominent skull structure, sharp teeth and red eyes. Reaper throws Sarge into the Ark, followed by a grenade. Sarge and the Ark are obliterated. Reaper retrieves Grimm, who is conscious but unable to walk, and holds her in his arms as he returns to the Earth's surface.
+
+
+QUESTIONS
+q: Where is the research facility?
+a: ['Mars']
+
+q: Who do the marines find ?
+a: ['Dr. Carmack']
+
+q: Who gets killed along with a creature ?
+a: ['Sarge']
+
+q: Who do Sam and Reaper try to convince the creatures are human?
+a: ['Sarge.']
+
+q: What does Sam inject Reaper with?
+a: ['Chromosome 24.']
+
+q: Who was killed at the dig site?
+a: ['parents']
+
+q: Who kills Sarge?
+a: ['Reaper.']
+
+q: What do they find out about the creature during autopsy
+a: ['organs']
+

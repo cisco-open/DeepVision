@@ -1,0 +1,25 @@
+PARAGRAPH
+Sir Geoffrey Radcliffe (Vincent Price) is sentenced to death for the murder of his brother Michael, a crime he did not commit. Dr. Frank Griffin, the brother of the original invisible man (named John instead of Jack), injects the prisoner with an invisibility drug. As Radcliffe's execution nears, he suddenly vanishes from his cell. Detective Sampson (Cecil Kellaway) from the Scotland Yard guesses the truth while Radcliffe searches for the real murderer before the drug causes him to go insane.
+The Radcliffe family owns a mining operation. The recently promoted employee Willie Spears (Alan Napier) is promoted within the company, stirring Radcliffe's suspicions. After forcing Spear's car off the road, Spears is scared into revealing that Richard Cobb (Sir Cedric Hardwicke), Radcliffe's cousin, is the murderer. After a confrontation, a chase scene ensues during which Radcliffe is struck by a bullet from Sampson. Cobb is killed falling from a coal wagon, but not before confessing to the murder.
+Radcliffe, dying from blood loss and exposure, makes his way to Dr. Griffin. A transfusion of blood makes Radcliffe visible, allowing the doctor to operate and save his life. (Vincent Price actually only appeared in the film for one minute, and spent the remainder of the movie as a disembodied voice.)
+
+
+QUESTIONS
+q: What is Geoffrey Radcliffe convicted for?
+a: ['The murder of his brother Michael']
+
+q: Who created the invisibility serum?
+a: ['John Griffin']
+
+q: Who did Radcliffe kidnapped in order to uncover the truth?
+a: ['Willie Spears']
+
+q: Who created the invisibility serum that is injected into Radcliffe?
+a: ['Frank Griffin']
+
+q: Who does Radcliffe kidnap?
+a: ['Willie Spears']
+
+q: Who is Geoffrey Radcliffe's fiance?
+a: ['no fiance']
+

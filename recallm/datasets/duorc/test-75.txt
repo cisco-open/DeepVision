@@ -1,0 +1,29 @@
+PARAGRAPH
+After rescuing U.S. Marshal Ray Carter (Robert Patrick) in Mongolia, the Angels: Natalie Cook (Cameron Diaz), Dylan Sanders (Drew Barrymore), and Alex Munday (Lucy Liu), together with John Bosley's adoptive brother Jimmy Bosley (Bernie Mac), are sent to recover H.A.L.O. (Hidden Alias List Operation) titanium rings stolen from the United States Department of Justice which can display the people listed in the witness protection program. DOJ official William Rose Bailey (Bruce Willis) and a protected witness, Alan Caulfield (Eric Bogosian) are among those killed. At Caulfield's house in San Bernardino, the Angels track his assassin Randy Emmers (Rodrigo Santoro) to a beach where they meet with former Angel Madison Lee (Demi Moore). During the Coal Bowl motorcycle race, Emmers targets another witness named Max Petroni (Shia LaBeouf), but is killed by the Thin Man (Crispin Glover). Inside Emmers' pocket, the Angels discover the photos of Caulfield, Max, and, surprisingly, Dylan, under her birth name, Helen Zaas.
+Dylan reveals that she is a protected witness after sending her former boyfriend, Irish mob leader Seamus O'Grady (Justin Theroux), to prison. O'Grady has since targeted those who wronged him, including Dylan and Max, whose parents O'Grady killed. Max is sent to the home of Bosley's mother (Ja'net Dubois) for his protection. At a monastery, the Angels learn about the Thin Man's past from the Mother Superior (Carrie Fisher). Afterward, the Angels track O'Grady's mob at San Pedro and manage to get the rings, but O'Grady threatens Dylan with the murder of everyone she loves. While Natalie attends her boyfriend, Peter Kominsky (Luke Wilson)'s high school reunion at Hermosa Beach and Alex returns home to find her action star boyfriend-under-timeout, Jason Gibbons (Matt LeBlanc) telling her awestruck father (John Cleese) about her exploits, Dylan leaves the Angels and heads to Mexico. She is, however, convinced to return after seeing an apparition of former Angel Kelly Garrett (Jaclyn Smith).
+Natalie and Alex deduce that Carter is a part of O'Grady's scheme after seeing him return Bosley's keys. Following him, the two witness him being shot by Madison, the true mastermind behind all of this. Though Dylan arrives to back the group, the Angels are shot by Madison, who take the rings, though they survive by having worn Kevlar vests beforehand. The Angels realize that Madison, with the protection of O'Grady, is going to sell the rings to the Antonioni Crime Family, the Tanaka Yakuza, and the Diablo Cartel at the Hollywood Walk of Fame, where Jason's film's premiere is about to commence. The Angels set the three groups up to be arrested by the FBI instead, while they confront Madison and O'Grady. O'Grady kills the Thin Man, but Dylan manages to throw him down to his death. The Angels fight Madison all the way to an abandoned theater, where they kick her to a gas-filling chamber, with her dooming herself by shooting her bullets, exploding it.
+The Angels attend the premiere where they learn that Mama Bosley is adopting Max. Peter postpones his engagement with Natalie by buying for them a puppy named Spike while Alex terminates her timeout with Jason. The Angels celebrate their victory together with Bosley.
+
+
+QUESTIONS
+q: Who does Dylan have a dark past with?
+a: ["O'Grady", 'Caufield and Max', "Seamus O'Grady"]
+
+q: Where was the confrontation?
+a: ['Hollywood Walk of Fame', 'No asnwer', 'Coal Bowl Motercycle race']
+
+q: Where does the confrontation with Madison occur?
+a: ['The Beach', 'abandoned theater']
+
+q: Who is the fallen angel?
+a: ['Madison']
+
+q: Who does Madison have a grudge against?
+a: ['Carter']
+
+q: Who is responsible for the deaths of witnesses include William Rose Bailey and Alan Caulfield.
+a: ['Randy Emmers']
+
+q: Who is Madison's boss?
+a: ["O'Grady", 'Bosley']
+

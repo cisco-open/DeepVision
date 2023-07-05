@@ -1,0 +1,74 @@
+PARAGRAPH
+Soap opera producer Donovan Donaly (Geoffrey Rush), comes home to find his wife (Stacey Travis), Bonnie, getting it on with a pool cleaner named Ollie (Jack Kyle). Donaly brandishes a gun to shoot Ollie, but his wife stabs him in the bum with his own pointy Lifetime Achievement Award trophy. Ollie and Bonnie run away while Donaly shoots at them from a balcony, later taking pictures of his wounded behind as proof that his wife attacked him first.Miles Massey (George Clooney) is the U.S.'s top divorce attorney, creator of the Massey Pre-Nup, a prenuptial agreement which has never been successfully challenged, meaning that no party to it can benefit financially in the event of a divorce. Massey becomes Bonnie's lawyer, assuring her he will win the divorce case and leave Donovan with nothing. During a trial hearing, Massey confides to his associate, Wrigley (Paul Adelstein), that he is in the throes of a mid-life crisis, and is feeling bored with life. He compares himself with Attila the Hun, Ivan the Terrible, and Henry the VIII, all of whom destroyed all their opponents. Miles has done everything, seen everything, bought everything; he is seeking the ultimate challenge.Meanwhile, Rex Rexroth (Edward Herrmann) is having a sexual role-play session with a blonde temptress in a cheap motel when private investigator Gus Petch (Cedric the Entertainer) bursts into the room with a video camera and records everything. He brings the video to Rex's wife, Marylin (Catherine Zeta-Jones), who remains very calm and reveals that the video is her ticket to wealth and independence. While Rex tries to talk to Marylin, she sends her Rottweilers to chase him off their property. Rex seeks counsel from Miles Massey, who assures him that, despite the video, he will win the divorce case. Marylin consults with her girlfriends, fellow wealthy serial divorcées, including Sarah Sorkin (Julia Duffy), who warns Marylin to beware of Miles Massey.After Marylin and her lawyer, Freddy Bender (Richard Jenkins), fail to reach an agreement with Miles, Rex, and Wrigley on a divorce settlement, Miles asks Marylin to dinner, where he decides that she is the challenge he's been looking for, and hires Gus Petch to take pictures of her diary. Later, in divorce court, Miles exposes Marylin's calculating life by presenting a witness named Baron Von Espy (Jonathan Hadary), who testifies that she asked him several years ago to find her a rich husband who could be easily manipulated. Having wound up with nothing from the divorce, Marylin swears revenge on Miles and contacts Donovan Donaly, now living on the street, to help her; while meanwhile Miles's boss, Herb Myerson (Tom Aldredge), congratulates and praises him lavishly for his fine work.Soon after, Marylin shows up at Miles's office with her new fiancé, oil millionaire Howard D. Doyle (Billy Bob Thornton). She signs the Massey Pre-Nup and invites Miles to their wedding. During the ceremony, Howard rips up the pre-nup and eats it in a flamboyant demonstration of his love. But not long after the wedding, Marylin divorces Howard and takes most of his money, making her very rich.Months pass. Marylin bumps into Miles at a convention of divorce attorneys in Las Vegas. They discover that they're both lonely despite their wealth; she also reveals that her best friend, Sarah Sorkin, has died of an aggravated ulcer. Miles is besotted with Marylin and marries her on the spur of the moment. Happy and content in their new marriage, they presumably need no pre-nup. Miles has become a changed man and decides to abandon divorce suits in favor of pro-bono work in East Los Angeles. However, while celebrating this decision, he discovers that Howard D. Doyle is in fact an actor from one of Donaly's soap operas, and not really an oil millionaire. It turns out that Marylin has no money of her own, and even her friend Sarah Sorkin is still alive: Marylin has thoroughly tricked Miles and now his wealth is exposed to Marilyn's asset stripping.Miles' boss is most displeased with this turn of events and demands that something be done about it as Marylin has humiliated their law firm. The boss hires hitman Wheezy Joe (Irwin Keyes) to kill Marylin, but before the plan is completed, Miles learns that Marylin's ex-husband Rex Rexroth has died of a heart attack, leaving millions to Marylin. As Miles now stands to benefit from a divorce, he attempts to stop the assassination, with tragically comic results. At the end, Miles and Marylin meet at a divorce attorney's office to hammer out a deal. Miles is still in love with Marylin and shows his trust in her by retroactively signing a pre-nup, which Marylin destroys, and they kiss and reconcile. Marylin tells Miles that she suggested to Donovan Donaly a TV show about divorce à la America's Funniest Videos starring Gus Petch. The show is a success, and everyone lives happily ever after.(Adapted from Wikipedia)
+
+
+QUESTIONS
+q: Who has Marylin divorced?
+a: ['Rex']
+
+q: Who is Bonnie with when Donovan Donaly comes home as a surprise?
+a: ['Ollie the pool cleaner']
+
+q: What is the name of the hit TV show?
+a: ["America's Funniest Videos"]
+
+q: Who insists on the prenup?
+a: ['Miles']
+
+q: What does Marilyn want in return for helping Donaly?
+a: ['money']
+
+q: Who has been hired by Miles?
+a: ['Gus Petch']
+
+q: Where does Miles go, to give the keynote address at a convention for divorce attorneys?
+a: ['East Los Angeles']
+
+q: How does the prenup effect Marilyn in case of a divorce?
+a: ['no party to it can benefit financially in the event of a divorce']
+
+q: Who does Gus Petch trail?
+a: ['Rex Rexroth']
+
+q: What is the profession of Gus Petch?
+a: ['private investigator']
+
+q: Who has tricked Miles?
+a: ['Marilyn']
+
+q: What does Marilyn do with the Massey prenup?
+a: ['destroy']
+
+q: Why does Howard destroy the prenup?
+a: ['a demonstration of his love']
+
+q: Who gets nothing from the divorce?
+a: ['Marilyn']
+
+q: Who is Marilyn's ex-husband?
+a: ['Rex Rexroth']
+
+q: Which actor plays the character Howard D.  Doyle
+a: ['Billy Bob Thorton']
+
+q: Who objects to the prenup?
+a: ['Marilyn']
+
+q: Who does Marylin want revenge on?
+a: ['Miles']
+
+q: What is Freddy's occupation?
+a: ['lawyer']
+
+q: What does Marylin tear up?
+a: ['pre nup']
+
+q: Who is Howard Doyle in relation to Marilyn?
+a: ['husband']
+
+q: What is Miles Massey the inventor of?
+a: ['Massey Pre-Nup']
+
+q: Who does Marylin find living on the street?
+a: ['Donovan Donaly']
+

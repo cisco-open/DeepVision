@@ -1,0 +1,38 @@
+PARAGRAPH
+A German-made prison bus used by the NKVD for transport of prisoners; the bus was reconstructed for the purpose of the film.
+The events of Katyn are relayed through the eyes of the women, the mothers, wives, and daughters of the victims executed on Stalin's orders by the NKVD in 1940.
+Andrzej (Artur Zmijewski) is a young Polish captain in the 8th Uhlan Regiment of Duke Jozef Poniatowski, who keeps a detailed diary. In September 1939, he is taken prisoner by the Soviet Army, which separates the officers from the enlisted men, who are allowed to return home, while the officers are held. His wife Anna (Maja Ostaszewska) and daughter Weronika, nicknamed "Nika" (Wiktoria GÄsiewska), find him shortly before he is deported to the USSR. Presented with an opportunity to escape, he refuses on the basis of his oath of loyalty to the Polish military.
+Helped by a sympathetic Soviet officer, Anna manages to return to the family's home in Cracow with her daughter. There, the Germans carry out Sonderaktion Krakau, shutting down Jagiellonian University and deporting professors to concentration camps. Andrzej's father is one of the professors deported; later, his wife gets a message that he died in a camp in 1941.
+In a prisoner of war camp, Andrzej is detained for a while and continues to keep a diary. He carefully records the names of all his fellow officers who are removed from the camp, and the dates on which they are taken. During the winter, Andrzej is clearly suffering in the low temperature, and his colleague Jerzy (Andrzej Chyra) lends him an extra sweater. As it happens, the sweater has Jerzy's name written on it. Finally, Andrzej's is taken from the camp, while Jerzy is left behind.
+In 1943, the population of Cracow is informed by the occupying power about the Katyn massacre. Capitalizing on the Soviet crime, the Nazi propaganda publishes lists with the names of the victims exhumed in mass graves behind the advancing German troops. Andrzej's name is not on the list, giving his wife and daughter hope.
+After the war, Jerzy, who has survived, has enlisted in the Peoplesâ Army of Poland (LWP), which is under the complete control of the pro-Soviet Polish United Worker's Party. He feels personal loyalty to his friends, loves his country, and has sympathy for those who have suffered. He visits Anna and her daughter to tell them that Andrzej is dead. Apparently, when the list of the names of the victims was compiled, Andrzej was misidentified as Jerzy on the basis of the name in the sweater that Jerzy had lent to Andrzej; it was Andrzej who was killed, not Jerzy. Despondent that he is now forced to acknowledge a lie and to serve those who killed his comrades in Katyn, Jerzy commits suicide.
+Evidence of Soviet responsibility for the Katyn massacre is carefully concealed by the authorities. However, a few daring people working with the effects of the victims eventually deliver Andrzej's diary to his widow Anna. The diary clearly shows the date in 1940 when he must have been killed from the absence of entries on subsequent days. The date of the massacre is crucial for assigning responsibility: if it happened in 1940, the USSR controlled the territory, while by mid-1941 the Germans took control over it.
+The film ends with a re-enactment of parts of the massacre, as several of the principal characters are executed along with other soldiers.
+The film includes excerpts from German newsreels presenting the Katyn massacre as a Soviet crime, and excerpts from Soviet newsreels presenting the massacre as a German crime.
+
+
+QUESTIONS
+q: Why did Jerzy guess Andrzej  his sweater?
+a: ["Andrzej was cold, but the sweater has Jerzy's name written on it", 'Andrzej is cold']
+
+q: Who did the sweater belong to?
+a: ['Jerzy']
+
+q: Who tells the story through the woman's eyes who tells the story through the woman's eyes?
+a: ['Andrzej']
+
+q: What is the date of the last entry in the diary?
+a: ['1940']
+
+q: How many families are featured in the movie?
+a: ['Two']
+
+q: What year did Germany take control of Poland?
+a: ['1941']
+
+q: Which army took Andrzej and Jerzy prisoner?
+a: ['Soviet Army']
+
+q: What was the name of Andrzej's wife?
+a: ['Anna']
+

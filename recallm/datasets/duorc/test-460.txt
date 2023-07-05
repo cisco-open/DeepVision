@@ -1,0 +1,38 @@
+PARAGRAPH
+Seven Tulane University undergraduates â Sara, Nick, Beth, Malik, Maya, Blake and Gordon â drive to Sara's family vacation home on a private lake. There, Sara encounters her old boyfriend, Dennis, and his friend Red. Nick, Blake, Malik and Maya go wake-boarding when a shark attacks Malik. He is able to swim back to shore â missing his right arm. When Nick swims into the lake to retrieve Malik's arm, he is pursued by the shark, barely making it to shore. Being a pre-med student, he stabilizes Malik, and they all take him to the hospital. Blood from Malik's wound attracts a shark that attacks the boat. Maya (Malik's girlfriend who he was about to propose to) is knocked into the water and eaten. The shark damages the steering column of the boat, causing it to crash in front of the boathouse. Sara, Nick and Malik make it to shore. Dennis and Red arrive and agree to take Beth and Gordon to the mainland. During the boat trip, Dennis reveals that he and Red put the sharks in the lake and feed college students to them. Dennis forces Gordon into the water by shooting him; he swims to a mangrove tree but is devoured by a bull shark. Red and Dennis force Beth to strip down and feed her to cookiecutter sharks. Malik arms himself with a harpoon and ventures into the water to kill the shark that killed Maya. His wound attracts a hammerhead shark; he kills it but is further wounded. Nick and Blake pull the shark to shore, and Nick finds a camera attached to its belly. Blake decides to take Malik to the mainland on a jet ski. When they are pursued by sharks, Malik sacrifices himself and later Blake is killed by a great white shark. Sheriff Sabin visits Sara and Nick and gives them soup, which makes Nick and Sara's dog, who has also eaten the soup, pass out. Sara hears Dennis and Red speaking from Sabin's radio, describing Beth's death. Dennis and Red then appear and take Sara to their boat, while Sabin prepares to dunk Nick into the lake, where sand tiger sharks wait. Sabin reveals that he, Dennis and Red have been inspired by the Discovery Channel's Shark Week and Faces of Death videos to film people being eaten by sharks. Nick is able to break free and ignite a can of gas. Badly burned, Sabin plunges into the lake and is eaten by a sand shark. Dennis reveals the reason why he is bitter at Sara: three years ago, while they were dating Sara had to go off to college and she and Dennis had a farewell swim at their favorite diving spot. The day is ruined when Sara almost drowns and Dennis, who is angry with her for having to leave him, refuses to help her. As revenge she runs him over with a jet ski, damaging half his face. Red throws her dog into the water and soon after Dennis calls up Carl, the man from the bait shop, telling him to release another great white shark, Dennis and Red lower her into the lake in a shark cage. As Dennis is about to release her, Nick arrives and takes Red hostage. After a scuffle during which Dennis kills Red in order to catch Nick offguard, Nick shoves Dennis into the water and tries to set Sara free but Dennis appears and tries strangling him. Nick escapes as a great white shark devours Dennis. Nick kills the shark and frees Sara. Nick, Sara, and Sara's dog swim to the boat, having survived. A distance away, a great white shark breaches, signifying that sharks remain in the lake.
+
+
+QUESTIONS
+q: Whom did Dennis and Red take to the boat?
+a: ['Malik']
+
+q: What attacks Malik?
+a: ['a shark attacks Malik.']
+
+q: What type of pet does Sara have? And what happens to it?
+a: ['Sara has a pet dog and it gets thrown into the lake by Red.']
+
+q: What part of the boat does the shark damage?
+a: ['The steering column']
+
+q: What did Nick and Blake find attached to the sharks belly?
+a: ['A camera']
+
+q: What college do the students attend?
+a: ['Tulane University']
+
+q: What happens to Malik?
+a: ['His arm is bitten off and later he sacrifices himself']
+
+q: What happens to Dennis?
+a: ['A great white shark devours him']
+
+q: Why does Nick swim back into the lake?
+a: ["to retrieve Malik's arm"]
+
+q: Whose dog swim to the boat?
+a: ["Sara's dog,"]
+
+q: Who is able to swim back to shore missing his right arm?
+a: ['Malik']
+

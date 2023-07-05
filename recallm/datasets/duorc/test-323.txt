@@ -1,0 +1,35 @@
+PARAGRAPH
+Neil Shaw (Snipes)is an operative for the United Nations's covert dirty-tricks squad, using espionage and quasi-ethical tactics to secure peace and cooperation. In Hong Kong, Shaw infiltrates a Chinese New Year party held by Chinese business mogul David Chan (Tagawa) and covertly hacks an office laptop of a North Korean Defense Minister, and blackmails him with the misappropriation of U.N. aid money, in exchange for continuing negotiations with South Korea. Shortly after being discovered, Shaw fights his way out of the party, and suffers a gunshot wound to his shoulder during extraction.Six months later, a shipping container full of dead Vietnamese refugees from Hong Kong turns up on the New York docks on the week as the China's trade agreement with the U.S. Shaw's boss, Eleanor Hooks (Archer) suspects Chinese ambassador Wu's (Hong) connection with the Chinese Triad, and assigns Shaw to plant a bug on Wu during a banquet held by Chan. During the trade agreement banquet, Wu is gunned down, Chan is shot in the arm, and Shaw pursues a masked gunman. During the pursuit, Shaw's teammate Robert Bly (Biehn) supposedly corners the gunman, but perishes, and Shaw is arrested by the NYPD. In the middle of a prison transfer, FBI agent Frank Capella's (Chaykin) van is disabled by a roadside bomb, and an unconscious Shaw is captured by Triad members to be framed of the murder and disposed of. Shaw regains consciousness and frees himself from captivity, only to find his last remaining team member, Jenna Novak (Liliana Komorowska) murdered by a Chinese hitman. Shaw kills the hitman, recovers the audio file, and secures weapons and equipment from Novak's hidden armory. Shaw seeks out Julia Fang's (Matiko) help after reading a news article stating Shaw's innocence. Shaw manages to save Fang from an ambush by a Chinese hitwoman at a hospital.With Fang's aid, Shaw finds a Triad-owned bakery serving as a front for a Gentleman's club, setting up an unlikely alliance with Capella, as well as retrieving video footage of Chan's role in derailing the trade agreement. Fang delivers the evidence to Hooks while Shaw confronts Chan at the same hotel serving as the banquet. Chan is shot dead by a masked gunman while being interrogated by Shaw. The pursuit ends when Shaw finds a scanner that is tuned to a tracking device embedded in Shaw's gunshot wound before being ambushed by Bly. Bly reveals himself as the assassin at the banquet, and also engineered the tracking device implant from an earlier basketball game injury. Hooks reviews the evidence, and reveals that she and Chan were the masterminds behind the conspiracy. A disgusted Fang tries to leave, but attempts to hide from Bly only to be locked in a bathroom.Shaw eventually figures out Hooks's role behind the conspiracy and approaches Capella with his findings. Shaw uses Capella's business card to surgically remove his tracking device, and gives the Triads a business proposition. Shaw breaks into the U.N. building, and enters into a shootout and hand-to-hand fight with Bly, where the latter dies after falling on a glass shard from a broken glass pane. The following day, Shaw calls Hooks in her limousine and lectures her on a lesson in karma, revealing that Shaw's business proposition to the Triads was to assassinate Hooks for her betrayal. Shaw later has his death faked before reuniting with Fang in France, but is monitored by an unknown spy.
+
+
+QUESTIONS
+q: Who was going to be ambushed by a Chinese hitwoman?
+a: ['Fang']
+
+q: Where is Shaw shot at while fighting his way out of the party?
+a: ['shoulder']
+
+q: Where do Shaw and Fang reunite at?
+a: ['France']
+
+q: Shaw was assigned to plant a bug on who?
+a: ['Wu.']
+
+q: Who is Shaw's boss?
+a: ['Elanor Hooks.']
+
+q: What is Frank Capella's profession?
+a: ['FBI agent']
+
+q: Shaw removes the tracking device with what?
+a: ["Capella's business card."]
+
+q: How did Bly die?
+a: ['Falling on a glass shard.']
+
+q: What kind of party does Shaw infiltrate?
+a: ['Chinese New Year']
+
+q: What kind of party was Shaw at when he hacked into a laptop?
+a: ['Chinese New Year']
+

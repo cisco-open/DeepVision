@@ -1,0 +1,1 @@
+{"grader_name": "gpt", "question_samples": 1, "num_questions": 1, "graded_questions": 3, "q0": {"quesiton": "Which major religion is the focus of this film?", "answer": "['Islam']", "recall": 0, "vectordb": 0, "hybrid": 0}, "recall_correct": 0, "vectordb_correct": 0, "hybrid_correct": 0, "recall_accuracy": 0.0, "vectordb_accuracy": 0.0, "hybrid_accuracy": 0.0}

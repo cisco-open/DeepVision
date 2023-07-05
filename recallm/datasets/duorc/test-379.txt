@@ -1,0 +1,68 @@
+PARAGRAPH
+Barry Newman plays a car delivery driver named Kowalski who works for Argo's Car Delivery Service in Denver, Colorado and is assigned to deliver a white 1970 Dodge Challenger to San Francisco. Flashbacks which appear throughout the movie hint that he has either lost everything he has ever wanted and was reduced to taking the job of a car delivery driver as a last resort, or he is (what is called today) an adrenaline junkie. He is a Medal of Honor winning Vietnam veteran, a former law enforcement officer, former race car driver, and former motorcycle racer. He lost his job as a cop apparently after being framed in a drug bust, perhaps in retaliation for preventing his partner from raping a young girl. He seemingly gave up his automobile and motorcycle racing careers after two near-fatal accidents. He flashes back to a girlfriend, first in a snow-covered landscape, then at the California shore. Vera offers Kowalski marijuana, and comments on his war wound. Vera appears to be Kowalski's great love, and her death while surfing appears to be a major factor in Kowalski's alienation and resignation to death in the film.As the movie opens, Kowalski is near the end of his chase by the California Highway Patrol, where two bulldozers and a CBS News truck are setting up. After seeing the bulldozers, he turns around, only to run into three patrol cars further up the road. He then drives off the road to think, then gets back into the car and continues to drive back toward the roadblock. As the white Challenger passes a black Chrysler Imperial, the movie freezes, and the Challenger vanishes on Sunday at 10:02 am.The Imperial continues on, and the film then flashes back to Denver, Colorado, two days earlier on Friday at 11:30 pm, where Kowalski's journey began. He has just arrived in Denver with a black Chrysler Imperial he is delivering from San Francisco. His supervisor demands he get some rest, but Kowalski insists on taking on a delivery back to San Francisco that night. Kowalski is assigned to deliver the white Challenger. He stops at a biker bar to buy some Benzedrine pills and tells his dealer Jake (Lee Weaver) that he must get to San Francisco by 3 o'clock the next day (although the delivery is not due until Monday). They make a small bet (the cost of the speed), and Kowalski takes off at high speed out of Denver.Later Saturday morning near Glenwood Springs, Colorado, two motorcycle cops appear in Kowalski's rear view mirror and try to get him to pull over for speeding. He runs one off the road and, after stopping and seeing that the officer is unhurt, Kowalski takes off again and shakes the other officer by jumping across a trench. Kowalski is chased across the states of Colorado, Utah, and Nevada and into California, with the police unable to catch him. The whole way, Kowalski has his radio tuned to the station KOW, which is broadcasting out of Goldfield, Nevada. A blind African-American DJ at KOW known as Super Soul listens to the police radio frequency and encourages Kowalski to evade the police. Super Soul seems to understand Kowalski and, through a writer's conceit, seems to see and hear Kowalski's reactions.At one point Kowalski stops for gas at a remote station, and upon seeing the young woman at the gas pump, flashes back to a scene in his police career in which an older police officer molests a young woman of similar appearance in the back of a police car in an attempt to extract information about drug dealing. Kowalski intervenes to save the girl. In the present day, it is left somewhat unclear if this is the same woman or someone who reminds Kowalski of her.With the help of Super Soul, who calls Kowalski "the last American hero" on his radio show, Kowalski begins to gain attention among the counterculture and news media. Bikers and hippies flock to KOW radio in Goldfield to offer support. In a police chase in Nevada, Kowalski finds himself surrounded by police and flees into the desert. There, he blows a left front tire. After changing it, he encounters a rattlesnake and a snake catcher behind his car while placing the original tire in the trunk. Kowalski is helped by the old man who catches snakes in the desert to escape a police chopper that is now searching the desert for him. The old man leads him to a Pentecostal sect that reluctantly gives him fuel. The old man then redirects Kowalski back to the highway. There, he picks up two gay hitchhikers stranded en route to San Francisco with a "Just Married" sign in their rear window. They become combative and try to hold him up at gunpoint, but Kowalski throws them out of the car.In the afternoon of Saturday, a police officer and some unidentified thugs, shouting racial epithets, raid the KOW studio and physically assault Super Soul and his engineer. Near the California state line, Kowalski is helped by a hippie biker and his nude girlfriend, who has followed Kowalski's police career and made a collage of articles about his story. The impression is that she was infatuated with Kowalski, but she is unable to finish what she meant to say and rides away on her motorcycle. They discover that Super Soul's encouragement is now being directed by the police to entrap Kowalski; they give him more Benzedrine pills, and help him get through the roadblock trap by strapping a motorbike with a red light and air raid siren to the top of the Challenger, fooling the police into clearing the roadblock for him to speed through, putting him in California by Saturday at 7:12 pm. This means that 3:00 pm on SaturdayKowalski's original goalhas passed without comment. Kowalski calls Jake the dealer on a payphone, who has read about the chase in the newspaper. Kowalski reassures him that he's fine and still intends to deliver the car on Monday. However, the California police have put sensors on back roads that allow them to track Kowalski as he drives through the night.In the UK release of the film, Kowalski then picks up a mysterious hitchhiker (played by Charlotte Rampling). Kowalski accepts marijuana from her despite being shown refusing drugs (other than speed) several times in the past. He stops the car when he starts feeling stoned. She says she has been, "waiting for him, everywhere and since forever." When he awakens the next morning, she is gone, without a trace. According to interviews with Barry Newman and commentary from the director, the hitchhiker was a representation of death finally catching up with Kowalski.It is still early Sunday morning when Kowalski makes it to Cisco, California (a vacant cattle town in the Sierra Nevada foothills east of San Francisco, but actually filmed in the remote village of Cisco, Utah, abandoned today). There, with the California Highway Patrol in hot pursuit, Kowalski catches up to the opening of the film and crashes into the two bulldozers set up by the police as a roadblock, producing the fatal fireball of his death.
+
+
+QUESTIONS
+q: Who was the racer?
+a: ['Kowalski']
+
+q: What car does Kowalski race?
+a: ['1970 Dodge Challenger']
+
+q: What did the sign say in the rear window of the stranded hitchhikers car?
+a: ['"Just Married"']
+
+q: What did Kowalski do when the hitchhikers held him at gunpoint?
+a: ['Kowalski throws them out of the car and continues on his journey']
+
+q: What state does this take place in?
+a: ['San Francisco', 'Idaho to new Mexico and then Utah.']
+
+q: What does Angel give Kowalski to help him stay awake?
+a: ['marijuana']
+
+q: Who is the disc jockey at KOW?
+a: ['The Voice']
+
+q: What state was Kowalski driving across?
+a: ['colorado']
+
+q: What is the name of the prospector?
+a: ['Dean Jagger']
+
+q: which town was Kowalski expected to pass by?
+a: ['Crisco, ca']
+
+q: What is Dean Jagger's job
+a: ['catches snakes in the desert']
+
+q: Who was the car driver?
+a: ['Kowalski']
+
+q: What kind of pills does Kowalski buy at a biker bar?
+a: ['benzedrine']
+
+q: What does Super Soul call Kowalski?
+a: ['the last American hero']
+
+q: When does Kowalski finally reach California?
+a: ['Saturday at 7:12 pm.']
+
+q: What profession did Kowalski used to have?
+a: ['police officer']
+
+q: Who are the police trying to catch?
+a: ['Kowalski']
+
+q: Whose movements were being tracked by the california police?
+a: ['Super Soul']
+
+q: How many miles does Kowalski have to drive between deliveries?
+a: ['Twelve hundred miles']
+
+q: What car is Kowalski driving?
+a: ['Chrysler Imerial']
+
+q: Where are the hitchhikers going?
+a: ['San Francisco']
+

@@ -1,0 +1,40 @@
+PARAGRAPH
+In early 1970s England, three friends spend their days partaking in banter, drinking, fighting and chasing girls. Freddie (Christian Cooke) wants to escape their working class world but cheeky chappy Bruce (Tom Hughes) and kind-hearted slacker Snork (Jack Doolan) are happy with life the way it is. When Freddie gets a new job as a door-to-door insurance salesman and bumps into his old school sweetheart Julie (Felicity Jones), the gang are forced to make choices that will change their lives forever.
+Freddie's boss is Julie's father (Ralph Fiennes). Selling life insurance in the hopes of improving his life and not ending up like his factory worker father (Ricky Gervais), Freddie learns from the firm's top seller Mike Ramsay (Matthew Goode), who is also Julie's fiancÃ©, how to scare people into buying insurance. Bruce lives life to the full, with the notion that one day he will leave Cemetery Junction, but he hates and resents his father (Francis Magee) for letting his mother leave for another man without fighting for her. Snork just lives for spending his time with Bruce and Freddie, working at the railway station and looking for a girlfriend, a search which is hindered by his lack of social skills. Freddie rekindles his friendship with Julie, who reveals her dreams to see the world and become a photographer, but her father and fiancÃ© Mike both expect her to become a regular housewife, like her mother.
+Freddie is invited to his firm's winner's ball to celebrate his and several others' initiation to the company, and he brings Bruce and Snork as his guests. During the night, Snork becomes bored with the band, and claims he could do better. Bruce convinces them to let Snork perform with them. The crowd initially enjoys his performance, but he gets carried away and tells a highly inappropriate joke, embarrassing Freddie. He confronts and scolds Snork and Bruce, but Bruce shrugs it off, still claiming he will leave the town, and that Freddie will never be like his colleagues because he's 'not a cunt', which the crowd overhears, forcing them to leave.
+The next day Freddie goes around town thanking his clients for helping him start his new career, and learns that his very first client's husband has died. Deciding not to live off people's misery, he asks Bruce when they plan to leave. They invite Julie to a nightclub, and convince Snork to leave with them. In the club Bruce starts dancing with a black woman, for which he is ridiculed by two men, provoking him to assault the men and get locked up in the police cells for the night.
+Freddie accompanies Julie to her home and they develop the pictures Julie had taken throughout the night. They argue about their feelings, the lives of her parents and Julie's engagement to Mike, which is following the same path as her parents' relationship. Freddie declares his love for Julie and asks her to go travelling with him, but she refuses and tells him to leave. Bruce is met in his cell by officer Wayne Davies (Steve Speirs), an old friend of his father's and the one man Bruce respects, who is fed up with Bruce taking his anger with his father out on other people. He tells Bruce the story of the night his mother left, revealing that his mother abandoned him and wanted nothing to do with him but his father did - and tells him to grow up and get over his anti-social behaviour.
+The following morning, Snork goes to a cafÃ© he frequents and talks to Louise, a girl who works there who has feelings for him, and they form a relationship. Bruce walks home and silently makes amends with his father. When Freddie arrives at the train station to begin his travels, he finds Snork ready for work, having decided to stay, and they say an emotional goodbye. Julie realises that Freddie was correct, and that her relationship with Mike will stifle her, and goes to the railway station. Snork announces over the station PA that Bruce will not be joining Freddie on his journey. Deciding not to go alone, Freddie is on the point of abandoning his adventure when he sees Julie running towards him, and they board the train together.
+
+
+QUESTIONS
+q: Who encourages Julie to join Freddie on the trip ?
+a: ['freddie', 'Herself']
+
+q: Who does Snork fancy at a sandwich shop?
+a: ['Louise']
+
+q: Who does Freddie ask to come with him on the trip ?
+a: ['snork', 'Julie']
+
+q: Where does Snork get a job ?
+a: ['railway station']
+
+q: What does Julie tell Freddie about when he accidentally stumbles on her?
+a: ['Dreams to see the world']
+
+q: How are Freddie, Snork, and Bruce related in the movie?
+a: ['Friends']
+
+q: What job did Freddie get ?
+a: ['door-to-door insurance salesman']
+
+q: What year does movie plot take place in?
+a: ["19070's"]
+
+q: What job does Freddie land?
+a: ['Insurance salesman']
+
+q: Where does Snork get a job at?
+a: ['slacker']
+

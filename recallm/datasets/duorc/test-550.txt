@@ -1,0 +1,41 @@
+PARAGRAPH
+Several murders have taken place throughout Kolkata, for which a serial killer is believed responsible. The murderer strikes in accordance with verses of Bengali poetry, which he leaves next to the victims. The police are baffled; chief detective Abhijit Pakrashi (Parambrata Chatterjee) struggles to solve the case, which takes a toll on his relationship with girlfriend Amrita Mukherjee (Raima Sen). Pakrashi's superior (Rajesh Sharma) brings back an ex-cop, Prabir (Prosenjit Chatterjee), to help solve the case. Prabir, earlier suspended for his violent methods, is notoriously ill-tempered and foul-mouthed. Prabir and Pakrashi work together, while Amrita (a television journalist) and colleague Surya Sinha (Abir Chatterjee) research serial killers for a series whose thirteenthâand finalâepisode will be about a contemporary murderer. Meanwhile, eccentric poet Nibaron Chakraborty (Gautam Ghosh)âwho considers himself part of the Hungry Generationâwanders Kolkata at night reciting poems.
+Researching serial killers, Amrita visits a prison where the warden remembers Rafique Ahmed and his only confidant in 18 years of imprisonment: Nibaron Chakraborty. She and Surya go to Nibaron's house to question him; after being greeted by his servant, Swapan, they are convinced he is insane when Nibaron says he has a meeting with "Rabindranath". They almost succeed in learning about Rafique when Surya angers him by mentioning the book-fair arson for which he was imprisoned.
+While investigating the case, Pakrashi sees Amrita and Surya together. Jealous and drunk, Abhijit goes to Prabir's house and pours out his heart; he tells Prabir that he lost his father at a young age, and tries to avoid alcohol because of what it did to his father. Prabir tells Pakrashi that he went to work the day after losing his wife and child, encouraging him to be strong. Surya takes Amrita to a cemetery, telling her he would propose in a few days. They end up in a police station after a police officer sees them (and is slapped by Amrita). Pakrashi, still tipsy, rescues them when the inspector recognises Amrita as his girlfriend and they reconcile.
+The next day, while randomly discussing poets and poems, Prabir and Pakrashi deduce that the killer strikes on the death anniversaries of well-known Bengali poets. When they search all possible days the killer could strike, they discover that the next date is 29 June: Michael Madhusudan Dutt's death anniversary.
+Amrita tells Pakrashi what she and Surya have been doing, including the interview with Nibaron. This convinces him that Nibaron is the killer, especially when Swapan tells Prabir he is now afraid of his employer.
+Pakrashi and Prabir watch Nibaron's house on the fateful night. A hooded figure comes out; it is Swapan, fleeing. In the house they discover that Nibaron has committed suicide, and the case is closed.
+After a month or so, Rabindranath Tagore's death anniversary (Baishe Srabon) arrives. Prabir invites Pakrashi to meet a man named Rabindranath, and Pakrashi is surprised that "Swapan" is Prabir's servant Kaanai. Prabir admits that he was the mastermind behind the murders, with Kaanai (an ex-convict) carrying them out. He wanted to avenge the police force for his suspension, which he considered an insult to his hard work despite the loss of his family. After saying that today's would be the final killing, he shoots himself.
+
+
+QUESTIONS
+q: What does the murderer leave behind with his victims?
+a: ['Verses of Bengali poetry.']
+
+q: on what date is michael madhusudan dutt's death anniversary?
+a: ['June 29']
+
+q: who is the mastermind behind the murders?
+a: ['Prabir']
+
+q: what does the killer leave next to his victims?
+a: ['Poetry']
+
+q: Where have the murders occurred?
+a: ['Kolkata.']
+
+q: who does abhijit pakrashi bring back to help solve the case?
+a: ['Prabir']
+
+q: Who was suspected as the killer?
+a: ['Nibaron Chakraborty.']
+
+q: Who is brought back to solve the case?
+a: ['Prabir.']
+
+q: When is the next expected murder?
+a: ["29 June: Michael Madhusudan Dutt's death anniversary."]
+
+q: Who were the real culprits?
+a: ['Prabir & Kaanai']
+

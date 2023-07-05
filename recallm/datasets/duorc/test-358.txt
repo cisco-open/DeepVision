@@ -1,0 +1,38 @@
+PARAGRAPH
+In Italy in 1961 Domenico Cantoni (Sandro Panseri) is a young man living with his parents and has the opportunity to interview foe a large corporation where he may have a job for life. On the day of the test where many other applicants are competing for the positions available Dominico meets Antonietta Masetti (Loredana Detto) and the two strike up a friendship over lunch after a written exam. The couple wanders around window shopping and, realizing they are late returning to the job interview, run back to the company, at one point be chastised by a police man for stepping on the grassy area in a park. The remaining testing consists of physical dexterity and hearing tests for the applicants, and Domenico is subjected to an oral exam answering questions such as Do you drink to forget your troubles? When Dominico returns home his parents ask him about the exam with Dominico answering aloofly, but when he is accepted his mother takes him shopping for new clothes. At the company Dominco meets up with Antonietta again and they are given jobs in low-level positions until a role opens up. In the accounting department, a seemingly dysfunctional family of misfits, one of the chief clerks sits up lat at night writing on his personal story, while during lunch Dominico eats alone and looks around for Antonietta until someone tells him that there is a second lunch shift. One day Dominico sees her and they chat about the upcoming company New Years party which Antonietta isnt sure she can attend. At the part Dominco comes in alone but by the end of the festivities he is dancing with many of the other employees who he may be friends with in the coming years. When the clerk from accounting passes away Dominico is moved up and takes a place in the back of the crowded room as the sound of the mimeograph machine echoes in his ears.
+
+
+QUESTIONS
+q: What happened to the employee whose desk Domenico is offered?
+a: ['He died']
+
+q: Does Domenico have to interview for the job he is applying for?
+a: ['yes']
+
+q: How long has he obtained this job?
+a: ['Job for life']
+
+q: What job was taken by Domenico while awaiting a better position?
+a: ['Low-level in accounting']
+
+q: Who does Domenico want to show up at the party?
+a: ['Antonietta Masetti']
+
+q: Who does he meet during a break?
+a: ['Antonietta Masetti']
+
+q: Who does the fiilm tell the story of?
+a: ['Domenico Cantoni']
+
+q: When does Domenico attend the party?
+a: ['new years']
+
+q: Is Domenico an old or young man?
+a: ['Young man']
+
+q: Who does Domenico befriend at the party?
+a: ['Many of the other employees']
+
+q: Where does Antonieta Invite Domenico?
+a: ['To Lunch']
+

@@ -1,0 +1,29 @@
+PARAGRAPH
+Dan Dunne (Ryan Gosling) is a young middle-school history teacher at a Brooklyn school, with a teaching style that rejects the standard curriculum in favor of an approach based upon dialectics (specifically Engels' three laws of dialectics, though this is never referred to by name).
+Though he seems to have it all together in the classroom, on his own time he is found frequently snorting and freebasing cocaine. After a basketball game, Dan's ex-girlfriend, Rachel (Tina Holmes) turns up, evoking emotions that he cannot handle. A short while later, one of his students (and a player on the girls' basketball team he coaches), Drey (Shareeka Epps), catches him getting high in the locker room.
+Meanwhile, Drey has to deal with a single-mother (Karen Chilton) who is always at work, a brother, Mike (Collins Pennie), who is in prison for selling drugs for neighborhood dealer, Frank (Anthony Mackie) and an absent father. Drey's lack of supervision makes her a target for Frank's operation and he encourages her to become involved in his business.
+As Dan and Drey begin to get a better understanding of each other as friends, they both know what the other one should stay away from and what they need, but is struggling to get by themselves. Dan perceives that Frank is a bad influence on Drey and tries to intercede on numerous occasions. And Drey tries to get Dan to open up about his drug habit to no avail as he feels uncomfortable talking with a student about it.
+After a tense conversation with Frank about Drey, Dan goes to Isabel's (Monique Gabriela Curnen) house, another teacher at the school, with whom he had one previous date. He forces himself on her, trying to right his apparent disinterest in her on their last date, but after she defends herself and runs off, he feels bad and decides to leave. The following day, he further takes his stress out on Drey, telling her to talk to friends her own age when she finds him, hoping to hang out. Drey, a little upset at this, is pushed further into the company of Frank, and he has her do her first drug deal.
+Dan goes to his parents' house for dinner, where his brother, Jeff, and his girlfriend, Cindy, also attend. He says little, and does not enjoy himself much, but a joke of Jeff's that Cindy tells him makes him laugh. The same night, Drey is out with Frank, dealing. In the film's pinnacle scene, Drey arrives at a place to deliver some drugs and walks in to a room of stoned drug users. The person revealed to be the buyer is Dan as he walks out of the back room and slumps down at the sight of Drey being the drug runner. There is only a slight shameful nod from him as he holds out the money to hand to her for the drugs. This exchange is the culmination of what each was trying to get the other to stay away from, and is finally brought to its climax by them encountering the other doing just that. The next day, Dan is not at school, and his students are told that he is being replaced by a Mr. Light, without much explanation. This changes something within Drey as she refuses a lift home from Frank, choosing to turn from that path.
+She knocks on Dan's door and he answers. He goes into the bathroom, shaves and cleans himself up, before sitting down to drink a glass of water. Drey sits down and joins him. The film ends with Dan telling the same joke he heard from Cindy, but the timing is all wrong. Drey says, "That was horrible", and they both laugh.
+
+
+QUESTIONS
+q: What is Mike's relationship to Drey?
+a: ['Brother']
+
+q: Why is Mike in prison?
+a: ['Selling drugs for a neighborhood dealing']
+
+q: What is Dan's job?
+a: ['Middle school history teacher at a Brooklyn school']
+
+q: What illegal drug is Dan seen smoking?
+a: ['Cocaine']
+
+q: What sport does Dan coach?
+a: ['basketball']
+
+q: Who is the most instrumental in helping Dan kick his drug habit?
+a: ['Drey']
+

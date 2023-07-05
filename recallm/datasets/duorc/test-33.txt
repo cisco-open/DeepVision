@@ -1,0 +1,86 @@
+PARAGRAPH
+In a prologue, we see Lord Fergus and Lady Elinor in a forested area, celebrating the birthday of their young daughter, Merida. Though Elinor happily plays with Merida, she grows perturbed when Fergus gives the little girl her own bow and set of arrows.As Merida tries to hit a target, one of the arrows sails off into the forest nearby. Merida runs off and retrieves it, but soon encounters a glowing blue willo-the-wisp. Going back to her parents, she tells what she saw, and her mother explains that they can lead a person to their destiny.Suddenly, the mood is broken as an enormous black bear enters the camp grounds. Merida and her mother quickly take leave as Lord Fergus and his men fight against the bear.Time passes, and we see that Lord Fergus has lost his leg to the bear. In the time that has passed, Lady Elinor has given birth to three mischievous boys (triplets), and Merida is now a teenager. While her mother wants her to be proper, Merida is moreso intent on practicing archery, and journeying off in the forest.One evening, a messenger brings word that the 3 neighboring clans have accepted the offer to fight for Merida's hand in marriage. Naturally, the young woman is not at all happy with this situation. Elinor explains to her daughter that the clans must be kept in harmony, or chaos may reign. She relates the story of how the clans were descended from four brothers, but one of them wanted more power than the others, and caused the balance of power to crumble. Even so, this does little to quell Merida's resentment of the betrothal.The three clans soon arrive, and Lords MacGuffin, Macintosh, and Dingwall arrive with each of their sons. Per tradition, each of the first-born of the clans will fight in the event that the Princess chooses. This causes Merida to perk up, and she eagerly suggests archery.When it comes to the sport, almost none of the sons are good at the sport, but everyone is shocked when Merida appears before everyone, claiming that since she's a first-born as well, she'll be 'fighting for her own hand.' Elinor demands Merida stop, but she defies her mother, and makes a bulls-eye on each of the targets.Naturally, Elinor feels angry and humiliated at this, and both mother and daughter have a heated conversation in her room later on. Merida claims she does not want to be like her mother, and in anger, slashes a tapestry depicting the family, slicing a hole between her and her mother in the piece.Upset by this as well, Elinor loses her temper, and throws Merida's bow in a fireplace nearby. Upset by this, Merida flees the castle. Unseen by Merida, her mother regrets what she has done a few moments later, and manages to retrieve the bow from the fire.Merida flees to the forest, where she comes across a circle of stones, and several willo-the-wisps. Following them, she finds a small cottage inhabited by an old woman. The old woman claims she is just a wood carver, but Merida soon realizes she's actually a witch, when she notices an enchanted broom, and the woman's crow (which can talk!).Merida eagerly asks for a spell to change her mother, but the witch refuses, claiming she did a spell once before, and regretted it. However, Merida gets her to reconsider when she agrees to purchase all her wood carvings. The offer is too much to resist, and the witch brews a concoction that produces a small pie. Merida is instructed to give it to her mother, and she eagerly ruses off to do so.Returning to the castle, King Fergus is doing his best to quell the Lords after the events of the tournament. Merida encounters her mother in the kitchen, and eagerly gives her the pie, but after one bite, Elinor claims she does not feel well.Merida happily leads her to her chambers, but soon her happiness that her mother will change turns to shock...when her mother turns into a black bear!Knowing that King Fergus will surely kill Elinor, Merida enlists the aid of her brothers to distract Fergus and the Lords, while she sneaks her mother out of the castle, and back into the forest.The two manage to find the witch's hovel, but find it is now empty. A message left for Merida tells that the Witch has gone away until the next Spring, and that the spell will become permanent within 2 sunrises. However, if Merida wants to reverse the effects, she has heed some specific words, in regards to 'mending.' Merida is unsure just what this means, and the two sleep in the woods that evening, before having breakfast in the morning.Merida manages to catch some fish for her mother, but when her mother demands more, Merida tells her mother she will need to catch them herself. The mother and daughter bond over this method, but when her mother wanders off into the woods, Merida chases after her. However, upon finding her, her mother suddenly attempts to attack Merida, before returning to normal. With less than 24 hours, it seems that if they do not find a way to reverse the spell, Elinor will lose her humanity, and become a bear forever!As they wander in the woods, the two come across the willo-the-wisps again, and follow them. They are lead to a high mountain, and the ruins of a great castle. Inside, Merida finds a stone tablet depicting 4 men, with one of them separated from the group. Soon, Merida realizes that she is in the castle in the legend her mother told her about, and soon makes the connection:The brother who attempted to seize power from his siblings went to the witch, and her spell turned him into a bear...powerful and stronger than his brothers, but he was unable to change back, and became a rampaging beast, the same one who took Lord Fergus' leg!Suddenly, the bear emerges from the darkness and attempts to attack Merida. Elinor manages to save her daughter, and the two head back to the circle of stones. However, Merida is now sure what needs to be done. The witch's spell mentioned mending, and Merida feels that if she can mend the tapestry she cut the day before, her mother will be saved.
+
+
+QUESTIONS
+q: What is the message left by the witch for Merida?
+a: ['To reverse the spell, Merida must mend something']
+
+q: What happens to Elinor after eating the cake?
+a: ['Pie turns her into a bear']
+
+q: What do Merida and Elinor work on together?
+a: ['Fishing']
+
+q: When will the spell become permanent?
+a: ['2 sunrises/days']
+
+q: What could Merida's failure to consent harm?
+a: ["Her family's reputation"]
+
+q: What does Merida receive that will change her fate?
+a: ['for a spell']
+
+q: How many younger brothers does Merida have?
+a: ['3']
+
+q: Who does Elinor attack?
+a: ['merida']
+
+q: What causes Elinor to transform into a black bear?
+a: ['A pie']
+
+q: Who twists the rules of the games?
+a: ['Elinor']
+
+q: Who arrives with their first born sons?
+a: ['Lords MacGuffin, Macintosh, and Dingwal']
+
+q: What has to be repaired to reverse the spell?
+a: ['Tapestry']
+
+q: Where do Elina and Merida go?
+a: ["Witch's hovel"]
+
+q: To whom is Merida betrothed?
+a: ['3 neighboring clans']
+
+q: Who does Merida sneak into the tapestry room with?
+a: ['Elinor.']
+
+q: What is the name of the free-spirited young woman?
+a: ['Merida']
+
+q: What did Elinor transform into?
+a: ['A bear']
+
+q: Who is Merida's father?
+a: ['Lord Fergus']
+
+q: Which two people work together on a new tapestry?
+a: ['The Witch and Merida']
+
+q: What were Meridas' younger brothers transformed into?
+a: ['Bear']
+
+q: The clan refuses Elinor's request
+a: ['Dingwall']
+
+q: Who does Merida learn the importance of responsibility from?
+a: ['Elinor']
+
+q: Who encouraged Merida to marry when and whom she wants?
+a: ['No one']
+
+q: What was the name of the prince?
+a: ["Mor'du"]
+
+q: Who reminds Merida that failure to consent to the betrothal could harm Dunbroch?
+a: ['Elinor, her mother.']
+
+q: Who  is crushed by a falling menhir?
+a: ["Mor'du"]
+
+q: What is Merida given as a birthday present by her father?
+a: ['given a bow and arrow']
+

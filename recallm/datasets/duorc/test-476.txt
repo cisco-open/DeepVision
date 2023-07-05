@@ -1,0 +1,65 @@
+PARAGRAPH
+The film opens with a little girl attending an alligator stunt show with her parents on a vacation in Florida. The crowd watches as men perform daredevil interactions with the gators until one of them gets taken by surprise and mauled by one of the alligators. The crowd responds with lurid fascination, and the proprietors of the attraction are selling baby alligators to the patrons. The little girl buys one and takes it home with her to Chicago, where she places it in an aquarium and names it Ramon. Her friendship with Ramon is short lived, however, when her father flushes Ramon down the toilet in a fit of rage about something. Ramon emerges in the Chicago sewers intact.The film flashes forward to present times (12 years later), where we meet a Chicago police detective named David Madison (Robert Forster). Madison is a cop trying to make good again after a bungled operation that left his partner dead. Human body parts start showing up in the city's water filtration systems, and Madison takes a young rookie down into the sewer to investigate for signs of foul play. While they are down there, they get attacked by the culprit: an enormous alligator is living in the sewers, presumably Ramon, now grown to a monstrous length of 36 feet. Madison escapes but his partner is killed by the gator, leading to more suspicion and the possible ruination of his career.He enlists the aid of Marisa Kendall (Robin Riker), a zooligist specializing in reptiles; Marisa happens to be the little girl from the introduction, the one who was so interested in alligators and whose father flushed hers down the toilet. At first she is skeptical and refuses to believe that an alligator could survive in the sewers of Chicago, but another victim goes missing in the sewers and his camera is turned up with photographic evidence of the monster.Madison links the mysterious activity in the sewer to a pharmaceutical company performing experiments with hormones. The company has been injecting dogs with serum intended to accelerate their growth. When finished with their "specimens", mostly dogs that have been acquired by illegal means and killed in the process, they give the carcasses to a shady character who dumps them into the sewer. Hence, the alligator has been feeding on these dead dogs for years, consuming the growth hormones within them and therefore growing to gigantic proportions.Eventually the alligator, disturbed by all the sudden activity in its area of the sewer, emerges from underground and rampages through the city. Many people are attacked, and although Madison has been lambasted by the police force, he is out to get the alligator for revenge.The city makes numerous attempts to stop the gator, including a pompous big game hunter they enlist to kill it. The plan backfires when the gator ambushes the hunter in an alley and eats him. In an ironic turn of events, the owner of the pharmaceutical company finds a black tie event at his mansion interrupted by a visit from the monstrous gator, who attacks a number of his party guests and kills him in his own limousine.Finally Madison and Marisa enact a plan when the alligator makes its way back to the sewer; Madison follows him down there with a bomb, and Marisa stays topside to make sure Madison's exit manhole stays clear. Madison is almost killed when a woman stops her car right on top of the manhole and blocks his exit, but they manage to get him out in the nick of time. Ramon is blown to smithereens when the bomb goes off, but we see another baby alligator emerge in the sewer from a drainpipe, presumably flushed down there by another unfriendly owner.
+
+
+QUESTIONS
+q: What kind of party is crashed at Slade's mansion because of the alligator's rampage?
+a: ['a wedding']
+
+q: Who is tossed into a swimming pool in which an alligator is residing?
+a: ['a young boy']
+
+q: what did the alligator feed on to survive?
+a: ['dead dogs with growth hormones']
+
+q: What is spit out of the sewer after the explosion?
+a: ['baby alligator']
+
+q: who is suspended due to a failed attempt to flush out an alligator?
+a: ['David']
+
+q: what does thomas kemp supply from the sewers?
+a: ['supplies graphic and indisputable photographic evidence']
+
+q: Who is David Madison's boss?
+a: ['cheif clark']
+
+q: Who believes David's story?
+a: ['No one at first, but after evidence turns up, Marisa is convinced.']
+
+q: what is the alligator's name?
+a: ['ramon']
+
+q: who flushes the alligator down the toilet
+a: ['marisas father']
+
+q: how big is the alligator?
+a: ['36 foot']
+
+q: what's the name of the young cop?
+a: ['David Madison']
+
+q: Who accompanies David into the sewer?
+a: ['A young rookie cop']
+
+q: Who is hired to track the alligator?
+a: ['David Madison']
+
+q: Who is the lab scientist that the alligator killed?
+a: ['He is the groom']
+
+q: what animal did marisa kendall buy years earlier?
+a: ['Alligator']
+
+q: who plays police officer david madison?
+a: ['robert forester']
+
+q: what is used to kill the alligator?
+a: ['setting off explosives']
+
+q: who is slade?
+a: ['local tycoon']
+
+q: Where does David lure the alligator?
+a: ['makes its way back to the sewer']
+

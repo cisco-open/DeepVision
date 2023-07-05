@@ -1,0 +1,10 @@
+PARAGRAPH
+The film is based on the life stories of the eccentric paternal aunt and first cousin of Jackie Kennedy, both named Edith Bouvier Beale. The elder Edith Bouvier Beale was the sister of Jackie Kennedy's father John Vernou Bouvier III and was referred to as "Big Edie", her daughter was referred to as "Little Edie". The Beale women were members of NYC high society, but in their later years, withdrew from the New York City life, taking shelter at their Long Island summer home/estate Grey Gardens. The house eventually fell into a state of disrepair that gave the Beale women notoriety.
+Phelan Beale (husband of "Big Edie" and father of "Little Edie"), eventually divorced "Big Edie." In the movie, "Little Edie" decides to move to New York to pursue a career in acting (as well as an ill-fated romance with a high-profile married man). "Little Edie" sadly and slowly realizes her fate is to remain her mother's companion at Grey Gardens. The two women become reclusive and known around town as the highly eccentric proprietors of Grey Gardens, which has become decrepit and full of stray animals taken in by the Beale women. The plot includes the filming of the documentary Grey Gardens by Albert and David Maysles as well as events in the Beales' past, including their arrival at the estate, the disintegration of Big Edie's marriage, Little Edie's failed attempts to have her own life, and events subsequent to the premiere of the documentary.
+The movie ends with Little Edie singing "Tea for Two" at the Reno Sweeney cabaret in Greenwich Village, and the quote, "My mother gave me a truly priceless life."
+
+
+QUESTIONS
+q: Where did the live for decades?
+a: ['New York City']
+

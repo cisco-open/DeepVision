@@ -1,0 +1,41 @@
+PARAGRAPH
+Barrow, Alaska, a small town on the Arctic circle, is preparing for its annual "30 days of night," a period during the winter when the sun will not be seen. People who don't want to suffer the extended darkness leave for Fairbanks or other parts south. As the town gets ready, The Stranger [Ben Foster], rows ashore from a larger ship, then trudges towards Barrow. Once he arrives, he sets about sabotaging the town. He steals and destroys all the cell phones, destroys the town's only helicopter and kills all of the sled dogs.Barrow's sheriff, Eben Oleson [Josh Hartnett] investigates these crimes. As he does so, he learns that his estranged wife, Stella [Melissa George], who moved out of town awhile ago, missed the last plane out of town and will have to spend the 30 day period in Barrow. Although they try to avoid one another, when Eben confronts The Stranger in the town diner, she helps subdue him and take him to the station house.From the jail cell, The Stranger taunts Eben, Stella, Eben's teenaged brother Jake [Mark Rendall], and their grandmother [Elizabeth McRae], telling them that death is coming for them. Just then, vampires attack the local telecommunications center and power supply, rendering the town dark and cut off from the outside world. Eben goes to the telecommunications center and finds the operator's head on a pike. He and Stella then go through town, trying to find the ones responsible for the gruesome crimes.Meanwhile, the vampires, led by Marlow [Danny Huston] attack the town. Marlow speaks in an ancient, gutteral language; the other vampires shriek. Unless they are shot in the head, bullets are useless against them, and they slaughter most of the town, including Eben's grandmother. Those who survive congregate in the diner. The vampires attack Eben and Stella but Beau Brower [Mark Boone Junior], the local snowplow driver, rescues them. They too go to the diner. Everyone decides to go to the boarded up house of someone who had left town earlier that day. The house has a hidden attic where they will be able to hide. Marlow finds The Stranger in the jail and, taking mercy on him in thanks for his work on the vampires' behalf, kills him quickly. Marlow orders the vampires not to turn anyone into a vampire; they will slaughter the town and then disappear in order to preserve modern humanity's belief that vampires are the stuff of bad dreams and nothing more.Over the next week, Eben, Stella, Jake and seven others stick it out in the attic. They fight about leaving but most stay; only Wilson and his senile father, Isaac, are lost. Eben ventures out to try to help a stray survivor and learns that beheading the vampires will kill them. When a blizzard hits, Eben and the others use the whiteout conditions to make it to the general store. There, a young girl vampire attacks them, wounding one of them. The whiteout conditions end, preventing them from making it back to the abandoned house. Eben decides everyone should go to the station house. He will provide a diversion by running to his grandmother's house. She grew marijuana and has an ultraviolet lighting system. Eben makes it to the house, turns on the generator and turns the light on the vampires who have followed him. It hideously burns one, forcing Marlow to kill her. Eben escapes the house but the vampires are in pursuit. Beau comes to the rescue again, killing many of the vampires with his plow. He crashes into a hotel and then ignites a box of dynamite, hoping to incinerate the vampires. His ploy is unsuccessful but it gives Eben the time to make it to the station house. There, the wounded member turns into a vampire. With some shred of his humanity left, he asks Eben to behead him. Eben complies.Two more weeks pass. Stella and Eben see someone signaling them from across the street. It is Billy Kitka [Manu Bennett], Eben's deputy. Eben and Stella make it to Billy's house. When the vampires attacked, he killed his wife and daughters but the gun jammed before he could commit suicide. Stella and Eben take him back to the station house. There they learn that the others have made it to the utilidor, a power station that controls the oil pipeline, the only structure that still has power. Eben, Stella and Billy begin to sneak towards the utilidor. Stella stops to rescue a young girl who is being stalked by a vampire. Eben and Billy try to distract the vampire while Stella gets the girl to safety. Instead, Billy and Eben are separated. They both eventually make it to the utilidor, but a vampire follows Billy.Eben is happy to see the rest of the survivors have made it alive. The vampire attacks Billy, ripping into his neck and cutting off his hand. When the vampire attacks Eben, Billy knocks it into the gears of the utilidor's pump, disintegrating it. Eben then kills Billy before he can turn into a vampire.The sun is due to rise in a few hours. The vampires decide to incinerate the town to cover their tracks. Stella radios to Eben that she and the young girl are hiding under an abandoned truck, the flames rapidly approaching them. Realizing he cannot beat the vampires as a human, Eben injects himself with Billy's infected blood so he can fight them as a vampire. He and Marlow fight a vicious battle and Eben wins. Leaderless, the other vampires disappear.Stella takes Eben to watch the dawn. She holds him in her arms as he is incinerated. [Original synopsis by bj_kuehl]
+
+
+QUESTIONS
+q: Who slaughtered Gail's family?
+a: ['Zurial']
+
+q: What is the utilidor?
+a: ['Power station that controls oil pipeline']
+
+q: Who is the sheriff of Barrow?
+a: ['Eben.', 'Eben Oleson.']
+
+q: Whose blood does Eben inject himself with?
+a: ["Billy's"]
+
+q: How is Iris' face burnt ?
+a: ['Ultraviolet lighting system']
+
+q: Where does Eben kill carter ?
+a: ['Station house']
+
+q: What's the name of the town's snow plough operator ?
+a: ['Beau Browe.']
+
+q: Who is the leader of the vampires?
+a: ['Marlow.', 'Marlow leads the vampires.']
+
+q: Where does the film take place?
+a: ['It takes place in Barrow, Alaska.', 'In a small town.']
+
+q: Who watches a sunrise together?
+a: ['Stella and Eben']
+
+q: Who kills Marlow?
+a: ['Eben']
+
+q: Who plays Billy?
+a: ['Manu Bennett']
+

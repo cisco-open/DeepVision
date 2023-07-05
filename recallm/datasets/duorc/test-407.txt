@@ -1,0 +1,56 @@
+PARAGRAPH
+The story of Haeckel's Tale, set in the late 19th Century, begins with a young man named Edward Ralston (Steve Bacic), coming to an old woman, Miz Carnation, who lives in an old cabin deep in the woods of upstate New York on the account that she is a necromancer that can revive his recently deceased wife. She refuses, but then decides to tell him the story of Ernst Haeckel and if he still wishes to revive his wife afterwards, she will.The story mainly concerns Ernst Haeckel (Derek Cecil), an oddball pathologist from New York City who is trying to follow in the footsteps of Victor Frankenstein but is unsuccessful with his attempts to perform similar experiments. He learns of Montesquino, a necromancer, but believes that the man is a charlatan after he meets him at a traveling sideshow.Learning of his father's ill condition, he travels to visit him in Albany. During Haeckel's journey through the countryside, he encounters Walter Wolfram (Tom McBeath) and his lovely wife Elise (Leela Savasta) whom he asks to stay for the night at their rural cabin. At Wolfram's cabin, Haeckel is oddly drawn to Elise and vice versa. Wolfram seems undisturbed by the attraction but when unearthly shrieks echo outside, Elise is drawn to them. Haeckel also notices that Elise is caring for a baby.Elise finally goes outside and the despondent Wolfram notes that he can't satisfy his wife, although he has sold everything he has to take care of her. Haeckel goes after Elise and follows the shrieks to a nearby cemetary called 'necropolis'. There he discovers that Elise is having sexual consort with her dead husband and the other resurrected corpses. Wolfram has paid Montesquino to raise the dead so that they can satisfy Elise. When Wolfram tries to take her home, the corpses kill him. Haeckel confronts Montesquino and demands that he make it stop. The necromancer says that he cannot, and an angry Haeckel shoots him as he tries to escape. The dying Montesquino shoves Haeckel into a tombstone, knocking him out.The next morning, Haeckel wakes up and returns to the cabin, where he finds Elise nursing the baby: a corpse-child, the son of her "true" husband. The baby rips out Haeckel's throat.In the present, Miz Carnation concludes her tale and a disgusted Ralston looks on in horror as he realizes that she is actually the older Elise, as the undead corpses of her first husband, Wolfram, and Haeckel stagger in and she brings out the zombie baby. Ralston decides against raising his dead wife and flees from the cabin into the night while Miz Carnation/Older Elise and the rest of her undead clan look on.
+
+
+QUESTIONS
+q: What is Elise caring for?
+a: ['baby']
+
+q: Who brings out the zombie baby ?
+a: ['Elise']
+
+q: What is Haeckel unsuccessful in creating?
+a: ['frankenstein experiments']
+
+q: Who can't satisfy his wife?
+a: ['Walter Wolfram']
+
+q: Who does Wolfram pay to raise the dead?
+a: ['Montesquino']
+
+q: Who is Elisa having sexual consort with?
+a: ['her dead husband and other corpses']
+
+q: Where did Miz Carnation live?
+a: ['upstate new york']
+
+q: Who do the corpses kill?
+a: ['Walter Wolfram']
+
+q: Where does Haeckel return the next morning?
+a: ['cabin']
+
+q: Who kills Wolfram?
+a: ['Haeckel']
+
+q: What era does this story take place?
+a: ['19th century']
+
+q: Who got knocked out?
+a: ['Ernst Haeckel']
+
+q: Who got shot?
+a: ['Montesquino']
+
+q: Who has sexual consort with with the resurrected corpses?
+a: ['Elise']
+
+q: Who looks on in horror ?
+a: ['Ralston']
+
+q: The dying Montesquino shoves Haeckel into a?
+a: ['tombstone']
+
+q: What does the baby rip out?
+a: ["Haeckel's throat"]
+

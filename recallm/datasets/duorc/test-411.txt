@@ -1,0 +1,33 @@
+PARAGRAPH
+Sai Moon-Kin (Tsui) is a rich man who lives with his concubines and his son and a daughter named Yiau (Loletta Lee), who is raised like a boy and is ignorant of the ways of love. Because her brother is mentally retarded, Yiau wants to be her father's heir but feels that she needs to go to school for the required education. Her desire to attend school leads her to a love affair with a lustful young scholar (Ken Lok). Only after she is equipped by a protective chastity belt, does her father let Yiau go to school, guised in drag.
+Sai Moon finds his son's new wife Siu-Tsui (Shu Qi) attractive. He does not realize that she is the evil Mirage Lady, who knows "sucking" magic. Yiau and the Iron Man (Ben Ng) try to stop the Mirage Lady from harming any more people.
+
+
+QUESTIONS
+q: What is the name of the demon the young swordsman is pursuing?
+a: ['Mirage Lady', 'Siu-Tsui (Shu Qi)']
+
+q: Why is Yau sent away?
+a: ['Because her brother is mentally retarded']
+
+q: What is the Squire's obsession
+a: ['attend school']
+
+q: How does the Mirage Lady drain people's energy
+a: ['sucking" magic']
+
+q: What is the wealthy squire obsessed with being the best at?
+a: ['to stop the Mirage Lady from harming any more people.']
+
+q: Who does Yau's father marry?
+a: ["yau's mother"]
+
+q: What is Yau disguised as when she is sent away?
+a: ['she needs to go to school for the required education']
+
+q: Who does Yau fall in love with
+a: ['young scholar']
+
+q: What is the name of the squire's daughter?
+a: ['Yiau']
+

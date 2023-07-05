@@ -1,0 +1,53 @@
+PARAGRAPH
+Tom Selleck plays Matthew Quigley, a cowboy and rifleman from America with a keen eye and a specially modified rifle with which he can shoot accurately at extraordinary distances. Quigley's weapon of choice is a 1874 Sharps Buffalo Rifle. He answers an advertisement that asks for men with a special talent in long distance shooting with four words: "M. Quigley 900 yards." When he arrives in Australia, he is met by employees of the man who hired him, Elliot Marston (Alan Rickman). Quigley tries to prevent the men from forcing "Crazy Cora" (Laura San Giacomo) onto their wagon and beats the men until they learn that Quigley is the individual they were sent to pick up. Quigley is eventually taken to Marston's Station in the Western Australian outback.Marston is a gentleman infatuated with stories of quick-draw gunslingers from the American Old West, believing he was born on the wrong continent. He continually practices with a pistol and fancies himself as a quick draw with a pistol. He is amazed that Quigley has actually ''been'' to Dodge City. He pays Quigley 50 gold coins for coming to Australia. Marston asks for a demonstration of Quigley's shooting talent.Quigley describes the weapon he produces as a Sharps rifle with a 34 inch long barrel, four more than normal. It has been modified to shoot a .45 caliber, 110 grain metal cartridge with a 540 grain paper patch bullet. It has a double set trigger and a Vernier sight marked up to 1200 yards, but "This one shoots a mite further."Quigley demonstrates his ability with his rifle, shooting a bucket in rapid succession three times at around 1200 yards. When Marston offers Quigley a pistol, he replies, "I've never had much use for one."Marston wants Quigley to his sharpshooting skills to help eradicate the native Indigenous Aborigines. Quigley finds the idea abhorrent and the two men are quickly headed for a showdown.Laura San Giacomo provides comic relief and a love interest as "Crazy Cora." Having suffered a terrifying personal tragedy some years before the film's story begins, Cora appears to think that Quigley is her estranged husband, Roy.After Quigley turns Marston down, Quigley throws Marston out of his house through a glass door. Marston's Aborigine man servant knocks Quigley over the head and Marston's men first beat Quigley and then dump him and Cora in the Australian Outback two days away with no water and little chance of survival. Quigley kills the two men who leave them and after walking a considerable distance, he and Cora are rescued by Aborigines. Recovering, they witness an attack by Marston's men on the Aborigines who rescued them. Quigley kills three of them and the fourth escapes.Cora reveals that she was from Texas. When her home was attacked by Comanches she hid in the root cellar. To prevent her infant son Roy from revealing their hiding place, she covered the baby's mouth and unintentionally suffocated him. Upon returning home, her husband Roy learned of his son's death. He drove Cora to Galveston, Texas and put her alone on the first ship leaving, which happened to be bound for Australia.Escaping on a single horse, they encounter six of Marston's men driving a group of Aborigines towards and over a cliff. Quigley kills two more of the men, and Cora finds an orphaned baby alive among the dead. Caring for the baby helps Cora overcome her tragic past and she slowly begins to recognize Quigley as his real self and stop calling him Roy. Quigley rides alone to a nearby town leaving Cora and the infant Aborigine in the desert with food and water. In town he obtains a new reloader from a town member who is only too ready to help when he learns Quigley is intending to kill Marston. Marston's men recognize Quigley's horse and attack him, cornering him in a burning building. Escaping through a skylight, Quigley kills all but one of Marston's men, who he sends back to Marston to tell him that Quigley is coming for him. In the desert, Dingos circle Cora and the crying infant, preparing to attack. She at first attempts to shush the infant, as she had done to her son Roy. Then she grabs the weapons left her by Quigley and kills several of the dogs.Quigley brings Cora and the baby to the town, where Cora gives the baby to Aborigines in the town. Quigley leaves Cora with the towns people and rides to Marston's ranch where he first confronts Marston's men from a distance. Marston gradually loses more and more men to Quigley until he Quigley is captured. Marston relishes stories of the American west and insists on in a quickdraw contest with Quigley. Quigley faces down Marston and two of his men, shooting all three before they can get off a single shot. He tells the dying Marston, "Just because I said I never had much use for one doesn't mean I don't know how to use it." The Aborigine servants abandon Marstons station, walking off into the Outback.With the bodies of Marston and his men still lying in the dirt, a British Major and his company arrive at the Station, confronting Quigley, who is still bleeding from a gunshot wound to his thigh. The hostile British major Ashley Pitt (Chris Haywood) is ready to shoot Quigley where he stands for numerous crimes when hundreds of Aborigines appear on the mountains nearby, surrounding the Major and his forces. Lowering their weapons, the Major and his troops retreat without a word.Quigley returns to the port city where he arrived and is reunited with Cora who is wearing the red dress he bought for her. They book passage for America. She greets him by his real name and the movie ends with their embrace and kiss.
+
+
+QUESTIONS
+q: What did the army troop want to arrest Quigley for?
+a: ['Murder']
+
+q: Who was beat uncounscious and dumped in the outback with Quigley?
+a: ['Crazy Cora']
+
+q: Where is Quigley shot?
+a: ['his thigh']
+
+q: What type of rifle does Matthew Quigley have?
+a: ['1874 Sharps Buffalo Rifle']
+
+q: Cora is from what state?
+a: ['Texas']
+
+q: Who kills three of the agorigines?
+a: ["Marston'so men"]
+
+q: What name did they use to book a passage to America?
+a: ['Roy Cobb']
+
+q: Who was on the attack?
+a: ['Aborigines']
+
+q: How is the character played by Laura San Giacomo called in the movie?
+a: ['Crazy Cora']
+
+q: What kind of weapon does Quigley use to kill Marston?
+a: ['a gun']
+
+q: Who did the Marston's men corner in a burning building?
+a: ['Quigley']
+
+q: Who rescues an orphaned baby?
+a: ['Crazy Cora']
+
+q: How was Elliot Marston planning to use Quigley's sharpshooting skills?
+a: ['Marston wants Quigley to use his sharpshooting skills to help eradicate the native Indigenous Aborigines']
+
+q: Where does Quigley go to confront Marston?
+a: ['Austraila']
+
+q: Who did Cora give the baby to?
+a: ['The Aborigines']
+
+q: What distance does Matthew Quigley indicated he can shoot?
+a: ['900 Yards']
+

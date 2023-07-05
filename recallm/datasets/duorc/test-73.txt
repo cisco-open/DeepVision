@@ -1,0 +1,50 @@
+PARAGRAPH
+During a strained and awkward family dinner, it is revealed that Frank, a homosexual professor and renowned scholar of Marcel Proust, tried to kill himself after a love interest left him for an academic rival. Cued by her father to change the subject, Olive tells the family about the beauty pageant routine she is working on with the help of her grandfather. Though Olive is not of the typical pageant ilk (an average-looking, bespectacled seven-year-old), she adores pageant work and had won second place in a regional contest. During dinner, the family hears a phone message from Olive's aunt, informing that them that the winner of Olive's recent pageant had to forfeit, and that Olive now has a place in the Little Miss Sunshine pageant in California. Olive is overjoyed, and after some arguing about transportation (and a pressuring pep-talk from her self-help guru father, Richard), the entire family agrees to travel to Redondo Beach in their Volkswagen microbus.Conversation in the bus reveals that Grandpa Edwin (Adam S. Gottbetter) was kicked out of his retirement home for selling and using heroin (which he still enjoys). Dwayne, Olive's brother, has been taking a vow of silence for nine months straight, and plans to keep it up until he gets into the Air Force. He spends his time reading the works of Friedrich Neitzche and ignoring his squabbling parents and Grandpa's brazen sex advice. At a rest stop, the clutch on the microbus breaks, forcing the family to push-start the bus whenever it is not parked on an incline. At a gas station, Richard receives news that his book deal has fallen through. Frank is humiliated after running into his ex-lover in a convenience store. The family returns to the road, all in bad tempers, but realize (after Dwayne notices) that they have to return to the gas station for Olive, who they'd forgotten in their bad moods.They check into a motel for the night, Richard and Sheryl sharing a room, Frank and Dwayne in another, and Grandpa and Olive in a third. Olive confesses to Grandpa that she is scared about the pageant the following day, but is reassured by the doting Edwin that she is a beautiful person and will 'blow 'em outta the water." Sheryl and Richard have an explosive argument about the failed book deal, and Richard drives to Scottsdale in the middle of the night to confront Stan Grossman, his partner in the deal. Richard's ideas are rejected again, and he returns to the motel.Olive wakes her parents in the morning because "Grandpa won't wake up." Edwin is rushed to the hospital where he is pronounced dead of an apparent heroin overdose. The family grieves, but the paperwork they are instructed to carry out will ruin their chances to get to Olive's pageant on time. Determined to honor his father's memory, Richard has the family smuggle the body into their van. Soon, however, their horn breaks and will not stop honking. They are pulled over by a state trooper who nearly uncovers Edwin's body in the trunk, but is sidetracked by Grandpa's porn collection that falls out. He lets the family go in exchange for the porn mags, and the road trip continues.The Hoovers are almost at the pageant site and are making good time. Olive is giving Dwayne an eye test that she got from the hospital, and Frank realizes that Dwayne is colorblind. Realizing that this wrecks his dream of becoming a test pilot (and negates his nine months of total silence), Dwayne loses it. Richard stops the bus, and Dwayne runs into a culvert in a rage insulting his family. Refusing to continue the trip and failing to be comforted by Sheryl, Olive manages to win him back on board with a silent hug.They arrive at the Redondo Suites hotel with much confusion about parking, and make it to the sign-up table four minutes late. Though a snippy pageant official initially refuses her entry, a kindly employee adds Olive to the lineup. Richard finds an undertaking service to remove Edwin's body, and sadly bids farewell to his father. Dwayne and Frank, repulsed by the freakish child pageant atmosphere, walk out to a pier. Dwayne (now vocal again) expresses his frustration with being a teenager and life in general. Frank offers his nephew a piece of Proust philosophy: that it is your suffering, not your happiness, that defines you as a person.The pageant begins, and the prepubescent contestants, slathered disturbingly with makeup and fake tan, take the stage. Richard becomes nervous for Olive as he watches from the audience, knowing that she will not fit in. He and Dwayne, sharing the same concern, go backstage to convince Sheryl to call it off. Sheryl stands her ground, saying that they have to "let Olive be Olive." The family watches nervously as Olive is led to the stage to perform.Dressed in a suit and top hat, Olive dedicates her dance performance to Grandpa, who had choreographed it. The rest of the family have not seen it yet. Olive's dance turns out to be a strip-burlesque routine to Rick James's "Superfreak," which Olive performs with gusto, as she is innocent of its raunchy overtones. The audience is appalled and even begins to catcall, but the Hoovers stand up and cheer her on. The snippy pageant official orders the emcee to remove Olive from the stage, but Richard butts in and begins dancing next to his daughter to support her. One by one, Olive's family takes the stage and joyfully finishes the number with her. After a brief visit to the police precinct, the Hoovers are permitted to leave as long as Olive is never entered in another California beauty pageant.Having become closer and more confident during the trip, the Hoovers push-start the microbus once again and pile in. They drive into the sunset, back to Albuquerque.
+
+
+QUESTIONS
+q: Who has been coaching Olive?
+a: ['Grandpa Edwin']
+
+q: What city does Sheryl Hoover live in?
+a: ['Albuquerque']
+
+q: What starts honking unceasingly by itself?
+a: ['Car Horn']
+
+q: Which drug did Edwin use at the retirement home?
+a: ['Heroin']
+
+q: What vow did Dwayne take?
+a: ['vow of silence for nine months straight']
+
+q: Who tells the family they missed the deadline?
+a: ['A snippy pageant official']
+
+q: What song does Olive perform to in the talent show?
+a: ['Superfreak']
+
+q: What is the make of the vehicle in the film?
+a: ['Volkswagen']
+
+q: How did Edwin die?
+a: ['Heroin overdose']
+
+q: Who is competing in the pageant?
+a: ['Olive']
+
+q: Where is the beauty pageant being held?
+a: ['California']
+
+q: What does Dwayne discover at the end of the trip?
+a: ["He's colorblind"]
+
+q: What does the family have to promise the hotel security?
+a: ['Olive will never enter in another California beauty pagean']
+
+q: Who taught Olive her dance moves?
+a: ['Grandpa']
+
+q: What do Sheryl & Richard do when told to remove Olive from the stage?
+a: ['Join her']
+

@@ -1,0 +1,119 @@
+PARAGRAPH
+A young man and his father go hunting in a mountain area with forests somewhere in the American Midwest. Before they get to hunt anything, which the son is not to eager to do anyway, both of them get killed by strange flying jellyfish-like creatures which hit them and penetrate their skin with sharp-tipped tentacles.Some time later, four young teenagers, Tom, Greg, Beth and Sandy, go on a hike in the same area, ignoring the warnings of Joe Taylor, a local truck stop owner (Jack Palance). A group of cub scouts is also in the area; their leader (Larry Storch) is also killed by the alien creatures, while his cubs run into an unidentified humanoid and flee.The youths begin their vacation at a lake, but after a few hours, Tom and Beth disappear. Sandy and Greg go looking for them, and discover their dead bodies in an abandoned shack. They flee in their van, being attacked by one of the creatures, which tries to get through the car's windshield. After they have gotten rid of it, they come to the truck stop. Greg tries to get help from the locals, but they do not believe him, with the exception of Fred 'Sarge' Dobbs (Martin Landau), who is a mentally ill veteran. Meanwhile, Sandy encounters the strange humanoid and flees into the woods, where Joe Taylor finds her and returns her to Greg.While they discuss the situation, the sheriff arrives, but Sarge shoots him and begins to get more and more paranoid. Greg and Sandy leave with Taylor, who has been attacked by the humanoid before and secretly keeps the flying jellyfish as trophies, and go searching for the shack. Once there, Taylor goes inside but finds nothing but the dead bodies of Tom, Beth and the cub scout leader. They discuss waiting for the creature when Taylor is attacked by another "jellyfish". The young people flee once again, leaving him behind as ordered. They stop a police car and enter it, but find it to be driven by Sarge, who abducts them, believing them to be aliens. Greg plays along, telling the deranged man that an invasion force is on the way, thus distracting him enough to toss him aside, run away with Sandy and jump from a bridge.They make it to a house where they find new clothing and try to relax. In the night, Sandy wakes up and goes looking for Greg, only to discover that he has been killed by the alien, who is still in the room. She flees to the basement and the creature is about to get her when Taylor arrives and saves her. On the way to the shack, he tells her about the creature: it is a tall extraterrestrial (Kevin Peter Hall) who hunts humans for sport to keep as trophies, using the living creatures as living weapons against its prey.They wait at the shack to ambush the hunter with dynamite when Sarge shows up, almost spoiling their plan. He and Taylor fight, and Sandy is about to hit Sarge from behind when the alien arrives and kills Sarge. Taylor then shoots the creature, with little to no effect. Realizing the last chance of success, he lures it to the shack, which is then blown up by Sandy. She alone survives the horrible night.
+
+
+QUESTIONS
+q: who warned the teenagers?
+a: ['of local truck stop owner']
+
+q: why can't greg get help from the locals?
+a: ['they do not believe him']
+
+q: who arrives while discussing the situation?
+a: ['the sheriff arrives']
+
+q: why did they go to the new house?
+a: ['find new clothing and try to relax']
+
+q: what kills people in the mountain?
+a: ['by flying jellyfish']
+
+q: who does sandy look for?
+a: ['her friends']
+
+q: who hunts humans?
+a: ['Kevin Peter Hall']
+
+q: who is  fred 'sarge' dobbs?
+a: ['Martin Landau']
+
+q: who does sandy go looking for in the night?
+a: ['NO ANWER']
+
+q: who alone survives the horrible night?
+a: ['Sandy', 'SANDY']
+
+q: who kills larry storch
+a: ['alien creatures', 'ALIEN CREATURE']
+
+q: what type of creatures kill the father and son?
+a: ['lying jellyfish-like creatures', 'JELLYFISH LIKE CREATURE']
+
+q: where do the teenagers set up a camp?
+a: ['SAME AREA AS JELLYFISH CREATURE', 'American Midwest']
+
+q: who kills sarge?
+a: ['alien', 'HUMAN HUNTER']
+
+q: what does taylor find in the shack?
+a: ['Dead Bodies']
+
+q: Who is Paranoid?
+a: ['Sarge']
+
+q: who encounters the humanoid?
+a: ['the cub scouts']
+
+q: what does taylor keep as trophies from killing the humanoid?
+a: ['other humans']
+
+q: how does the alien like to kill people?
+a: ['with tentacles']
+
+q: who were present in the area other than the teenagers?
+a: ['A group of Cub Scouts']
+
+q: what kills the father and son?
+a: ['by flying jellyfish']
+
+q: where does taylor lure the alien to?
+a: ['it to the shack']
+
+q: who left with taylor?
+a: ['Greg']
+
+q: has taylor ever met any humanoids
+a: ['Yes']
+
+q: what is greg killed by?
+a: ['The alien']
+
+q: who gets killed?
+a: ['Greg']
+
+q: what was fred 'sarge' dobbs proffesion?
+a: ['Military veteran']
+
+q: whose bodies were found by taylor?
+a: ['Tom, Beth and the cub scout leader']
+
+q: who arrives and kills sarge?
+a: ['The alien']
+
+q: who are tom, greg, beth and sandy?
+a: ['four teenagers']
+
+q: where were the bodies of tom and beth found?
+a: ['in an abandoned shack']
+
+q: what does the alien hunt humans for?
+a: ['for sport to keep as trophies']
+
+q: what did sandy and greg discover?
+a: ['discover tom and beth bodies']
+
+q: who finds sandy after she flees into the woods?
+a: ['humanoid']
+
+q: When does the sheriff arrive?
+a: ['while they discuss the situation']
+
+q: who saves sandy?
+a: ['Taylor']
+
+q: who is driving the police car the young people escape into?
+a: ['Sarge']
+
+q: what happes to tom and beth?
+a: ['They disappear and die.']
+

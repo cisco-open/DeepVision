@@ -1,0 +1,41 @@
+PARAGRAPH
+At the beginning, the main character Yong-ho wanders to a reunion of his old student group. After causing some general mayhem with his deranged antics, he leaves and climbs atop a nearby train track. Facing an oncoming train, he exclaims "I want to go back again!" What follows is a series of prior events in the main character's life that show how he became the suicidal man portrayed in this scene.
+The first flashback takes place only a few days before Yong-ho's death. At this point he is already clearly suicidal, confronting his former business partner and ex-wife Hong-ja before the husband of his teenage crush Sun-im pays him a surprise visit. Yong-ho is taken to visit a comatose Sun-im in a hospital.
+The next flashback shows Yong-ho's life five years earlier. At first glance, he seems to be a rather successful businessman, but the problems in his life become clear when he confronts his wife, who is having an affair with her driving instructor. Yong-ho is unable to claim moral high ground, since he is also shown having an affair, with an assistant from his workplace. Finally, Yong-ho is shown with his wife at their new house, having dinner with his colleagues, where it becomes apparent that the marriage isn't working.
+On the third flashback, Yong-ho is shown as a police officer in 1987. At the beginning, he is shown along with his pregnant wife at a mundane scene. After this, he is shown apprehending a witness and brutally torturing him for information about another man's whereabouts. This leads Yong-ho to Kunsan where he and his fellow police officers capture the wanted man. While in Kunsan, Yong-ho is distracted from his work by fruitlessly trying to search for Sun-im and instead ends up on a one-night stand with a woman.
+The following flashback shows Yong-ho when he is just starting his career as a policeman and is pressured by his peers to torture a crime suspect, presumably a student demonstrator. Shortly afterward, he is visited by Sun-im. Yong-ho coldly and cruelly dismisses her by feigning interest in another woman, his future wife Hong-ja. At the final scene of this sequence, Yong-ho is shown sleeping with Hong-ja, whom it is shown he never truly cared about.
+During the next flashback, it's May 1980 and Yong-ho is performing his mandatory military service. While Sun-im is trying to visit him, his company is taken to quell the Gwangju Democratization Movement. Yong-ho gets shot in the leg and is told to stay behind. This leads to a scene where he confronts a harmless and presumably innocent student, whom he accidentally shoots and kills.
+The last flashback shows Yong-ho as a part of the student group that reunited at the beginning of the movie. This is also where he meets Sun-im for the first time. The scene poignantly shows the innocence that Yong-ho had, before his country molded him into the violent and jaded man he is at the start of the film by pitting him against his friends.
+
+
+QUESTIONS
+q: How does Yong-ho die?
+a: ['Suicide']
+
+q: What State is he in?
+a: ['Deranged']
+
+q: Who does he unintentionally kill?
+a: ['student']
+
+q: who is the main character?
+a: ['Yong-ho']
+
+q: is yong-ho faithful to his wife?
+a: ['no']
+
+q: what does he scream before dying?
+a: ['no answe']
+
+q: What is the name of the main character?
+a: ['Yung-ho']
+
+q: what did yong-ho aspire to be when he was a student?
+a: ['military service.']
+
+q: When did Yong-ho kill a female student?
+a: ['May 1980']
+
+q: What type of party does Yong-ho encounter during the opening scenes?
+a: ['reunion']
+

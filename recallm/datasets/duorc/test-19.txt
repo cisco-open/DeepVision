@@ -1,0 +1,71 @@
+PARAGRAPH
+Jenna (Scout Taylor-Compton) gets into an car accident with her boyfriend, Jamie, who eventually dies. Three years later, while coping with her past tragedy, Jenna is invited to stay for the weekend in a lakeside cabin by her best friend Renee (Christina Ulloa). They are joined by Renee's irresponsible boyfriend, Michael (Michael Copon), and his friend, Ian (Travis Van Winkle), and sail off at Ian's uncle, Wade's (Tyler Mane) lakeside cabin. They are greeted by Wade along with his friendly dog, named Beau.They settle in the cabin and plan on attending a party, since there is a festival happening around the nearby town at night. Jenna goes to her room and refuses to take her anti-depressent pills so she could have fun with her friends. While they all eat dinner, Wade mentions how he may not be around while they are away since he has work to do. The group gets fascinated when they stumble inside a sauna Wade built. While they enjoy spending time inside, the temperature gets warmer and they decide to swim at the lake. Trembling in cold, they all head back inside the sauna.Meanwhile, Michael gets high from the marijuana Wade had given to him, where Renee rebuffs his sexual advances. This upsets Michael and he gets out of the sauna. As the temperature gets way warmer than before, Renee ultimately decides to leave but the door is blocked from the outside. The trio think it is just one of Michael's pranks since they all know he is pissed off, which they don't find amusing. They soon realize that they are trapped in the sauna and attempts to break the small window on the door, injuring Ian's hand. They all take turns gasping for air as the temperature raises even higher with another unsuccessful attempt to unblock the door from the outside. The group then finds a hidden controller which they all can't risk destroying, since Ian believes it would just alter the temperature.Meanwhile in town, Wade is seen handling the fireworks for the festival with another guy, when the dog Beau tracks the trio's scream, begging for help, from the back of the house. Michael shows up at Wade's and disregards Beau's barking. Michael clearly thinks the three left him and attended the party, since he couldn't help himself from getting high. The man and dog hang out and start a conversation as Michael explains that he wasn't permitted to catch up at the party with the group since he didn't had a ticket and returned home.Back in the sauna, the situation transcends as the group runs out of water to drink and Renee getting sick from the hot temperature. Renee ultimately decides to break the controller, thinking it would lower down the temperature, but is stopped by Jenna. Renee starts yelling at her where Jenna inadvertently hits her head with a hot rock, which falls her unconscious. Jenna starts freaking out and decides to break the controller herself, which turns out to heat up the whole sauna as feared. Ian turns hysterical and burns his body to prevent the steamer from heating which blows up, killing him. At this point, Jenna is able escape the sauna but in reality, she was just hallucinating. She regains consciousness severly wounded, but still alive while Renee lets her near the broken window so she can breathe.Michael, unaware of his friends trapped in the sauna, gets back to the cabin where flashbacks shows him to the scene where he left the sauna earlier. It shows how Michael was so intoxicated that he inadvertently knocks down equipment near the door which ended up trapping his friends inside. Meanwhile, Wade arrives back at the cabin and discovers the two girls, alive, in the sauna. The parademics arrive and take Jenna and Renee away in a stretcher as they hold hands having survived.
+
+
+QUESTIONS
+q: What is Jenna's boyfriend called?
+a: ['Jamie']
+
+q: Who discovers two girls
+a: ['Wade']
+
+q: Who's barking do Mihcael and Wade disregard?
+a: ['Beau']
+
+q: What part of his body does Ian injure?
+a: ['His hand.']
+
+q: Where do Jenna, Renee and Ian get trapped?
+a: ['sauna']
+
+q: Where do Jenna, Renee, and Ian get trapped?
+a: ['sauna']
+
+q: What is Michael knocking over absentmindedely
+a: ['equipment near the door']
+
+q: Who gets burned?
+a: ['Ian']
+
+q: Who dies in the end?
+a: ['Ian']
+
+q: What is the cause of Jamie's death?
+a: ['Car Accident']
+
+q: What is the name of Wade's dog?
+a: ['Beau']
+
+q: Who stops Renee from breaking the controller?
+a: ['Jenna']
+
+q: What is the name of Jenna's best friend?
+a: ['Renee']
+
+q: What is Renee's boyfriend called?
+a: ['Jamie']
+
+q: Who injures their hand breaking a window?
+a: ['Ian']
+
+q: How does Ian die?
+a: ['A steamer blew up.']
+
+q: What blows up?
+a: ['The steamer']
+
+q: What drink does the group run out of?
+a: ['water']
+
+q: How does Renee try to lower the temperature?
+a: ['By breaking the controller']
+
+q: Who gets sick from the temperature at the Sauna?
+a: ['Renee']
+
+q: What does Renee break?
+a: ['Controller']
+
+q: Why wasn't Michael permitted to catch up at the party with the group?
+a: ["he didn't had a ticket"]
+

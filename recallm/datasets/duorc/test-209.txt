@@ -1,0 +1,36 @@
+PARAGRAPH
+The twins, named Danny and Anna, are found by Zoe Moon (Perrey Reeves), a young waitress. She notices when the children's hands touch, they create a wave of purple energy. However, before she can do anything, the infant children are separated when Bruno the Hermit (Brad Dourif) places Anna on a truck upon Bruno being spotted by Sheriff Bronson (Kevin Tighe).
+Danny (Erik von Detten) spends the next few years of his life between foster families, with none of which he feels at home with his recent run-away being thwarted by Sheriff Bronson and his men. Frustrated by the inability to place him, his social worker decides to leave him at an orphanage run by Lindsay Brown (Lynne Moody). It is here where he can at least make some friends. Here he is reunited with Anna (Elisabeth Moss) as she saves him from Xander (Sam Horrigan). Danny and Anna are initially not aware of their relationship, despite the odd mannerisms they share such as arranging the food on their trays exactly the same way. Once they realize they are siblings and possess supernatural powers, they catch the attention of Edward Bolt (Robert Vaughn), a local magnate seeking to develop the nearby Witch Mountain. He decides he wants to take care of them as their foster father. Danny is happy with the development, since he now has his sister and will have a nice home, but Anna is more apprehensive about being adopted by Bolt.
+During one of their outings, Anna uses her psionic abilities. As a result, the owner of the shop named Waldo Fudd (Vincent Schiavelli) takes them aside, revealing that he possesses the same abilities they do. He goes on to say that there are many more like them, all extraterrestrials from a world where everyone has a twin brother or sister. They came to Earth to explore, but all of them separated out of quarrels they experienced on Earth. Waldo has been working to reunite them all and take them home. Danny dismisses him as a joke, but Anna believes there is some truth to what he is saying. Meanwhile, Zoe sees the purple light from the front of the shop and recognizes it; she confronts the shop owner in hopes of finding the twins she saw, but he dismisses her declarations, though he leaves her some clues as to what will happen to Anna and Danny, if she wants to help them.
+Bolt reveals that he intends to use Anna and Danny to blast open Witch Mountain without explosives. When Anna discovers the truth, Bolt decides to separate them and use Anna as a hostage so Danny will do as he asks. At Witch Mountain, the two escape with help from Zoe, Bruno, Bolt's chauffeur Luthor (Brad Dourif), and Xander. Upon his plot being exposed by Luthor, Edward Bolt is arrested by Sheriff Bronson as Edward fires Luthor (who had already quit half an hour before).
+It is here where Waldo and many other reunited twins are waiting for them. Bruno and Luthor are revealed to be twins as well and end up joining them. Using the shopkeeper's powers, they all return home in pairs, with Anna and Danny going last to close the gate between their home world and Earth. Waldo casually comments that he will be waiting for the next group of tourists. Anna and Danny go up into the purple smoke to Witch Mountain.
+
+
+QUESTIONS
+q: What two characters arrive at another orphanage?
+a: ['Anna and Danny', 'Tony and Tia']
+
+q: Where the  children arrived?
+a: ['Earth']
+
+q: Who are all escape from mansion?
+a: ['Anna and Danny']
+
+q: Who is thanked for showing so much compassion getting the children home?
+a: ['Noone']
+
+q: Tony and Tia are met by their uncle and a flying what?
+a: ['Spacecraft']
+
+q: What kind of special powers do Tia and Tony have?
+a: ['Psychic']
+
+q: What is the name of the actor that plays Aristotle?
+a: ['Not in story']
+
+q: Whose mansion do the children arrive at?
+a: ["Bolt's mansion"]
+
+q: Who Played as elderly man ?
+a: ['Tony and Tia are the first to reach their destination.']
+

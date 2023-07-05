@@ -1,0 +1,45 @@
+PARAGRAPH
+In Edwardian London, Professor Henry Higgins (Rex Harrison), a scholar of phonetics, believes that the accent and tone of one's voice determines a person's prospects in society. In Covent Garden one evening, he boasts to a new acquaintance, Colonel Hugh Pickering (Wilfrid Hyde-White), himself an expert in phonetics, that he could teach any person to speak in a way that he could pass them off as a duke or duchess at an embassy ball. Higgins selects as an example a young flower seller, Eliza Doolittle (Audrey Hepburn), who has a strong Cockney accent. Eliza's ambition is to work in a flower shop, but her thick accent makes her unsuitable. Having come from India to meet Higgins, Pickering is invited to stay with the professor. The following morning, Eliza shows up at Higgins' home, seeking lessons. Pickering is intrigued and offers to cover all expenses if the experiment should be successful.
+Eliza's father, Alfred P. Doolittle (Stanley Holloway), a dustman, shows up three days later, ostensibly to protect his daughter's virtue, but in reality simply to extract some money from Higgins, and is bought off with Â£5. Higgins is impressed by the man's honesty, his natural gift for language, and especially his brazen lack of morals. Higgins recommends Alfred to a wealthy American who is interested in morality. Eliza goes through many forms of speech training, such as speaking with marbles in her mouth, enduring Higgins' harsh approach to teaching and his treatment of her personally. She makes little progress, but just as she, Higgins, and Pickering are about to give up, Eliza finally "gets it"; she instantly begins to speak with an impeccable upper class accent.
+As a test, Higgins takes her to Ascot Racecourse, where she makes a good impression initially, only to shock everyone by a sudden lapse into vulgar Cockney while cheering on a horse. Higgins, who dislikes the pretentiousness of the upper class, partly conceals a grin behind his hand. Eliza poses as a mysterious lady at an embassy ball and even dances with a foreign prince. At the ball is Zoltan Karpathy (Theodore Bikel), a Hungarian phonetics expert trained by Higgins. After a brief conversation with Eliza, he certifies that she is not only Hungarian, but of royal blood, declaring her to be a Princess.
+After all the effort she has put in, however, Eliza is given hardly any credit; all the praise going to Higgins. This, and his callous treatment towards her afterwards, especially his indifference to her future, causes her to throw Higgins' slippers at him, and to walk out on him, leaving him mystified by her ingratitude. Accompanied by Freddy Eynsford-Hill (Jeremy Brett), a young man she met at Ascot and who is charmed by her, Eliza returns to her old life, but finds that she no longer fits in. She meets her father, who has been left a large fortune by the wealthy American Higgins had sent him to and is resigned to marrying Eliza's stepmother. Alfred feels that Higgins has ruined him, since he is now bound by morals and responsibility. Eventually, Eliza ends up visiting Higgins' mother (Gladys Cooper), who is incensed at her son's behaviour.
+The next day, Higgins finds Eliza gone and searches for her, eventually finding her at his mother's house. Higgins attempts to talk Eliza into coming back to him. He becomes angered when Eliza announces that she is going to marry Freddy and become Karpathy's assistant. He makes his way home, stubbornly predicting that she will come crawling back. However, he comes to the realization that he has "grown accustomed to her face." Then, to his surprise, Eliza reappears in his study and it remains an open question what will happen next.
+
+
+QUESTIONS
+q: who is henry higgin's new acquaintance?
+a: ['Colonel Hugh Pickering']
+
+q: what is the profession of eliza's father in the movie?
+a: ['dustman']
+
+q: how is alfred p. doolittle related to eliza in the movie?
+a: ['father']
+
+q: what is the profession of eliza doolittle in the movie?
+a: ['flower seller']
+
+q: who is henry higgins' new acquaintance?
+a: ['Colonel Hugh Pickering']
+
+q: what does eliza doolittle?
+a: ['flower seller']
+
+q: henry higgins is a professor which subject?
+a: ['phonetics']
+
+q: what is the profession of eliza's father, named alfred p. doolittle?
+a: ['a dustman']
+
+q: who is an arrogant, irascible professor of phonetics?
+a: ['Henry Higgins']
+
+q: henry higgins is a professor of which subject in the movie?
+a: ['phonetics']
+
+q: who is  a young woman with a horrendous cockney accent?
+a: ['Eliza Doolittle']
+
+q: who is henry higgin's student?
+a: ['Eliza Doolittle']
+

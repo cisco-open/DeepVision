@@ -1,0 +1,14 @@
+PARAGRAPH
+Frederick Douglass and the White Negro is a documentary telling the story of ex-slave, abolitionist, writer and politician Frederick Douglass and his escape to Ireland from America in the 1840s. After his escape from slavery and writing his autobiography which included all the actual names of his 'owners' to prove he was telling the truth, his only option was to leave his family behind and flee the United States of America since now his life was in danger. The film follows Douglass' life from slavery as a young man through to his time in Ireland where he befriended Daniel O'Connell famous at the time in America for his support of the anti-slavery movement as he fought for Catholic emancipation in Ireland. Douglass toured the country, as an escaped slave, spreading the message of abolition and was treated as a human being, to his surprise, for the first time by white people as he noted later in the second edition of his autobiography My Bondage and my Freedom (1855). His arrival in Ireland coincided with the Great Famine and he witnessed white people in what he considered to be a worse state than his fellow African Americans back in the US. The film follows Douglass back to America where he is able to buy his freedom with money raised in Ireland and Britain (he even had enough left over to start his own abolitionist newspaper The North Star). Fellow passengers on his return journey include the Irish escaping the famine who arrive in their millions with very little and would go on to play a major role in the New York Draft Riot of 1863 where so many innocent black people were murdered and which Douglass could only despair over. The film examines (with contributions from the author of How The Irish Became White Noel Ignatiev amongst others) the turbulent relationship between African Americans and Irish Americans during the American Civil War, what drew them together and what drove them apart and how this would shape the America of the twentieth century and the era of Barack Obama. "While so much has been written about Frederick Douglass, this film is a refreshingly original look at a largely unknown part of his life - his extraordinary experience in Ireland. Aside from revealing a piece of history long obscured, the film gives us a fascinating glimpse into the relations between Irish and African-Americans. This will be a wonderful educational tool for students of all ages." Howard Zinn (www.camelproductions.net)
+
+
+QUESTIONS
+q: Frederick Douglas escaped from Ireland to America in what year?
+a: ['1840']
+
+q: Who was Frederick Douglas's friend?
+a: ["Daniel O'Connell"]
+
+q: How did Douglas buy freedom in America?
+a: ['With money raised in Ireland and Britain']
+

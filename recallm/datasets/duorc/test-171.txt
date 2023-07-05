@@ -1,0 +1,40 @@
+PARAGRAPH
+The story culminates in a pilgrimage to Mount Fuji in the midst of the cherry blossom season, a celebration of beauty, impermanence, and new beginnings.
+Trudi (Hannelore Elsner) and Rudi (Elmar Wepper) are an affectionate, long-married couple whose children have grown up and moved away. They live in a small Bavarian village. Trudi learns that her husband is terminally ill. The doctor suggests a final adventure, which the two wanted to have for some time, but never managed.
+Trudi decides to keep the disease secret from Rudi. She manages to convince him to visit their children and grandchildren in Berlin. But when they arrive, they realize that their children are too busy with their own lives to take care of the parents. Then they decide to drive to the Baltic Sea. But there, Trudi suddenly dies. Rudi is thrown completely off track and doesn't know how to go on. After he learns from his daughter's girlfriend that Trudi has actually sacrificed her life out of love for him, he starts to see his dead wife with new eyes.
+Rudi tries to make up for the loss of his wife. As her secret passions were Japan and the Japanese Butoh dance expression, Rudi travels to visit his son in Tokyo. As the situation gets too claustrophobic, his son wishes his father to go away. Then Rudi goes to a park full of cherry blossoms. He meets an eighteen-year-old Japanese girl named Yu (Aya Irizuki). She catches his eyes because she dances Butoh there every day. Yu lives in a tent and has lost her mother only a year ago, so she understands Rudi's feelings. She helps him get by in the big city. Despite the language barrier â they have to speak English â and huge cultural differences, they soon get along very well. Since Trudi has always talked about how much she wanted to see the sacred Mount Fuji, Rudi persuades his new companion to travel there together with him. Mount Fuji is so "shy" that it constantly hides behind clouds, so they put up in a hotel room beside a lake and wait for better weather. Rudi's health is deteriorating. One day, when he wakes up in the night restlessly and stands in front of the door, the mighty Mount Fuji greets him in the bright moonlight. Rudi lies down on the clothes of his wife, puts on make-up like a Japanese dancer, and begins to imitate the slow movements of Butoh at the lakeside. In his last vision, his dead wife appears to him and holds his hand. Then they unite to create a dance before the sublime backdrop of mountain and water. The next morning, when Yu sees Rudi's empty bed, she looks for him and finally finds him dead on the shore of the lake. In his luggage, there is a parcel written "For You, Yu". Inside the parcel, Rudi has left her his life savings.
+Two contrasting scenes precede the conclusion of the film: On the one hand, in a solemn cremation ceremony, his son and Yu are balancing the remaining ashes of Rudi's bones with chopsticks in a Japanese urn. On the other hand, the last scene but one is a table discussion by his children out of complete misunderstanding of their father â their indignation at his grumpiness and adventures with Yu, and his scandalous soft spot for Trudi's clothes.
+The final scene is of Yu again dancing Butoh with her pink telephone in the park.
+
+
+QUESTIONS
+q: What is Rudi's wife's name?
+a: ['Trudi']
+
+q: What does the doctor suggest to Trudi?
+a: ['A final adventure']
+
+q: Where are Rudi's children and grandchildren located?
+a: ['A small Bavarian village']
+
+q: What is the name of the Japanese dance?
+a: ['Butoh']
+
+q: Where do Trudi and Rudi live?
+a: ['They live in a small Bavarian village']
+
+q: What does Yu find by the lake?
+a: ["Rudi's dead body"]
+
+q: What did Rudi leave for Yu after his death?
+a: ['His life savings']
+
+q: What family member is Rudi visiting in Tokyo?
+a: ['his son', 'Son']
+
+q: Where does Rudi meet Yu?
+a: ['In Tokyo at a park full of cherry blossoms']
+
+q: Who does Rudi meet while wandering through the parks?
+a: ['Yu']
+

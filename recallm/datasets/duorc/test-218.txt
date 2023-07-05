@@ -1,0 +1,31 @@
+PARAGRAPH
+Based on writer/director Buddy Giovinazzo's novel of the same name, Life Is Hot in Cracktown explores how crack cocaine infiltrated the streets of urban America by following the journeys of four people whose lives are on a tragic collision course. Pre-op transsexual Marybeth (Kerry Washington) is working as a prostitute in order to save enough money to make her transformation complete. She lives with her lover, Benny, a small-time burglar, whom she hopes to marry after her final operation. Meanwhile, Manny (Victor Rasuk) is busy pulling double shifts while his wife, Concetta (Shannyn Sossamon), cares for their sickly infant son in their run-down apartment. By night Manny works at a 24-hour bodega frequented by junkies, drug dealers, and prostitutes, and by day keeps the peace as a security guard at a welfare hotel. One of the residents at that hotel is Willy, a ten-year-old boy who lives with his mother (Illeana Douglas) and her abusive boyfriend. Willy begs for money on the street so he and Susie can get some fast food. But it's dangerous out there, because volatile gangster Romeo (Evan Ross) is still searching the streets for his brother's killer, and he won't hesitate to terrorize anyone unfortunate enough to cross his warpath. Lara Flynn Boyle, Brandon Routh, Desmond Harrington, and RZA co-star. [D-Man2010]The gritty, hard realities of a neighborhood, as well as the struggling, proud people who try to survive them everyday. Marybeth is a pre-op transsexual working as a prostitute and living with her lover, Benny, a small time burglar. In spite of their lines of work, they live a somewhat normal life as a married couple. Marybeth works the streets in the hopes of saving enough money for her final sex change operation, so then she and Benny can be married. Manny works two jobs: the late shift in an all night bodega surrounded by young junkies, drug dealers and prostitutes, and as a security guard in a Welfare hotel. At home his wife, Concetta, takes care of his sick infant son and makes their grimy rundown apartment as much of a home as she can. Willy, ten years old, lives in the Welfare hotel with his sister, mother and her violent boyfriend. Willy begs on the street so he and Susie can buy some fast food to eat. Romeo, a street tough, roams the streets with his gang. Upset over the murder of his younger brother, and feeling partially responsible for not being there during the shooting, he terrorizes anyone who comes in his path. These four stories come together in a powerful climax of love and salvation, showing that despite the obstacles of life in the inner-city, humanity and hope can still prevail. Based on Buddy Giovinazzo's best-selling novel, "Life is Hot in Cracktown," the vignettes show how crack cocaine has infiltrated the streets of urban America. [D-Man2010]"Life Is Hot in Cracktown" shows the gritty, hard realities of a neighborhood, as well as the struggling, proud people who try to survive them everyday.
+Marybeth (Kerry Washington) is a pre-op transsexual working as a prostitute and living with her lover, Benny, a small time burglar. In spite of their lines of work, they live a somewhat normal life as a married couple. Marybeth works the streets in the hopes of saving enough money for her final sex change operation, so then she and Benny can be married.
+Manny (Victor Rasuk) works two jobs: the late shift in an all night bodega surrounded by young junkies, drug dealers and prostitutes, and as a security guard in a Welfare hotel. At home his wife, Concetta (Shannyn Sossamon), takes care of his sick infant son and makes their grimy rundown apartment as much of a home as she can.
+Willy, ten years old, lives in the Welfare hotel with his sister, mother (Illeana Douglas) and her violent boyfriend. Willy begs on the street so he and Susie can buy some fast food to eat.
+Romeo (Evan Ross), a street tough, roams the streets with his gang. Upset over the murder of his younger brother, and feeling partially responsible for not being there during the shooting, he terrorizes anyone who comes in his path.
+These four stories come together in a powerful climax of love and salvation, showing that despite the obstacles of life in the inner-city, humanity and hope can still prevail. Based on Buddy Giovinazzos best-selling novel, Life is Hot in Cracktown, the vignettes show how crack cocaine has infiltrated the streets of urban America. [D-Man2010]
+
+
+QUESTIONS
+q: Who was leader of a gang?
+a: ['Romeo']
+
+q: What is the drug of choice for the people in the Manhattan neighborhood?
+a: ['Crack cocaine']
+
+q: How does Marybeth make money to pay for surgery?
+a: ['Works as a prostitute']
+
+q: Who works two jobs?
+a: ['Manny']
+
+q: What does Chaz make the children do?
+a: ['Beg for food on the streets']
+
+q: What is the name of Willy's sister?
+a: ['Susie']
+
+q: Who works at the front desk of a drug-riddled flop house?
+a: ['Manny']
+

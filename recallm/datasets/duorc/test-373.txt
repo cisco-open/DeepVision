@@ -1,0 +1,44 @@
+PARAGRAPH
+George and Ann Farber, their son Georgie, and their dog arrive at their lake house. Their next-door neighbour, Fred, is seen with two young men, Peter and Paul, who seem to be friends or relatives. They find Fred reacting somewhat awkwardly. Fred and Paul come over to help put the boat into the lake. Lucky, the dog, keeps barking at Paul, but George ignores it. After Fred and Paul leave, George and Georgie stay outside by the lake, tending to their boat. Georgie asks his father why Fred was behaving so strangely.
+While Ann is in the kitchen cooking, Peter comes by to borrow some eggs. Ann gives him the eggs but Peter drops them. Feeling a little annoyed, Ann gives him another four eggs and Peter takes off. Soon afterwards she hears Lucky barking and Peter and Paul show up together. They seem friendly, and they admire a golf club belonging to George. Paul asks her to try out one of the clubs outside and she approves. In the boat, George and Georgie hear Lucky is barking hysterically when suddenly the barking stops.
+Peter and Paul request more eggs, because the last ones also ended up broken, Ann becomes frustrated, but when George tries to force the men to leave, Peter breaks George's leg with the golf club. The two young men then take the family hostage.
+Ann tries to call for help on a cell phone, but finds it unusable because Peter had dropped it in the sink. Paul then guides Ann on a hunt to find the family's dog, which he has killed with George's golf club. When neighbors visit, Ann passes the two men off as friends.
+The family is forced to participate in a number of sadistic games in order to stay alive. Paul asks if George or Ann wants to bet that they will be alive by 9:00 in the morning, and says that he and Peter are betting they won't be. Between playing their games, the two men keep up a constant patter. Paul frequently ridicules Peter's weight and lack of intelligence. He describes a number of contradicting stories of Peter's past, although no definitive explanation is ever presented as to the men's origins or motives.
+Georgie tries to escape. He attempts to climb a locked gate but changes his mind and goes to the neighbors' empty house. There he discovers that they have been killed. Georgie attempts to shoot Paul with a shotgun, but the gun fails to go off. Paul returns him to the living room, along with the shotgun.
+The men play a new game, saying whoever gets counted out will be shot. Georgie panics and makes a run for his life which results in Peter shooting and killing him. Paul is a little annoyed that Peter didn't follow the rules of their game to the letter.
+George and Ann are grief-stricken, but they eventually resolve to survive. Ann is able to flee the house while George, with a broken leg, desperately tries to make a call on the malfunctioning phone. Ann struggles to find help, only to be re-captured by Peter and Paul, who return her to the house. After stabbing George, they attempt to force Ann to make a choice for her husband, between a painful, prolonged death with the knife or a quick death with the shotgun.
+Ann seizes the shotgun on the table in front of her and kills Peter. An enraged Paul grabs the shotgun and starts looking for the television remote. Upon finding it, he literally rewinds the last occurrences back to a moment before Ann grabs the shotgun, thereby breaking the fourth wall. On the "do over", Paul snatches the shotgun away and admonishes her, saying she isn't allowed to break the rules.
+Peter and Paul then kill George and they take Ann, bound and gagged, out onto the family's boat. Around eight o'clock in the morning, they nonchalantly throw her into the water to drown, thus winning their bet. They dock at the house of the neighbors who had previously visited the family. They request some eggs, thereby restarting their cycle of murder.
+
+
+QUESTIONS
+q: Why does Peter break George's leg?
+a: ['George tries to force the men to leave']
+
+q: Who comes to borrow eggs ?
+a: ['Peter']
+
+q: How does Ann kill Peter ?
+a: ['with a shotgun']
+
+q: Why was the phone unusable when Ann tries to use it?
+a: ['Peter dropped it in the sink']
+
+q: Where does the family and their dog reside?
+a: ['Lake house']
+
+q: What do Paul and his friend do to Ann ?
+a: ['bound and gag her then throw her overboard']
+
+q: What does the young men go to borrow?
+a: ['eggs']
+
+q: Where do the loving family arrive ?
+a: ['at their lake house']
+
+q: What does Peter do to George ?
+a: ['kills him']
+
+q: What is the family forced to do ?
+a: ['participate in a number of sadistic games in order to stay alive']
+

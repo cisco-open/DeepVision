@@ -1,0 +1,39 @@
+PARAGRAPH
+Boozy Arthur Bach (Russell Brand) and his chauffeur, Bitterman (Luis GuzmÃ¡n), dress up in Batman and Robin costumes for a formal dinner hosted by Arthur's mother, Vivienne (Geraldine James). The dinner is intended to announce Arthur as the new chairman of her corporation, Bach Worldwide. Driving to the dinner in a Batmobile, an intoxicated Arthur is chased by police, arrested and released the next day.
+Vivienne forms a plan to have her shrewd assistant Susan Johnson (Jennifer Garner) marry Arthur to ensure stable leadership and help Arthur's reputation. Arthur initially refuses (citing that he and Susan have nothing in common for a loveless relationship), but is told that he will be cut off from his $950 million inheritance if he does not marry Susan. He reluctantly agrees and asks Susan's father, Burt Johnson (Nick Nolte), for permission to marry. Burt agrees, after forcing Arthur against a table saw and warning him not to embarrass Susan. The next day, Arthur meets Naomi Quinn (Greta Gerwig), an illegal tour guide to whom he becomes attracted because of her free-spirited nature. He arranges his wedding while sneaking around on dates with Naomi. Arthur's nanny, Lillian Hobson (Helen Mirren) â who normally dislikes all of Arthur's choices in women â gets to know and like Naomi. Arthur learns that Naomi would like to have her children's book about the Statue of Liberty published. He attempts to find employment and other options so that he will be able to keep seeing Naomi and not need the inheritance, but to no avail. Hobson takes Arthur to an Alcoholics Anonymous meeting, where Arthur complains that it is depressing and makes him want to drink. He proclaims he is going to drink, unintentionally brags about his wealth, and turns to leave the meeting. Hobson stands up and takes the bullet, giving Arthurâs humiliating introduction in his place. Arthur, touched, states that if only she would do his drinking for him as well, he would be set.
+Arthur goes to see Naomi at her house and tells her the truth â that he is engaged to Susan. Naomi then tells him to leave. Back home, Arthur calls for Hobson, only for Bitterman to come and tell him that she is in bed with a headache. Later, Hobson goes to Naomi and asks her to give Arthur another chance, but she again falls ill and is taken to a hospital. Naomi calls Arthur to tell him what has happened. He comes to the hospital, meets Naomi and is about to make up with her, but Susan arrives and tells Naomi that Arthur has bought the company that is handling the publication of her book. Upset, Naomi leaves the hospital. Hobson comes home and Arthur takes care of her. The two begin to get along better. However, a few days later, Hobson dies in her sleep and Arthur reverts to alcoholism to numb the pain of her death, losing Naomi, and being married to Susan.
+At his wedding, Arthur gets drunk and finds Hobson's last letter to him in which she advises him to follow his heart. Arthur decides, during the vows, not to proceed with the marriage. Susan and her father become belligerent and begin punching him, which makes Vivienne realize that the ambitious and conniving Susan is only after her company. Vivienne stops the ruckus, but reminds Arthur of the agreed upon disinheritance if he pursues Naomi. Arthur strips nearly naked to emphasise that he wants no kind of dependency on his mother's money and runs to Naomi's apartment. He tells her that he just lost his mum (meaning Hobson, not Vivienne) but Naomi, still upset with him, says she can't replace Hobson and refuses any prospect of their getting back together.
+Six months later, Arthur is now sober. He has got back his inheritance because he is managing the company's charity, and his mother becomes proud of him to finally take something seriously (possibly indicating his love for Naomi). He goes to a bookshop to buy Naomi's book â which she has dedicated to him â and sees an advertisement for a book-reading she will be giving at a library. Arthur goes to the library and, this time, Naomi takes him back. The two leave the library and Bitterman drives them through the city in the Batmobile with the police following in pursuit.
+
+
+QUESTIONS
+q: How did Naomi and Arthur leave together?
+a: ['Batmobile']
+
+q: Who is Arthur's mother?
+a: ['Vivienne']
+
+q: Who encourages Naomi to write the story.?
+a: ['Arthur']
+
+q: Who did Arthur go to the dress party with?
+a: ['Bitterman']
+
+q: Who did Vivienne tell Arthur he must marry?
+a: ['Susan']
+
+q: Who cleaned up after Arthur?
+a: ['Hobson']
+
+q: Who takes arthur for dinner at home.?
+a: ['Linda', 'Burt Johnson']
+
+q: What did Arthur and Bitterman dress up as?
+a: ['Batman and Robin']
+
+q: Who clean ups after arthur and kicks out various hookers.?
+a: ['Hobson']
+
+q: Who is the drunken playboy who revels in party and drinking.?
+a: ['Arthur']
+

@@ -1,0 +1,68 @@
+PARAGRAPH
+In the opening scene, a young couple loses control of their motorbike and fall to the ground when they hit a fallen tree laying on the track through a forest where they are riding. The guy, Jim, is badly hurt, and the girl, Lori, runs to find some help. She finds an abandoned cabin but no one is there. She runs back to Jimmy where she finds him dead hanging upside down from a tree, terrified she runs back to the cabin. While running, she steps on a trap full of sharp objects, killing her.Weeks later, a group of campers arrive at the forest where the killings happened. The campers include Dennis Zorich, his Australian girlfriend Margaret, her best friend Windy, Windy's boyfriend Marco, Marco's friend Nathaniel, fellow friend Boone, the weird forest ranger Eggar, Nathaniel's girlfriend Vanessa, and fellow park rangers Mike and Melanie. Eggar drives them on a small bus to their destination. The group makes a clearing in the forest and gather supplies, and spend the night around a bonfire near a small river. They wake up early in the morning but both Marco and Eggar are missing.The boys search for him and the others search nearby the camp. Mike takes a swim and Melanie follows him. While having sex, Mike is stabbed by a strange humanoid creature. Melanie screams in terror while watching him die.Nathaniel and Dennis find the abandoned cabin and an old grave. Dennis enters the cabin and Nathaniel hears Dennis scream and enters to be attacked by what he thinks is a strange old lady, but it is Dennis trying to scare him. They find some things inside the house that are being used and new. They take some of the things and food. While opening the cabinet they find the severed head of a wolf. Shaken, they head back to the camp.That night, while sleeping, Margaret is attacked by the strange creature. She confesses hysterically what she saw to the other campers. The campers hear a strange noise and pursue the source only to find Marco, who has returned to the camp. Vanessa gets angry at the guys for scaring the girls and walks off alone. She finds the old outhouse and enters, and Mike's severed head falls on her, causing her to panic and scream.Nathaniel and the rest of the group come to her aid, then start a search for Melanie. They decided to spend the night in the camp. In the morning they go to the cabin to try to capture the mountain man who killed Mike. Unbeknownst to the group, Melanie is down in the basement with the killer. They see a severed hand in a jar and flee. They raft along the river, unaware that the creature is following them. The creature throws the dead body of Melanie in the boat causing chaos.Burying Melanie near the river, the group continues on to the end of the river and finds their empty, broken-down bus on a bridge. They decide to spend the night there, but the creature attacks the bus. The creature gets inside but the group escape out the back door.Windy gets separated and lost, and ends up stabbed in the neck by the creature. The remaining group hears her scream and follows her. She is badly hurt and bleeding, so Dennis and Marco decide to go back to the bus to get first aid. They make it to the bus and back without incident to tend to Windy's neck wound. The group again tries to search for the way out of the forest.The next morning, the group gathers supplies and camouflage themselves. Dennis climbs one of the highest trees, where he sets a trap. Marco begins calling out for Eggar. When Eggar appears, he begins to strangle Marco. The group attacks Eggar, suspecting he was the one who killed Mike and Melanie, but the real creature appears.While Dennis is watching the rest of the group beat Eggar, it comes from behind and cuts him off at his ankle, making him fall from the cliff, killing him. The creature rises up and screams, revealing herself to be Eggar's long lost mother. As she walks down to confront the group, she steps on one of the traps, a spiked log hanging from the large tree, killing her. Eggar appears to be devastated. The six survivors: Margaret, Windy, Vanessa, Nathaniel, Boone, and Marco watch in horror as Eggar's mother hangs dead in the trap.
+
+
+QUESTIONS
+q: What do Dennis and Nathaniel find in the cabinet?
+a: ['Severed head of a wolf']
+
+q: Who climbs one of the highest trees?
+a: ['Dennis']
+
+q: Whose severed head falls onto Vanessa?
+a: ["Mike's"]
+
+q: What animal's severed head was found in the cabin?
+a: ['wolf']
+
+q: Whose body is tossed onto the boat?
+a: ['Melanie']
+
+q: Which member of the group is kidnapped?
+a: ['Melanie']
+
+q: Who climbs one of the tallest trees to set a spiked log trap?
+a: ['Dennis']
+
+q: What do Mike and Melanie do while the group searches for the missing friends?
+a: ['Having sex']
+
+q: What is the first thing in the abandoned cabin that Nathaniel and Dennis find?
+a: ['Severed head of a wolf']
+
+q: Whose mother is the killer?
+a: ["Eggar's"]
+
+q: Who pulls a prank on Nathaniel by screaming in the cabin?
+a: ['Dennis']
+
+q: What happens to Mike?
+a: ['Mike is stabbed by a strange humanoid creature']
+
+q: What happens to Eggar's mother?
+a: ['she is killed by a spike']
+
+q: Whom does the group suspect the killer to be?
+a: ['Eggar']
+
+q: What does Eggar's mother accidentally do?
+a: ['step on a pike']
+
+q: What do Jim and Lori lose control of while riding through the forest?
+a: ['motorbike']
+
+q: Who does Nathaniel hear screaming?
+a: ['dennis']
+
+q: What does Lori find Jim hanging from?
+a: ['tree']
+
+q: Who begins to strangle Marco?
+a: ['Eggar']
+
+q: Who does the group discover are missing?
+a: ['marco and eggar']
+
+q: Who is slashed by the creature?
+a: ['Windy']
+

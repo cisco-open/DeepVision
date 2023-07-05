@@ -1,0 +1,34 @@
+PARAGRAPH
+This section needs expansion. You can help by adding to it. (June 2008)
+If we were to choose one man whoâs got everything going for him, then Lazar Perkov would be an excellent choice. Heâs young, good-looking, has a beautiful wife, lovely little boy, great house and a good job as a hospital physician. In fact, everyone calls him âLucky.â Nothingâs missing â except maybe Lucky himself, whoâs always trying to live up to the expectations of others. Like his bored wife and roguish colleagues. And, above all, his famous physician mother, a driven woman who rose from obscurity to renown with an iron will that crushed all resistance, whether from the living or the deadâ¦
+When Lucky is involved in a disastrous car crash and mysteriously saved from a sure death, his life begins to change. He meets strange people: an old man with a baby, an ancient lady speaking a forgotten dialect, a beautiful young woman with a sad secret. Their only message is: âReturn whatâs not yours. Have respect.â He gradually becomes aware that it is a message from the afterlife, from tormented souls who seem to die over and over again.
+But why have they chosen him?
+To answer this question, Lucky must finally grow up and become the man he wants to be.
+The action begins at Lazar's home where he has a fight with his wife about how messed up his life was. Pissed off from the fight, he goes for a drive. When trying to light a cigarette in his car, without having the seatbelt on, his phone rings â it is his mother. Then the cigarette falls from his mouth in the desperate attempt to grab his mobile phone on the seat next to him, burning him on the arm. Now he loses control over the car, but meanwhile a woman is crossing the road. Lazar's attempt to avoid hitting her is fatal. His car flips, and crashes until he is found hanging off the car's window whose glass had broken in the crash. The slow movement on the car resting off a building's wall is threatening to crush his dangling head. As all of the people on the streets watch in despair, something moves him away from the car.
+
+
+QUESTIONS
+q: What is the cryptic message Lucky recieves?
+a: ['Return what is not yours. Have respect.']
+
+q: What do Lazar's friends call him?
+a: ['Lucky']
+
+q: How was Lazar injured?
+a: ['disastrous car crash']
+
+q: What message is frequently being delivered to Lazar?
+a: ['Their only message is: Return whats not yours. Have respect.']
+
+q: What does Lucky conclude the apparitions are?
+a: ['tormented souls who keep dying over and over again.']
+
+q: Where does Lucky's wife go?
+a: ['Nowhere she stays in the home for the duration of the passage.']
+
+q: What is the doctor's nickname?
+a: ['Lucky']
+
+q: How was Lucky injured?
+a: ['car crash']
+

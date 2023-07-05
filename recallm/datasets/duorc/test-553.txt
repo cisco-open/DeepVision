@@ -1,0 +1,11 @@
+PARAGRAPH
+A story about the struggle of the International Ladys Garment Worker Union (ILGWU) to unionize a New York sweat shop, Roxton Fashions, in the Garment District. Lee J. Cobb plays Walter Mitchell the owner of a company that is determined to keep the union out of his shop. His partner does not agree, and only wants the workers to have a living wage. He dies in an accident. Kerwin Mathews palys his son Alan, who comes back to New York after a long absence. He does not understand his fathers angry resistance to t he union, and sympathizes with the union. Walter Mitchell has been paying Artie Ravidge played by Richard Boone to keep the union out by roughing-up the union. Italian immagrant and unionist, Tulio Renata, played by Robert Loggia is killed by the goons. Ultimately, Walter Mitchell comes to see that what he is doing is wrong, and embraces the union. This results in his own murder. His son Kerwinl develops a relationship with Renatas widow Theresa played by Gia Scala. They team up to expose ledger books that detail the extortion payments made by Walter Mitchell to the goons. In the end Ravidge is convicted of murder.
+
+
+QUESTIONS
+q: Who attempts to take over the factory?
+a: ['Ravidge']
+
+q: What war is Alan a veteran of?
+a: ['Korean War']
+

@@ -1,0 +1,15 @@
+PARAGRAPH
+Six-year-old Vanya Solntsev lives in a desolate and rundown orphanage run by an alcoholic headmaster. When a wealthy Italian couple wanting to adopt selects him, the other children, especially his good friend Anton, envy his good fortune and name him The Italian. But when a grief-stricken mother of another boy commits suicide after returning to reclaim her son and discovering he is no longer there, Vanya fears the same fate looms for him. With the aid of some of the older boys, he retrieves his file from the office safe and learns the address of the children's home where he previously lived. Certain the records there will identify his mother, he sets off on his quest.
+Pursuing him by car as he travels by train are the corrupt Madam, who brokered his adoption, and her driver Grisha. Upon arriving in the town where the home is located, Vanya is attacked and beaten, but he breaks free and finds a bus that will take him to his destination. There he is confronted by Grisha, but he manages to elude him and make contact with the head of the home, who gives him his mother's address. Once again Grisha catches up with him, but when he realizes how determined Vanya is to find his mother, he lets him go. The boy is reunited with his mother. Through a letter Vanya wrote to Anton, who was adopted by the Italian couple instead, we learn Vanya is happy to be living with his mother again.
+
+
+QUESTIONS
+q: what was the age of vanya solntsev
+a: ['Six-year-old']
+
+q: what are the hopes of vanya solntev
+a: ['Of getting adopted']
+
+q: what are the challenges taken by vanyasolntev
+a: ['identify his mother']
+

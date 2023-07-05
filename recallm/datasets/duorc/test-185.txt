@@ -1,0 +1,32 @@
+PARAGRAPH
+The film is told through the perspective of Scotty Smalls, who is reminiscing on his first summer in Los Angeles. In 1962, Smalls moves with his mother and stepfather, Bill, to a new neighborhood, and struggles to make new friends. One afternoon, he decides to follow a group of neighborhood boys, and watches them play an improvised game of baseball at a small field, which they call the sandlot. Smalls is reluctant to join their game, as he fears he will be ridiculed on account of his inexperience. Nevertheless, he chooses to play with them, but fails to catch a simple fly ball and properly throw the ball back to his infielders. All the other players, except for Benny Rodriguez, begin to jeer Smalls for committing defensive miscues, prompting him to leave the sandlot in embarrassment. Benny, who is the best player in the neighborhood, shields Smalls from the insults of his peers, and invites him to rejoin their game. He proceeds to give Smalls advice and helps him earn the respect of the other players. In time, Smalls is accepted and becomes an integral part of the team.As Smalls continues to play with the team, he begins to learn many of the customs of the sandlot, while experiencing many misadventures with his new friends:- Getting banned for life from the local pool after Squints kissed the lifegaurd, Wendy Peffercorn, while pretending he was a drowning victim.- Challenging and winning a game against their arch-rival, the Tigers at their manicured field, after the Tigers came on their bikes and insulted them on the sandlot.He learns that players avoid hitting home runs over the sandlots fences, as the property is guarded by a ferocious dog, called the beast. One day, Benny hits a ball so hard, that he ruptures its leather, causing the balls entrails to come out. The group cannot afford to buy another baseball, and is forced to retire for the afternoon. However, Smalls runs to Bill's trophy room, and steals an autographed baseball, in hopes of preserving the game. The team is impressed with Smalls gesture, and allows him to have the first at bat with the ball. He proceeds to hit the ball out of the sandlot, but is shortly enveloped by fear once he realizes that he has lost his stepfather's ball. The situation is further worsened when Smalls realizes that the ball was autographed by Babe Ruth, and is almost irreplaceable.Smalls and his friends begin engineering elaborate plans to recover the ball from the beast. After five failed rescue attempts, Smalls prepares to accept his fate. Around the same time, Benny has an enlightening dream, where he is visited by Babe Ruth, who encourages him run into the sandlot, and use his speed to recover the ball and escape. Ruth leaves him with the words, Heroes are remembered, but legends never die. Benny rallies his friends the following morning at the sandlot, and prepares to recover Smalls baseball. He tries to convince Benny not to, but the decision was already made. Using his PF Flyers, he steals the ball from the Beast, and successfully manages to elude the dog as it chases him through town. At the end of the race, the Beast is injured after a fence collapses on it. Smalls and Benny both feel responsible for the ordeal, and helps the Beast (whose real name is revealed to be "Hercules") escape the rubble. Hercules is grateful to Smalls helping him out that he licks his face and allows the boys access to the balls hit in the back yard. Benny and Smalls then decide to tell the dogs owner, Mr. Mertle (James Earl Jones), about the ordeal. Mertle revealed if they gone to him about the baseball that had Babe Ruth's singature, he would've retrieved it for them. The other boys began hitting Squints with their hats for making up the story about Hercules as the Beast. Squints told them they should be grateful they got the ball back. They eventually learn that Mertle was a professional baseball player at the time of the 1927 New York Yankees, and played with Babe Ruth. Mertle, whose career was shortened after he was blinded by a stray pitch, agrees to give Smalls a ball signed by Murderers' Row several of the best Yankee hitters in the late 1920s. In exchange, the boys are to visit Mertle once a week to talk about baseball. Smalls proceeds to give his stepfather the ball that Mertle gave him.While his stepfather is still mad at him, they eventually get over the issue. He then goes on to explain what became of all his friends, and the future careers they pursued(Squints marrying Wendy and running a store in their hometown, Bertram disappearing after he fell in love with the 60s, Hercules joined in their games and lived to be 100 in doggy years). The film then jumps twenty years into the future, where Smalls is a radio commentator for the Los Angeles Dodgers, and Benny The Jet Rodriguez is one of the team's star players. While he is in the twilight of his career, Benny manages to steal home in the movies final comments, before flashing a thumbs-up to Smalls in the press box.
+
+
+QUESTIONS
+q: What year does the sandlot take place ?
+a: ['1927']
+
+q: What does Benny win for the Los Angeles Dodgers?
+a: ['a baseball game']
+
+q: Who is the team captain ?
+a: ['Benny']
+
+q: What is the giant dogs name?
+a: ['beast']
+
+q: Whose autograph is on the baseball?
+a: ['autographed by Babe Ruth']
+
+q: What is the Beast's real name?
+a: ['Hercules']
+
+q: Who climbs the fence?
+a: ['Benny']
+
+q: Who is the owner of the dog?
+a: ['Mr. Mertle']
+
+q: Mr. Mertle reveals himself as what?
+a: ['Pro baseball player']
+

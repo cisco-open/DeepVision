@@ -1,0 +1,32 @@
+PARAGRAPH
+Rafael Belvedere (Ricardo Darín) is stressed out, because his cafetería-restaurante is losing money. The economic situation in Argentina is chaotic, and he has problems to get credit, to purchase coffee beans and fizzy drinks... There are less and less costumers each time.Spanish: Rafael Belvedere (Ricardo Darín) está estresadísimo, porque su cafetería-restaurante está perdiendo mucho dinero. La situación económica en Argentina es caótica, y tiene problemas para conseguir crédito, para comprar grano de café y bebidas con burbujas; y cada vez tiene menos clientes.His father Nino (Héctor Alterio) wants to celebrate their silver wedding with a second religious ceremony. His wife Norma (Norma Aleandro)suffers from Alzheimer, and sometimes she cannot know who anybody is. Padre Mario (Humberto Serrano), tells Rafa that his parents cannot re-marry if she doesn't say "Yes I do" on her own. The ordeal may become too heavy for Norma, but Nino is determined. Nino and Rafa have several rows concerning this matter. They also argue about the cafetería, because Nino wants to keep it as it always was.Spanish: Su padre, Nino (Héctor Alterio) quiere celebrar sus bodas de oro con una segunda ceremonia religiosa. Su esposa, Norma (Norma Aleando), tiene Alzeimer, y a ratos no sabe quién es nadie. El padre Mario (Humberto Serrano), le dice a Rafa que sus padres no podrán volver a casarse si ella no es capaz de decir "sí, quiero" por su propia voluntad. Todo el asunto puede ser demasiado para Norma, pero Nino está seguro de lo que quiere hacer. Nino y Räfa tienes varias discusiones sobre el asunto. También discuten sobre la cafetería, porque NIno quiere conservarla como siempre fue.This is when Rafa has a heart attack. He has a blackout and suddenly wakes up in a strong-lighted room. He tries to get out of hospital as soon as possible, but Naty, his girlfriend, (Natalia Verbeke), tells him that he cannot go on like this for ever and ever.Spanish: Entonces es cuando Rafa tiene un ataque al corazón. Se desmaya y se despierta en una habitación con una luz muy fuerte. Él quiere irse del hopital lo más pronto posible, pero su novia Naty (Natalia Verbeke), le dice que tiene que madurar y llevar una vida más estable.Finally, the second wedding takes place. Although Norma seems confused much of the time, when the time to say "yes I do" arrives she is able to look at Nino in the eyes and say it.Spanish: Al final, las bodas de oro tienen lugar. Aunque Norma está perdida la mayor parte del tiempo, cuando lleda la hora de dar el sí, ella es capaz de mirar a Nino y decirlo.An offer from a multinational has arrived. They want to purchase-off the cafeteria and make a fast-food restaurant out of it. Rafa feels he can't cope anymore, but he won't sell. The last scene shows a much improved cafetería: he has done it up and the cafetería is working a little better than it used to. Although he won't ever be a rich man, he can make ends meet.Spanish: Una oferta de una multinacional ha llegado. Quieren comprar la cafetería y construir un antro de comida rápida. Rafa siente que no hay otra solución, pero tampoco le gusta la idea de vender. La última escena muestra una cafetería mejorada: la ha redecorado de arriba a abajo y está funcionando bastante mejor de lo que solía. Aunque Rafa nunca será millonario, por lo menos puede llegar a fin de mes.
+
+
+QUESTIONS
+q: How long has it been since Rafael seen his mother?
+a: ['not mentioned']
+
+q: what does Rafael open after the wedding
+a: ['cafetera', 'Rafael opening a new restaurant']
+
+q: What does Rafael end up selling?
+a: ['Nothing.']
+
+q: What does Rafael suddenly suffer?
+a: ['Has a heart attach']
+
+q: How does Nati feel when she is told he wants some space and freedom?
+a: ['not mentioned']
+
+q: Who does acts the role of priest at Rafael's parents second wedding?
+a: ['Humberto Serrano']
+
+q: where does Rafael want to move to?
+a: ['not mentioned']
+
+q: What has Juan Carlos Become?
+a: ['restaurant']
+
+q: What disease does Norma suffer from?
+a: ['Alheimers']
+

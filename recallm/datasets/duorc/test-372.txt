@@ -1,0 +1,53 @@
+PARAGRAPH
+The movie opens with a family driving down a desert highway. The mother and son are playing I spy when they hit a deer. The dad gets out and walks towards the bushes and comes back with half his face gone. The family is attacked by something foul-smelling.The scene shifts to a lavish apartment where Trip, one of the film's main characters meets with a dealer named Radford who provides him with a number of pills for a rave in the desert. Trip steals all the dealer's pills. He meets with his friends Cookie, Nelson, Jack (who is blind) and the driver, Gretchen. The group notices an overturned car on the highway, which they dismiss as an abandoned accident.Gretchen discovers that Trip is carrying drugs and stops the vehicle to kick him out. She agrees to take him back to a diner, which they discover has been abandoned. The car runs out of gas and inexplicably breaks down, so they decide to stay at the "Halfway Motel". Learning from the radio that the highway has been closed, Trip decides to walk down the road for help. After walking into a room in which he does not see the mother from the opening of the film--now with a damaged mouth and unable to speak, carving "Tell my son I lov(e him)"--Jack and Gretchen pitch camp and decide to sleep outdoors. After a haunting experience with the drug dealer Radford, Trip escapes and meets a man named "Henry" driving an RV, who is looking for his wife who has gone missing. He goes with Trip to the motel and sets up camp there. Trip doesn't tell his friends about his run-in with Radford but tells them to be careful and to scream if they see or hear anything (much to Jack's chagrin).Looking for signal reception for his mobile phone, Trip releases from a rubbish skip the still-living head, torso and arms of a truck driver who then crawls away. Henry then meets Trip and discovers that Trip is seeing the dead people, as well. While in his camper, Henry collapses, suffocating as a dark figure moves through the trailer. Still looking for reception, Trip is attacked on the roof by a hooded figure. Cookie is attacked whilst sitting on the pit toilet and is killed by being dragged into the hole. Upon noticing her absence, Nelson is almost dragged under his bed but pulls himself back up and jumps on top of the bed. He takes his sneaker off and drops it on the ground, watching as it is shredded. He then tries to escape by jumping through the window. However, a shard of glass cuts his throat, and he dies. He is found by Gretchen and Jack. They go to the RV to tell Henry, only to find that he is also dead. Gretchen decides to look for Trip and leaves Jack, who encounters the creature. As he tries to get away, Trip starts shooting at the figure with his gun, giving Jack time to get away. Trip is overpowered by the creature and dies.An RV had crashed into Gretchen's car, after Trip had gotten out to call for a ride. None of the group had noticed the RV, whose driver, Henry, who had suffered a massive heart attack and lost control, as his wife, Rose had explained. The car that the group had seen leaving the diner was in fact their own (as seen after Gretchen crashed the car again herself). Each of the deaths at the hotel were reflected by their own deaths in the car; Cookie had died from internal bleeding, Nelson had been thrown through the windshield, cutting his neck on the glass, Trip's arm was severed gripping the cell phone (as when he was attacked) and he died from blunt force trauma, while Jack, who had received a massive head injury, and Gretchen, who was wearing her seat belt, remained in the car and alive. Radford, who had been stalking Trip witnessed the accident and attempted to assist; hence the visions of him at the motel and highway.In the final scene, Gretchen and Jack briefly discuss the fact that neither has any recollection of the accident, and no mention is made of the incidents at the motel. Jack comments that, for a moment in the crash, he thought he could see Gretchen, offhandedly mentioning the color of her eyes.
+
+
+QUESTIONS
+q: Who steals all of the pills?
+a: ['Trip']
+
+q: What does Gretchen do after she discovers Trip is carrying drugs ?
+a: ['stops the vehicle to kick Trip out']
+
+q: Whose car did they see leaving the diner?
+a: ['Their own Car']
+
+q: What does Gretchen discover ?
+a: ['that Trip is carrying drugs']
+
+q: What part of his body does Nelson fatally cut on a shard of glass?
+a: ['His throat']
+
+q: Where is Cookie killed?
+a: ['On the pit toilet']
+
+q: what did Cookie die from?
+a: ['internal bleeding']
+
+q: Who was the driver of the RV?
+a: ['Henry']
+
+q: Why did Gretchen survive?
+a: ['she was wearing her seatbelt']
+
+q: What do Gretchen and Jack have no recollection of?
+a: ['the accident']
+
+q: What is the name of the dealer?
+a: ['Radford']
+
+q: Where does Henry collapse?
+a: ['In his camper RV']
+
+q: What does the group notice while parked on the side of the road ?
+a: ['an overturned car on the highway']
+
+q: What did Gretchen mention offhandedly?
+a: ['the color of her eyes']
+
+q: What part of his body does Trip lose before dying?
+a: ['arm']
+
+q: What does the family hit while driving down the desert highway@
+a: ['Deer']
+

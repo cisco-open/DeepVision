@@ -1,0 +1,32 @@
+PARAGRAPH
+Danny Valdessecchi (Chris Pine) is an intelligent, handsome, charming young man who happens to be blind. Having been blind from birth, he volunteers for a risky experimental procedure that may restore his sight -- having a microchip installed in the visual cortex of his brain that connects to a camera that would give him only, at best, fuzzy black and white images. During the tests he meets a beautiful Indian nurse, Leeza (Anjali Jay). Meanwhile, because Danny is a virgin at 22, his brother Larry (Eddie Kaye Thomas), who runs a limousine service, gets him a string of hilariously disastrous blind dates in between rentals. When Danny finally realizes that he is falling for Leeza, she tells him she cannot see him anymore because she has been promised in an arranged marriage. Believing that Leeza did not pursue their relationship because of his being blind, Danny becomes depressed and stops taking the necessary tests for his brain surgery. Danny's family, his eccentric psychotherapist Dr. Evans (Jane Seymour) and eye doctor Dr. Perkins (Stephen Tobolowsky) advise him to continue because it is his only chance of seeing, and soon Danny is successfully operated on. He sees his family's faces for the first time, but not Leeza's, who was away, reluctantly preparing for her marriage. Soon the experiment proves to be a failure, as the fragile prosthesis in his brain moves, clouding his already weak vision, and Danny goes back to being blind. Realizing that he really loves Leeza, he bursts into the wedding, professing his love for her and saying "Love is how you speak to me. Love is how you touch me...and guide me showing me the way to go. And when we kiss, when we kiss, it moves me to my soul." The couple kiss. At this the marriage is called off and Danny and Leeza start over, learning more about each other's family and culture.
+
+
+QUESTIONS
+q: Does the prothesis give Danny vision permanently?
+a: ['No']
+
+q: What is Larry's profession?
+a: ['Runs a limousine service']
+
+q: What is Danny Valdessecchi handicap?
+a: ['Danny is a virgin at 22, Having been blind from birth.']
+
+q: Who sets Danny up on multiple blind dates?
+a: ['Larry']
+
+q: What is Danny's age?
+a: ['Danny is a virgin at 22']
+
+q: When does Danny meet Leeza?
+a: ['During the tests for his microchip']
+
+q: What is the relationship between Danny and Larry?
+a: ['brothers']
+
+q: What is Leeza's profession?
+a: ['a beautiful Indian nurse, Leeza (Anjali Jay).']
+
+q: Why does Leeza say she can't date Danny?
+a: ['She is arranged to be married']
+

@@ -1,0 +1,12 @@
+PARAGRAPH
+It is the late 5th century and Britain has been free of Roman rule for several decades. With King Uther's sudden death chaos threatens to engulf Britain. The sorcerer Merlin has visions of a dark future and installs the young and impetuous Arthur, Uther's unknown son and heir who has been raised as a commoner, as the new king. Merlin and Arthur install themselves in Castle Camelot with their allies, which include Arthur's biological mother Igraine, his foster brother Kay and loyal warriors Leontes, Gawain, Ulfius and Brastias. From Camelot, Arthur tries to build a new and better Britain, where people can live in peace.
+Meanwhile, Arthur's cold and ambitious half-sister Morgan plots to take the crown from him. Banished by her father, King Uther, who was responsible for her mother's murder to put Arthur's mother on the throne, Morgan is responsible for Uther's death and wants to rule as his successor. Aided by her loyal maid Vivien and the devious nun Sybil, Morgan takes up residence in Uther's old castle, Castle Pendragon, from where she schemes against Arthur.
+
+
+QUESTIONS
+q: Who is Arthur's childhood mentor?
+a: ['Merlyn.', 'Merlyn.']
+
+q: Who is King Arthur preparing a great battle against?
+a: ['Sir Lancelot.', 'Sir Lancelot.']
+

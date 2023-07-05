@@ -1,0 +1,14 @@
+PARAGRAPH
+What is it like to have God like surgical powers, yet to struggle against your own humanity? What is it like to try and save a life, and yet to fail?Shot in a Ukrainian hospital full of desperate patients and makeshift equipment, The English Surgeon is an intimate portrait of brain surgeon Henry Marsh as he wrestles with the dilemmas of the doctor patient relationship. Its like selling your soul to the devil, but what can you do? My son had a brain tumour as a baby and I was desperate for someone to help me. I simply cant walk away from that need in othersHenrys own emotional journey to visit the mother of a young girl he tried to save years ago is intercut with the story of a poor young man called Marian. He is dying of a brain tumour said to be inoperable in Ukraine, but has come to Kiev hoping that Henry can save him. Henry believes he can, but only if Marian is awake throughout the entire operation. With an original soundtrack by Nick Cave and Warren Ellis, The English Surgeon openly confronts moral and ethical issues which touch every one of us. And all in a country called the Ukraine which is struggling to do the same thing.
+
+
+QUESTIONS
+q: Where does the story take place?
+a: ['Ukraine']
+
+q: What is Marian's medical condition?
+a: ['brain tumour']
+
+q: Where are Henry and Igor?
+a: ['Ukraine']
+

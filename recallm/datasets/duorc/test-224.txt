@@ -1,0 +1,71 @@
+PARAGRAPH
+Johnny Clay (Sterling Hayden), an ex-convict, organizes a $2 million racecourse hold-up. His accomplices are race track cashier George Peatty (Elisha Cook, Jr.); the barman Mike O'Reilly (Joe Sawyer), crooked policeman Randy Kenna (Ted de Corsia), and former alcoholic Marvin Unger (Jay C. Filppen) who finances the operation. Johnny's fiancee, Fay (Colleen Gray), worries that he may go back to prison for this but he tells her that the risks are worth taking.George needs the money to give to his nagging and narcissistic wife Sherry (Marie Windsor), who is having an affair with mobster Val Cannon (Vince Edwards), whom is trying to persuade Sherry to let him kill George so they can run off with his money. Mike needs the money to care for his constantly sick wife. Randy is revealed to need the money to pay off some local bookies for bad gambling debts.During their meeting to discuss the details of the robbery, George catches Sherry spying on them and subdues her. He sends the others, including George, home to talk with her. Johnny knows that Sherry is a grifter only out for money, and he tells her that he will give her a generous share of their loot when it gets pulled off. But Sherry, being who she is, tells Val who agrees to steal the money afterwards so they can have it all for themselves.Johnny hires Nikki Arane (Timothy Carey), a gunman-for-hire and Maurice Oboukhoff (Kola Kwarain), a former ex-con and Russian wrestler, to create diversions at the start of the 7th race when the hold-up will begin.Here is how the heist is executed in detail from different points of view:At the start of the 7th race, Maurice starts a brawl at Mike's bar. The racetrack guards subdue him. While they are occupied, George opens the door to the payroll office and Johnny slips through. Johnny gets out a rapid-firing shotgun that Mike planted earlier in his locker, puts on a mask and holds up the four clerks at the payroll office. Johnny stuffs $2 million in cash into a large bag and throws it out the window. Randy, waiting below, takes the bag, drives to a motel, and leaves it in a room that Johnny is renting. Johnny then escapes from the racetrack in the confusion and panic caused when Nikki shoots the racehorse, Red Lighting, with a high-powered rifle from a distant parking lot. But Nikki is killed by a black policeman (James Edwards), whom he had earlier insulted by calling him a "nigger", shoots him down as he attempts to flee out of the parking lot.Afterward, George, Mike, Randy and Marvin wait at Johnny's apartment for him to show up with the loot when they are surprised by Val Cannon and an accomplice of his demanding to know where the loot is. A gunfight ensues and everyone is killed, except George who, though mortally wounded, drags himself home and kills Sherry who admits that she betrayed him, before expiring himself.When Johnny learns that his partners are in trouble, he stuffs the racetrack loot in an old suitcase and goes to the airport and meets with Fay so they can leave town. They both purchase tickets to Boston, but the airport officials refuse to let Johnny carry the large suitcase on the plane, and he reluctantly checks the suitcase in for luggage.On the airport runway, the suitcase containing the money falls off a luggage truck which swerves to avoid hitting a snobbish, rich woman's pet dog. The suitcase breaks open, and the money is scattered in all directions. Johnny and Fay attempt to escape from the airport, but they cannot hail a taxi. "What's the difference?", Johnny says as the police close in on them.
+
+
+QUESTIONS
+q: Johnny is planning one last what?
+a: ['hold-up']
+
+q: Does Johnny get to spend the money?
+a: ['No']
+
+q: What happens to the money after the case breaks open?
+a: ['It scatters']
+
+q: Who are the two officers approaching to arrest?
+a: ['Johnny and Fay']
+
+q: Who does George shoot before dying?
+a: ['Sherry']
+
+q: Why must johnny and Fay check the luggage instead of carrying it on the plane?
+a: ["It's too big"]
+
+q: Who is the actor for the character, Fay?
+a: ['Colleen Gray']
+
+q: Who does Johnny want to marry?
+a: ['Fay']
+
+q: What is the tagline Johnny utters?
+a: ['"What\'s the difference?"']
+
+q: With whom does Johnny go to the airport?
+a: ['FAY']
+
+q: WHAT IS THE PROBLEM WITH THE SUITCASE AT THE AIRPORT ?
+a: ["It's too big to go on the plane"]
+
+q: Who plays Johnny Clay?
+a: ['STERLING HAYDEN']
+
+q: Who plays the bartender?
+a: ['JOE SAWYER']
+
+q: How much does Johnny steal from the racetrack?
+a: ['$2 million']
+
+q: WHY DOES JOHNNY BUY THE BIGGEST SUITCASE?
+a: ['To put the stolen racetrack loot in']
+
+q: Who plays the "wrestler"?
+a: ['Kola Kwarain']
+
+q: Also her lover, with whom does Sherry plot to steal money from George and his associates?
+a: ['Val Cannon']
+
+q: How much money does Johnny plan to steal?
+a: ['$2 MILLION']
+
+q: Who do the police kill?
+a: ['Nikki']
+
+q: What does Johnny put in the suitcase?
+a: ['the racetrack loot']
+
+q: What position does George Peatty hold?
+a: ['race track cashier']
+
+q: Johnny is a vteran what?
+a: ['criminal planning']
+

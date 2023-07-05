@@ -1,0 +1,38 @@
+PARAGRAPH
+The film is set within a harness racing fraternity and explores the conflict between urban and rural values through the medium of an evolving relationship between father and son.The main character in the film, Hoggy, abandoned his wife and son ten years earlier to establish himself in an alternative lifestyle, living in a caravan and caring for his horses. The world gets turned upside down by the arrival of his teenage son, who has a prison sentence hanging over him. Billy has lived his life on an inner-city housing estate, and in his lifestyle theft and drugs are the norm. Using dramatic seasonal changes within the horse-trainer's environment we follow the development of this fragile relationship. Both fathers and son's value systems are tested, with dramatic consequences.The roots of the film lie in the making of Seacoal, which was released in 1985. The film, depicted the lives of seacoalers on the Northumberland coast, and introduced members of Amber to a passion for horses, and the addictive pursuit of harness racing.The Laidler family, who were featured in Seacoal, proved to have a profound impact. It was they who talked us into buying our first horse, taught us the rudiments of training and driving, and encouraged our bartering and re-cycling skills. They wove the web that pulled us into the activity, and secured our entry into their environment and the world of harness racing.Our method of working is based on building long-term relationships within communities. Our aim is to enter into people's lives in a way that provides an authenticity to film-making that goes beyond simple realism. After becoming established in the harness racing community, we introduced actor Brian Hogg into it. His character, Hoggy, was developed over a period during which Brian immersed himself in the lifestyle, contributed to the development of the script, and participated in other essential tasks such as set building and horse training.In contrast, Darren Bell, who played Billy, his son, came directly into his first film role from a background of life on an inner-city housing estate. The film was shot sequentially to facilitate Billy's introduction into an initially alien environment and to reflect on the story of Billy. The film schedule spanned a twelve-month period. We worked with a small crew, two main characters and considerable good will from the harness racing community.
+
+
+QUESTIONS
+q: Who is the main character in the film?
+a: ['Hoggy']
+
+q: Within what type of fraternity is the film set?
+a: ['harness racing fraternity']
+
+q: Where does hoggy live?
+a: ['In a Caravan']
+
+q: What does Hoggys son have hanging over his head?
+a: ['A Prison Sentence']
+
+q: What does hoggy care for?
+a: ['Horses']
+
+q: Who abandoned his wife?
+a: ['Hoggy']
+
+q: Who has lived his life on an inner-city housing estate?
+a: ['Billy']
+
+q: Who shows up turning Hoggy's world upside down?
+a: ['His Son, Billy']
+
+q: Where did Billy lived?
+a: ['an inner city housing estate', 'An Inner-City Housing Estate']
+
+q: How long ago did Hoggy abandon his wife and son?
+a: ['ten years']
+
+q: Whom did Hoggy abandoned alongwith his wife?
+a: ['his son', 'His son Billy']
+

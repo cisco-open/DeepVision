@@ -1,0 +1,41 @@
+PARAGRAPH
+In the Nevada desert, a couple, Peter (Henry Thomas) and Mary (Annabeth Gish) Jackson are driving and pass by a 50 mile speed limit sign which a dead cat has been tied to. Mary points it to Peter, who was driving and didn't see it. Soon they are followed by a police car. Without rhyme or reason, they are stopped by a sheriff, Collie Entragian (Ron Perlman). He soon learns they are in possession of marijuana. In response, he takes them to jail. After they enter the police station, they see a little girl, dead, on the floor and Collie shoots and kills Peter. Mary is thrown in a jail cell along with a young boy called David Carver (Shane Haboucha), his parents, Ralph (Matt Frewer) and Ellen "Ellie" Carver (Sylva Kelegian), and an old man, Tom Billingsley (Charles Durning). It's also learned the little girl is the Carver's daughter named Pie Carver (Sammi Hanratty). In jail, David is praying to God and he's been doing it because of his best friend, Brian Ross (Darren Victoria). David and Brian were riding bikes just as a crazy drunk guy (Glenn Wilder) in a car was coming towards them. David saves himself while the car hits Brian's bike making him fly. The car crashes and injures the man while Brian flies and smashes his face on a nearby house, causing David to pray for him, which works. The doctor at the hospital where Brian had to go called it a "miraculous recovery".Meanwhile, Steve Ames (Steven Weber) is in his moving company truck following famous author John Edward "Johnny" Marinville (Tom Skerritt) who is 50 miles up ahead. Steve soon picks up a young female hitchhiker named Cynthia Smith (Kelly Overton). Johnny stops in the desert to urinate just as Collie shows up behind him and puts the same weed with the smiley tag he got from Peter and Mary under Johnny's motorcycle seat and "arrests" him, not after dancing in front of him singing out "You say tomeito, I say tomato" and then punching him. Johnny phones Steve but the connection is very bad, and they can't almost make out what the other one is saying. While Collie is driving Johnny to the village, he sneezes and blood stains the front mirror.Later, David realizes Entragian's skin is breaking out and he keeps saying "Tak" because he is possessed. Collie then takes Ellen so he can shift his spirit into her body and puts a vicious dog in charge of things. Pie's ghost appears, at the beginning jumping rope and looking quite happy and contented in heaven, and gives David a bar of soap although the sheriff, with a bleeding face, appears in spirit to scare Pie away. However, the bar of soap appears inside the jail magically. The young boy proceeds to scrub his body with the soap and while the dog is distracted by the rest of the prisoners, David slips through the bars of the jail cell and gets out of the room, although his head seemd to be about to become stuck between two bars. David searches the police station and finds a gun on the corpse of another sheriff. He returns to shoot the guarding dog to free everyone.Meanwhile, Steve drives up to where Johnny was arrested by Entragian to find Johnny's motorcycle hidden behind dry bushes. Cynthia and Steve later search the town of Desperation, where they find all the residents dead. That night, they both meet up with the gang. They gather at a theater and Tom tells a story that took place 120 years ago, when Chinese workers digging in a mine discovered an evil spirit named "Tak." The now possessed Ellen sends in a mountain lion and Tom is killed. Mary is captured by Ellen so that she can have a new body.David sees the ghost of Pie in the theater again and she leads him to the movie editing machine revealing the truth of how Tak came to the town. Pie tells her brother to watch a particular piece of film and he does so. There, he can see how Chinese miners were beaten and mistreated by the white overseers. They don't retaliate until they find a particular room in a cave and a spirit dust makes them violent. With their pickaxes, the miners kills many ex-owner. The mine gets blown in the process. Two Chinamen are about to be hanged, because everybody thinks they were the culprits of the mine sabotage. However, when they are standing in the scaffold, they began to change physically, becoming monsters of their own and showing that they have been possessed by Tak. David becomes entranced while seeing the film, until he is rescued.Mary wakes up to find herself trapped in a shed waiting to be the next host for Tak. With the help of Pie, she manages to escape, while seriously injuring Ellen's body forcing Tak to take over the body of a raven.Johnny later confesses 40 years ago in Vietnam he (Tom Parker) saw a guy, possessed by Tak, blow up the bathroom of a bar killing 87 people. The group decides to return to the cave with some explosives they found to put an end to Tak. At the entrance, a vulture comes out and kills Ralph. In order to redeem himself, Johnny goes into the mine and falls in a hole leading to a small hole where Tak is. His motorbike helmet kind of protects him from the yellowy dust which is the shape of Tak while it is not possessing a body. The arm of that yellowy substance pulls Johnny in the well. They can talk to each other while Johnny is doing his thing. Tak tries to convince Johnny to let him / it be, promising anything he may wish for. Johnny is in huge pain. Johnny ignites the explosives, blowing up the mine while the rest of survivors drive away in Steve's truck.They drive through the avalanche and the fire which ensue. The dust arising from the explosion, as seen by the survivors from the town looks as the mushroom from a nuclear bomb. They enter their vehicle once again, just in case. Along the route driving away from the town, they pass by the RV vehicle owned by David's family and Peter's sister's car. Mary tells Steve to stop the truck to retrieve an overnight package from the car. In the back seat Mary finds an album belonging to Pie, which Steve identifies as being signed by Johnny.
+
+
+QUESTIONS
+q: Who feels guilty for the not warning the patrons in the bar?
+a: ['Johnny']
+
+q: What is the name of Dar?vid's mothe
+a: ['Ellen/Ellie']
+
+q: What is the name of the hitchhiker who Steve picks up?
+a: ['Cynthia Smith (Kelly Overton)', 'Cynthia Smith.']
+
+q: Who stops the driving couple in Nevada desert?
+a: ['Peter and Mary Jackson', 'A sheriff, Collie Entragian']
+
+q: What is the name of the famous author who Steve was following?
+a: ['famous author Johnny Marinville', 'John Edward "Johnny" Marinville (Tom Skerritt)']
+
+q: Whom does Entragian shoot and kill?
+a: ['Entragian shoots and kills Peter', 'Peter (Henry Thomas)']
+
+q: The group decides to return to where?
+a: ['The cave', 'The town of Desperation.']
+
+q: What does David do to the guarding dog?
+a: ['shoot the guarding dog']
+
+q: Who does Entragian take so he can shift his spirit into her body?
+a: ['Ellen']
+
+q: What does Pie's ghost give to David?
+a: ['a bar of soap']
+
+q: What kills Ralph?
+a: ['A vulture']
+
+q: Who is the girl lying dead on the floor of the police station?
+a: ['Pie Carver (Sammi Hanratty)', "the little girl is the Carver's daughter named Pie"]
+

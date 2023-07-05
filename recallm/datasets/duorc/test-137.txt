@@ -1,0 +1,47 @@
+PARAGRAPH
+When an undercover detective is gunned down while investigating a string of Porsche thefts, Lieutenant Vincent Bracey (Randy Quaid) assigns 22-year-old San Diego officer Benjamin "Benjy" Taylor (D. B. Sweeney) to infiltrate a Porsche garage suspected to be a front for the grand theft auto scheme. Benjy is chosen because of his extensive mechanical knowledge of German cars and his rookie status, which dissuades others from suspecting that he is a cop. Bracey wants Benjy to obtain evidence that millionaire playboy Ted Varrick (Charlie Sheen) is the mastermind behind the thefts and the murder of the detective.Using the alias "Billy Ayles", Benjy moves to Los Angeles and gets a job at Technique Porsche as a mechanic. After Benjy fixes Ted's Porsche one night, the two men become close friends, and Benjy becomes romantically attached to Ted's sister Ann (Lara Harris). Benjy also discovers the presence of a rival syndicate led by Frank Martin (R. D. Call), which leads him to believe that Ted is not the prime suspect despite Bracey's insistence.Eventually, Ted brings Benjy into his side business of stealing Porsches, with garage manager Malcolm (Bill Duke) coordinating the operations. Benjy's first few attempts at stealing cars fail miserably, with Martin's syndicate catching on and slashing his hand as a warning. While doing a job at the mall, Benjy and Ted are confronted by Martin's thugs, but they manage to lose them in a lengthy car chase. The next day, Ted goes to Technique Porsche and finds Malcolm has been murdered. In retaliation, he kills Frank at a night club.During a phone conversation at a party, corrupt police Lieutenant Curtis Loos (Arlen Dean Snyder) - who was hired by Ted to take out the detective in the film's opening - tells Ted about Benjy's real identity. The next night, Ted has Benjy meet Loos at a warehouse for a payoff. When Loos tries to kill Benjy, Ted runs him over to save his friend. Later, Benjy stops at Bracey's house to inform him of what happened with Loos, and accuses Bracey of conspiring with him. Bracey kicks Benjy out, but tells him to call in the morning so they can work things out. Benji drives off, unaware that Ted was nearby, spying on him.The next day, Benjy's cover is blown in front of Ann when his uncle Michael (Philip Benichou) pays him a visit at his apartment. He goes to Bracey's house, only to find that Ted has murdered him. Ted is preparing to flee the country when Benjy convinces him to meet up at the mall, where he tries to arrest Ted for the murders. Ted refuses to go quietly and a gunfight breaks out; Benjy is wounded, but manages to shoot and kill Ted.
+
+
+QUESTIONS
+q: Who is Ciki?
+a: ['A wounded soldiers & a Bosniak']
+
+q: Who shoots Nino?
+a: ['Ciki', 'No one he is no where to be seen in this script.']
+
+q: Who is Nino?
+a: ['Bosnian Serb soldier', 'Niois not in this movie']
+
+q: How does Ciki kill Nino?
+a: ['shoots']
+
+q: What does UNPROFOR say happened to Cera?
+a: ['been saved']
+
+q: Who tries to help the three soldiers?
+a: ['A French sergeant', 'Ted']
+
+q: Who played millionaire playboy Ted in the movie?
+a: ['Charlie Sheen']
+
+q: Where was Benjy originally from?
+a: ['Benjy was from San Diego']
+
+q: How many wounded soldiers are between their lines?
+a: ['2 soldiers']
+
+q: What is beneath Cera?
+a: ['A land mine']
+
+q: How old was Benjamin Taylor ?
+a: ['anages to shoot and kill Ted.']
+
+q: What is buried beneath Cera?
+a: ['land mine']
+
+q: How do Benjy and Ted loose Martin's thugs?
+a: ['in a lengthy car chase']
+
+q: Who was Benjy's romantic interest?
+a: ['Ann']
+

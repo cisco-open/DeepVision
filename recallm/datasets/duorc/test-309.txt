@@ -1,0 +1,42 @@
+PARAGRAPH
+A nuclear submarine is going through its shakedown cruise. The subs sonar operator picks up a contact dead astern heading straight for them at high speed. The captain orders the vessel to flank speed and sends the sub to battle stations while beginning evasive maneuvers.As the sub dives away from the object, something hits the vessel, and radiation warning sounds throughout the ship. Inspecting the detectors the crew realizes the source of the radiation is outside the sub. With a jolt the boat comes to a complete stop. The commander immediately orders the sub to surface; this cant be dome due to something fouling the diving planes.After a number of unsuccessful attempts the sub breaks free and manages to reach the surface. During an inspection the stern of the vessel is radioactive and some sort of organic material, possibly part of a fish is jammed in one of the control planes.Puzzled, the captain elects to return to Pearl Harbor for repairs and to give a detailed report of the incident. At Pearl harbor the sample has been delivered and a team lead by Dr John Carter (Donald Curtis) and Prof Lesley Joyce (Faith Domerque) begin their investigation reporting to Cmdr Peter Mathews (Kenneth Toby)
+Prof Joyce is in a very negative mood about the investigation, she fears her own lines of research are going to be affected. Mathew informs her that she has effectively drafted for the investigation and she will be expected to stay involved as long as required and she will be compensated for her efforts.12 days later, the investigation is ongoing but really achieving very little. Mathews has begun to show a definite interest in Joyce. Initially she is cool to Mathews advances, considering him her intellectual inferior. Oddly she is not forthright in telling Mathews to leave her alone. The next day Prof Joyce makes a breakthrough and discovers what the specimen is. Mathews immediately contacts his superiors and a number of high ranking navy officials are heading to Hawaii to hear the answer.With everyone gathered Joyce explains the specimen is a piece of giant squid. Normally found in very deep areas of the sea, she has a theory that hydrogen bombs have upset its habitat. This causes the beast rise to the surface to find sources of food.It is noted that in recent times a number of Japanese fishing vessels have gone missing and the Siberian seal hunting season has failed due to a lack of animals. The naval investigation team is unconvinced by the findings A few days later a tramp steamer encounters the squid. The captain orders the crew to abandon ship as the radio operator sends an SOS. In a matter of minutes the ship is engulfed in giant tentacles and dragged under.Unaware of the latestest incident, Joyce and Carter attend a farewell dinner with Mathews. As the evening progresses Joyce seems to accept Mathews advances by allowing a long kiss to occur on a quiet balcony. Mathews becomes confused and a little upset when Joyce decides not to change her travel plans.A naval officer interrupts dinner to advise the scientists their travel plans have been cancelled. Reports have arrived of the tramp steamers sinking, and a rescue mission has been launched.Survivors are found and returned to Pearl Harbor. Each man is interviewed and repeats the story of the destruction of the ship. Even after crew accept lie detectors and interviews by psychologists the authorities remain unconvinced about the event Doctor Joyce interviews one of the survivors and secretly records the conversation for the navy.On hearing his story first hand, the navy are convinced there is something behind the story, they mobilizes their forces, and close the western Pacific to all shipsA further 10 days pass and Joyce and Carter argue that even if the navy find the creature they have little or no hope of destroying it. To narrow the search an alert is sent out for any unusual events, the scientists will investigate these events and see if they can narrow down the search area.From Astoria Oregon a strange report comes through, Joyce and Mathews investigate a strange set of markings found on a beach and reports of a very strange car accident. They also continue to explore their relationship.It is suggested the beach be closed to avoid any further chance of further attacks. A local sheriff thinks the whole thing is a waste of time and decides to explore the beach for himself. In short order he is killed.The navy sees this as strong evidence of the creatures movement and begin to narrow their search around San Francisco, even deciding to lay a series of minefields around the bay. A trap is set using dead sharks as bait. Aircraft patrol overhead waiting for any sign of the beast. It has been decided the only way to be sure of destroying the creature is to damage the brain. Amid the tension Dr Joyce reveals a new jet propelled torpedo that might be successfully deployed against the creature.A command center set up by the military reports that an unknown contact is moving towards San Fran harbor. As planned they begin detonating the mine fields in hope of driving the creature off. The mines have no effect and the second stage of the defense is put into action. An electrical current is run through the Golden Gate bridge and into the water. Enraged the creature surfaces.Joyce and Mathews rush to the bridge to get a firsthand look at what they are fighting. Carter understands that unless he shuts the power off there is a serious risk to the bridge. To succeed he has to go out onto the deck and expose himself the outraged squid.The creature continues attacking the bridge and Mathews sees Carter is trapped and drives out to rescue him. Carter finally shuts the power down and the beast slips beneath the waves.The creature surfaces near the Market Street docks and begins destroying everything in its path. Mathews rejoins his sub with orders to attack the creature. From the shoreline soldiers armed with flame throwers force the creature back into the water. This give Mathews the clear shot he is looking for.The attack is successful but in its thrashing around the creature pins the sub on the bottom of the harbor. Mathews cant detonate the torpedo until the submarine is clear or he risks killing the crew. Mathews dons scuba gear and goes out to attack the creature.Although partially successful he himself is badly wounded and sinks to the bottom. Carter then replicates Mathews efforts, however he aims for the creatures eye. The attack works and the creature convulses from the injury and releases the sub.Carter finds Mathews on the sea floor and races him to the surface before the sub detonates the explosive. After the explosion the submarine surfaces to find the two alive and floating on the surfaceThe creature has been destroyed and everyone lives happily ever after
+
+
+QUESTIONS
+q: What did the men escape in from the French shipping boat that was attacked?
+a: ['A boat']
+
+q: What city is this set in?
+a: ['San Francisco', 'Pearl Harbor']
+
+q: What is the name of the bridge?
+a: ['The Golden Gate bridge']
+
+q: What disables the boat?
+a: ['A giant Squid']
+
+q: After demolishing the net, where does the creature head to?
+a: ['San Francisco']
+
+q: Who are the French survivors questioned by?
+a: ['The navy']
+
+q: What is discovered in the submarine's dive planes?
+a: ['Piece of a giant squid', 'A new jet propelled torpedo']
+
+q: What does John use as bait?
+a: ['Dead sharks']
+
+q: Who is the local sheriff?
+a: ['Bill Nash']
+
+q: What drove the sea beast from its natural habitat?
+a: ['Hydrogen Bombs']
+
+q: How many people are missing off the coast of Oregon?
+a: ['3']
+
+q: What destroys the sea beast?
+a: ['Torpedo']
+

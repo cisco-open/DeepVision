@@ -1,0 +1,80 @@
+PARAGRAPH
+Homer Grindstaff is a big named banker in Glory and Doc Council is a prison official and they team up to plot to kill Appleyard and his ex-convict friends who were attempting to open up a general store in Stone Coal, West Virginia and then to take the money.After the three ex-cons boarded a B&O; passenger train headed for Stone Coal, Council teams up with Steve Mystic and Junior Kilfong to stop the train before it reaches its destination and kill all three convicts. After an unsuccessful attempt, Junior Kilfong fires one shot from his double barrelled shotgun into Roy K. Sizemore knocking him to the ground. After Appleyard, Johnny, and Cottrill depart on another train, Council identifies Sizemore as being an innocent bystander and shoots Sizemore in the head with a revolver, making the remark "Looks like Appleyard's a murderer again," meaning that Appleyard was going to be setup to be either arrested or shot on site for the murder of a salesman. But not before Appleyard retrieved the salesman's goods (one suitcase full of dynamite). Hence the alternative name of the film "Dynamite Man from Glory Jail."The next morning, Appleyard enters the "Bank of Glory" which after a brief verbal altercation with a now stunned Grindstaff, and Council, lights the dynamite that is now strapped around his chest from . After Grindstaff pays Appleyard, the convicts head down to the train depot to catch a freight train out of Glory. Johnny and Lee meet up with Chanty, a shy 16 year old riverboat "working girl" played and Sonny Boy. After Lee agrees to get himself a drink of whiskey, Johnny stays on the river bank to wait for Appleyard). On the riverboat, Lee encounters Cleo. After Cleo realizes who was going to meet Lee on the riverboat, and hearing about the large amount of money that Appleyard has, she lures them all on the boat and takes the case, not knowing that the money is actually on Appleyard's person now and all that the case contains is the remainder of the dynamite. During this time, Johnny encounters Chanty, and fall in love instantly. The three take Chanty off the boat with them. After Cleo attempts to shoot the case, the case blows the riverboat up in pieces.After a sighting by Council on a box car freight train at the depot, Council pursues Appleyard and his gang, but not after being picked up by the train conductor to be transported out into the wooded area of now Marshall County, West Virginia. After eluding Council, Steve and Junior, Appleyard and gang end up at an abandoned house. Council, scaling the hillsides of Marshall County observes what is smoke from a chimney from afar. Knowing that he would now have to split the profit between Steve and Junior, he guns down both Steve and Junior on a Marshall County hillside and makes his way to the abandoned house.Once at the abandoned house, Appleyard knows something is not right. He can sense the presence of someone. After Johnny and Chanty are awakened by something outside, Johnny runs upstairs to warn Appleyard and Cottrill. When doing so, Council fires a shotgun round through an upstairs window, striking the window sending glass and debris onto Appleyard, injuring him. Knowing that Appleyard had dynamite on him, Johnny and Lee prepare to throw dynamite at Council in the attempt to kill him. When doing so, Council's dog, Joey, picks up the lighted stick of dynamite and carries it back upstairs. At this time, the dog drops the dynamite, only for Appleyard to pick it up and throw it out the window, only this time, the dynamite laying next to Council. The dynamite exploded and thus killed Council.The next scene shows Appleyard, Johnny, Lee, and Chanty inside the Marshall County Court House, being escorted outside by Police. With Grindstaff looking from his bank office window, which was located next to the Marshall County Court House, the Prosecuting Attorney enters with Appleyard. "Homer, you're under arrest, the prosecuting attorney here has something to say." muttered from an unknown man, "Make out a check to Mr. Appleyard for the amount of $25,452.32" advised the prosecuting attorney. After a brief pause of motion from Grindstaff, he (Grindstaff) made the check out to Appleyard. After Appleyard received the check, he asked if it was cashable anywhere in the State. He was told "Anywhere from Wheeling to Stone Coal". Knowing his misfortune, Appleyard walks up to the teller and asks to cash his check. After the crowd cheers outside the bank, they depart for the train station.While onboard, Appleyard was warned by "Tighe" (the glass eye) that something was about to happen. The train conductor who had helped Appleyard elude Council pulled the emergency stop on the train and stated that they were being followed. While the three ex-cons and Chanty exited the train, it was Council's dog who had been friends with Johnny all through his prison sentence who had been following the train, barking. After the dog is hugged by Johnny, they all get back on the train, and head away in the distance.
+
+
+QUESTIONS
+q: What did Appleyard bring with him into the bank?
+a: ['Dynamite']
+
+q: What is Homer Grindstaff's profession?
+a: ['banker']
+
+q: What do the three friends get away in?
+a: ['in a skiff']
+
+q: When council decides he does not wish to share the loot what does he do?
+a: ['Plot to kill Appleyard and his convict friends']
+
+q: Sizemore is a salesman of what?
+a: ['mining supply']
+
+q: Who is the bank robber?
+a: ['Lee Cottrill']
+
+q: What is Willis afraid of?
+a: ['Council']
+
+q: Johnny is worried about what the Council will do to who?
+a: ['Chanty']
+
+q: What did the three friends get away in?
+a: ['in a skiff', 'Train']
+
+q: What does Appleyard throw out the window, killing Council?
+a: ['dynomite']
+
+q: Who told the truth?
+a: ['Hubbard']
+
+q: Who is the murderer?
+a: ['Mattie Appleyard']
+
+q: Who is Johnny worried about?
+a: ['Johnny is worried about what Council will do to Chanty']
+
+q: Who is the train conductor?
+a: ['Tighe']
+
+q: The friends turn around and go back after who leaves?
+a: ['Council']
+
+q: Who were appleyard ad Johnny tracked down by?
+a: ['Doc Council, steve Mystic, Junior Kilfong']
+
+q: Who shows up with Johnny?
+a: ['Appleyard and Johnny']
+
+q: Who was the suitcase of dynamite left with?
+a: ['Appleyard', 'Cleo']
+
+q: What is Chanty selling?
+a: ['Herself']
+
+q: What is left with Cleo?
+a: ["Appleyard's money"]
+
+q: Who tracks down Appleyard and Johnny
+a: ['Council']
+
+q: When held at gunpoint, what does Appleyard give away?
+a: ['her the suitcase']
+
+q: What position does "Doc" Council hold at the prison?
+a: ['prison official']
+
+q: Who is Cleo?
+a: ['Riverboat owner']
+
+q: Who threatens to blow up the bank?
+a: ['Appleyard']
+

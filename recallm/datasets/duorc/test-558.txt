@@ -1,0 +1,26 @@
+PARAGRAPH
+Rachel Taylor (Erin Chambers) comes to Austria to serve a mission for the Church of Jesus Christ of Latter-day Saints. She begins her journey with high ideals and low language skills. Through her challenges with the culture, the cuisine, and a companion from another place, she is able to find meaning behind the very beliefs she has set forth to share. The Errand of Angels is a moving experience of a young woman's spiritual journey in the picturesque country of Austria. From happiness to sadness to anger to peace, with enough awkwardness along the way to keep us laughing, the film explores Rachel's growth as she finds love for those less lovable and learns the true purpose of her mission.
+
+
+QUESTIONS
+q: What is the name of the church that Rachel in the young missionary from?
+a: ['Church of Jesus Christ']
+
+q: where is the mission taking place?
+a: ['Austria']
+
+q: Is sister Rachel young or old?
+a: ['Young']
+
+q: where is sister rachel from?
+a: ['Austria']
+
+q: what kind of church does sister rachel belong to?
+a: ['Church of Jesus Christ of Latter-day Saints']
+
+q: Does Rachel have a hard time adjusting to her new cultural surroundings?
+a: ['yes']
+
+q: How many months long was Rachel's mission to Austria?
+a: ['Church of Jesus Christ of Latter-day Saints']
+

@@ -1,0 +1,44 @@
+PARAGRAPH
+Mitch Robbins (Billy Crystal) and his best friends Phil Berquist (Daniel Stern) and Ed Furillo (Bruno Kirby) are in their mid-30's, and going through major problems.Ed is always suggesting adventurous outings or activities that the three can participate in. The latest, running with the bulls in Pampalona, Spain, leaves Mitch with an embarrassing visit to the doctor. Mitch is not altogether happy when Ed eagerly suggests that they go target-parachute jumping shortly thereafter.Some time passes after the trip to Spain, and Mitch wakes to his 39th birthday. Per tradition, his Mother rings him up with a standard speech of her remembrance of the race to the hospital for his birth.Mitch's morning is further complicated when he gets to work, and his latest efforts for the radio station he works for are seen as subpar. Per his manager, all decisions must be approved first.Mitch also leaves work to go to his son's career day. His career is met with less than average enthusiasm by the kids, and Mitch soon ends up lamenting the changes that have been made to his job, as well as a small story about getting older.Later that evening, Mitch's wife Barbara (Patricia Wettig) holds a birthday party for Mitch. Phil and Ed show up, along with their wives. Phil's wife Arlene (Karla Tamburrelli) treats him like dirt, and once again, Mitch finds Phil pretending to sleep at the party to avoid talking to her. Ed's girlfriend Kim (Walker Brandt) is a lingerie model in her mid-20's.After cornering Mitch, the two friends tell Mitch of his present: a 2-week cattle drive in the southwest. Mitch is at first excited, but then declines, claiming that he promised his wife they'd visit her parents in Florida.The festivities then grind to a halt when a woman named Nancy (Yeardley Smith) appears at the party looking for Phil, claiming she missed her period. It soon becomes apparent that Phil has been having an affair, and he and his wife Arlene end up in a shouting match that brings the party to a halt.Later on that evening, Barbara, having noticed Mitch's attitude and feelings during the day, suggests that he go with his friends on the cattle drive.Taking her advice, Mitch, Phil, and Ed find themselves on the drive with a number of other persons, including a father/son that are dentists, two men that run an ice cream business, and a woman.During their time getting ready for the cattle drive, Mitch, Phil and Ed get into an altercation with two men on the ranch named T.R. (Dean Hallo) and Jeff (Kyle Secor). However, before they can go further, an unnamed, tough cowboy breaks up the fight.Later on that evening, the group meets with the others, and identify the unnamed man as Curly (Jack Palance), the trail boss. Everyone speaks in hushed tones about Curly, but Mitch instantly decides that the man is a lunatic... just as Curly comes up behind him.A few days afterward, the group head off to drive the cattle across the plains. During the first leg of the trip, Mitch, Ed, and Phil discuss certain questions about life and relationships. Early one morning, Mitch operates a battery-operated coffeemaker he brought, with the noise spooking the cattle and sending them stampeding off. With some cattle still missing, Curly decides to take Mitch with him to recover them.Mitch and Curly recover the extra cattle, but end up spending the night out in the wilderness. Mitch is sure that Curly is planning to kill him for what he said about him, especially since Curly makes a show of stropping his large Bowie knife, which Mitch finds intimidating. Curly tells Mitch to put away the harmonica Mitch'd been playing and Mitch finds the courage to stand up to Curly. Curly's rough countenance seems to soften a bit and he sings "Tumblin' Tumbleweeds" while Mitch plays. During their time alone together, Curly and Mitch begin to discuss life and decisions. Curly then explains to Mitch that the secret of life is 'one thing,' but says that Mitch will have to figure that out for himself.Right before they return to the herd, one of the cows goes into labor, and Mitch ends up helping with the birth. Mitch happily names the little calf Norman, and ends up caring for it once they return to the group. However, Curly suddenly shoots Norman's mother, explaining that she was dying and suffering for it. Mitch seems to understand.While with the group, Mitch explains what a great guy Curly is, and wants the others to chat with him as well. However, upon finding Curly, they see that he has died while watching over the cattle. Curly is buried on the trail, before everyone moves on, with T.R. and Jeff taking Curly's place.Mitch, Phil and Ed share another moment of conversation, talking about the happiest and worst day of their life. Each man has something different:Mitch remembers his Dad taking him to Yankee Stadium for the first time as his happiest. The worst was the day when it seemed that his wife may have had breast cancer. Phil (surprisingly) remembers his wedding day as his happiest. Every day since, he claims, is a tie for the worst day. Ed recalls the day that his father finally left their family as his happiest, as his father had been cheating on their mother. Ed also claims this as his worst day.Sometime later, the cook known as Cookie (Tracey Walter) gets drunk and ends up destroying the chuck wagon and killing the two horses that pulled it. The incident leaves him with broken legs, and little food left. Later the same evening, T.R. and Jeff get drunk on some liquor, and threaten to kill Norman the calf. An altercation takes place, with Phil almost snapping, and killing one of the cowhands.T.R. and Jeff to rush off, leaving the others and the herd with no guides. Mitch volunteers to move the herd himself, mentioning that Curly said they would eventually encounter a river before arriving in the valley where the other ranch is.The others leave, but Phil and Ed stay to help Mitch. They manage to get the herd to the river, but Norman almost gets swept away in the current. Mitch is able to overcome his inability to rope a cow and lassos Norman but falls in the river. Phil and Ed save Mitch and each other, before finally arriving at the other ranch.The ranch owner is excited at what the boys have done, and agree that in reward for what they've done, they'll be refunded their money for the experience. When one of them asks about maybe herding the cows back to the other ranch, the ranch owner claims that the cows will actually be taken to market. Mitch, Phil and Ed are a bit saddened by this, seeming to not comprehend just where these cows were originally intended to have happen.During their last day, the three friends decide what to do about their lives. Phil decides that he will graciously start his life over, in the face of his impending divorce. Ed decides to fulfill his girlfriend's request to have children. Mitch meanwhile, has deciphered Curly's 'one thing' saying, which he feels is something different to everyone, what's most important.Mitch returns home to his family, and is eager and happy to see them. He shocks his wife by showing that he has brought Norman the calf along with him. After the family and Norman are loaded into the family van, they head home.
+
+
+QUESTIONS
+q: Who remains behind to finish the drive alone?
+a: ['Phil and Ed']
+
+q: How does Curly suddenly die?
+a: ['Heart attack', 'Curly suddenly dies of a heart attack']
+
+q: Who stops the standoff?
+a: ['Curly']
+
+q: Why does Mitch purchase Norman?
+a: ['Save him from slaughter']
+
+q: Where is Clay Stone's ranch located?
+a: ['New Mexico']
+
+q: Who is selling the herd to a meat company?
+a: ['Clay Stone']
+
+q: Who orders Mitch to help gather lost cows?
+a: ['Curly']
+
+q: What does Mitch name his adopted calf?
+a: ['not in passage']
+
+q: Who does Phil enter a relationship with?
+a: ['Bonnie']
+
+q: Who gets drunk and destroys the food supply?
+a: ['Tracey Walter', 'Cookie']
+
+q: Which two characters develop a bond?
+a: ['Mitch and Curly']
+
+q: Who is the ranch owner?
+a: ['Clay Stone']
+
+q: Who presents the cattle drive gift to Mitch?
+a: ['Phil and Ed']
+

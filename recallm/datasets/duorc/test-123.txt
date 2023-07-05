@@ -1,0 +1,30 @@
+PARAGRAPH
+Abbas Ali (Abhishek Bachchan) lives in Chandni Chowk with his sister Sania (Asin Thottumkal). When their ancestral property is taken from them by deception, Abbas loses his job. Their family friend, Shastri (Asrani), convinces them to move to his village, Ranakpur, where he assures Abbas that he will get him a job at his boss, Prithviraj Raghuvanshi's (Ajay Devgn), place. Pritvhiraj is a powerful but kind-hearted man who hates lies and liars, and punishes them harshly. Abbas and Sania arrive at Ranakpur and meet Abbas's friend Ravi (Krishna Abhishek), Shastri's son, who runs a drama company with his friends. Abbas learns that there is a temple at the border of Ranakpur and Kherwada, the village where Prithviraj's cousin Vikrant Raghuvanshi is powerful. The two cousins are archenemies. The temple, being at the border of the two villages, was disputed and has been locked for years.
+The plot begins when a child falls into the well of the temple and Abbas breaks the temple's lock to save the child. When Prithviraj arrives at the scene, Ravi says Abbas's name as Abhishek Bachchan to avoid religious controversies of a temple being broken open by a Muslim. Prithviraj hires Abhishek Bachchan (Abbas) and is happy with his work, but Ravi and his friends have to come up with a new plan when Prithviraj spots Abbas celebrating Eid as a Muslim. Abbas and the others convince Prithviraj that the one celebrating Eid was actually 'Abbas', an effeminate man and classical Kathak dancer. Things become worse for Abbas and Ravi when Prithviraj kindly hires Abbas for teaching Kathak to his sister Radhika (Prachi Desai). The more Abbas tries to manage his dual life without letting Prithviraj know, the more he has to lie to cover up other lies; this forms the crux of the story. The movie ends with a climatic cliff scene where both Abbas and Pritihviraj make up after a series of lies.
+
+
+QUESTIONS
+q: Why does Shastri Chacha tell Abbas to go back to his village?
+a: ["He'll get him a job"]
+
+q: What is Abbas Ali's sister's name?
+a: ['Sania']
+
+q: Who is Shastri Chacha?
+a: ['A family friend']
+
+q: What does the well wisher advise Abbas to do?
+a: ['Go by a different name']
+
+q: What are Abbas and Sania fighting for?
+a: ['The disputed temple']
+
+q: Who does Abbas live with?
+a: ['his sister Sania']
+
+q: Where does Abbas Ali live?
+a: ['First Chandni Chowk, then Ranakpur']
+
+q: To where does Shastri Chacha advise and convince them to migrate?
+a: ['Ranakpur']
+

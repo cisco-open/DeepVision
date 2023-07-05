@@ -1,0 +1,134 @@
+PARAGRAPH
+The film opens with a notice, revealing that a young man named Thomas was convicted of raping and killing his sister, and murdering Dr. Edgar Lauren, a psychic. Despite his pleas, he was sent to prison, where he committed suicide.Samantha Finley (Erin Marie Hogan), her older brother Thomas (Shane Van Dyke), and their mother Ellen (Fia Perera), are a family that believe they have made contact with their deceased father and husband David. Ellen tries to contact David by writing to him and is overjoyed upon receiving a written response. Soon the family claims that a ghostly entity is haunting them. At first, they think it is David, but after a series of horrible attacks upon Samantha, they begin to suspect otherwise.One night the camera records Ellen sitting up in bed and leaving her bedroom. She walks into the living room, where she writes something on a piece of paper. She then crumples the paper and walks back down the hallway. Thomas finds the paper under Samantha's pillow and sees that it spells out the word MARON. Thomas suggests that Ellen and Samantha stay at a hotel while he remains at the house to deal with the problem. That night, Thomas sets up traps around the house with three bells and thin wire. Should the entity enter a room, the bell on the wire will jingle. When this eventually occurs, Thomas investigates. The wire and bell outside his door are ripped from the wall and thrown at him. Thomas shuts himself in the bedroom and the entity bangs on his door.Thomas receives a phone call from Ellen, who is in hysterics after the entity apparently followed them and attacked Samantha. Upon returning to the house, Samantha hunches over in pain. Thomas awakens at night and finds his sister missing, with the front door open. He searches outside but doesn't find her. He finds the attic ladder hanging down and ascends it to find her standing there undressed, in a trance. Upon awakening, she is unable to remember what happened.The following night, Thomas calls the previous owner of the house, asking if anyone under the name of Maron ever lived or died in their home, but the previous owner does not recognize the name. Thomas hears Samantha screaming and rushes to the bathroom. He finds her lying topless in the bathtub, severely traumatized. Ellen wakes after hearing thuds from outside. In the living room camera, she is seen standing in the archway with a knife before returning to her bedroom. Thomas wakes up after hearing a door slam shut, and finds that Ellen has slit her wrists, weapon still in hand. She is taken to the hospital.Thomas and Sam are left at home when a self-professed paranormal expert and psychic, Dr. Edgar Lauren (Norman Saleet), arrives. He explains that there is a powerful dark entity in the home and that Samantha is the focus of its attention. He says that the entity gained entry into the home when Ellen attempted to contact the spirit of her dead husband. Thomas gives Dr. Lauren the note that says "MARON". Dr. Lauren explains that "maron" is Old Germanic for "nightmare", a creature similar to the incubus, a demon that rapes women in their sleep. The psychic agrees to help them evict the entity and the video fades to black.After a pause, the camera's POV shows the doctor's bleeding head and blank face, fallen on the floor and "looking" toward the lens. Thomas is heard panicking. He grabs the camera after hearing Samantha's scream and runs to her bedroom. We see that the house is in total disarray. Thomas finds his sister naked and levitating above the floor in her room, covered in blood, while being raped by an invisible force. He drops the camera and tries to help her. A gurgling noise is heard off-screen, and an unseen figure picks up the camera and focuses it on Samantha's lifeless face and breasts.It is revealed that upon hearing of both her children's deaths, Ellen also commits suicide. It is also revealed that the video recording made by Thomas was found in the family's attic one year later and is now shown to the public.
+
+
+QUESTIONS
+q: where does thomas find samantha?
+a: ['BATHTUB']
+
+q: what is the profession of norman saleet in th film?
+a: ['DOCTOR']
+
+q: what is the name of samantha finleys brother ?
+a: ['THOMAS']
+
+q: who finds the paper under samantha's pillow?
+a: ['THOMAS']
+
+q: what did ellen write on a piece of paper.?
+a: ['MARON']
+
+q: who is charged with samantha's rape and death?
+a: ['Thomas']
+
+q: what is the state of the house as thomas runs to samantha's bedroom?
+a: ['disarray']
+
+q: who rapes thomas's siter?
+a: ['an invisible demon']
+
+q: who shuts himself in the bedroom?
+a: ['Thomas']
+
+q: What is Dr. Edgar Lauren special power?
+a: ['psychic']
+
+q: Who does Thomas hear screaming?
+a: ['Samantha']
+
+q: where does thomas find the paper?
+a: ["under Samantha's pillow"]
+
+q: who is samantha being raped by when thomas finds her?
+a: ['An invisible force']
+
+q: what is "maron" is old germanic for?
+a: ['nightmare']
+
+q: when the bells ring who investigates.?
+a: ['Thomas']
+
+q: what is there in the attic
+a: ['the video recording']
+
+q: what attacks samantha
+a: ['the demon']
+
+q: who was the thoms siser killing?
+a: ['the paranormal entity']
+
+q: what prison sentence does thomas receive?
+a: ['life']
+
+q: where was the recording found?
+a: ["the family's attic"]
+
+q: what is thomas' sister doing?
+a: ['naked in the attic']
+
+q: What does Thomas take with him before running to Samantha's bedroom?
+a: ['a camera']
+
+q: what is written on the paper?
+a: ['maron']
+
+q: What is the name of the psychic?
+a: ['Dr. Edgar Lauren']
+
+q: who did thomas find naked and levitating?
+a: ['Samantha']
+
+q: who made the recording?
+a: ['Thomas']
+
+q: what does the family claim is haunting them?
+a: ['a demon']
+
+q: why is thomas sentenced to life?
+a: ['was convicted of raping and killing his sister, and murdering Dr. Edgar Lauren']
+
+q: thomas was convicted for the murder of who?
+a: ['Dr. Edgar Lauren']
+
+q: who did ellen call?
+a: ['Thomas']
+
+q: who was attacked by a demon?
+a: ['women']
+
+q: what has ellen slit?
+a: ['wrists, weapon still in hand']
+
+q: samantha's dead?
+a: ['NO']
+
+q: What picks up the camera and focuses it on Samantha's lifeless face?
+a: ['an unseen figure']
+
+q: where does thomas find samantha lying topless?
+a: ['bathtub']
+
+q: who is the focus of the dark entity?
+a: ['Samantha']
+
+q: what word did ellen write on the piece of paper that she crumples?
+a: ['Maron']
+
+q: what does thomas use to set up traps around the house?
+a: ['Three bells and thin wire']
+
+q: which actor plays thomas ?
+a: ['Shane Van Dyke']
+
+q: who finds the paper under samantha's pillow.?
+a: ['Thomas']
+
+q: what character does shane van dyke play?
+a: ['Thomas']
+
+q: where did thomas run after hearing samantha's scream?
+a: ['runs to her bedroom']
+
+q: who calls thomas in hysterics?
+a: ['Ellen']
+

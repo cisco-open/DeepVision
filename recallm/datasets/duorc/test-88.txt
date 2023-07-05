@@ -1,0 +1,85 @@
+PARAGRAPH
+This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (March 2014) (Learn how and when to remove this template message)
+Rick (Owen Wilson) and Fred (Jason Sudeikis) are best friends as are their wives, Maggie (Jenna Fischer) and Grace (Christina Applegate). They are both unhappy with their married lives and missing the old days when they were single. Realizing this, their wives talk to their friend Dr. Lucy (Joy Behar) and decide to give them a "Hall Pass": A week off from marriage during which they can have sex with other women. They are skeptical at first, but ultimately accept the offers and try to pick up women with their friends Gary (Stephen Merchant), Flats (J. B. Smoove) and Hog Head (Larry Joe Campbell). Maggie and Grace spend Rick's and Fred's "Hall Pass Week" at Maggie's parents' house in Cape Cod, where Grace flirts with athlete Gerry (Tyler Hoechlin). She says that if their husbands have Hall Passes, so should they.
+With their wives and children away, Fred and Rick check in at a motel and prepare for their Hall Pass Week. On day one, they decide to eat before going to a local bar and get too tired to spend the night there, preferring to stay at the hotel.
+On day two, they eat hash brownies and decide to play golf, but get too high and wreak havoc on the golf course.
+On day three, Rick and Fred go to a bar with their friends but fail to impress the women there. They decide to get drunk in order to become more loose, but go too far and wind up getting into a fight with other customers. They spend day four at the hotel suffering from a hangover.
+On day five, Rick goes to a local coffee shop where Rick flirts with an attractive waitress named Leigh (Nicky Whelan), much to the annoyance of her co-worker Brent who insults Rick. When Rick answers him back, Leigh is impressed and tells Rick that they might see each other at the local gym. They later meet there, and Leigh invites Rick for a beer after they work out. Rick decides to sit in the hot tub instead, but falls asleep and stays there for several hours ending up with his muscles too weak to use and forced to accept the help of two naked men to leave much to his dismay. Meanwhile, Grace and Gerry get closer, while Maggie finds herself attracted to Gerry's coach.
+On day six, Rick and Fred go to a bar called Enter the Dragon with their friend Coakley (Richard Jenkins), where Rick meets his children's babysitter Paige (Alexandra Daddario), who has just turned 21 and is with her aunt Meg. Paige is attracted to Rick, but he shoots her down to dance with Leigh. Brent, the party's DJ, is angry at this. After the party is over, Rick goes to party at Coakley's while Fred takes a girl to his motel room. However, she feels sick and, after a minor incident in the bathroom, is sent back home by Fred before they can have sex. Later that evening Paige's aunt shows up at the room and mistakes Fred for Rick, eventually seducing him. Fred fakes oral sex on Meg until they are interrupted by Rick.
+Meanwhile, Gerry's coach tries to seduce Maggie, but she rebuffs him. Grace, on the other hand, has sex with Gerry, but tells him it will be just that one time. On her way back home, she feels guilty about cheating on Fred and has a car accident.
+At Coakley's house, Rick is approached by Brent who is angry at Rick for going out with Leigh. Leigh calms Brent, then finds Rick alone in a bedroom and offers him a one-time fling. He initially wants to do it, but ultimately rebuffs her, unable to cheat on Maggie. After answering Fred's phone, Rick learns of Grace's accident and makes his way to the hotel to tell him. In the lobby he finds Paige, who thinks he was having sex with her aunt Meg. They enter the room and find Fred having fake sex with her. After finding out the truth, Meg kicks Fred in the face.
+Upon hearing about Grace's accident, Fred tries to go to the hospital but finds Brent vandalizing what Brent thought was Rick's car. Upon seeing Paige's aunt Meg, his mother, at the hotel, Brent thinks Fred has had sex with her and tries to kill him as well, but runs out of bullets and is tackled by Paige and his mother. Rick and Fred enter Fred's car and make their way to the hospital with Brent and the police chasing them. At the hospital, Brent is arrested for attacking them and Fred finds out Grace only broke her nose.
+Rick goes back home and finds Maggie. He tells her he did not use the Hall Pass and remembers the time he lost his virginity to her. She is the only woman he has ever been with. Moved by his declaration, Maggie tells him she did not use her Hall Pass either and they reconcile and have sex for the first time in months. Fred and Grace also reconcile and decide to hide their cheating from one another. However, Fred ultimately confesses that he used his Hall Pass with Paige's aunt when Grace asks him to take her to see Kathy Griffin.
+During the credits, Fred hosts a barbecue where he pays Kathy Griffin to be present. Noticing how happy Maggie and Grace are following the Hall Pass week, Gary's wife suggests that she give him a Hall Pass. After a fantasy where he sleeps with a married woman, resulting in the death of her, her husband, her grandmother and several innocent bystanders (and ending with him getting anally raped in prison), Gary agrees to "give it a whirl".
+
+
+QUESTIONS
+q: Who is involved in a car accident?
+a: ['not mentioned', 'Grace']
+
+q: Rick goes to a party at whose house?
+a: ['Fred', "Brent's hous", 'not mentioned', 'Coakley']
+
+q: Where did Fred and Rick go on Day Three?
+a: ['hospital', 'not mentioned', 'Bar', 'a bar']
+
+q: What is the name of the DJ?
+a: ["it's not mentioned", 'not mentioned', 'no naswer', 'Brent']
+
+q: Who are Maggie and Grace ?
+a: ['The wives of Rick & Fred', "One of the women is Fred's wife.", 'Wives of Fred and Rick']
+
+q: On Day Six,  where doRick and Fred go?
+a: ['bar called Enter the Dragon', 'not mentioned', "it's not mentioned"]
+
+q: How old was Rick's children's babysitter?
+a: ["it's not mentioned", 'not mentioned', '21']
+
+q: What injury does Grace have?
+a: ['not mentioned', 'broke her nose.']
+
+q: Who fakes oral sex on Paige's aunt?
+a: ['fred', 'Fred']
+
+q: Who does Paige's aunt mistake Fred for?
+a: ['not mentioned', 'His dad', 'Rick']
+
+q: Who did Fred and Rick go to Hooters with?
+a: ['Gary (Stephen Merchant), Flats (J. B. Smoove) and Hog Head (Larry Joe Campbell)', 'Coakely', 'not mentioned']
+
+q: Why does Brent try to kill Rick?
+a: ["Because Rick flirted with Brent's co-worker", 'not mentioned', 'For going out with Leigh']
+
+q: During the Hall Pass, for how many days could the husbands have sex with other women?
+a: ['one week', "it's not mentioned", 'A week']
+
+q: Why did Rick shoot Paige down?
+a: ['Because he did not want to use his hall pass because he loves his wife.', 'to dance with Leigh', 'He thinks he was having sex with her aunt Meg', 'He thought Paige was having sex with Meg.']
+
+q: Who vandalizes Rick's car?
+a: ['Thugs', 'not mentioned']
+
+q: Fred takes to which kind of person to his motel room?
+a: ['Aunt Mag.', 'not mentioned', 'unnamed girl']
+
+q: Who has a car accident?
+a: ['not mentioned', 'Rick', 'Grace']
+
+q: What is a "hall pass"?
+a: ['movie name', 'A week off marriage where they can sleep with anybody else', 'A week off of marriage to do whatever you want.', 'permission to sleep with somebody other than their spouse', "Permission to have sex with someone outside the relationship given by one's partner"]
+
+q: Fred has sex with shose aunt?
+a: ["He fakes oral sex with Paige's aunt.", "His wife's", "Fake sex with Paige's aunt Meg", 'Paige', 'not mentioned']
+
+q: What did Fred and Rick decided to play on Day Two?
+a: ['golf', 'not mentioned', 'Golf']
+
+q: On "Day One" what did Fred and Rick decide to do before going to a local bar?
+a: ["it's not mentioned", 'to eat', 'no naswer']
+
+q: Where is there a party?
+a: ['not mentioned', 'local gym', "Coakley's"]
+
+q: Why Brent doesn't kill Rickat the hotel?
+a: ['runs out of bullets']
+

@@ -1,0 +1,34 @@
+PARAGRAPH
+The documentary examines the steroid use of director Christopher Bell's two brothers, Smelly and Mad Dog,[4] who all grew up idolizing Arnold Schwarzenegger, Hulk Hogan, and Sylvester Stallone, and also features professional athletes, medical experts, fitness center members, and US Congressmen talking about the issue of anabolic steroids.[5]
+Beyond the basic issue of anabolic steroid use, Bigger, Stronger, Faster* examines the lack of consistency in how the US views drugs, cheating, and the lengths people go to achieve success. The film looks beyond the steroid issue to such topics as Tiger Woods' laser eye correction to 20/15 vision, professional musicians use of blood pressure reducing drugs, or athletes' dependence on cortisone shots, which are a legal steroid. It takes a skeptical view of the health risks of steroids and is critical of the legal health supplement industry.
+Christopher Bell on steroid regulation: "If you look at all the laws in our country, and at how and why things get banned, they donât actually fit into that category: Theyâre not addictive, they donât actually kill people. I donât condone the stuff, but after three years of researching this, it seems like we should take another look." [6]
+
+
+QUESTIONS
+q: Who directed the Bigger Stronger Faster*?
+a: ['Christopher Bell']
+
+q: What are other professions mentioned as having used other types of drugs?
+a: ['professional musicians']
+
+q: What does America lack when viewing drugs?
+a: ['Consistency']
+
+q: What drug is the documentary examining the use of?
+a: ['Steroids']
+
+q: What other drugs are mentioned with concern?
+a: ['blood pressure medication cortisone shots']
+
+q: What was Tiger Woods' alleged enhancement?
+a: ['Laser Eye correction to 20/15']
+
+q: What was the film "Bigger Stronger Faster*" about?
+a: ['Steroid use']
+
+q: What claims does the film take a skeptical examination on?
+a: ['the health risk of steroids']
+
+q: Who are being documented on in this film?
+a: ['Smelly and Mad Dog Bell']
+

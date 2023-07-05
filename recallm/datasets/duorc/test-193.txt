@@ -1,0 +1,158 @@
+PARAGRAPH
+Cris Johnson (Nicolas Cage) is a man with a unique ability to see into his future. He can only see two minutes ahead, with the exception of a vision he once had of a woman walking into a diner. Because there are no details other than the time, he goes to the diner twice daily day at 8:09, the time he saw in his vision, to await her arrival. For his living, he works as a small-time magician in Las Vegas, where he supplements his income with gambling, using his powers to win against the house. Though he attempts to do this in a low key manner, he nonetheless draws the attention of FBI agent Callie Ferris (Julianne Moore), who has figured out the nature of his ability and wants to employ him in an effort to stop terrorists from detonating a nuclear weapon that they have smuggled into the country. Before Ferris can approach Cris, however, his gambling draws the attention of casino security. On his way out of the casino, he stops an imminent robbery, yet is chased by security agents. Using his ability to forecast the actions of his pursuers, he eludes both them and Las Vegas police. Ferris tracks Chris to his home, but he escapes after foreseeing her arrival and her request. Later that night, the casino's security chief is approached by two of the terrorists, who interrogate him about Johnson before killing him.The following morning, Cris is again at the diner when he finally sees Liz Cooper (Jessica Biel), the woman from his vision. After envisioning a number of different approaches all of which fall flat he meets Liz after intervening when her ex-boyfriend arrives. Knowing that she is heading for Flagstaff, Arizona, Cris charms her into giving him a ride there. Ferris follows in pursuit, while the terrorists decide to kill him before the FBI can use his abilities to uncover their plans. A washed-out road forces Cris and Liz to spend the night in a hotel near the edge of a canyon. With the nuclear weapon tracked to Los Angeles, Ferris convinces her superiors to let her bring Cris in. The terrorists, who have been monitoring the FBI, also follow in the hope that the agents will lead them to Cris.Later that day, Agent Ferris confronts Liz while she is walking near the hotel. Claiming Cris is a dangerous sociopath, she asks her to drug Cris so that they can bring him in peacefully. Instead, Liz warns Cris, who tells her about his secret. When she asks why he will not help the FBI stop the terrorists, he explains his limitations, noting the exception for events involving her. Asking for Liz to wait for him, he tries to escape from the FBI agents waiting to arrest him but is captured after saving Ferris from logs tumbling down the side of a mountain. Unable to kill Cris, the terrorists kidnap Liz instead.In custody, Cris is strapped to a chair with his eyes held open and forced to watch television until he has a vision that can help the FBI. Expecting him to see a report about the detonation of the bomb, instead he envisions a broadcast from several hours in the future in which Liz is killed by a bomb while strapped to a wheelchair as bait for Cris. Cris escapes from captivity and races to the parking garage where she will be killed. Pursuing Cris to the garage, Ferris promises to help save her as long as Cris will help stop the bomb, and sets up a plan to draw out the terrorists.Using his ability, Cris helps the FBI track the terrorists to the port where they are based. When they arrive, after a series of exchanges, Cris is able to walk right up to the terrorist leader and avoid being hit, by seeing where the bullets will go and dodging them. After killing the terrorists and saving Liz, they find that the bomb has already been moved. Ferris shows Cris a seismograph hoping that he will see any tremors caused by explosions before they happen. As he stares at the screen he realizes that he has made a mistake and that he was too late; the bomb detonates inside the city, destroying it and them in the process.Yet Cris and Liz are still sleeping in the hotel in Arizona, before Liz goes outside to be confronted by Ferris. Because of Liz's involvement in events, Cris has been able to look further into the future and foresee what could happen. He calls Ferris to make a deal, then he says goodbye to Liz and asks her to wait for him before going outside to meet with Ferris and assist in stopping the terrorists.
+
+
+QUESTIONS
+q: to whom cris calls?
+a: ['Ferris']
+
+q: who confronts liz?
+a: ['Ferris']
+
+q: why does cris call ferris?
+a: ['offers to help prevent the nuclear disaster']
+
+q: what does cris do to get the attention of the police and casino security?
+a: ['to stop terrorists from detonating a nuclear weapon']
+
+q: how many minutes ahead can cris see into the future?
+a: ['see two minutes ahead']
+
+q: who is in bed with cris?
+a: ['Liz']
+
+q: where is liz cooper going?
+a: ['to the diner']
+
+q: what is the fbi agent's name?
+a: ['Callie Ferris']
+
+q: what was completely destroyed in the plot?
+a: ['the bomb detonate']
+
+q: who is strapped to a chair with his eyes held open and forced to watch television?
+a: ['Cris']
+
+q: whom is cris trying to save from future?
+a: ['Ferris']
+
+q: where does the bomb detonate?
+a: ['out at sea']
+
+q: what did ferris show cris?
+a: ['a seismograph']
+
+q: whom did cris call?
+a: ['Ferris']
+
+q: who did the fbi track to the port?
+a: ['the terrorists']
+
+q: who confronts liz near the hotel?
+a: ['Ferris']
+
+q: what does callie ferris figure out?
+a: ['Cris sees the future']
+
+q: who is callie ferris?
+a: ['fbi agent']
+
+q: who's arrival does cris foresee?
+a: ['liz']
+
+q: could cris see the future?
+a: ['Yes']
+
+q: will Cris Johnson Nicolas Cage can see into his future?
+a: ['Yes']
+
+q: in what state is the hotel cris and liz are at located?
+a: ['Arizona']
+
+q: what is cris vision?
+a: ['the woman']
+
+q: whom do the terrorists kidnap?
+a: ['Liz']
+
+q: where is liz heading?
+a: ['Flagstaff, Arizona']
+
+q: who held cris in custody?
+a: ['the FBI']
+
+q: where is the hotel?
+a: ['Arizona']
+
+q: cris sees who at the diner?
+a: ['Liz Cooper']
+
+q: what draws the attention of casino security?
+a: ['his gambling']
+
+q: what did the terrorists do after not being able to kill cris?
+a: ['the terrorists kidnap Liz instead']
+
+q: how does cris supplement his income?
+a: ['gambling']
+
+q: what does ferris offer cris?
+a: ['To help save Liz']
+
+q: what is cris's ability?
+a: ['ability to see into his future']
+
+q: who was cris helping the fbi track?
+a: ['Terrorists']
+
+q: why does the fbi torture cris?
+a: ['To try to evoke a vision that can help the FBI']
+
+q: who accompanied cris?
+a: ['Liz Cooper']
+
+q: who helps the fbi?
+a: ['Cris']
+
+q: who is liz cooper?
+a: ['the woman from his vision']
+
+q: what is callie ferris' motivation?
+a: ['for the pursuit of Cris']
+
+q: where was cris when he saw liz cooper?
+a: ['at the diner']
+
+q: who helped the fbi ?
+a: ['Cris']
+
+q: why does the fbi force cris to watch television
+a: ['to hopefully see a news feed of where the bomb will go off']
+
+q: howmuch time nicolas cage can see?
+a: ['2 minutes, except with liz cooper']
+
+q: why does cris escape?
+a: ['to save liz']
+
+q: where was liz heading?
+a: ['Flagstaff, Arizona']
+
+q: cris can see what?
+a: ['The future']
+
+q: what does ferris show cris?
+a: ['a seismograph']
+
+q: where does ferris confront liz?
+a: ['the hotel']
+
+q: what do the terrorist want to do with ferris?
+a: ['follow her']
+
+q: who approaches the casino's security chief?
+a: ['two of the terrorists']
+
+q: what is cris forced to do?
+a: ['to watch television']
+

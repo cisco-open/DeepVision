@@ -1,0 +1,52 @@
+PARAGRAPH
+This is a synopsis of the 1918 film, not the 1915 film, which no longer exists. A stockbroker, Richard, is on the edge of a deal that can change the lives of himself and his wife, Edith.
+Edith is only concerned with herself. She spends money they dont have on clothes they cant afford and lives a life of luxury. She goes driving with Arakau, a rich Burmese. She tells Arakau that her husband wants her to stop wasting money, and that he is jealous of Arakau. Arakau offers to buy her some of the clothes she wants, but she turns his offer down with a laugh.
+Edith becomes the treasurer of the Red Cross Society, and receives $10,000, that she puts into her family safe. She also convinces the Red Cross Society to hold its ball at Arakaus house, which is next to her own. Moreover, her husbands friend, James, suggests that she can double her money if she invests with him.
+At the Red Cross Ball, James says that his investment has failed, and that he has lost all of Ediths money. She overhears Richard telling James that at that point of time, he cant give James any money at all; all of Richards money is tied up in his own investment. Thus, Richard wont be able to help her at this point. Arakau suggests that she could go to jail if the Red Cross Society realizes what happened to their money, and offers to write a check to pay back the money lost. She takes his offer, and understands that she will have to pay the price in exchange for Arakaus saving of her honor.
+On the next day, Edith takes care of her obligation to the Red Cross Society. She goes home, and is surprised to learn that Richard has closed the deal that he was working on at the beginning of the film. He is happy to write a check to his wife for what she says is money lost in a bridge game.
+Arakau refuses to take Richards money for Ediths debt. She says she will kill herself, and Arakau obligingly offers her a gun. He tries to rape her, but in the end only succeeds in branding her with his personal seal. She then shoots him in the shoulder and runs off. Richard shows up, finds the check he had written on the floor next to the wounded Arakau, just as the police come and admits shooting Arakau.
+Edith offers money to Arakau to drop the charges, but Arakau tells her that he won't be cheated twice, and that, in any case, the situation is out of his hands.
+Edith sees Richard in jail, and Richard urges Edith not to tell anybody what happened in Arakaus house.
+However, at the trial, Arakau says that Richard shot him. Richard says that he shot Arakau while trying to disarm him, but refuses to explain further. Richard is found guilty of shooting Arakau. Edith can no longer remain silent, and confesses that she shot Arakau, and reveals she did so because Arakau had branded her on her back. The courtroom goes crazy with calls to lynch Arakau, and the judge drops all the charges against Richard.
+
+
+QUESTIONS
+q: What is Edith Hardy ?
+a: ['the treasurer of the Red Cross Society']
+
+q: How much money does Elsa bet?
+a: ['$10,000']
+
+q: Who ultimately says they were the shooter after Richard is found guility?
+a: ['Edith']
+
+q: What does Elsa steal?
+a: ['charity money']
+
+q: During the trial who do Richard and Tori testify on the stand who was the shooter?
+a: ['Richard']
+
+q: What is the husband's name?
+a: ['Richard']
+
+q: Who is the wealthy ladies man?
+a: ['Hardy Livingston', 'Arakau']
+
+q: Who is on trial?
+a: ['Jeffrey', 'Arakau']
+
+q: Which weapon does Livingston hands over to Elsa to commit suicide?
+a: ['Pistol']
+
+q: Who stops the trial?
+a: ['Elsa', 'Edith']
+
+q: Who is Edit Hardy's husband ?
+a: ['Richard']
+
+q: Whom does Elsa borrow money from?
+a: ['Livingston']
+
+q: Who does Edith owe money to?
+a: ['Arakau']
+

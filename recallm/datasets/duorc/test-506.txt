@@ -1,0 +1,44 @@
+PARAGRAPH
+Michael Moore begins the movie begins by suggesting that friends and political allies of George W. Bush at Fox News Channel tilted the presidential election of 2000 by prematurely declaring George W. Bush the winner. It then suggests the handling of the voting controversy in Florida constituted election fraud.The film then segues into the September 11, 2001 attacks, with the screen going black and the film relying solely on sounds to illustrate the chaos on that day. When the film resumes, it continues with scenes of the bystanders, survivors, and falling debris of the World Trade Center. Moore notes that President Bush was informed of the first plane hitting the World Trade Center on his way to an elementary school. Bush is then shown sitting in a Florida classroom with kids. When told that a second plane has hit the World Trade Center and that the nation is "under attack" Bush seems wary but calmly continues reading 'The Pet Goat' to the kids, and Moore notes that he continued reading for nearly seven minutes before leaving the school.The film then discusses the causes and aftermath of the September 11 attacks, including the 2003 invasion of Iraq. Moore then discusses the complex relationships between the U.S. government, the Bush family, the bin Laden family, the Saudi Arabian government, and the Taliban, which span over three decades. Moore alleges that the United States Government evacuated 24 members of the bin Laden family on a secret flight shortly after the attacks, without subjecting them to any form of investigation by the FBI or other security agencies. At the time, all other domestic and international civilian air traffic within the United States was grounded.Moore moves on to examine George W. Bush's Air National Guard service record. Moore contends that Bush's dry-hole oil well attempts were partially funded by the Saudis and by the bin Laden family through the intermediary of James R. Bath. Moore alleges that these conflicts of interest suggest that the Bush administration is not working for the best interests of Americans. The movie continues by suggesting ulterior motives for the War in Afghanistan, including a natural gas pipeline that could be laid through Afghanistan to the Indian Ocean.Moore alleges that the Bush administration induced a climate of fear among the American population through the mass media after the 9/11 attacks to gain widespread support for his administration and the war in Afghanistan. Moore then describes purported anti-terror efforts, including government infiltration of pacifist groups and other events, and the passage of the USA PATRIOT Act, which vastly expands government powers. After finding out that members of Congress do not read most of the bills that they vote on, including the USA PATRIOT Act, Moore drives through Washington D.C. in an ice cream truck using the external speaker to read the PATRIOT Act to them.The documentary then turns to the subject of the Iraq War, comparing the lives of the Iraqis before and after the invasion. The citizens of Iraq are shown to be living relatively happy lives prior to the country's invasion by the U.S. military in 2003. The film also takes pains to demonstrate war cheerleading in the U.S. media and general bias of journalists, with quotes from news organizations and embedded journalists. The film then shows Bush's moment of "Mission Accomplished" on board the USS Abraham Lincoln. The film alternates between media reports of increased casualties in Iraq and Bush's comment to "Bring 'em on", referring to the Iraqi insurgency.The film then shifts its focus to Moore's hometown, Flint, Michigan. The economically hard-hit town's low-income neighborhoods were the prime target of military recruiters. A recruiter named Sgt. Raymond Plouhar is introduced (he was later killed in Iraq), as he and another marine recruiter talk to potential recruits in the parking lot of a mall. The film introduces Lila Lipscomb, a woman presented as the proud mother of a U.S. serviceman. She expresses her strong sense of patriotism and support for the men and women in uniform.Moore suggests that, because the war was based on a lie, atrocities will occur, and shows footage depicting U.S. abuse of prisoners.Later in the film, Lipscomb reappears with her family after hearing of the death of her son, Sgt. Michael Pederson, who was killed on April 2, 2003, in the Iraqi city of Karbala. Anguished and tearful, she begins to question the purpose of the war and reads a letter from her son that show his own despondency and disenchantment with the war. Because Moore was tired of seeing people like Lila Lipscomb suffer, and after discovering that only one member of Congress has a child serving in Iraq, he distributes armed services enrollment information to various members of Congress and suggests that they enlist their children.Tying together several themes and points, Moore compliments those serving in the U.S. military. He claims that the lower class of America are always the first to join the army and defend the nation, so that the people better off do not have to. He states that those valuable troops should not be sent to risk their lives unless it is absolutely necessary. The film ends with a clip of George W. Bush stumbling through his infamous "Fool me once" quote. The credits roll while Neil Young's "Rockin' in the Free World" plays.Moore dedicated the film to his friend who was killed in the World Trade Center attacks and to those servicemen and women from Flint, Michigan that have been killed in Iraq. The film is also dedicated to "countless thousands" of civilian victims of war as a result of United States military activities in Iraq and Afghanistan.
+
+
+QUESTIONS
+q: Where was Bush going to?
+a: ['a Florida classroom with kids', 'to an elementary school']
+
+q: Where are the servicemen and women killed in Iraq spoken about in the movie from?
+a: ['In the end', 'Flint, Michigan']
+
+q: who was killed on April 2, 2003, in Karbala?
+a: ['Sgt. Michael Pedersen']
+
+q: whom does Moore compliment?
+a: ['those serving in the U.S. military', 'Moore compliments those serving in the military']
+
+q: What does Moore suggest?
+a: ['that atrocities will occur in Iraq and shows footage depicting U.S. abuse of prisoners.', 'Moore suggests the Iraq war was based on a lie']
+
+q: How manay memebers does Moore claim were secretly evacuated after attacks?
+a: ['24 members']
+
+q: The natural gas pipeline runs from Afghanistan to where?
+a: ['Indian Ocean']
+
+q: How do Iraq citizens feel before the invasion?
+a: ['as living relatively happy lives']
+
+q: How many decades of relationship events are duscssed?
+a: ['three decades']
+
+q: Whose Air National Guard service record is examined?
+a: ["George W.Bush's"]
+
+q: What news channel is suggested to have influenced the 2000 election?
+a: ['Fox News Channel']
+
+q: What was Bush informed?
+a: ['He was informed of the 9/11 attacks - when the planes hit the towers.', 'of the first plane hitting the World Trade Center']
+
+q: Who does Moore allege  induced a climate of fear among the American population through the mass media?
+a: ['Bush administration']
+

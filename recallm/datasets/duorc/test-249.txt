@@ -1,0 +1,118 @@
+PARAGRAPH
+Sinbad and the Eye of the TigerPrince Kassim (Damien Thomas) is transformed during his coronation as Caliph of the city and kingdom of Charak (1) into a baboon by his stepmother, the witch Queen Zenobia (Margaret Whiting), who wants the throne for her own son, Rafi (Kurt Christian). The Prince's sister, Princess Farah (Jane Seymour), seeks the help of her betrothed, Sinbad (Patrick Wayne), whilst Rafi, disguised as a merchant, tries to kill Sinbad and his crew (one, Aboo Seer (David Sterne) is poisoned) with the aid of three weapon-wielding ghouls (2) (created as stop-motion models, like most of the non-human cast, by Ray Harryhausen) brought from the depths of the earth by his mother's magic: Sinbad crushingly destroys these using falling logs.A discussion the following morning on Sinbads ship between the Princess, her uncle Balsora (Bruno Barnaby), Sinbad and his crew members Hassan (Nadim Sawalha) and Maroof (Salami Coker) discovers that the only possible saviour of Prince Kassim is the Greek sage Melanthius (Patrick Troughton), who lives on the rock-and-reef-ringed fog-bound island of Cascar (3). Zenobia however, having followed Balsora to confront him, learns of their plans. Sinbad and the Princess set sail for Cascar with the enchanted Prince, who astounds the crew by being able to write and play chess. Zenobia, fearing Melanthius may well be able to cure Kassim, decides to follow on a compact bronze boat with Rafi, rowed by their servant, the Minaton (4) (stand-in Peter Mayhew), a colossal bronze minotaur-automaton made by Rafi and animated by Zenobias magic. Balsora's guard on Zenobia, Zabid (Bernard Kay), is capsized and then skewered by the Minaton during their escape.On Cascar, after a brief encounter with rock-tossing inhabitants, Sinbad persuades Melanthius and his daughter Dione (Taryn Power) of the reality of Prince Kassim's condition, and to help: Melanthius reveals that the only cure will be to journey to the land of the former Arimaspi (5) at Hyperborea, a green valley in the polar regions maintained by the Arimaspi's powers, captured in the pyramidal Shrine of the Four Elements there to which he fortunately has the key, map and sailing directions. Speed is of the essence, as not only must Prince Kassim be crowned before seven moons have passed or renounce the Caliphate, but he will also gradually lose his remaining human abilities. However Kassim is befriended by Dione, who brings him fruit and practices writing with him.Zenobia, having been delayed by her boat being damaged when approaching Cascar, transforms herself by means of a magic potion into a seagull to fly to Sinbads ship, and there resumes her human form in miniature to spy out Melanthius plans. Spotted by Kassim, and caught by Melanthius, she learns of the trip to the lands of the Arimaspi, and is able to memorize the map, but when Melanthius uses some of the magic potion on a wasp (6), which grows to a giant size and attacks him, she is able to reclaim the potion vial, escape in seagull form, and return to her own boat. However there is now insufficient potion to effect the reverse transformation, and she retains a seagull's foot. The giant wasp is killed by Sinbad using a thrown dagger.Approaching the icebound polar regions, Sinbad passes by the ice-tunnel to the Arimaspi valley as being too small for his ship, and instead conducts his team on a journey by foot across the ice-pack (with Kassim in his cage on a sled), interrupted by a fight with a giant walrus, in which one crew member falls through the ice and another is stomped flat, to reach the outer part of the warm lands of Hyperborea, where they all relax. By this time Kassim has reverted almost wholly to animal nature, and only responds to Dione. Here the group encounters a giant Troglodyte, who shows them the way to the valley of the Arimaspi pyramid-shrine, and opens the valleys great gates for them. Meanwhile Zenobia, Rafi and the Minaton with their smaller boat have been able to take the ice-tunnel via a ruined temple directly to the shrine, where Zenobia forces an entrance using magic: however a falling stone block destroys the Minaton.Sinbad's party arrives at the now-failing shrine, where giant icicles crash down, and in a fight the baboon Kassim kills Rafi by rolling him down stairs to break his neck. Melanthius successfully restores Prince Kassim to human form by passing him in a gold cage through the fall of light from the Aurora Borealis, "the gift of the winter Apollo", within the shrine. However Zenobia vaporizes herself and possesses the body of a sabre-toothed tiger (smilodon), the guardian of the shrine, which mauls and kills the Troglodyte and Maroof before it is slain by Sinbad, firstly transfixing it with a gaff-spear originally used by the Minaton, and then using a scimitar for the coup de grace. The party escapes the collapsing shrine, which, with the whole of Hyperborea, now becomes covered in snow, and returns to Charak, where Kassim is duly installed as Caliph: he becomes enamoured of Dione, and gives his blessing to Sinbad and Princess Farah. The appearance of Zenobia's eyes at the end may mean all is not yet overNotes
+(1) This spelling is used on the original storyboard reproduced p185 in 'The Art of Ray Harryhausen', by Ray Harryhausen and Tony Dalton, 2006, Billboard Books, New York
+(2) Ibid. In the storyboard these are called 'nightmare figures' and 'zomboids' (and numbered as four, and illustrated as five, even though three eventually appear): Ray Harryhausen however refers to them consistently as 'ghouls' thereafter
+(3) Spelling uncertain: however, historically, 'Cascar' is the name given by Marco Polo to Kashgar, a city on the Silk Road
+(4) This spelling is that used by Ray Harryhausen: the original model is illustrated also p185 in 'The Art of Ray Harryhausen'
+(5) Historically, the Arimaspi were a legendary people of northern Scythia. The tales of their struggles with the gold-guarding griffins in the Hyperborean lands near the cave of Boreas, the North Wind, originate in a lost work by Aristeas. (6) That the insect is a wasp is confirmed by the survival of the original model: 'The Art of Ray Harryhausen' p 208
+
+
+QUESTIONS
+q: Is is a lion or a tiger that guards the shrine?
+a: ['Tiger']
+
+q: Why does Zenobia transform herself into a gull?
+a: ['To fly to sinbads ship']
+
+q: Who engages the saber-toothed tiger into combat
+a: ['Troglodyte']
+
+q: What attacks Sinbad and his crew as they trek across the ice to Arimaspi?
+a: ['A giant walrus']
+
+q: What does Zenobia transform herself into?
+a: ['A sabertooth tiger']
+
+q: What does Zenobia turn into once aboard ship?
+a: ['A miniture']
+
+q: Where did the ancient civilization of the Arimaspi exist?
+a: ['Hyperborea']
+
+q: Who is the Prince of Baghdad?
+a: ['Sinbad', 'NICE']
+
+q: When does Sinbad arrive?
+a: ['minutes later', 'YES']
+
+q: Who has entered the pyramid?
+a: ['Melanthius']
+
+q: Who is prince of Baghdad?
+a: ['Kassim']
+
+q: Who does Melanthius tell how to cure Kassim?
+a: ['Sinbad', 'YES']
+
+q: What is Kassim's title?
+a: ['Prince']
+
+q: What animal did Zenobia transform into to spy on Sinbad?
+a: ['seagull']
+
+q: Who arrives at the shrine first?
+a: ['Zenobia, Rafi and the Minaton']
+
+q: Who is son of Zenobia's?
+a: ['Rafi']
+
+q: What is the name of the alchemist?
+a: ['Melanthius']
+
+q: Which of the shrine's chambers do the enter?
+a: ['Hyperborea']
+
+q: Who uses an ice tunnel to reach the land of Arimaspi?
+a: ['Zenobia, Rafi and the Minaton']
+
+q: Where does Sinbad moore?
+a: ['Cascar']
+
+q: Whom does Sinbad and Farah find at Casgar?
+a: ['Melanthius']
+
+q: What is the interior or the shrine's main chamber covered in?
+a: ['Bronze']
+
+q: Where is the alchemist?
+a: ['Greece']
+
+q: Who is the only person who can calm the baboon?
+a: ['Dione']
+
+q: Who turn into baboon in the movie?
+a: ['Kassim']
+
+q: What does Zenobia use to transform herself into a gull?
+a: ['A magic potion']
+
+q: What is the name of the old Greek alchemist?
+a: ['Melanthius']
+
+q: Who plays chess with Farah?
+a: ['zombie']
+
+q: Is Sinbad a sailor?
+a: ['no']
+
+q: Who is the only person able to calm the baboon?
+a: ['Sinbad']
+
+q: Who captures Zenobia?
+a: ['Sinbad']
+
+q: How was she able to transform?
+a: ['a magic potion']
+
+q: Who is Zenobia's son?
+a: ['Rafi']
+
+q: Who did Sinbad Kiss?
+a: ['Princess Farah']
+
+q: What does Farah believes Kassim's curse is?
+a: ['to be a baboon']
+
+q: What insect grew to an enormous size?
+a: ['wasp']
+

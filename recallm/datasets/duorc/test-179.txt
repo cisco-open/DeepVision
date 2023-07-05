@@ -1,0 +1,32 @@
+PARAGRAPH
+The film revolves around the relationship between two high school students, Yoo Shi-Eun (Lee Young-jin) and Min Hyo-Shin (Park Ye-jin). As the two girls become romantically involved, their taboo friendship causes them to be marginalized by the other students. Unable to cope with the social pressures of having a lover of the same gender, Shi-Eun tries to distance herself from the increasingly dependent Hyo-Shin. Hyo-Shin reacts poorly to Shi-Eun's changed attitude, viewing it as both a betrayal and rejection. Hyo-Shin consequently commits suicide by jumping off of the school roof. It is also heavily implied that she was pregnant at the time of death, the father being literature teacher Mr. Goh.The plot unfurls in a nonlinear fashion, often from the perspective of fellow student Soh Min-Ah (Kim Min-sun). Min-Ah grows increasingly invested in Shi-Eun and Hyo-Shin when she finds a diary kept between the two alienated girls. This diary allows her disturbing insights to the nature of the relationship and pulls her deeper into a strange chain of events around the school. After Hyo-Shin's death, supernatural occurrences start to terrorize all of the students that condemned the relationship. It is later revealed that Hyo-Shin's spirit is malevolently haunting the school through the remnants she left behind in the diary.
+
+
+QUESTIONS
+q: What type of occurrences start to terrorize the school after Hyo-Shin's death?
+a: ['Supernatural occurrences']
+
+q: who finds the diary?
+a: ['Min-Ah']
+
+q: who's father was Mr. Goh
+a: ['Hyo-Shin']
+
+q: who played the role of Soh Min-Ah
+a: ['Kim Min-sun']
+
+q: What did Hyo-Shin jump from at school when she committed suicide?
+a: ["Shi-Eun's changed attitude"]
+
+q: the film depicts the love story of which two characters?
+a: ['Yoo Shi-Eun and Min Hyo-Shin']
+
+q: who played the role of Hyo-shin?
+a: ['Park Ye-jin']
+
+q: With whom does Yoo Shi-Eun become romantically involved?
+a: ['Min Hyo-Shin']
+
+q: who commits suicide by jumping off of the school roof?
+a: ['Hyo-Shin']
+

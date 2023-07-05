@@ -1,0 +1,17 @@
+PARAGRAPH
+Advocate Steve Myers (Billy Connolly) is a disillusioned lawyer who becomes fed-up with the perceived corruption within the judicial system. He quits the law business and buys a small fishing boat and takes up fishing for a living. His fishing boat is struck by lightning and explodes into pieces, burns and sinks. He informs his insurance company, which reviews and then subsequently declines his claim on the grounds that it is not liable as his fishing boat was destroyed due to an "Act of God".
+Frustrated that his claim is repeatedly declined, Steve files a claim against God, naming church officials as representatives of God and thereby the respondents. The church leaders, their respective lawyers and their insurance company get together to find a way to settle this dilemma, which catches the fancy of the media. It is in Court that God's representatives will have to admit that the destruction of Steve's fishing boat was actually God's Act, accept and compensate him, or deny it altogether thereby denying God's existence, leaving the onus on Steve to prove his claim.
+Myers's battle brings media attention leading to a meeting with journalist Anna Redmond (Judy Davis) who helps to raise his public profile, enlisting the support of others who had fallen victim to insurance companies' "Acts of God" clause. He also faces heavy criticism and protests from religious groups as his profile grows, and he backs the church into a disadvantageous position.
+However, the attention takes its toll on Myers' family, who are exploited by the media, his ex-wife already crippled by debt as the guarantor of the boat. Steve faces a reality check as his family considers moving to Perth, on the other side of the country. Meanwhile, Anna Redmond comes under fire for a history of disputes and attacks on insurance companies, drawing criticism that the case is little more than a publicity stunt. Facing a drawn out legal battle and the impact it would have on those around him, Steve decides he has won a moral victory, and withdraws from the case but not before convincing the judge that insurance companies' use of the term "Acts of God" is a misleading term.
+
+
+QUESTIONS
+q: Who files a claim against God ?
+a: ['Steve']
+
+q: What is Steve Myers profession ?
+a: ['lawyer']
+
+q: What is Steve Myers fed up with ?
+a: ['corruption within the judicial system']
+

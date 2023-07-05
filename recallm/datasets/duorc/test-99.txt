@@ -1,0 +1,67 @@
+PARAGRAPH
+Major Bennett "Ben" Marco (Denzel Washington) is a war veteran who begins to doubt what is commonly known about his famous U.S. Army unit. During the Gulf War, Sergeant First Class Raymond Shaw (Liev Schreiber) supposedly rescued all but two members in his unit, of which Marco was the commanding officer. Shaw became a war hero and was awarded the Medal of Honor, launching his political career.
+Years later in a dystopian United States, one of Marco's former NCOs, Corporal Al Melvin (Jeffrey Wright), contacts him and says that he suffers from confusing memories and "dreams" about their lost Army unit. He is clearly deranged, but he shows Marco some images he has drawn from his dreams.
+Shaw, now a U.S. Congressman, becomes his party's candidate for Vice President after his mother, Virginia U.S. Senator Eleanor Prentiss (Meryl Streep), pressures party leaders into passing over their intended pick, U.S. Senator Tom Jordan (Jon Voight). A rivalry exists between Eleanor and Jordan, partly due to a past relationship between Shaw and Jordan's daughter Jocelyne (Vera Farmiga). That evening, Marco has a nightmare in which he is being held captive and brainwashed along with his fellow soldiers.
+After Shaw is nominated, Marco begins investigating what really happened during the war. He finds an implant in his back and, soon thereafter, one in Shaw's after a confrontation at campaign headquarters. After having the one taken from Shaw analyzed, Marco realizes that it is a nanotechnological experiment connected with Manchurian Global, a powerful private equity firm with major political connections. Marco researches Manchurian and recognizes Dr. Atticus Noyle (Simon McBurney), a former Manchurian geneticist-turned-mercenary, from one of his nightmares. Marco brings his findings to the attention of Jordan, who, although he doesn't entirely believe the story, confronts the Shaws and suggests that Raymond bow out of the campaign. Instead, Eleanor "activates" Raymond and orders him to kill Jordan. Jocelyne is also killed when she tries to stop an entranced Raymond.
+Given the mounting evidence, the FBI begins to take Marco's allegations seriously. They arrange a meeting between Marco and Shaw to convince Shaw of his condition. However, Shaw receives a phone call from Eleanor and hands the phone to Marco. Eleanor uses trigger words to control Marco's mind, giving him commands to assassinate the President-Elect so that Shaw can become president. It happens, though, that with the trauma of Jocelyne's death, Shaw is gaining resistance to his own mind control.
+At the election party, Shaw directs the President-Elect away from the standing place where Marco, wielding a sniper rifle, was supposed to shoot him. Shaw looks up at the vent where Marco is, giving him a nod of clearance to kill him. Shaw proceeds to dance with Eleanor and shift to that area purposely, which causes Marco to shoot, killing both of them with one shot. Marco prepares to kill himself with a hand-gun, but the FBI discovers and stops him. The FBI decides to protect Marco's innocence by framing a deceased Manchurian Global contractor as the shooter. In the last scene, Rose takes Marco to the compound where he was conditioned, which by now the FBI has found. Marco proceeds to drop Shaw's Medal of Honor into the sea.
+
+
+QUESTIONS
+q: Who triggers Raymond and sends him to kill Jordan?
+a: ['Elanor']
+
+q: Who is Shaw's mother?
+a: ['Eleanor Prentiss, Virginia U.S. Senator']
+
+q: Who is responsible for controlling Raymond?
+a: ['Mrs. Iselin', 'His mother Eleanor']
+
+q: What is the practical demonstration given in the dream
+a: ['Brainwashing']
+
+q: Who was Raymond selected by?
+a: ['His mother']
+
+q: What is Shaw running for?
+a: ['President']
+
+q: Captain Bennett Marco is awarded what?
+a: ['Medal of Honor', 'Nothing']
+
+q: What political position does Jocelyn's father currently hold?
+a: ['US Seanator']
+
+q: Who captured the U.S. platoon?
+a: ['Soviets']
+
+q: What war was the movie updated to?
+a: ['Gulf war']
+
+q: What does the Queen of Diamonds not have over Marco any more?
+a: ['No anwer']
+
+q: What is Raymond's programming triggered by?
+a: ['a Queen of Diamonds playing card', 'Trigger word commands']
+
+q: Who jumped into a lake in Cental Park?
+a: ['Sgt Shaw and Major Marco']
+
+q: What was Shaw awarded?
+a: ['Medal of Honor', 'Medal of Honor']
+
+q: Who was Staff Sergeant Raymon Shaw credited for saving?
+a: ['Fellow platoon members']
+
+q: Does Army intelligence ultimately agree to help Marco?
+a: ['Yes', 'Yes']
+
+q: What have the soldiers returning from war been brainwashed and programmed to do?
+a: ['Kill people']
+
+q: What are the names of the young couple who star in this movie?
+a: ['Liev Schrieber and Denzell Washington']
+
+q: Melvin and Marco share what experience?
+a: ['Nightmare', 'Confusing memories and dreams']
+

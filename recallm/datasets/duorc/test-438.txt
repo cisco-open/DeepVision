@@ -1,0 +1,39 @@
+PARAGRAPH
+Set in 2003, Huck Cheever (Eric Bana) is a young and talented poker player in Las Vegas haunted by his relationship with his estranged father, L.C. Cheever (Robert Duvall), a two-time World Series of Poker Champion. Huck is a regular in Vegas poker rooms but needs $10,000 to get a seat in the World Series of Poker Main Event.
+After a good night at the Bellagio hotel's poker room, Huck goes to a party and meets aspiring singer Billie Offer (Drew Barrymore), who has just arrived in town. Billie's older sister Suzanne (Debra Messing) warns her that Huck is "hustle 10, commitment zero." Back at the Bellagio, Huck is doing well at the tables before L.C. returns to town from the South of France. Huck greets his father coldly. The two play heads-up.
+Loan shark Roy Durucher (Charles Martin Smith) tells Huck that he plays poker as well as anybody, except for his reputation as a "blaster" (not patient enough) who always goes for broke. Roy proposes to stake Huck in the $10,000 main-event with a 60% (Roy) â 40% (Huck) split of any winnings, but Huck refuses. After failing to borrow money from his friend Jack (Robert Downey Jr.), Huck goes to Suzanne's place hoping for a loan. Instead he runs into Billie, who gets a call confirming that she has landed a job singing at a club.
+Huck proposes a celebration and at Binion's Horseshoe he shows her how to play poker. L.C. arrives and shows Huck a wedding ring of Huck's late mother's that Huck had pawned and that L.C. has redeemed. Huck loses his winnings. Over dinner, he explains to Billie that his father stole from his mother before leaving her. Huck says his father taught him how to play on the kitchen table with "pennies, nickels, and dimes." They make love after dinner. As Billie sleeps, Huck steals money from Billie's purse.
+Huck plays in a "super satellite" for his entry to the main event. He appears to have the seat won, but a misdeal costs him. Roy agrees to stake Huck and even gives him an extra $1200 so that he can repay Billie. He apologizes to her, saying he feels they have a chance at something special. They later run into L.C., who wins all of Huck's stake money for the World Series in a quick poker game.
+Billie holds the stopwatch in a golfing marathon that Huck must complete in 3 hours to win a bet. She declines to cheat for him when he finishes two seconds too late. When Huck goes to Suzanne's apartment looking for Billie, he learns Billie has gone home to Bakersfield. Huck gets a black eye when Roy's thugs toss him into his empty pool. They warn him to return the $11,200 stake that he owes to Roy or get a seat in the World Series within 48 hours. Huck travels to Bakersfield to tell Billie that he meant what he said when he felt they had a chance at something special.
+Back in Vegas, having found the entry money, Huck enters the World Series. He and his father both advance to the final table of nine. Billie looks on from the audience as Huck and L.C. have a showdown. Huck deliberately folds a winning hand, going out in third place. A few minutes later, L.C. gets rivered and goes out in second place, losing the title to Jason Keyes (Evan Jones) who had "won his entry in an online satellite" (a nod to Chris Moneymaker, who did win the 2003 Main Event after a similar entry to the tournament).
+After the tournament, L.C. offers his son a one-on-one rematch, playing only for pennies, nickels, and dimes. Their relationship is restored, as is Huck's and Billie's in the final scene.
+
+
+QUESTIONS
+q: What does Huck reveal to Billie over Chinese food?
+a: ['His father stole from his mother before leaving her']
+
+q: What is the prize money Huck plays for?
+a: ['10000']
+
+q: Where does Huck go to play after stealing money from Billie?
+a: ['a super satellite']
+
+q: When do Huck and his father become reconciled?
+a: ['After the tournament']
+
+q: Are Huck and Billie able to reconcile in the end?
+a: ['yes']
+
+q: What causes Huck and Billie to have a falling out?
+a: ["Huck steals money from Billie's purse."]
+
+q: Who plays Huck's friend- Jack?
+a: ['Robert downing jr']
+
+q: Who does Huck meet at a party?
+a: ['aspiring singer Billie Offer (Drew Barrymore)']
+
+q: What percentage(%) of share is Huck offered by Roy if he wins the main event?
+a: ['40%']
+

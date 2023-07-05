@@ -1,0 +1,41 @@
+PARAGRAPH
+Author Clifford Irving (Richard Gere) discusses his latest book project with executives with publishers McGraw-Hill. His last book, about an art forger, has sold poorly. The board of McGraw-Hill is more impressed by his latest effort, and Irving is led to believe that this will be his breakthrough work.He celebrates this news, but is then informed that a magazine editor had read and discounted the work, and McGraw-Hill have now decided not to publish it, leaving Irving extremely bitter.Vacationing with friend and researcher, Richard Suskind (Alfred Molina), Irving is ejected from his hotel at 1 a.m. when Howard Hughes arrives demanding the entire building be emptied of guests. Returning to New York to meet his publishers, he is upset to find that he has been fobbed off onto one of the firm's assistants. Irving storms into the boardroom and announces he has written the "book of the century," threatening to take it elsewhere if McGraw-Hill is not interested.Irving struggles to come up with a suitable topic for his grandiose book-of-the-century claim, rejecting numerous suggestions from Dick Suskind. It is then that he catches sight of a magazine cover and article about the secret world of Howard Hughes and decides that this is the book that the world wants.He approaches his former publishers and claims to have been summoned by Hughes and selected to write his biography, providing forged handwritten notes from Hughes as "proof". Handwriting experts are fooled and pronounce the notes genuine, and the board strikes a $500,000 deal for the book, accepting the slightly bizarre conditions imposed as the eccentricities of the reclusive billionaire Hughes.For Clifford Irving it comes close to being the perfect crime. Given Hughes's self-imposed isolation and deep aversion to litigation, Irving believes himself safe from legal action from the billionaire. And Hughes's eccentricities will cause any denials by him of the book's authenticity to be doubted. The resulting book will generate a massive sum of money, with more coming through serialisation rights, all of which will be his, not having to share it with Hughes.Irving is currently undergoing marital problems with Edith Irving (Marcia Gay Harden), an artist. A recent affair between Clifford Irving and Nina Van Pallandt (Julie Delpy), an actress and wife of a millionaire, has left Edith hurt and skeptical of Clifford. He assures Edith he will be faithful, and leaves to begin his research.Irving spends hours studying documents, speeches and other recordings of Hughes to create an authenticity that will fool even the experts. Irving and Suskind illicitly obtain a copy of a draft biography of Noah Dietrich, a retired Hughes aide, which provides details that add to the apparent authenticity of the work. Irving begins reciting passages for the book into a tape recorder in character as Hughes, going so far as to dress as Hughes and draw a Hughes-like moustache on himself during these sessions.At one point during the writing of his work, a mysterious box of documents arrives, containing explosive information about questionable dealings between Hughes and President Richard Nixon, implying that Hughes had provided monetary favors to Nixon's campaign and made a personal loan to Nixon's brother in exchange for favorable treatment by the administration. Irving assumes the package is from Hughes and convinces himself Hughes now supports the false autobiography and wants the damaging material included in order to bring down the President, whose support for Hughes has eroded.As the publication date draws closer, Irving steps up his pretense, including staging an aborted meeting between Hughes and the publishers. However, denials start to filter out from Hughes headquarters that he is involved in any way with the book. The pressure begins to build, but the publishers are convinced it is a genuine work. Irving's script has been so convincingly researched, and tinged with real and very secret disclosures, that it convinces the experts to be genuine. Irving also uses the publishers' increasing desire for the hit book to leverage larger paychecks for himself and "Hughes"; Irving and his wife concoct a scheme for her to deposit Hughes' share of the payments into a Swiss bank account using a forged passport and the name "Helga R. Hughes".Irving begins to have increasingly grandiose notions, including alcohol-fueled fantasies about being kidnapped by Hughes's people and taken blindfolded to Nassau, where he is ordered to put the disclosure about Nixon into the work, before being thrown out a window and into a swimming pool. At the same time, his affair with Van Pallandt has continued, and the pressure of keeping of a pretense of fidelity with his wife adds to Irving's stress and paranoia.Finally, Hughes goes public, via a televised conference call, to deny any knowledge of Irving or the book. As the hoax unravels, Irving finds himself alone in his room "conversing" with Hughes' aide about his role in the affair and the pressures of keeping up the complex web of deceits. Irving is arrested and, as reporters shout questions through the closed window of the police car, scrawls the word "HOAX" on the window, finally admitting the con.At a press conference, a government spokesman reveals that Irving, Edith Irving, and Suskind all received short jail sentences. An overheard radio report details a sudden wave of legal decisions in favor of Hughes in a short span of time, ambiguously implying that Irving's book had indeed been used as a tool by Hughes to pressure Nixon.Against a backdrop of archival footage of Nixon, a text overlay claims that the hoax fueled Nixon's paranoia with Hughes, and led directly to the Watergate scandal: The burglars were attempting to recover documents they believed held information of the financial dealings between Nixon and Hughes.
+
+
+QUESTIONS
+q: Who is Irving vacationing with?
+a: ['His friend and researcher, Richard Suskind']
+
+q: What is the name of the publishing company?
+a: ['McGraw-Hill']
+
+q: What is the name of Clifford Irving's previous novel?
+a: ['Fake: the story of Elmyr de Hory: the greatest art forger of our time']
+
+q: Why does the publisher decide against releasing Clifford Irving's novel?
+a: ['A magazine editor had read and discounted the work']
+
+q: Who demands the entire building be vacated?
+a: ['Howard Hughes']
+
+q: What time was Irving ejected from his hotel?
+a: ['1 a.m.']
+
+q: Irving tells McGraw-Hill that Hughes has recruited him to help do what?
+a: ['Write his autobiography']
+
+q: Where does Irving go to meet with publishers?
+a: ['New York']
+
+q: What does Irving say his new project will be?
+a: ['"The book of the century."']
+
+q: The publishers struck how much of a deal for the book?
+a: ['$500,000']
+
+q: Who does Irving decide to make the subject on?
+a: ['about the secret world of Howard Hughes']
+
+q: What kind of material was in the box?
+a: ['Scandalous material']
+

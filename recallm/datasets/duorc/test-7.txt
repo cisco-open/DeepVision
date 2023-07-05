@@ -1,0 +1,42 @@
+PARAGRAPH
+14-year-old Danny O'Neil (Gabey Olds) is madly in love with his teacher, Miss Peggy Noble (Daphne Ashbrook). Given the fact that she is engaged to the cold-tempered and vicious gym teacher, Roy Kelton (Rick Rossovich), who is nicknamed Jackjaw for his constant threat of breaking his pupils' jaws, Danny goes through his school days somewhat uninspired and suffers in silence.
+One day, he oversees his geeky friend Lloyd Duffy (Adam Carl), who happens to live next door with his uncle Herb (Harry Morgan) and aunt May (Irene Tedrow), growing fruits with an experimental growth accelerator. Danny becomes enthusiastic of turning himself into a grown man with the same machine, in order to break up Miss Noble's engagement, as well as convincing her to give him a chance. Lloyd is reluctant to help him out, aware of everything that could go wrong, so Danny secretly uses the machine at night. He saw that the timing was perfect, considering that his parents will leave the house for a week. Unaware of the consequences, he turns into a 30-year-old man (Steve Eckholdt).
+The next day, Lloyd immediately starts working on a machine with the opposite effect so Danny will be able to return to his 14-year-old body soon. During this process, Danny visits the high school to pursue Miss Noble. When he arrives, he is mistaken as the school's newest principal, Harold Forndexter. He not only impresses his assistant Louisa Horton (Loretta Swit) with the introduction of his new rules - which include having as much fun as possible - but also Peggy, who admires his youthful approach of life.
+Much to the dismay of Kelton, she agrees to go on a date with 'Harold'. Even though Kelton follows their every step, Peggy has a splendid evening with the new principal, and they almost kiss at the end of the night. During a school dance, 'Harold' convinces Peggy that Kelton is not right for her, and she breaks off the engagement. Immediately after, 'Harold' and Peggy become a couple. Kelton, refusing to accept this, tries to find out more on Forndexter, and finds out that 'Harold' is an impostor, as the real Forndexter (Alan Thicke) looks quite differently. He immediately warns the police, who arrive quickly to arrest him.
+While 'Harold' tries to escape, Lloyd informs him that his machine is complete. After getting rid of the cops, 'Harold' tells Peggy that he has to leave town for good and then becomes 14 again. Peggy witnesses this transformation, and realizes that 'Harold' was actually Danny, one of her favorite students. Because she has fallen in love with him, she uses the same machine to turn herself into a 14-year-old (Amy Hathaway), which enables her to be with Danny. Meanwhile, Lloyd turns himself into an apparently middle-aged professor, Mr. Lloyd (Sal Viscuso), and starts working at the same high school as a teacher.
+
+
+QUESTIONS
+q: who is lloyd duffy?
+a: ["A friend of Danny O'Neil"]
+
+q: who is roy kelton?
+a: ['Gym teacher']
+
+q: how old is danny o'neil?
+a: ['14']
+
+q: when was peggy convinced that kelton was not right for her?
+a: ['During a school dance']
+
+q: what is the nickname given to the gym teacher?
+a: ['Jackjaw']
+
+q: what is the name of danny's geeky friend?
+a: ['Lloyd Duffy']
+
+q: how old did peggy turn herself into?
+a: ['14']
+
+q: who is miss peggy noble?
+a: ["Danny's teacher"]
+
+q: after turning 30, who is danny mistaken for?
+a: ['Harold Forndexter']
+
+q: what was the profession of peggy's fiance?
+a: ['gym teacher']
+
+q: who did danny o'neil fall in love with in the movie?
+a: ['Miss Peggy Noble']
+

@@ -1,0 +1,30 @@
+PARAGRAPH
+Veer Thakur (Salman Khan) is an eligible young bachelor living in a small community with his parents, Thakur Kunal Singh (Sharat Saxena), and mom Thakurain Geeta (Nishigandha Wad). He is in love with Muskaan (Dia Mirza), his friend &amp; daughter of another Thakur. Their parents give their support to the union, but Veer suddenly starts getting visions of events that he can't remember ever happening to him &amp; finds that he is an expert in fighting techniques no pehelwaan, including his father, have ever seen before. Nobody has any explanation for these facts. one day, as the Chief Minister (Anjan Srivastav) is giving a speech at a certain function in his village, Veer suddenly spots a sniper trying to aim at the CM. Veer lunges to save the CM, only to find that the sniper and the building are both missing. Veer grows restless, but nobody notices that the CM has grown restless on seeing Veer. Some days later, at Veer's wedding, some goons attack the party and try to kill Veer. Veer kills them single-handedly. Convinced that everyone is hiding something important from him, he demands answers. The Thakur relents and tells him that he is neither Veer nor their son.
+The real Veer (Arbaaz Khan) was a soldier who died in the line of duty. After immersing his ashes, he found the bullet-ridden body of an unknown man. When he realized that this man had no memories of his past, he told him that he is Veer &amp; concoct a past for him, because they feel the need to have a son. Veer decides to go on a quest to find his real identity. He goes to Mumbai to find that both police and goons are baying for his blood. He meets a teenager who calls him Ali bhaiyya (brother), but the teenager dies while trying to save Ali from an assassin. The hero does not see the face of the assassin, but assumes that his name is Ali. He gets visions of a girl (Sushmita Sen) whom he has never seen.
+The mystery starts unwinding when he meets a guy named Inder (Inder Kumar). As Ali starts getting his past memories, it is confirmed that his name is indeed Ali. Ali &amp; the teenager were orphaned brothers, while Inder was Ali's friend. An old man named Rahim Chacha (Alok Nath) was their guardian. The mysterious girl Ali saw was Mehak, his love. Ali and Inder had won medals for shooting during many contests, although Ali was always the better. The marksmanship skills is noticed by the Joint Commissioner of Mumbai Crime Branch, Arvind Raj (Mukesh Rishi), who makes a proposal to them: masquerade as goons of a gang, kill goons of their rival gang &amp; trick both the gangs to destroy each other in gang wars. Ali refuses flatly, but after some goons kill Rahim Chacha, Ali &amp; Inder decide to take the offer.
+Mehak gives both the guys portable video recorders, so that they can prove their innocence if anything goes wrong. Soon, the Inspector takes them to the Chief Minister (Sadashiv Amrapurkar) &amp; his aide (Anjan Srivastav). They plan to enact an attack on the CM, making the opposition look dirty in eyes of people &amp; garnering sympathy votes for CM. However, when Ali is trying to fake the shooting, somebody really kills the CM. The police start chasing Ali, thinking him to be the killer &amp; Ali flees.
+After recovering his memory, Ali realizes that the CM's aide took advantage of the plan to become CM himself. Meanwhile, Ali learns that Inder made Mehak his fiancee to save her from harassment. Ali tries to tell the truth to the Inspector, but realizes that nobody believes him. In an attack when Ali goes aboard a local, the remaining memories come to him. He remembers boarding the train same way on the day of assassination where Inder met him &amp; confessed to killing the CM. Thereafter, Inder shot Ali to hide the truth &amp; threw his body in a river. Suddenly, the Inspector confronts him, Ali convinces the Inspector by telling the truth.
+Ali goes to Mehak &amp; tells her everything. He realizes that there must be some incriminating evidence in Inder's tapes. As he plays a tape, Mehak witnesses in horror Inder striking the deal with CM's aide. Ali notifies Inder that he remembers everything now. Inder, along with his cronies, comes to kill Ali, Mehak dies in the process. This angers Ali and he kills the goons. Inder and Ali has a hand-to-hand fight. Ali demands Inder an explanation for his actions.
+Inder reveals that he was always second best with Ali around &amp; that even Mehak, whom he secretly loved, chose Ali over him. Also, Ali always got money &amp; fame more easily than Inder. Inder reveals that he had sent the goons to kill Rahim Chacha, thus manipulating Ali to take the offer. Also, when Ali came back to Bombay, Inder saw him. Inder was the sniper whom Ali's brother saw.
+Ali kills Inder in combat and afterwards broadcasts Inder's tape over the cable TV network, thus freeing himself from his charges &amp; putting the present CM in the dock. He returns to the village and marries Muskaan, just as planned.
+
+
+QUESTIONS
+q: who was scared of veer?
+a: ['the chief minister']
+
+q: What was the dog's name?
+a: ['what dog?']
+
+q: What does Veer start having while living with his parents?
+a: ['visions']
+
+q: Who was happily living with his parents?
+a: ['Veer']
+
+q: Who did the bad guys kill?
+a: ['mehak']
+
+q: Who was Veer's brother?
+a: ['Ali']
+

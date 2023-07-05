@@ -1,0 +1,32 @@
+PARAGRAPH
+Old man Felix lives alone in a cabin in the woods. One day after hearing about an old local who died, he hitches his mule to a wagon and rides into town. He goes to a church and presents a priest with a handful of money to plan his own funeral. The priest suggests that Felix needs to make peace with God first. Upset, Felix walks out.Funeral director Frank is frustrated that people in town are not dying much. Frank hears from his apprentice Buddy about Felix's conversation with the priest, and asks Buddy to visit the old man at his cabin.Felix comes to Frank's funeral home, and tells him that he intends to attend his funeral as a party, where he wants people to talk about him while he is still alive. Frank is confused, but wants to accommodate him. On the way out, Felix bumps into Mattie, who is familiar with him.Frank and Buddy take Felix to town to get his picture taken, cut his long beard and hair, and get a funeral suit. On the drive back, Frank is surprised to hear Felix say that he and Mattie "had a go."After a card game that evening, Frank offers to walk Mattie home. She quietly declines.Frank and Buddy take Felix to a local radio station for a live interview about his upcoming funeral party. Felix persists with his desire to hear people show up and tell the supposedly bad stories they know about him. Felix also makes the shocking announcement that he will sell raffle tickets for his valuable 300 acres of timber, which will be given away when he dies.Mattie goes to visit Felix for the first time. The two walk around his expansive woods and he invites her to stay for dinner. Night falls, and they talk by the fire in his cabin, catching up on many years gone by. She suggests that he is not over something in his past, and then gets emotional when she sees a small picture of a woman across the room. She storms out.Frank tells Felix he is concerned about the large amount of money coming in for the raffle. Felix tells Frank to keep all the money at the funeral home until the party, and promises he will fairly settle all expenses afterward.Felix asks Buddy to drive him to an old church in the next state, where he meets Rev. Charlie, who is happy to see him. Felix asks Charlie to speak at his funeral, but Charlie asks if Felix has told the truth. Felix gets upset that Charlie wants him to deal with what he did to a woman 40 years earlier, and storms out. Charlie tells Buddy that Felix's secret is between him and God.On the drive back that night, Felix gets out of the car alone and wanders off to a tombstone marked "Mary".Frank returns to the funeral home and finds that Buddy has been beaten during a robbery attempt.Felix stops by Mattie's house in town, soaked from rain. Felix tries to confess about why he keeps the picture of Mattie's sister: he fell in love with her when he was courting Mattie. But Mattie wants to know the more crucial question of whether he was involved in her death. Felix soon faints.Felix goes to Frank to explain that he wants to call off the funeral, which Frank protests. Felix says he does not have the guts to tell the truth.Frank goes to visit Rev. Charlie and asks him to have sympathy.Buddy finds that the money is missing from the casket where he and Frank had been hiding it.Buddy goes to Felix and tells him that he suspects Frank took the money, but agrees to still give Felix a funeral if he wants one.Frank brings Rev. Charlie back to town, and admits to Buddy that he stole the money but still has it in the hearse.The three men go out to Felix's property and are amazed to see so many people gathered for the funeral party. Felix asks Rev. Charlie to tell everyone the truth if he can't, directing him to a nice casket he has made and stored in a barn.Frank begins speaking to the crowd while Felix has memories of running from a burning house. Rev. Charlie takes the stage and introduces Felix, who tentatively tells those assembled that he did something shameful he could never fix, which he confessed to Charlie 40 years earlier, and no one ever since. He explains that he never sought forgiveness because he needed to be sick about it the rest of his life. Mattie shows up.He fell in love with a married lady named Mary, and they planned to run away together. He went to visit her one night and found that her husband had beaten her badly with a hammer, but before he could help her, the house caught on fire. He tried to save her from the husband, but the flames engulfed her, and he caught on fire himself. He ran from the house, in flames. He could not get Mary out.He speaks out to Mattie and asks for forgiveness, because it was all his fault. Mattie walks away.Later, the raffle is held and the crowd disperses.That night, Mattie goes to Felix and they embrace.The next day, watching the hearse drive away, Felix sees a vision of Mary and walks toward her.Rev. Charlie speaks over Felix's grave behind his cabin, with Frank and Buddy's family assembled. Mattie drops a picture of her sister Mary on his casket.Buddy looks back at Felix's cabin. He kisses his baby, who smiles.
+
+
+QUESTIONS
+q: What is the name of Mattie's deceased sister?
+a: ['Mary']
+
+q: Who was Bush's girlfriend in his youth?
+a: ['Mattie Darrow']
+
+q: Who was Bush having an affair with?
+a: ['Mary Lee']
+
+q: Who lives as a hermit deep in the woods?
+a: ['Felix']
+
+q: Who officiates the burial ceremony?
+a: ['Charlie']
+
+q: Who returns, seeming to forgive Bush?
+a: ['Mattie']
+
+q: On whose arrival was the town surprised?
+a: ["no one's"]
+
+q: Who was the owner of the local funeral parlor?
+a: ['Frank']
+
+q: Who sees what appears to be the ghost of Mary Lee down the lane
+a: ['bush']
+

@@ -1,0 +1,31 @@
+PARAGRAPH
+Turn the River stars Famke Janssen as Kailey Sullivan, a woman rough around the edges and schooled in hard knocks. Divorced from her son's father and without visitation rights, she and her son write letters to each other and meet surreptitiously.
+Kailey learns that her son, Gulley, is being abused by his father and is being bullied in school. She decides that the best thing for her and her child would be to leave the country and start a new life in Canada. She puts a plan into motion to organize fake passports and papers, which require that she raise a fair amount of money. Kailey starts off by using her exceptional skills at pool to win small bets. After a nasty encounter with a player unhappy at losing, Kailey reveals to her friend Teddy Quinette that she met her ex-husband, David, while she was running an illegal card game room. David left his studies in a seminary to marry a then pregnant Kailey. David's mother, staunchly religious and unhappy at this turn of events, reported Kailey's illegal activities and then struck a deal with her to make her life easier in return for Kailey getting a divorce and giving away custody of Gulley. With Teddy's help, Kailey begins to organise high-stakes games against skilled players at the pool bar Teddy owns. Kailey eventually collects enough money together and prepares to flee with her son in tow. On the morning of departure, she drops by David's house to speak to him for the first time in eleven years. She tells him that she is leaving with Gulley and that he will be better off with her. Kailey then handcuffs David inside the house with the aid of a replica handgun. David's wife returns to find him, and they call the police.
+After driving to the CanadaâUS border, Kailey and Gulley have only to catch an early morning bus over the border. The police manage to track them down before they can leave, and Kailey is shot by police who believed her to be reaching for a firearm in her bag. It is left to the viewer to decide if she died or not. The movie ends with a flashback of Gulley walking to Quinette's pool bar for the first time to receive a postcard from his mother.
+
+
+QUESTIONS
+q: WHO IS KAILEY ?
+a: ['a divorced mother']
+
+q: WHY DOES KAILEY NEED MONEY?
+a: ['to run away with her son']
+
+q: Who plays Kailey?
+a: ['Famke Janssen']
+
+q: How much money is Kailey trying to get?
+a: ['A fair amount']
+
+q: What is Kailey's ex husbands name?
+a: ['David']
+
+q: WHO MUST SHE WIN AGAINST AT QUINNS?
+a: ['skilled pool players']
+
+q: Who is Kailey's mentor?
+a: ['Teddy Quinette']
+
+q: How is Gulley related to Kailey?
+a: ["Gulley is Kailey's son."]
+

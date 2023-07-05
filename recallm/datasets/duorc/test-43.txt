@@ -1,0 +1,32 @@
+PARAGRAPH
+Adapted from the 1958 novel Mary Ann by Alex Karmel, Something Wild tells the story of Mary Ann Robinson (Carroll Baker), a 19-year-old junior college student living in The Bronx, New York, who is attacked by a rapist while walking home late one evening. When she gets home, the devastated Mary Ann vigorously bathes herself, then meticulously shreds all the clothes she was wearing and flushes the pieces down the toilet. She crawls into bed.In the morning, Mary Ann tries to carry on as though everything were normal. She doesn't tell her shrill, overbearing mother, (Mildred Dunnock), or her well-meaning but decidedly ineffectual stepfather (Charles Watts) what happened. Mary Ann leaves for school, but the press of bodies on the crowded subway is too much for her, and she faints after she steps off the train. A police officer brings Mary Ann back home, where she's put to bed.Mary Ann's mother, Mrs. Gates, doesn't understand what's wrong with her daughter, who has become oddly distant. Mary Ann makes it to school the next day, but is still so overwhelmed by the attack that she wanders away and roams New York City. She ends up renting a room at a seedy lodging house and also gets a job at a five-and-ten-cent store.An extremely worried Mrs. Gates, having reported her daughter's disappearance, goes back to the police to see if they've found her. They think they have, but the young blonde woman in custody turns out not to be Mary Ann. Mrs. Gates is distraught.With a new place to live and a job to go to, Mary Ann keeps to herself, rebuffing attempts by her somewhat crude but cheerful rooming-house neighbor, Shirley (Jean Stapleton), and her co-workers to be sociable. The store workers think Mary Ann is stuck up, and taunt her by deliberately crowding in on her, causing her to suffer a panic attack. Mary Ann dashes back to the rooming house, where she gets sick in the bathroom. That night, as it's raining, Mary Ann is awakened by the sounds of Shirley raucously entertaining a young man in her room. Mary Ann staggers outside, only to be frightened by the sight of a sleeping homeless man. She goes back in.The next day, Mary Ann, consumed by despair, wanders over to the Manhattan Bridge. She tries to crawl over the railing to throw herself into the East River, but is suddenly yanked back by Mike (Ralph Meeker), a garage mechanic who happened to be passing by. "Don't try to jump again!" he sternly tells her. Mary Ann says she won't. Mike insists she come with him, and Mary Ann follows him to his dingy basement apartment not far from the bridge. Mike suggests she get some rest; after he leaves, Mary Ann lies down on an extra cot and falls asleep.Mary Ann wakes up to find Mike preparing supper for her. He offers to let her stay a while to recover, and Mary Ann, touched by his kindness, accepts.Mike returns home later that night, drunk. He clumsily tries to embrace Mary Ann, who screams and pushes him down. Mike crawls toward Mary Ann, who kicks him in the face. Mike falls down, unconscious. Mary Ann tries to leave, but the door is locked.Mike wakes up the next morning with no memory of what happened the night before. The kick to the face has caused Mike to lose the sight in his left eye; he thinks it happened because of a bar fight.Mary Ann begs Mike to let her leave. Mike wants her to stay, and says he's willing to pay her whatever she was earning at the five-and-ten. He refuses to let her go, feeling that she owes her life to him. "Why do you want me to stay?" she asks. Mike replies, "You're my last chance." Mary Ann is trapped.Days pass. Mike, who's taken to wearing an eyepatch, goes to work during the day, leaving Mary Ann locked up in the apartment.At one point, Mary Ann has a nightmare. She dreams she's in an art museum, where she sees a group of schoolgirls -- one of whom is her younger self -- laughing at a painting of a deer hunt. The girls' faces turn blank; they appear to be laughing at Mary Ann, who dashes out. She runs through a park and past a bush when suddenly the rapist reaches out and grabs her. Mary Ann wakes up screaming.Mike continues trying to woo Mary Ann. He prepares a special dinner, then suddenly proposes to her. A shocked Mary Ann says she can't marry him -- "You don't know who I am!" Mike makes clear he wants to make love to Mary Ann, who backs away in panic. "Stay away from me!" she frantically tells him before breaking down and confessing that she was the one who caused him to lose his left eye. Mike remembers what happened. He again refuses to let Mary Ann go, telling her: "I still need you." Mike leaves. Mary Ann sobs helplessly -- until she notices that Mike has failed to close the door behind him. She grabs her coat and rushes out.It's nighttime in Manhattan. The newly freed Mary Ann roams the brightly lighted avenues and ends up in Central Park, where she falls asleep.Mary Ann wakes up the next morning, and as she continues walking through the city, she rediscovers how wonderful life -- and people -- can be. Her demons finally at rest, Mary Ann ends up back at Mike's flat to find him sitting alone, despondent. He looks up and asks why she came back. Mary Ann replies, "I came for you." They kiss.Several months later, Mrs. Gates gets a letter from Mary Ann. She hurries over to Mike's place and finds out that not only is her daughter alive, she's married to Mike and expecting a baby. Mrs. Gates demands that Mary Ann come home with her, but Mary Ann insists, "This is my home!" Realizing she can't change her daughter's mind, a bewildered Mrs. Gates asks: "What's happened?" Mary Ann serenely replies, "What's happened has happened, Mother." Mrs. Gates accepts her daughter's decision and embraces her.
+
+
+QUESTIONS
+q: Who is blind in one eye?
+a: ['Mike']
+
+q: How long does Mike hold Mary Ann captive?
+a: ['A few days']
+
+q: Why can"t Mary Ann leave?
+a: ['Mike locked the door']
+
+q: Where did the Police take Mary Ann?
+a: ['Home']
+
+q: Who does Mike propose to?
+a: ['Mary Ann']
+
+q: Who wants to leave?
+a: ['Mary Ann']
+
+q: Where does she work?
+a: ['A five-and-ten-cent store']
+
+q: What happens to Mary Ann in the park?
+a: ['Mary Ann is raped']
+
+q: Who does Mike say, "  I like the way you look here." about?
+a: ['Audrey', 'Mary Ann']
+

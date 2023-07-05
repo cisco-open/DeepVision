@@ -1,0 +1,8 @@
+PARAGRAPH
+The Call of Cthulhu is HP Lovecraft's most famous story. It is the only story to feature the celebrated monster Cthulhu and in many ways it encapsulates the ideas that went on to permeated Lovecraft's Cthulhu Mythos. The film follows the story's three-part narrative construction, and it moves from the 1920s to 1908 to the1870s and back, as the story does. The story embodies HPL's nihilistic world view, his cosmic perspective, and his sense that mankind is doomed by its own insignificance.In the story, a dying professor leaves his great-nephew a collection of documents pertaining to the Cthulhu Cult. The nephew begins to learn why the study of the cult so fascinated his grandfather. Bit-by-bit he begins piecing together the dread implications of his grandfather's inquiries, and soon he takes on investigating the Cthulhu cult as a crusade of his own. As he pieces together the dreadful and disturbing reality of the situation, his own sanity begins to crumble. In the end, he passes the torch to his psychiatrist, who in turn hears Cthulhu's call.
+
+
+QUESTIONS
+q: Who is not plagued by the mysterious nightmares?
+a: ['The narrator']
+

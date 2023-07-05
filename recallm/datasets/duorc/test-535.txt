@@ -1,0 +1,25 @@
+PARAGRAPH
+One never forgets his first love as we are reminded by the film opening sentence 'Love is so short and forgetting is so long' quotation from a poem by Pablo Neruda and as the poster of the movie reminds us: Only art can turn pain into beauty.
+Shy, closeted and nerdy young artist Danny (Tye Olson) is befriended by golden boy swimming champion Carter (Kyle Clare) when family circumstances bring them together for a night. Danny helps the troubled Carter in school, while the brash and sexy yet troubled Carter works hard to hide his drug problems, history of seizures and the painful relationship he has with his unsympathetic, recovering alcoholic father. Their blossoming relationship brings Danny out of his shell, awakening both his passion for art and burgeoning gay sexuality.
+Watercolors is framed by scenes of Danny as an adult. He's a successful artist, but his boyfriend is bothered that he can't seem to get over his high school first love. He argues that a live person can't compete with a glorified memory, showing that the lasting memory of a first love is potentially toxic.
+
+
+QUESTIONS
+q: Who is Danny's first love?
+a: ['Carter']
+
+q: What triggers Danny's memories of his first love?
+a: ['History of seizures and the painful relationship he has with his unsympathetic, recovering alcoholic father']
+
+q: Who is the young artist?
+a: ['Tye Olson']
+
+q: Who is Danny's best friend?
+a: ['Carter']
+
+q: What was Danny's profession?
+a: ['Artist']
+
+q: Who was Danny's first love?
+a: ['Carter']
+

@@ -1,0 +1,37 @@
+PARAGRAPH
+In the aftermath of the death of Dracula's wife Martha (Jackie Sandler) at the hands of an angry human mob, Count Dracula (Adam Sandler) designs and builds a massive five-star hotel in Transylvania in which he raises his daughter Mavis (Selena Gomez) and to serve as a safe-place getaway for the world's monsters from fear of human persecution.
+Famous monsters such as Frank (Kevin James) and his wife Eunice (Fran Drescher), Wayne and Wanda Werewolf (Steve Buscemi and Molly Shannon) and their massive immediate family, Griffin the Invisible Man (David Spade), and Murray the Mummy (CeeLo Green) often come to stay at the hotel which is completely human-free and safe for monsters.
+On Mavis's 118th birthday, Dracula allows his daughter to leave the castle in order to explore the human world, but he sets up an elaborate plan using his zombie bellhops disguised as humans to make them seem intimidating and frighten her home. The plan works, but the zombies inadvertently lure a 21-year-old[11] human named Jonathan (Andy Samberg) to the hotel. Dracula frantically disguises him as a Frankenstein's Monster and passes him off as "Johnnystein", a distant cousin of Frank's right arm. Jonathan soon encounters Mavis and the two "Zing" (a form of magical attraction). Unable to get Johnny out of the hotel without notice, Drac quickly improvises that Jonathan is a party planner, brought in to bring a fresher approach to his own traditional and boring parties. Jonathan quickly becomes a hit to the other monsters, especially Mavis but this disgusts Dracula greatly. Drac orders Johnny to leave, but Johnny is brought back by Mavis. After being shown the beauty of a sunrise by Johnny, Mavis is inspired to give humans another chance. Meanwhile, the hotel chef Quasimodo (Jon Lovitz) with the help of his pet rat Esmeralda learns that Johnny is a human and kidnaps him in order to cook him. Dracula intervenes and magically freezes Quasimodo to keep him from telling anyone that Jonathan is human. Dracula leads Jonathan to his quarters and shows him a painting of his wife. Much to Dracula's surprise, Jonathan knows the woman in the painting and relates a story about how she fell perfectly in love with a count, but died in a mysterious fire. Dracula reveals the full painting with himself in it and confirms the truth of the tale, and proceeds to tell the full version, thus explaining why Dracula built the hotel and the origin of his overprotective behavior. Jonathan is understanding and Dracula develops respect for his knowledge, and the two bond. Jonathan then tries to leave for good, but Dracula convinces him to stay to avoid ruining Mavis's birthday.
+The party is a great success the next night, and Mavis looks forward to opening a gift from her deceased mother. However, when Jonathan and Mavis share their first kiss, Dracula overreacts and in his outburst confesses to deceiving Mavis with the town. A still-frozen Quasimodo bursts in and the Fly (Chris Parnell) translates from his frozen speech that Johnny is a human disguised by Dracula. The guests are outraged by the deceit at play, but Mavis is undeterred and wants to be with Johnny even knowing he is human. Jonathan feigns disinterest in Mavis and rejects her out of respect for her father and leaves the hotel. Mavis then angrily yells at Dracula and flies off. Dracula finds Mavis on the roof with her mother's present. He learns it is a book about how her mother and Dracula "Zinged" and fell in love. Dracula realizes that Mavis and Jonathan are the same, and he should not have interfered.
+The monster guests are furious and checking out en masse, but Dracula apologizes and quells their anger. After confessing that he isn't certain if human kind has become tolerant of monsters, Dracula manages to convince Frank, Wayne, Griffin, and Murray to head out into the human world help him find Jonathan, and with the scent-tracking ability of Wayne's daughter Winnie they learn that he is bound on a flight to America soon. The four head to the airport, but are held up in a town celebrating a Monster Festival along the way. Instead of being frightened by the appearance and powers of real monsters, the humans admire the group, and a team of men dressed as vampires help Dracula by providing him shelter from the sunlight while he rushes to the Airport. Drac arrives to see Jonathan's plane taking off, and he gives chase in bat form, burning in the sunlight. After getting Jonathan's attention, Dracula makes his way to the front of the plane and uses his mind-controlling power on the pilot (Brian Stack) to help him apologize for his actions. Jonathan accepts his apology; Dracula then manipulates the pilot to return to the Transylvanian airport for a "refuel".
+Dracula returns Jonathan to Mavis. Jonathan confesses that their Zing was mutual and the two kiss, making Dracula realize his daughter has grown up and can make her own decisions. The monsters finish celebrating Mavis's party as Dracula, Mavis, Jonathan and their monster friends sing "The Zing" to the audience of hotel guests.
+
+
+QUESTIONS
+q: What is the name of Frankenstein's wife?
+a: ["You mean Dracula's? Martha."]
+
+q: How many stars does the Hotel Transylvania have?
+a: ['Five stars.']
+
+q: Who is the owner and creator of Hotel Transylvania?
+a: ['Count Dracula (Adam Sandler)']
+
+q: Who is celebrating her 118th birthday?
+a: ['Mavis']
+
+q: Who is the ordinary young traveler who follows the staff to the hotel?
+a: ['Johnathan']
+
+q: Is Bigfoot included in Dracula's guests?
+a: ['No.']
+
+q: What is the name of the five-star resort where the world's monsters can be safe from human civilization?
+a: ['Not listed']
+
+q: Is Frankenstein an unknown monster?
+a: ['No, everybody is familiar with the concept as Jonathan is disguised as one.']
+
+q: At the Hotel Transylvania, what are the world's monsters safe from?
+a: ['Humans (who are thought of as dangerous).']
+

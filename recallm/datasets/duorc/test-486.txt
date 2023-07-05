@@ -1,0 +1,92 @@
+PARAGRAPH
+Lucía (Paz Vega), a waitress, is talking on the phone with her depressed writer boyfriend Lorenzo (Tristán Ulloa) after they had a nasty argument, where-after she walks out. Since he's been in a bad 'funk' for a while now, she's worried, and goes home to console him. Finding an empty apartment, Lucía is frantic. She then receives a phone call from the police while finding a suicide note, and is so afraid of bad news that she hangs up, assuming the worst. They call back, but she is now so depressed she ignores the ringing phone, packs a bag, and flees. Looking for a new beginning, Lucía travels to the mysterious Balearic Islands that Lorenzo had always talked of, but had recently been very negative about.Six years earlier: Lorenzo is having casual sex in the ocean, on a bright moon-lit night, with a beautiful married woman he just met named Elena (Najwa Nimri). They part ways, expecting to never see each other again. She then discovers she is pregnant with his child, and attempts to find him, but not knowing much about him, Elena doesn't.Later, as Lorenzo talks with his literary agent at a restaurant, discussing his writer's block, Lucía catches his attention as he gets up from his table to get cigarettes. She asks to speak to him and he joins her. She brazenly tells him that ever since she read his latest book, she has been following him and has fallen passionately in love with him. A smitten Lorenzo immediately engages the sexy, passionate Lucía and she moves into Lorenzo's apartment.The film then interweaves the past and present, of the characters in the film, and the characters in Lorenzo's novel.As the past plays out, we see Lorenzo repeatedly stalling for time on his new book with his editor while his relationship with Lucía deepens. About six years pass. Lorenzo then learns that he has a daughter as a result of his encounter with Elena and begins to visit the child at her school, meeting her babysitter Belén (Elena Anaya). Belén tells Lorenzo her mother is a recently retired porn actress with a new hot boyfriend, and virtually seduces Lorenzo with chatter of sexual context and banter about her fantasies. Lorenzo uses these encounters and his fantasies about Belén and her mother as content for his book, and Lucía reads about it, thinking it fiction. Meanwhile, he does not disclose his fatherhood to Lucía or the child, nor even attempt to contact Elena.Belén flirts with Lorenzo and eventually invites him over to Elena's house while she babysits his daughter, Luna. Lorenzo tells Luna a bedtime story, and after she falls asleep, he and Belén begin to have sex. They are interrupted as Luna knocks at the bedroom door, and they watch in horror as the family dog, a large Rotweiler in 'protect mode' kills her. Belén is stunned into shock, and Lorenzo runs away and falls into a deep depression.Lorenzo's writing turns dark, towards depraved sex and death. He anonymously contacts Elena, who has moved to the island to find solace and recall better days, and provides her a nice story about a beautiful child that loves to swim in the sea, to cheer her spirits. But his now guilt-ridden and uncommunicative relationship with Lucía begins to collapse.Back in the present, Lucía meets a scuba diver on the island, Carlos, and through him, Elena, who runs an inn on the island. Lucía rents a room, and the women bond as friends, not knowing their intimate connection. But when Lucía mentions Lorenzo by name, and his past visit to the island long ago, Elena deduces that connection, and after Lucía then sees a picture of Luna (looking remarkably like her father) she does too.Lorenzo's editor visits him in the hospital, where he was taken after being in an 'accident' and spent several weeks in recovery. When Lorenzo asks about Lucía, the editor tells Lorenzo he thinks Lucía thinks he is dead. Lorenzo senses Lucía is on the island and has the editor take him there. After both women discover that Lorenzo isn't dead, the three characters cope with and finally understand the entanglements of their interwoven relationships.
+
+
+QUESTIONS
+q: Who runs an inn on the island?
+a: ['Elena']
+
+q: The film is based on whose novel?
+a: ["Lorenzo's"]
+
+q: What is Lucia's occupation?
+a: ['a waitress']
+
+q: What is Lorenzo's career?
+a: ['Writer.']
+
+q: Who does Lorenzo have a daughter with?
+a: ['Elena.']
+
+q: What's Lorenzo's job?
+a: ['a Writer', 'Writer']
+
+q: What were Lorenzo and Elena doing?
+a: ['is having casual sex', 'having casual sex in the ocean']
+
+q: Where does Lorenzo visit the child at?
+a: ['at her school']
+
+q: What breed is the family dog?
+a: ['Rotweiler', 'Rottweiler']
+
+q: Lorenzo learns that he has what as a result of his encounter with Elena?
+a: ['A Daughter']
+
+q: Why did Elena move to the island?
+a: ['To find solace from the death of her child', 'To find solace and recall better days']
+
+q: Which character admits to falling in love with Lorenzo?
+a: ['Lucía', 'Luca']
+
+q: How long passes while Lorenzo stalls his book?
+a: ['Six years.']
+
+q: what women discover?
+a: ["that Lorenzo isn't dead", 'she is pregnant']
+
+q: How does Lorenzo entertain Luna before she falls asleep?
+a: ['tells her a bedtime story', 'a bedtime story']
+
+q: Who chatters about her fantasies?
+a: ['Beln']
+
+q: Where did Lucia travel to in order to start a new beginning?
+a: ['to the mysterious Balearic Islands', 'Lucía travels to the mysterious Balearic Islands']
+
+q: what lorenzo's editor do?
+a: ['repeatedly stalls for time on his new book', "Lorenzo's editor visits him in the hospital"]
+
+q: Who is pregnant with Lorenzo's child?
+a: ['Elena', 'ELena']
+
+q: What did Elena retire as?
+a: ['An inn keeper.']
+
+q: What happened between Lucia and Lorenzo prior to the phone call.
+a: ['A nasty argument']
+
+q: What is Lucia's boyfriend's name?
+a: ['Lorenzo.']
+
+q: What is Lorenzo stalling for?
+a: ['Time']
+
+q: Where does Lorenzo and Lucia meet?
+a: ['on the island', 'A restaurant']
+
+q: What is Lucia's career?
+a: ['Waitress.']
+
+q: What did Lucia find while receiving a phone call from the police?
+a: ['while finding a suicide note', 'a suicide note']
+
+q: What illness is Lorenzo suffering from?
+a: ['Lorenzo senses Luca is on the island and has the editor take him there.']
+
+q: Lorenzo stalls for time on what?
+a: ['on his new book with his editor', 'on his new book']
+
+q: Who does Lucia see a picture of?
+a: ['Luna', "Luna, Lorenzo and Elena's daughter"]
+

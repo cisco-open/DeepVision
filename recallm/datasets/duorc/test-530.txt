@@ -1,0 +1,15 @@
+PARAGRAPH
+Upon discovering that his wife is having an affair, depressed insomniac Ed Okin (Jeff Goldblum) drives to LAX on his friend Herb's (Dan Aykroyd) suggestion. There he is surprised by a beautiful jewel smuggler, Diana (Michelle Pfeiffer), who lands on his car and begs him to drive her away from four Iranians who are chasing her. She persuades him to drive her to various locations, and he becomes embroiled in her predicament. After becoming increasingly exasperated with her demands, he discovers that Diana has smuggled priceless emeralds from the Shah of Iran's treasury into the country, and is being pursued by various assorted assailants, including the aforementioned agents of a criminal Iranian expatriate and a British hitman (David Bowie).
+The couple's caper gets increasingly out of hand, until Diana is eventually taken hostage by the thugs at the airport; here, Ed shares his ennui with the man holding a gun to Diana's head. The man shoots himself instead. Taken to a motel room by federal agents, they are given a fortune in cash from one of Diana's wealthy friends via a federal agent. Diana showers and Ed finally sleeps. He wakes up after a full night's rest to an empty hotel room, with most of the money gone. However, when he leaves the room, Diana is waiting for him... with the money, a smile, and an offer of a ride.
+
+
+QUESTIONS
+q: What does Ed Okin encounter at the airport ?
+a: ['A jewel smuggler named Diana']
+
+q: Who plays Ed Okin ?
+a: ['Jeff Goldblum']
+
+q: Who's wife is cheating on him ?
+a: ["Ed Okin's wife"]
+

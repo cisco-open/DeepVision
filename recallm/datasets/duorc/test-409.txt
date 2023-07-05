@@ -1,0 +1,20 @@
+PARAGRAPH
+Smithereens is the story of Wren (Susan Berman), an independent spirit from New Jersey promoting herself into the New York punk scene. She meets Paul (Brad Rijn), who ran away from Montana and lives out of his van in a parking lot. Paul seems to offer genuine friendship, however, Wren is only interested in forming meaningless relationships in hopes of bolstering her nonexistent career. She has no musical talents or industry skills, yet she aggressively pursues a pathetic spot for herself in places like the Peppermint Lounge. She drops Paul for Eric (Richard Hell, who also performs on the musical score), who has a record deal, and they work out a plan to escape to California, which requires Wren to pose as a prostitute in order to scam money from a prospective john. Things don't work out, and Wren finds herself hitting one wall after another, eventually getting kicked out of her apartment. With no place to go, Wren seeks out everyone she knows in the city, only to find herself left alone.
+
+
+QUESTIONS
+q: Where does Wren flee to?
+a: ['California']
+
+q: What is Wren trying to pursue?
+a: ['Career']
+
+q: What city does Wren flee to?
+a: ["She plans to flee to California, but doesn't."]
+
+q: What does Wren paste on subway walls?
+a: ['Nothing.']
+
+q: How old is Wren?
+a: ['It is unknown.']
+

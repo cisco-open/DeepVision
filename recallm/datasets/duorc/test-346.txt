@@ -1,0 +1,35 @@
+PARAGRAPH
+The film begins with Simon (Tyron Leitso) and Greg (Will Sanderson) planning to take a boat to an island rave party. They meet up with Alicia (Ona Grauer), Karma (Enuka Okuma) and Cynthia (Sonya Salomaa). Karma has a crush on Simon, but Simon has a crush on Alicia and Cynthia is Greg's girlfriend. When they arrive at the dock, they find the boat to take them to the island has already left. They hitch a ride instead with Victor Kirk (Jürgen Prochnow) and his first mate Salish (Clint Howard). A cop named Jordan Casper (Ellie Cornell) tries to stop them since Kirk is a smuggler, but they leave anyway.Arriving at the island party site they find it a deserted mess. Alicia, Karma and Simon start searching for the others leaving Cynthia and Greg behind. The two start to making out in a tent, but Greg leaves to urinate. Left alone, Cynthia is killed by a group of zombies. Meanwhile, the others find an old house. Inside, they find three survivors named Rudy (Jonathan Cherry), Liberty (Kira Clavell) and Hugh (Michael Eklund) who tell them zombies attacked the rave, killing everyone. The six go back to the rave site to get the others. Meanwhile, Salish is killed by the zombies after he leaves the boat and is walking through the forest alone and unarmed.Everyone else meets up at the rave site. Cynthia shows up but she's become a zombie. She kills Hugh by biting his neck out, but is shot by Casper. They develop a plan to leave the island using Kirk's boat. But they find Kirk's boat overrun by zombies. Casper and Greg leave the group to go find help on the other side of the island, but Greg is killed when he and Casper are ambushed by more zombies.Kirk takes the group of teens to a hidden a box of guns that he is smuggling so they can defend themselves. Once everyone is armed, they head back to the house. The front of the house is filled with zombies. A brutal and surreal gunfight breaks (resembling a video game) in which the heavily armed teenagers and Kirk kill many zombies that attack them from all directions. Liberty and Casper are killed in the ensuing fight while the rest manage to take make it inside the house.Kirk hears Salish whistling outside. He goes out and finds Salish as a zombie who manages to bite him before being shot in the head and killed. When more zombies swarm in from all directions, Kirk then commits suicide by blowing himself up, opening the front of the house and letting the zombies in. The remaining four teenagers lock themselves in a lab, but the zombies break in. Karma finds a hatch in the floor. She, Alicia and Rudy climb down while Simon shoots a barrel of gun powder, blowing up the house, a lot of zombies, and himself. They find themselves in a series of tunnels. Making their way through the tunnels, Karma is killed by zombies as she holds them off with her rifle so Rudy and Alicia can escape.But minutes later, Rudy and Alicia are captured by a man named Castillo who injected himself with immortality serum many years ago, creating the first zombie. Alicia and Rudy escape, blowing the tunnels up in the process, but they're followed by Castillo. Alicia gets into a sword duel with Castillo and he stabs her in the heart. Rudy decapitates Castillo, thinking the fight is over. But Castillo is still alive and his headless body begins to strangle Rudy. Alicia, who is barely alive, crushes the Castillo's head under her feet, finally stopping him. She then seems to die.Later, Rudy and Alicia are seen being rescued by a team of federal agents who arrive on the island and gun down all of the few surviving zombies. The ending narration reveals that Rudy gave Alicia the immortality serum and that is why she is alive... but also infected as she will become a zombie eventually.
+
+
+QUESTIONS
+q: Who is killed in the fight?
+a: ['Liberty and Casper']
+
+q: Where do the remaning teenager lock themselves?
+a: ['lab']
+
+q: What is Kirk?
+a: ['Kirk is a smuggler']
+
+q: What is shot, thereby blowing up the house?
+a: ['gun powder']
+
+q: What are Simon and Greg trying to take to get to the party?
+a: ['a boat']
+
+q: What attacked the rave?
+a: ['zombies']
+
+q: Who does Karma have a crush on?
+a: ['Simon']
+
+q: What did Rudy give to Alicia?
+a: ['immortality serum']
+
+q: Whose head does Alicia crush under her feet/
+a: ["Castillo's"]
+
+q: Who created the first zombie?
+a: ['Castillo']
+

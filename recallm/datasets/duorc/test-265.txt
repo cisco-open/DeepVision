@@ -1,0 +1,37 @@
+PARAGRAPH
+In the woods outside of Cherry Falls, Virginia, a teenage couple, Rod Harper (Jesse Bradford) and Stacy Twelfmann (Bre Blair) are getting romantic in a car when a black-haired female appears and murders them both. Meanwhile, in town, teenager Jody Marken (Brittany Murphy), the daughter of the local sheriff, is with her boyfriend, Kenny (Gabriel Mann), who thinks it is time to go "see other people." Jody goes back home to find her father, Brent (Michael Biehn), upset that she is out past her curfew. Brent and his deputies begin to investigate the murders the next day. They see that the killer carved the word "virgin" into both victims. At school, Brent sees English teacher Mr. Marliston (Jay Mohr), who urges him to divulge more details of the murder to students and the town so as to eliminate the possibility of secrets.
+Annette Duwald, also a virgin, is killed in the same fashion of the last night's events. Concerned for the town's safety, Brent holds a meeting at the high school to tell parents the nature of the crimes. No students are invited, but Jody and her friend Timmy, who stayed after school, witness the meeting. Timmy asks to borrow Jody's cell phone, and goes into the stairwell to make a call. Jody goes downstairs to find him, and discovers his dead body in a locker room. She is confronted by the killer who attacks her, but she manages to escape. At the police station, Jody describes the killer to an officer, who draws a composite. Brent confides with an old friend, Tom Sisler, (the current high school principal) that the suspect looks like "Lora Lee Sherman." The two are both visibly nervous, and Jody listens in on their conversation.
+Later at school, Jody and Kenny reconcile, and later Jody learns from her mother about the tale of Lora Lee. Twenty-five years ago, Lora Lee was a high school loner. She claimed that four popular boys at school, including Brent and the high school principal, raped her one night. Her cries fell on deaf ears and she left the city for the rural outskirts, where she was rarely seen or heard from again. After Jody discovers the truth, disappointed with the hypocrisy of her parents, she visits Kenny at his house. They talk, and Jody being upset with her parents, tries to pressure sex on Kenny. He refuses, pushing her away.
+After catching news of the killer's targeting of virgins, the high school students in town congregate at an abandoned hunting lodge to indulge in a mass orgy. Brent goes to the school to meet Sisler only to find the principal dead in his office with the words "virgin not" carved into his forehead. Before Brent can react he is knocked out by the killer. Jody, who has refused to attend the orgy with Kenny, is out riding her bike when she cycles by Mr. Marliston's house and witnesses him dragging a heavy trunk inside. Suspicious, Jody sneaks into the house and opens the trunk. She recoils as she finds the beaten and bloody body of her unconscious father inside, before she too is knocked unconscious. At the orgy, Kenny is about to have sex with a girl when he has second thoughts and leaves to find Jody. He drives around trying to find her but is puzzled to see her bicycle outside of Marliston's house.
+Downstairs in his house, Marliston puts on a wig and makeup to "become" Lora Lee Sherman. Marliston reveals that he is Lora Lee Sherman's illegitimate son, and asks Brent to retell the story of what happened that night 25 years ago. Brent reveals that the four boys, including himself, did indeed rape Lora Lee. Marliston says his mother became an abusive "psycho" after the rape and that one of the rapists is his father; there is an implication that Brent is in fact Marliston's biological father. By frightening virgins, Marliston anticipated a large high school orgy, which would thereby rob all the wealthy parents of their precious children's virginity.
+Kenny enters the house and frees Jody as Brent fights with Marliston, who manages to brutally kill him. Jody and Kenny flee to the orgy with Marliston in furious pursuit, killing a deputy en route. He bursts inside wielding an axe and mass panic erupts. After wildly stabbing panicking students and then trying to escape, Marliston fights both Jody and Kenny, with Kenny being severely wounded during the melee. Eventually, Marliston is pushed off a balcony by Jody and impaled on fence posts. At first he seems to be dead, before reviving briefly only to be promptly shot dead by Deputy Sheriff Mina, who unloads two pistols into him. The next day, Jody and her mother head away from the police station. As they leave, Jody sees someone resembling Lora Lee Sherman disappear behind a moving bus. The film ends with a shot of the waterfalls outside town turning red.
+
+
+QUESTIONS
+q: Who killed Marliston?
+a: ['Jody']
+
+q: What's the job of Jody Marken's dad?
+a: ['local sheriff', 'Sheriff']
+
+q: Who is the killer?
+a: ['Lora Lee Sherman']
+
+q: What happens to the teenagers in the woods?
+a: ['They are murdered']
+
+q: What town did the movie take place?
+a: ['Cherry Falls, Virginia']
+
+q: Who is Jody to the local sheriff?
+a: ['His daughter']
+
+q: Who is Marliston's mom?
+a: ['Lora Lee Sherman', 'Lora Lee']
+
+q: What word did the killer carve into the victims?
+a: ['Virgin']
+
+q: Who is being targeted in Cherry Falls?
+a: ['virgins']
+

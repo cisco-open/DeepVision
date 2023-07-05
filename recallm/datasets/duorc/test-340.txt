@@ -1,0 +1,30 @@
+PARAGRAPH
+The time is the early-to-mid-1960s, the height of the Cold War between the United States and the Soviet Union. An unknown aircraft approaches North America from Europe. American bombers of the Strategic Air Command (SAC) are scrambled to their fail safe points near Russia. The bombers have orders not to proceed past their fail safe points without receiving a special attack code. The original "threat" is proven to be innocuous and recall orders are issued. However, due to a technical failure, the attack code is transmitted to Group Six, which consists of six Vindicator supersonic bombers and four escort fighters. Colonel Grady, the head of the group, tries to contact Omaha to verify the fail-safe order (called Positive Check), but due to Soviet radar jamming, Grady cannot hear Omaha. Concluding that the attack order and the radar jamming could only mean nuclear war, Grady commands Group Six towards Moscow, their intended destination.
+At meetings in Omaha, the Pentagon, and in the fallout shelter of the White House, American politicians and scholars debate the implications of the attack. Professor Groteschele, who is loosely based on John von Neumann and Herman Kahn, suggests the United States follow this accidental attack with a full-scale attack to force the Soviets to surrender.
+The President orders the Air Force to send the four escort fighters after the bombers to shoot down the Vindicators. The attempt is to show that the Vindicator attack is an accident, not a full-scale nuclear assault. After using their afterburners in an attempt to catch the bombers the fighters run out of fuel and crash, dooming the pilots to die of exposure in the Arctic Sea. The fighters fail to destroy any bombers.
+The President of the United States contacts the Soviet premier and offers assistance in attacking the group. The Soviets decline at first; then they decide to accept help.
+Meanwhile, the Soviet PVO Strany air defense corps has managed to shoot down two of the six planes. After accepting American help they shoot down two more planes. Two bombers remain on course to Moscow. One is a decoy and carries no bombs. The other carries two 20 megaton devices. General Bogan tells Marshal Nevsky, the Soviet commander, to ignore the decoy plane because it is harmless. Nevsky, who mistrusts Bogan, instead orders his Soviet aircraft to pursue the decoy aircraft. The Russian fighters are then out of position to intercept the final American bomber. The decoy's feint guarantees that the remaining bomber can successfully attack. Following the failure, Nevsky collapses.
+As the bomber approaches Moscow, Colonel Grady opens up the radio to contact SAC to inform them that they are about to make the strike. As a last-minute measure, the Soviets fire a barrage of nuclear-tipped missiles to form a fireball in an attempt to knock the low-flying Vindicator out of the sky. The bomber shoots up two decoy missiles, which successfully leads the Soviet missiles high in the air and Colonel Grady's plane survives.
+With the radio open, the President attempts to persuade Grady that there is no war. Grady's son also attempts to convince him. (In the 1964 film it was Grady's wife who tried to do this.) Under standing orders that such a late recall attempt must be a Soviet trick, Grady ignores them. Grady tells his crew that "We're not just walking wounded, we're walking dead men," due to radiation from the Soviet missiles. He intends to fly the aircraft over Moscow and detonate the bombs in the plane. His co-pilot notes, "There's nothing to go home to." Meanwhile, the American president has ordered another American bomber to circle over New York City with 40-megaton payload, which should be dropped in case of the bombing of Moscow. The American ambassador in Moscow reports about the final moments of the Russian capital before being vaporized from the blast.
+The American bomber receives an order to drop its bombs over New York City in order for the destruction of Moscow to be reciprocated and a Third World War avoided. It was earlier revealed that the American President's wife was in New York while the events of the film transpired, meaning she would be killed in the blast. The pilot of the American bomber, General Black (Harvey Keitel), commits suicide with a lethal injection just after releasing the bombs.
+
+
+QUESTIONS
+q: Who offers to sacrifice an American target?
+a: ['The President']
+
+q: What does SAC stand for ?
+a: ['Strategic Air Command']
+
+q: What were mistakes on both sides?
+a: ['A glitch that activates the Fail-Safe box']
+
+q: A computer error causes a bomberr group to attack what city?
+a: ['Moscow']
+
+q: Where does General Black's wife live?
+a: ['New York City']
+
+q: Who orders an American bomber towards New York City?
+a: ['Jack Grady']
+

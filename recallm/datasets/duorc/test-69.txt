@@ -1,0 +1,66 @@
+PARAGRAPH
+The film opens with adventurer Rian Mitchell (Stewart Granger) inside a dark mine shaft, deep in the side of a Colombian mountain. He chips away at a vein of greenish ore, pockets a sparkling specimen, and starts back toward the entrance. On his way out, he stumbles upon a bronze conquistador's helmet. Chiseled above the mine entrance is the inscription "1687." Once outside, Mitchell carefully conceals the entrance with brush and starts down the mountainside. He suddenly notices a group of birds taking flight and warily pulls out his gun. He gets the drop on a lurking Colombian bandit, but the bandit's two companions fire on Mitchell and wound him. Knocked unconscious, Mitchell is stripped of his personal belongings and rolled down the mountainside to die.Once he comes to, a bleeding Mitchell stumbles through the dense jungle, only to be trailed by a hungry jaguar. He stops at a river to quench his burning thirst, and just then the jaguar pounces down on him from a huge boulder. A gunshot suddenly rings out, killing the beast. Mitchell looks up to discover a robed priest, rifle in hand. The priest helps Mitchell onto a horse and takes him to the sprawling coffee plantation of beautiful Catherine Knowland (Grace Kelly). The unconscious Mitchell is patched up by Catherine, awakening a full day later to discover his good fortune. He is nonetheless in a hurry to leave, insisting that she take him to board a river boat so that he can resume his journey. Catherine warns him that he needs to recuperate more fully, but she reluctantly agrees to drive him to the boat in her Jeep. A subsequent conversation between Catherine and her brother, Donald, reveals that the coffee plantation is struggling to survive and produce a successful harvest. As Mitchell dresses to leave, the priest confides that he came across the valuable ore sample in Mitchell's trousers. Mitchell tries to pass the specimen off as a worthless rock, but the priest knows better. He explains that he too once discovered the fabled emerald mine of the conquistadores, but he kept the location a secret, fearing the greed and violence that its discovery would produce. Mitchell frankly assures him that he is coming back for the emeralds.At the river landing, Mitchell bids a fond farewell to Catherine and says he will be back to "return her brother's borrowed clothes." She has to loan him the money for the boat fare. Back in the city, Mitchell returns to his mining consulting office and the waiting arms of his pretty Colombian secretary. She explains that his partner Vic Leonard (Paul Douglas) has given up and is catching a boat back to Canada. Mitchell catches up with him at the waterfront and tells him he has discovered the emerald mine. Leonard is undeterred, completely disgusted after twelve years of futility. When the boat is delayed, Leonard hunts down Mitchell at a cantina and joins him for drinks. Mitchell later helps his drunken partner to a hotel, relieves him of his boat ticket, and uses the refunded money to gamble. He wins big and talks an angry Vic Leonard into staying. They are soon headed upstream on the tiny riverboat.After an adventurous river trip, they arrive at the landing near Catherine's plantation. Mitchell tries to hire a large crew of laborers for the mining expedition, but when the local foreman discovers where Mitchell is headed he refuses to help recruit anyone. Catherine eventually shows up at the dock and coyly spars with the cocky, self-assured Mitchell. Mitchell soon recruits a group of men on his own and they journey to the mine. The mining crew is soon under threat from the local bandit chief, El Moro.Mitchell and Leonard are invited to dinner at Catherine's hacienda. As the romance between Mitchell and Catherine gradually blossoms, success at the mine remains elusive. Mitchell divulges to Catherine that his father was an impoverished coal miner, dying a broken man. Mitchell had vowed to become a miner himself, but a rich one.As work inside the mine progresses, a fight between two laborers loosens some support timbers and causes a cave-in. Mitchell is injured and pinned under falling rocks, but Vic charges in to save him. Nevertheless, the mine shaft is choked with debris. Mitchell and Leonard concede that they would need a great deal of money to resume their excavations, and no mining syndicate would touch the risky venture. Out of desperation, Mitchell slyly cons Catherine's restless brother into providing an infusion of cash and plenty of laborers from the coffee plantation. The plantation is left without workers or money.Catherine is furious with her brother and with Mitchell. To make matters worse, Vic is also disgusted with him.
+Vic angrily splits with Mitchell and returns to the plantation, where he offers to help Catherine for free. He also awkwardly admits that he is in love with her. She takes him on as an unpaid partner. Just as a hopeful new spirit is born on the coffee plantation, a tragedy occurs at the mine. A falling boulder crushes Donald Knowland just after he uncovers a brilliant emerald outcropping. His funeral is held at the Knowland plantation, where Rian Mitchell is treated like an outcast.More emeralds are soon unearthed, and activity at the mine turns feverish. A new sluice box funnels the mine tailings directly into the river, altering its course and sending torrents of water downstream toward the Knowland plantation, threatening to flood it. Worse, the rainy season is fast approaching. Vic Leonard angrily tells Catherine that her plantation can only be saved by blowing up the mine, choking the current river channel and re-directing the water flow. She reluctantly agrees. Leonard plants dynamite above the sluice channel, then awakens a groggy Mitchell and advises him to get off the mountain before it blows up. Mitchell's workers flee the impending explosion as Mitchell and Leonard furiously duke it out. Catherine breaks up the fight and calls off the detonation. A dejected Leonard prepares to leave with her, but Mitchell stops him. He concedes that the mine must be destroyed. Just as they are preparing to blow the mine, El Moro and his men attack. The bandits are after the emeralds.A heated gun battle ensues, and Mitchell realizes that his small band is hopelessly outnumbered and outgunned. His only option is to reach the dynamite charges and blow the face (and the bandits) off of the mountain. Catherine and Vic provide covering fire as Mitchell works his way up the steep slope to the dynamite charges. He sets the timer and starts his escape, but he is cut off by El Moro. His fight with the bandit dangerously delays him as the timer counts down. Catherine and Vic begin their descent without Mitchell. Suddenly, a massive explosion erupts and the mountain cascades down around Mitchell. Catherine and Vic exchange a sorrowful gaze and continue down the trail. From a clifftop, they can see that the avalanche has accomplished its purpose. The river has been diverted. Suddenly, Mitchell appears behind them, beaming. Catherine rushes to embrace him as Vic good-naturedly cheers their reunion. Reaching into his pocket, Mitchell happily presents Catherine with a beautiful emerald cluster. "My dowry," he exclaims as he kisses the radiant Catherine.
+
+
+QUESTIONS
+q: what did rian mitchell discover?
+a: ['a lost emerald mine']
+
+q: with whom rian's men fight?
+a: ['the bandits']
+
+q: with whom rian does reunite?
+a: ['Catherine']
+
+q: where was donald killed?
+a: ['at the mine site']
+
+q: what is rian mitchell's job?
+a: ['Miner']
+
+q: what gem does rian want vic to help mine?
+a: ['Emerald']
+
+q: where did rian find a lost emerald mine?
+a: ['Columbia']
+
+q: who is donald?
+a: ["Catherine's brother"]
+
+q: who does rian reunite with?
+a: ['a forgiving Catherine']
+
+q: who manages to charm catherine?
+a: ['Mitchell']
+
+q: who set out to help catherine with her harvest?
+a: ['Vic']
+
+q: how does donald die?
+a: ['a tragic accident at the mine site']
+
+q: what creates trouble?
+a: ['his greed to get the emeralds at any cost']
+
+q: what does rian's mining operation put the plantation at risk for?
+a: ['of flooding']
+
+q: where is catherine threatened by the chief of the local bandits?
+a: ['at her home']
+
+q: what does it take for rian to realize his mistakes?
+a: ['finally come to his senses']
+
+q: who plays vic leonard?
+a: ['Paul Douglas']
+
+q: who is preparing to leave colombia on the next ship?
+a: ['Vic Leonard']
+
+q: what is the name of catherine knowland's brother?
+a: ['Donald']
+
+q: why is the plantation at risk of flooding?
+a: ["Rian's mining operations"]
+

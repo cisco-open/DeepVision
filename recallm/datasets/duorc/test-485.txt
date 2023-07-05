@@ -1,0 +1,50 @@
+PARAGRAPH
+In New York City, an unnamed man is visiting an apartment to get heroin (using the term "horse") from his dealer named Mike. Instead of finding his usual pusher, the man finds two mobsters who are also looking for Mike, who had apparently skipped town owing them $100,000. After questioning the man about Mike's whereabouts, they shoot him and leave him for dead. Lt. Rizzo of the NYPD investigates the murder.Meanwhile in Leticia, Columbia on the Rio Amazonia, two siblings, Rudy and Gloria, with their friend Pat, prepare for a journey into the rain forest in nearby Brazil. The three have ventured there to help prove Gloria's theory that cannibalism no longer exists, and that it may not have existed all along, being a myth concocted by greedy European empires to justify colonising the land.After encountering a pair of natives who were brutally killed in a booby trap, the trio encounter two other westerners; Mike, the drug dealer mentioned in the beginning (who is also addicted to cocaine), and his partner Joe. Joe is badly wounded in the chest. Mike explains that they were attacked by cannibals. They claim they were with a Portuguese guide who was tied to a stake, castrated, and killed by the cannibals. During the night, Gloria goes missing, and Rudy finds a native village while looking for her. It is populated by a small group of natives, mostly the elderly.Due to Joe's injuries, the troupe decides to stay in the nearly deserted native village. Mike seduces the naive Pat, and has sex with her, as well as giving her cocaine. In a cocaine-fuelled rage, he encourages Pat to slowly kill a young native girl with a knife, but she is unable to do it, so he kills her himself with a gun. Pat, horrified by Mike's actions, warns the native girl's accomplice to flee before Mike gets to him.In his dying moments, Joe reveals to Gloria and Ruby that he and Mike were responsible for the cannibals' aggression. In a flashback sequence, Joe explains that the two of them came to the region just last week to exploit the natives for emeralds and cocaine, taking advantage of their trust in white men. One day, while high on cocaine, Mike brutally tortured and killed their native guide in full view of his tribe. The badly charred body that the troupe thought to be the Portuguese guide (who never existed) is actually this native. Mike kidnapped a native girl, whom was the native chief's daughter, in order to lead them out of the jungle, but the two were followed and attacked, explaining Joe's injuries.In light of Mike's murder of the young girl, the native warriors finally snap and have now begin to hunt the troupe out in the jungle. Joe eventually dies of his wounds, and his body is found and cannibalised by the natives in full view of Rudy and Gloria, who are hiding from the natives. In the meantime, the cocaine-agressive Mike and Pat had abandoned the rest of the troupe, but they are all rounded up by the natives eventually. They are forced into a cage (that Mike originally used to lock up natives) and forced to watch Mike have his penis cut off and eaten by the revenge-seeking native chief. The wound is then cauterized to ensure he does not bleed to death.The next day, the natives natives take the troupe by boat to another village down river. But when they arrive, Rudy manages to escape, hiding in a pool of water from the natives. However, he is caught in a booby trap in the jungle and the bleeding wound of his attracts the attention of piranhas, who force him out of the pool screaming. The natives shoot him with a poisoned dart, and he dies almost instantly.Pat, Gloria, and Mike are taken to a new village where their suffering continues. The women are put in a hole in the ground as Mike is placed in a separate cage. The native man that Pat saved from Mike at the other native village appears, and lowers a rope into the hole so the women can escape. However, at this point Mike digs out of his cage, chases the man away, and cuts the rope, preventing the women from escaping. He then flees into the jungle. He is almost spotted by a plane being flown by a search party looking for the missing troupe (one of which is Mike's girlfriend from New York), but shouting in an attempt to be noticed by the plane causes the natives to finally locate him. Deranged to the last, Mike attacks the natives with a machete he stole and kills one of them and wounded another until he is overpowered. The native warriors drag him to a fallen tree and cut off his right hand with the machete before taking him back to the village. When the search party lands, they are told by the natives that the explorers were in a canoe, which capsized. They were then eaten by crocodiles.Back at the village, Pat is bound, stripped, and has hooks put through her breasts. She slowly bleeds to death as Gloria is forced to watch. Mike's head is placed in a crude apparatus, and the top of his head is cut off; the natives then proceed to eat his brains. Gloria is left for the night. During this time, the same sympathetic native who Mike chased off earlier returns and frees her. He guides her through the jungle but is eventually killed by one of his own people's booby traps. A few days later, a desperate Gloria makes to the river and meets up with a pair of trappers, who take her to safety. Instead of telling them the true story, she backs up the natives' lie about the others being eaten by crocodiles.The film ends several weeks later with a shocked and jaded Gloria is seen back in New York, a part of society once again. She has published a book titled 'Cannibalism: End of a Myth' which completely covers up the story of what happened to her brother and friends. This was most likely done because of her realization that the natives were only vicious because of the extensive cruelty they had endured under the white man they once revered.
+
+
+QUESTIONS
+q: What do the natives do to Pat ?
+a: ['lowers a rope into the hole so the women can escape']
+
+q: Who frees gloria ?
+a: ['Native']
+
+q: Who attacks Mike and his partner Joe?
+a: ['cannibals']
+
+q: What was Gloria's book titled?
+a: ['Cannibalism: End of a Myth']
+
+q: Who are Rudy and Gloria hiding from?
+a: ['the natives']
+
+q: Who is placed in a cage?
+a: ['Mike and Pat']
+
+q: Where in Paraguay, Rudy, Gloria and Pat prepare for a journey?
+a: ['into the rain forest']
+
+q: Why do the travelers stay in the deserted village?
+a: ["due to Joe's injuries"]
+
+q: What does Joe die of?
+a: ['of his wounds']
+
+q: Who does Mike seduce?
+a: ['Pat']
+
+q: Where does Mike flee into?
+a: ['into the jungle']
+
+q: Who is put in a hole in the ground?
+a: ['Pat and Gloria']
+
+q: How much did Mike owe the mobsters?
+a: ['$100,000']
+
+q: What did the travelers want to exploit the natives for?
+a: ['for emeralds and cocaine']
+
+q: What does Rudy's bleeding wounds attract?
+a: ['piranhas']
+

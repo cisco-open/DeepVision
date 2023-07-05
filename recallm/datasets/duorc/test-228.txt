@@ -1,0 +1,35 @@
+PARAGRAPH
+Tun and Tao are friends who enjoy spending time together in karaoke bars in Pattaya. Tao has the bad habit, however, of always singing a loud, off-key rendition of the Asanee-Wasan song "Sai Lor Fah" ("Lighting Rod"), which always results in Tao and his friends being thrown out of the club.
+Tao is dealer of counterfeit DVDs, but his real vocation is gambling and he frequently bets on Premier League soccer. He finally wins some money and decides to pay back a 100,000 baht loan from Tun and also treat Tun to a big night out at the city's finest karaoke club.
+At the club, the shy, portly Tun meets a young woman, Nok, shares a duet with her, and ends up taking her back to his house. The next morning, Nok disappears. It turns out she is the mistress of Mee, a local crime kingpin, and Tao paid her for a one-time deal to sleep with his friend. Tun, a dealer in rare Buddhist amulets, becomes obsessed with finding Nok. He gives the 100,000 baht he received from Tun to a transvestite pimp who might have a lead on Nok.
+Tun, meanwhile, is involved with crimes of his own, and has become beholden to Mee and a rival kingpin, Moo, who are both interested in obtaining a rare amulet that Tao has in his possession. In a complicated scheme, Tao ends up perpetuating the kidnapping of a wealthy American man's daughter, and holding her for 3 million baht ransom. Also, a shadowy female assassin has entered the picture to complicate matters.
+
+
+QUESTIONS
+q: After winning some money, Tao decides to pay back a loan from who?
+a: ['Tun']
+
+q: What does Tao frequently bet on?
+a: ['Premier League soccer']
+
+q: How much is Tao asking in ransom for the American man's daughter?
+a: ['3 million baht ransom']
+
+q: Who is Nok the mistress of?
+a: ['Mee']
+
+q: What is the name of the song that Tao insists on singing?
+a: ['"Sai Lor Fah"']
+
+q: What is the name of the local kingpin whose mistress is Nok?
+a: ['Nok']
+
+q: Tao is a dealer of what?
+a: ["Counterfeit DVD's"]
+
+q: Tun is a dealer in what?
+a: ['Rare Buddhist amulets']
+
+q: Where do Tun and Tao enjoy spending time together?
+a: ['karaoke bars in pattaya']
+

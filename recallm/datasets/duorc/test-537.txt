@@ -1,0 +1,32 @@
+PARAGRAPH
+In London, we are introduced to a dalmatian dog named Pongo, and his 'pet' (owner), Roger (note: dogs in this film refer to their owners as 'pets,' much the way humans refer to dogs the same way). Roger is a brooding musician, who seems to have no problems with the life of a bachelor. Pongo, however, wants more out of life. Viewing dogs and their owners going by, Pongo spies Perdita, a female dalmatian, and her 'pet,' Anita.Pongo tricks Roger into going to the park earlier than normal, and through a rather wet incident, ends up allow Roger and Anita to meet. Sometime afterward, the two are wed, and move in together, hiring a maid to help with the housework. Pongo and Perdita are also eagerly expecting puppies, when Anita's old schoolfriend Cruella De Vil comes to call. Cruella has come to see the puppies, only they are not due for several more weeks. Cruella asks Anita to keep her informed when they arrive, and leaves. Roger afterwards, decides that Cruella's name would be the perfect thing to use in his new song, and playfully sings it much to Anita's discontent. Pongo meanwhile, tries to assure Perdita, who is now sad over their having puppies.The puppies eventually arrive, with Perdita delivering a litter of 15 puppies. Cruella shows up shortly afterwards, offering to buy them all. However, Roger interjects, deciding not to sell them, causing Cruella to storm off, angered at this news.Time passes, and the puppies grow bigger, and gain their spots. One evening, while Roger and Anita take their dogs for a walk, a pair of bandits named Horace and Jasper break into their house, and steal the puppies.The Police and Scotland Yard are unable to find any clues to the abduction. Roger suspects Cruella, but nothing is turned up at her home. Pongo suggests to Perdita to use the 'Twilight Bark' to spread the word to look for their puppies. Though known moreso as a gossip chain, Pongo's use of the 'Bark' sends the message regarding their puppies through London and across the countryside. In the town of Suffolk, a group of animals in a small shed are alerted: an old dog named 'Colonel,' a cat named 'Sergeant Tibbs,' and a horse named 'Captain.' Tibbs explains that he heard dogs barking at the abandoned 'DeVille place' nearby. After Captain the Horse notices smoke coming from the chimney, Tibbs is sent to investigate.Inside the supposedly-abandoned mansion, he finds a number of puppies in the main hall. One of the puppies explains to Tibbs that there's 99 of them altogether. Tibbs notices a small group with collars watching a nearby TV. Realizing they number 15, he surmises they are the missing puppies. However, Tibbs is noticed by Horace and Jasper, who attempt to kill him.Tibbs relays what he knows to the Colonel, and the 'Twilight Bark' travels back to London, where Pongo and Perdita are alerted. After sneaking out of Roger and Anita's house, they meet a Great Dane, who gives them directions to head towards Suffolk. The two then set off across the cold, snowy countryside.Back in Suffolk, Tibbs and the Colonel observe a car heading toward the house. Tibbs goes in to investigate, and finds Cruella demanding Horace and Jasper skin the puppies immediately for a dog-skin coat, as the police are looking everywhere now. When it seems the henchman are not going to act immediately, Cruella storms off, promising that if the dogs aren't skinned by morning, she'll call the police on them. Once she leaves, Jasper tells Horace they'll watch the rest of their television program before getting to work.With this 'ultimatum,' Tibbs sneaks the puppies out of the room. However, once the program ends, the two crooks find the puppies missing, and chase them through the old mansion. Just then, Pongo and Perdita arrive in the mansion, and distract the two crooks long enough for the puppies to escape to the shed where Captain, the Colonel and Tibbs live.In the aftermath, Pongo and Perdita are surprised by the number of puppies, as well as Cruella's plan to make dog-skin coats. Pongo decides that 84 extra puppies will go with them, as they head back to London.The family makes their way across the snow countryside, eventually hiding out in an old dairy barn, thanks to a Collie who had heard of their plight by the 'twilight bark.' The Collie informs Pongo that the family should head toward Hensford, where a Labrador will be waiting for them.After spending the night in the barn, they head towards Hensford, where the Labrador explains that a moving truck in the area is heading for London, and they can all sneak aboard. However, just after they arrive, Cruella and the crooks arrive, certain the dogs are in the town.Watching two puppies playing in some soot, Pongo decides that they'll all roll in the soot, making them look like Labradors. The ruse seems to work and almost all the dogs are in the truck, until one puppy gets covered with snow, emerging un-sooted. Pongo manages to get the last puppy on the truck before it starts up, and Cruella and the crooks give chase.Cruella violently tries to force the truck off the road, but ends up going down a ravine. Forcing the car up the other side, much of it is broken apart as she fiercely tries to stop the truck, eventually getting caught in it's bumper. Careening behind the truck, trying to get it to flip over, Cruella's plans are thwarted when Horace and Jasper collide with her destroying both her car and their van, ending the chase.Back in London, as Roger and Anita prepare for Christmas, everyone laments the loss of their pets. However, with a knock on the front door, Pongo, Perdita and all 99 puppies enter. Roger is overjoyed, and much to Anita's worry, decides to keep them all, with plans to move to the country, and start a Dalmatian Plantation.
+
+
+QUESTIONS
+q: Who decides to adopt all the other puppies?
+a: ['Roger and Anita']
+
+q: What is Roger's dalmatian name?
+a: ['Pongo.']
+
+q: What is Anita's dalmatian name?
+a: ['Perdita.']
+
+q: What is Sargeant Tibbs?
+a: ['A cat.']
+
+q: Roger's first song is about who?
+a: ['Cruella De Vil.']
+
+q: Who are the puppies parents?
+a: ['Pongo and Perdita']
+
+q: The dogs covered themselves in what?
+a: ['Soot']
+
+q: Who gives birth to a litter of fifteen puppies?
+a: ['Perdita.']
+
+q: Who is Anita's wealthy former schoolmate?
+a: ['Cruella De Vil.']
+

@@ -1,0 +1,40 @@
+PARAGRAPH
+Amber Pollock (Cassie Scerbo), a mean, snobbish, popular high school senior, dies after being named Prom Queen at her senior prom when her crown ends up electrified after an accident with her boyfriend's car. While in Limbo, an angel named Supervisor J-3 (Tim Gunn) gives her the task of returning to her high school as a ghost to arrange that the school's least-popular student Lisa Sommers (Lindsey Shaw) becomes Prom Queen in her place within one week at the makeup prom. When Lisa becomes Prom Queen, Supervisor J-3 will have Amber forgiven of her past actions and send her to Heaven. Supervisor J-3 also tells Amber that if Lisa doesn't become Prom Queen by the deadline, Amber will be on the next shuttle bus to Hell.
+Things do not go as planned because at first, Lisa doesn't want to be crowned Prom Queen. After Amber convinces Lisa that she can get her attention from her crush, Nick Ramsey, Amber insists they should go shopping to get Lisa some new outfits for school and the prom. Amber gets Lisa a new hairstyle and some perfume. Lisa meets a "Zac Efron boy" named Aidan. But she gets nervous and walks away. The next day at school, due to Lisa still being nervous, Amber hopped into Lisa's body using her possession powers to get Lisa into school and gain her confidence, then their plans for Lisa running for Prom Queen becomes complicated as Amber's former friend, Carlita Cache, decides to run and starts dating Nick.
+When Carlita decides to throw a house party, Amber and Lisa decide to mess with Carlita's plan by changing the party's date and sending this change in an email from a school computer to everyone's phone at their high school. With Carlita's party plans ruined, Amber and Lisa plan a party at Lisa's house the same night, since her parents are away at a spa treatment. During the party, Amber gets Lisa up on stage to sing "Typical" which attracts the attention of Nick. Lisa and Nick talk after her performance and the two end up sharing an unexpected kiss and Nick then tells her he will break it off with Carlita.
+Amber and Lisa soon find out from Vice-Principal Richardson that Lisa's friend, Raj Kurkuri, who was trying to buy a used calculator online, accidentally forgot to log off on a school computer before Lisa sent the changed party date message, and Raj is held responsible for the damages at Carlita's house. Lisa ends up passing on her friends' plans for finishing a claymation pig film now that she is popular. Meanwhile, Amber's sister Clementine feels her mother is too busy mourning the death of Amber to pay any attention to her. Seeing this for herself, Amber helps guide her mother into paying more attention to Clementine now that she has died.
+Lisa's friend Selena learns about Amber's involvement with Lisa's popularity and decides to use black magic to tell Amber to leave Lisa alone, but Amber tells her she needs to right what she did wrong in order to get into Heaven. Selena is understanding but still pleads for Amber to help Lisa return to normal. Amber confronts Lisa and, realizing that she has unintentionally ruined her life by making her popular, jumps into her body to drive her out to Oak Springs on Highway 7 (out in the middle of nowhere) so she would not make it back to town in time for the prom that evening. After stumbling onto Floyd's Gator Jerky Shop, and calls all her friends on a pay phone, Lisa is unsuccessful in getting a ride back into town until she reaches Selena. When Selena (along with Raj and Collin) make it to pick her up, Lisa learns being popular isn't what it is cracked up to be. She also learns Raj was suspended and has to perform community service to fix Carlita's yard. Meanwhile, Amber reports her failure to Supervisor J-3 and takes a ride down to Hell in a flaming prison shuttle bus.
+After just making it to prom night, Lisa confesses to her vice principal and the rest of the school that it was her that sent the mass email about the change to Carlita's party, not Raj. She then makes a speech on stage that everyone should break down the barriers between the popular and unpopular by voting Raj as Prom King, which almost all of the students agree upon. After Raj is elected Prom King, Amber is transported off the shuttle bus to Hell to get her wings to enter Heaven, as the least popular student was voted Prom King. She appears to Lisa one last time and the two share a hug with Amber when Amber spots Aidan at the prom. Lisa smiles and Amber promised to watch over Lisa from Heaven before she goes. Aidan looked for Lisa at 7 different proms before he found her. Aidan and Lisa smile and talk and soon dance. It looks like a new relationship starts. Carlita (angry that she didn't get crowned Prom Queen) tries to stop the music by pulling wires from the stage's control box, but gets herself electrocuted in the process. Then Supervisor J-3's voice can be heard saying "Oh, lucky me. Here we go again."
+
+
+QUESTIONS
+q: Who is the only one that can see or hear Amber?
+a: ['Lisa Sommers']
+
+q: What happens to Amber after she's elected Prom Queen?
+a: ['Amber Dies']
+
+q: Why is Carlita angry?
+a: ["As she didn't get crowned Prom Queen"]
+
+q: Who gives Lisa a ride back to town?
+a: ['Selena']
+
+q: What is the name of the angel that speaks to Amber?
+a: ['Supervisor J-3']
+
+q: Who dies after being named prom queen?
+a: ['Amber Pollock']
+
+q: Who kisses Lisa?
+a: ['Nick']
+
+q: Who is angry that she didn't get crowned Prom Queen?
+a: ['Carlita']
+
+q: What does Raj have to do for community service?
+a: ["Fixing Clarita's Yard"]
+
+q: Who feels ignored by her mother?
+a: ['Clementine']
+

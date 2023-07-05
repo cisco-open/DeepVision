@@ -1,0 +1,35 @@
+PARAGRAPH
+The film centers on Devon Miles (Cannon), a teen who has just graduated from a high school in New York City. Upon graduating, Devon heads to Atlanta, Georgia to attend the fictitious Atlanta A&amp;T University (based on North Carolina A&amp;T), a historically black college that takes enormous pride in its marching band. Devon was personally invited to attend on full scholarship by Dr. James Lee (Jones), head of the band, for his prodigious talents. The A&amp;T band separates itself from its competitors by requiring all members to read music, by focusing on various styles of music rather than what music is currently popular on the radio, and dedication to the teamwork emphasized "one band, one sound" concept. The band has a preseason that is similar to an athletic team's induction in that it is very physically and mentally difficult. It challenges all recruits to push themselves past what they previously thought were their limits. At the end of preseason, the musicians audition for spots on the field, and Devon is the only freshman to make P1, the highest level player. While going through his rigorous process, Devon also finds time to romance an upperclassman dancer, Laila (Saldana).
+College life starts well for Devon, as he has the girl and a spot on the field. Things begin to turn sour when Sean (Roberts), Devon's percussion leader, begins to grow weary of Devon's cocky attitude. Sean later challenges Devon to take a solo in his first game, believing the freshman will panic and be embarrassed in front of everyone. He is shocked when Devon takes the solo and is subsequently humiliated. This sets up some tension in the drumline which is exacerbated when Dr. Lee is told by President Wagner (Afemo Omilami), the school's president, to change his focus from music to entertainment or lose his funding. Lee does not want to give Devon more playing time because he feels Devon's attitude and respect are lacking. The situation further deteriorates when it is revealed that Devon cannot read music. Devon is demoted to P4 by Dr. Lee until he learns, then later put back on P1 when Wagner pressures Dr. Lee to do so. The final straw comes at A&amp;T's homecoming, when Devon incites a melee with the visiting band by leading his fellows in using their sticks to play on the visiting line's drums (a serious insult in drumline mythos).The band is angry with Devon for his showboating and shun him. Devon is finally kicked out of the band by Dr. Lee. The fight also harms his relationship with Laila as she is embarrassed to introduce him to her parents, who attended the game and thought of Devon as a hoodlum.
+Acting like he is not bothered by Dr. Lee exiling him, Devon contacts A&amp;T's rival school Morris Brown College, to discuss playing for their marching band next season. Mr. Wade (J. Anthony Brown), Brown's band leader, says that Devon does not need to know how to read music and will likely get a full scholarship and a good position on the drumline. When Wade wants to know what Dr. Lee is planning for the BET Big Southern Classic (a large competition of college bands), Devon realizes that his heart and honor are still with the A&amp;T band. He rejects the scholarship offer from the rival band and returns to A&amp;T. Though Devon is still not playing for the band, he cannot give up his drumming. He is sent cassette tapes from his estranged father and gets some ideas for new drum arrangements. He and Sean have a final confrontation, with Sean telling Devon that he is A&amp;T's best drummer but that the band is bigger than just one person; this clears the air and they begin to work together. The two present their idea for an entrance cadence to Dr. Lee who decides they will be used during the Classic. Devon helps the drumline prepare and patches up his relationship with Laila. Lee also tells Devon that he can guarantee him a full return to the band next year.
+At the Classic, the bands are shown performing a mixture of popular songs. Morris Brown's band even gets rapper Petey Pablo to perform during their routine. A&amp;T is not fazed by this and performs their mix of retro and current sounds. A tie results and the Morris Brown and A&amp;T drumlines face off. Dr. Lee tells Devon he can play for this face-off, showing his faith in Devon's improved character and in thanks for all the hard work he has done in getting the band ready for the Classic. Morris Brown goes first and A&amp;T responds. Morris Brown's second cadence includes their snares moving forward and playing on the A&amp;T drums (the same move that incited the fight at A&amp;T's homecoming game, which resulted in Devon's expulsion from the band), then throwing down their sticks. The A&amp;T line manages to hold their composure in the face of the insult. They play their cadence and in the middle throw down their drumsticks, mimicking the Morris Brown actions, but then the entire line pulls out another set of sticks and continues playing. They end their routine in the faces of the Morris Brown drumline, but instead of playing on their drums, the line all drop their sticks onto the other drumline's drums. The judges award the win to A&amp;T.
+
+
+QUESTIONS
+q: What musical instruments are they playing?
+a: ['Drums']
+
+q: What does Devon's band do in kind to the number one band?
+a: ['emphasized "one band, one sound" concept']
+
+q: What is the character of Devon?
+a: ['lead character and best drummer', 'the main character']
+
+q: Whose band wins?
+a: ['A&T']
+
+q: Who tosses sticks at Devon's drum line?
+a: ["Morris Brown's band"]
+
+q: What's the one hitch Devon's got?
+a: ["he's cocky and smug", "He can't read music"]
+
+q: Which teams did the competition get tied between?
+a: ['Morris Brown and A&T']
+
+q: What is the profession of Nick Cannon?
+a: ['Marching band drummer', 'actor']
+
+q: What prevents Devon from"starting"?
+a: ['His inability to read music.']
+

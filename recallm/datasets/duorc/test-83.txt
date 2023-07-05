@@ -1,0 +1,31 @@
+PARAGRAPH
+The story is set in Japan, beginning in the 1990s up until the present day (2008[a]), with each act centered on a boy named Takaki TÅno. The first act takes place during a time when cell phones are uncommon and email had not yet reached the general population.[6]
+Act 1: Cherry Blossom[edit]
+Takaki TÅno quickly befriends Akari Shinohara when she transfers to his elementary school in Tokyo. They grow closer to each other due to similar interests and attitudes; for instance, they both prefer to stay inside during recess due to their seasonal allergies. As a result, they form a strong bond; they speak to each other using their given names without any form of honorifics, which is a sign of deep friendship and familiarity in Japan.
+Upon graduating from elementary school, Akari moves to the nearby prefecture of Tochigi, due to her parents' jobs. The two keep in contact by writing letters but eventually begin to drift apart. When Takaki learns that his family will be moving to Kagoshima on the other side of the country, he decides to personally go see Akari, since they will be too far apart to visit each other at all after moving. He also prepares a letter for Akari confessing his feelings for her. However, Takaki loses the letter during the journey and a severe snowstorm continuously delays his train for several hours. As the two finally meet and share their first kiss, Takaki realizes they will never be together again. Stranded in a shed due to the snowstorm, they fall asleep after talking late into the night. Takaki departs from the train station the next morning, and the two promise to continue writing to each other. As the train rolls away, Takaki decides that the loss of his letter is not important anymore after the kiss, while Akari silently looks at her own letter addressed to Takaki.
+Act 2: Cosmonaut[edit]
+Takaki is now in the third year of senior high in Tanegashima, where the Tanegashima Space Center is located. Kanae Sumida, a classmate of Takaki, had fallen in love with him ever since meeting him in middle school but has never had the courage to confess her feelings. She tries to spend time with him, waiting long after school for the chance to travel home together. However, Takaki appears ignorant to Kanae's feelings and only treats her as a good friend. Kanae observes that Takaki is always writing emails to someone or staring off into the distance as if searching for something far away. It is later shown that Takaki's emails are not being sent to anyone, and that he has had recurring dreams which feature Akari. After a failed attempt to tell Takaki she loves him, Kanae eventually realizes that he is looking for something far beyond what she can offer and decides not to, though she believes she will always love him.
+Act 3: 5 Centimeters Per Second[edit]
+It is 2008. Takaki is now a computer programmer in Tokyo, while Akari is preparing to get married to another man. Takaki is still longing for Akari to the detriment of his lifestyle, which is acknowledged by an ex-girlfriend. A depressed Takaki later leaves his job, being unable to cope with his feelings for Akari. Akari goes through her old possessions and finds the letter addressed to Takaki. Takaki and Akari have a dual narration, both recalling a recent dream depicting the events of their last meeting in the snow and hoping to watch the cherry blossoms together again.
+One day while walking down a road, Takaki and Akari appear to pass and recognize each other at a train crossing, where they had decided to watch cherry blossoms together thirteen years ago, right before Akari's sudden move to Tochigi. At opposite sides of the tracks, they stop and begin to look back, but the passing trains cut off their view. Takaki waits for the trains to pass and sees that Akari is gone. After a moment, he smiles to himself and continues walking.
+
+
+QUESTIONS
+q: Where did Akari move?
+a: ['Tochigi']
+
+q: What is Takaki's job in the year 2008?
+a: ['computer programmer']
+
+q: Who has feelings for Takaki?
+a: ['Kanae Sumida']
+
+q: Who was Takaki Tono's close friend?
+a: ['Akari']
+
+q: In 2008, who is preparing to get married?
+a: ['Akari']
+
+q: Where did Takaki attend junior high?
+a: ['Tanegashima']
+

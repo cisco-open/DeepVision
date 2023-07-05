@@ -1,0 +1,44 @@
+PARAGRAPH
+Jack (George Clooney), an American assassin, is relaxing in a remote cabin at Dalarna, Sweden with his lover, Ingrid (Irina Björklund). The two decide to take a walk on the frozen lake nearby. While walking, Ingrid notices some footprints. Jack immediately becomes suspicious and quickly drags Ingrid to cover behind a large boulder as someone begins shooting at them. Jack kills the shooter and then tells Ingrid to return to the cabin and phone the police while he searches the body. As she rushes past him, he shoots her in the back of the head. Jack suspects there may be another shooter and goes in search of him. He comes up behind another armed man and kills him.Jack travels to Rome, Italy where he contacts a man named Pavel (Johan Leysen). Pavel is the person who provides Jack with his assignments. They don't typically meet in person. Pavel insists that Jack cannot stay in Rome and sends him to Castelvecchio, a small town in the mountains of Abruzzo. Jack arrives in Castelvecchio and immediately feels uncomfortable, so he drives down the road to, Castel del Monte, throwing the phone Pavel had given him out of the car window on the way.While he is hiding out in Castel del Monte, Jack is befriended by an elderly priest, Father Benedetto (Paolo Bonacelli), who senses that Jack is not who he claims to be and is struggling to find his way. The father pressures Jack to seek absolution, something which Jack, now going by the name 'Edward' and posing as a photographer, resists.Jack contacts Pavel, who offers him another job, a job that won't require him to kill anyone. Jack eventually decides to take the job and meets with a shady Belgian, named Mathilde (Thekla Reuten), who wants him to build a compact gun with the firing capacity of a submachine gun and the accuracy of a rifle. Jack begins work on the weapon as he begins patronizing a local prostitute, named Clara (Violante Placido). At the same time, Jack realizes that he is being followed by a young Swedish man (Samuli Vauramo) who is probably associated with the people who tried to kill him at Dalarna.One day, Jack meets with Mathilde to test the weapon he has made in the nearby forest. She asks for a few more alterations to it, as well as some special ammunition.While having coffee one day, Clara and a friend, named Anna (Anna Foglietta), see him and come inside to say hello. Clara invites Jack on an actual date, and the two begin to deepen their relationship.One night, as the Swedish assassin follows him, Jack manages to get himself into position for an ambush, but just when he is about to shoot the man from behind, one of his neighbors who rides a Vesta scooter, comes speeding along, alerting the assassin who fires, missing Jack but killing the man on the scooter. Jack takes the scooter and chases after the Swede, who has jumped into his car and sped off. Jack shoots at the Swede, breaking out the back window of the car, then a front tire. The car crashes. Jack has to lay down the scooter to avoid crashing into the car, then gets up and runs to the driver's window, smashing it out with his elbow. He reaches in and grabs the Swede, pulling him partway out of the window, then twisting and breaking his neck.The next day, Jack encounters Father Benedetto while out walking. The father suspects that Jack was involved in the deaths that occurred the previous day and again offers himself to receive Jack's confession. Jack responds by observing that all men have sins, even Father Benedetto, and makes it clear that he has figured out that Father Benedetto fathered an illegitimate son, named Fabio, who works as a mechanic and also gets involved in illegal activities locally. Jack makes use of Fabio to acquire some items he needs to construct a suppressor for the weapon he's building for Mathilde.Jack begins to become suspicious of Clara after he looks through her purse and finds a small pistol. He also follows her and sees her meeting with some rough looking men. He takes her on a picnic where he's prepared to kill her if need be, but when she doesn't make an attempt, he decides instead to confront her about the gun in her purse. Clara explains that she has the gun because of a number of assaults on prostitutes which have occurred in the area. She further explains that the men she was talking to were cops investigating the case.After talking to Pavel one last time, Jack agrees to deliver the weapon to Mathilde, but tells Pavel it will be his last job. That doesn't seem to sit well with Pavel. At the drop off, Jack is on alert, suspicious that Mathilde may try to kill him after she takes the briefcase and excuses herself to go to the ladies room. Mathilde does prepare her pistol inside the ladies room and returns to meet Jack outside the restaurant. They appear about to engage in an old west shootout, but before anything can happen, a busload of students arrive and the kids run between them. Mathilde turns, gets in her car and says goodbye.While driving away, Mathilde is contacted by Pavel, who asks if she has killed Jack. She informs him that she didn't get the opportunity. Pavel orders her to find one. She follows Jack back to town.Jack meets Clara in the crowd at a local religious festival. He asks her to go away with him and she joyfully agrees. Meanwhile, Mathilde has murdered a local citizen in his house and gone up on the rooftop, putting Jack in the sights of the weapon he has just delivered to her.However, when she pulls the trigger, the weapon misfires, the shell exploding into her right eye and she falls back and off the roof. Apparently, Jack came to suspect that he may have been Mathilde's assigned target, so he rigged the gun to misfire. Jack sees Mathilde fall from the roof, so he hands Clara an envelope with money in it and tells her to go to the place where they had picnicked by the river and wait for him.Jack goes to where Mathilde was lying on the ground. She's still alive and he demands to know who she works for. She mumbles that she also works for Pavel and then she dies. Father Benedetto and several altar boys who had been part of the procession, arrive. Jack leaves, apologizing to Father Benedetto, and begins looking for Pavel.Pavel gets the drop on Jack, and shoots just as Jack is turning to face him. Jack is able to get off two shots of his own, one hitting Pavel in the forehead, killing him. As Jack drives to meet Clara at the picnic spot by the creek, he discovers he is bleeding and realizes he has been fatally wounded. As he arrives at the picnic spot, Clara smiles with joy, just as Jack loses consciousness and crashes into a nearby tree... apparently dead.
+
+
+QUESTIONS
+q: Who does Jack go to meet?
+a: ['Mathilde', 'Clara']
+
+q: Who plays Ingrid?
+a: ['Irina Bjrklund']
+
+q: What does Jack regret?
+a: ['Going to Castellvechio']
+
+q: Why does Clara carry a small pistol in her purse?
+a: ['assaults on prostitutes']
+
+q: What does Mathilde give Jack?
+a: ['Assignment to build a weapon']
+
+q: What encourage Jack to question his life choices?
+a: ['Clara']
+
+q: Which weapon does Clara has in her purse?
+a: ['A pistol.']
+
+q: Who contacts Pavel?
+a: ['Jack.', 'Mathilde']
+
+q: Who wants Jack to build a custom sniper rifle?
+a: ['Mathilde', 'Mathilde.']
+
+q: Who does Jack he hear behind him as he goes to meet Clara?
+a: ['Pavel']
+
+q: Whom does Jack agree to deliver the weapon?
+a: ['Mathilde']
+
+q: Who did Jack shoot?
+a: ['The Swede', 'Pavel']
+
+q: What jobs does Jack have?
+a: ['American Assassin, Photographer']
+

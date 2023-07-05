@@ -1,0 +1,44 @@
+PARAGRAPH
+written by KrystelClaireA young boy, Max (Alex Winzenread), feels terrified: he can't sleep in his room because everything scares him, from the twigs tapping on the window to the door of his walk-in wardrobe. He constantly calls for his mum and dad, and consequently, they can't sleep at all. Finally, Dad/Jack Keller (John Hawkinson), promises him to buy his longed-for videogame if he sleeps quietly on his own. The young boy promises to try, but then, the door to his closet opens up again. He leaves bed to close it up, but then, a green hand appears. The boy screams and his parents come once again. This time, we can see it was his sister Cassie Keller (Emily Osment)The film now focuses on Cassie. She is a fifteen-year-old teenager Goth full of angst. She dresses as if it were Halloween all year around, and her mother Eileen (Michelle Duffy) can't convince her of wearing even one of the pretty clothes she has bought for her teenaged daughter. Back at her new high school the following morning, she tries to talk with the boy she likes, attractive but dumb Sean (Cody Linley). Priscilla Wright (Brittany Elizabeth Curran) is the most popular girl in school, and she expects to be crowned Pumpkin Queen in the approaching high school ballroom. Priscilla humilliates Cassie by throwing food over her in the school canteen, as she wants to mark her territory with Sean. He will go to the ball with Priscilla because she has offered to do a class assignment for him.In frustration, Cassie wants to buy a new Halloween outfit, although Mum tells her she is too old to go trick-or-trading. Cassie finds a new costume shop at the end of a corridor. The weird shop assistant, (Tobin Bell), tells her that he only opens in Halloween. Cassie buys the only book on store, entitled The Evil Thing. The first page clearly states DO NOT READ ALOUD. Cassie becomes more aggresive, and she spoils Priscilla's moment when, after having been crowned as Pumpkin Queen, she tears open a piñata and worms fall on her.Cassie has to baby-sit Max while their parents are away. He insists on being read a horror story, something which Cassie doesn't want to do at first because she knows that Max will have nightmares later on. Max insists and he turns her computer off, making her lose the horror Hollywood story she has been writing for some time. Cassie is angry. A noise is heard outside: she goes to look what happens, and a witch doll falls on her. She screams, and suddenly, Priscilla and Sean appear from the shadows: she has told him to record Cassie's terrified screams, and the next day, all high school will see the video and laugh about Cassie. Angry, Cassie reads The Evil Thing aloud and then tells Max to wash his teeth and go to sleep.A huge monster appears. theoretically, it only appears if you believe on it. It has two heads, with one it sucks blood and with the other one it tears flesh out to eat it. It also picks people and puts them into coccoons until its children are born and eat the humans.The monster captures Max, the pizza guy and Priscilla. It's Cassie and Sean's turn to do something. Cassie remembers the shop assistant, but he doesn't want to help her. He explains that his shop appears at Halloween for one day and disappears the rest of the year. He says that he opens the shop close to the home of the child who wants to scary everybody the most, and this year, Cassie has won over the other "contestant", a ten-year-old who loves Halloween as well. He tells her to use two heads instead of one. Sean finds a solution: make one head of the monster eat the other one.Cassie and Sean go to the gutter where the monster is nesting. The eggs are about to hatch. They find Max easily, and they free him, but the monster appears. It's Max who has to throw blood all over the monster. When Cassie encourages him, Max can eventually carry out the plan. The monster attacks itself and the babies are easy to kill.Priscilla, freaking out because she is covered in slimy goo, gets angered at Sean, but seems to be cleverer that what everybody thought, but not quite. The pizza guy invites Cassie, Sean and Max for pizza, but Priscilla wants to walk home on her own in the night.Back and safe at home, Cassie burns the book in the chimney. Her parents come back, and they find Cassie and Max hugging each other, so they are contented. Jack sees something in the chimney - it's the book The Evil Thing. He reads it aloud, and the monster wakes up once again.
+
+
+QUESTIONS
+q: What is the name of the school bully?
+a: ['Priscilla']
+
+q: What is the title of the old book Cassie finds?
+a: ['The Evil Thing.']
+
+q: Who solves the riddle?
+a: ['Sean']
+
+q: Who does Sean favor?
+a: ['Priscilla']
+
+q: Name the three people captured by The Evil Thing?
+a: ['Max, the pizza guy and Priscilla']
+
+q: How is The Evil Thing brought to life?
+a: ['by reading the book and believing in it']
+
+q: Who does the father revive?
+a: ['monster']
+
+q: Where was Cassie going when she saw the Halloween store?
+a: ['to buy halloween outfit']
+
+q: Who do Max, Sean and Cassie save?
+a: ['Priscilla']
+
+q: Which riddle did the shop owner leave before disappearing?
+a: ['use two heads instead of one']
+
+q: Whose thoughts bring the Evil Thing to life?
+a: ['Max']
+
+q: What do Sean and Cassie accidentally drop near Max?
+a: ['pizza']
+
+q: What is Cassie's younger brother's name?
+a: ['Max']
+

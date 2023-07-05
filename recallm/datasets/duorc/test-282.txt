@@ -1,0 +1,122 @@
+PARAGRAPH
+Bill Williamson is a warped, frustrated young man who hates his life and hates society which leads him to be driven over the edge of sanity while keeping his craftyness on. He is in his early twenties, lives with his parents and he works a low-paid job as a mechanic. Psychologically, he is continually bombarded with the problems of the world, by ubiquitous TV sets, radios, and the views of Evan Drince, a left-wing philosopher who seems to be his sole friend. One day, Bill, after being hurt after his parents tell him that it's time he left home, and tired of being victimized by his nasty boss at work, Bill acts upon his plan to reduce the town's population. He believes overcrowding causes the world's problems.Determined to extract revenge upon his small town where he lives, Bill, builds himself a full-body suit of Kevlar armor, complete with a ballistic helmet and a paintball mask from parts he has had sent to Evan's home over a period of time. Evan lives with his father.One day, Bill dons his suit of Kevlar armor, and goes to town. First he incapacitates the police by car-bombing their headquarters with a bomb-laden van which he drives by remote control. He then begins to kill the town folk, shooting people at random, including the coffee shop owner with whom he earlier had argued about not preparing the coffee as he ordered.Bill enters a beauty salon to take a rest and have a drink of water from his rampage. But then he kills all of the employees and customers (all of them women) in cold blood because he was forced to remove his paintball mask to have some water.Next, in the film's funniest scene, Bill enters a bingo hall where he is hardly noticed by the elderly and senial people... all playing bingo. Out of pity, Bill does not open fire on the senior citizens playing bingo, but instead orders a sandwich and a drink from the concession stand and then walks out of the building, deciding to let the bingo-playing old people live since their lives will end sooner then most others.A little later, Bill robs a bank, killing some of the employees. Outside the bank he puts on a show by burning fake money, which he had printed up earlier, to show that it is worthless and causes the problems of the world. Bill then goes to the fast-food place and kills the countergirl who had clumsily served he and Evan the previous day.Bill then drives out of town with a small group of police in pursuit. But Bill has even more out-of-the-blue tricks up his sleave when he sets off some roadside bombs, destroying the police cars, and drives off the road into the nearby forest, with the sheriff and the last surviving cops in chase. But Bill ambushes and kills them all.After the killings, Bill calls Evan, who is in the forest nearby expecting him for a mano-a-mano paintball competition. When he arrives at the forest, Bill apologizes to Evan for having him wait for an hour. He then immobilizes Evan with a stun gun, places a pistol in his hand, and shoots him in the head to simulate suicide. Bill leaves the body of Evan wearing the armor suit, and holding the weapons of the massacre. He leaves the forest and makes his way home, arriving before his parents arrive with horror stories about the killings in town. After listening to his parents, he retires to his bedroom to sleep.In his room, while packing his belongings and stolen bank money, he hears a local television news report that police believe Evan Drince is the dead perpetrator of the killings and the bank robbery. The police have arrested Evan's father, a well-known extremist and political hack whom they blame for influencing him to carry out this killing spree.In the final scene, the deranged Bill leaves the house of his parents, as told. The story of the mass murder concludes with a video recording of Bill announcing his departure on a personal quest to unknown whereabouts, to further reduce the world's population in more mass shootings and to frame more people he befriends to continue on his evil and misanthropic quest.
+
+
+QUESTIONS
+q: who accused bill of actually committing the crime?
+a: ["Evan's father"]
+
+q: what job is bill working?
+a: ['Mechanic']
+
+q: who did bill kill?
+a: ['93 people in his town of Tenderville, Oregon']
+
+q: Why does Bill return to the salon?
+a: ['to murder', 'To take a rest and have a drink of water.']
+
+q: where did bill go after leaving the bingo parlor?
+a: ['The bank']
+
+q: what did bill use to carry the money from the bank?
+a: ['plastic trash bag']
+
+q: what did bill do the the police?
+a: ['Car-bombs their headquarters']
+
+q: who seems to be bill's sole friend?
+a: ['evan']
+
+q: How many people were killed in the rampage?
+a: ['4']
+
+q: bill calls whom?
+a: ['Evan']
+
+q: What does Bill do after bombing police headquarters?
+a: ['Begins to kill the townfolk']
+
+q: bills drives to?
+a: ['town']
+
+q: Who did the police arrest?
+a: ["Evan's father"]
+
+q: What are his parents' horror stories?
+a: ['About the rampage']
+
+q: How many have been killed in the rampage?
+a: ['many people']
+
+q: atlast bill what is doing?
+a: ['leaving his parents house']
+
+q: Where does Bill head with two submachine guns, two semiautomatic pistols, and two knives?
+a: ['the forest']
+
+q: What does Bill order to eat?
+a: ['sandwich and a drink']
+
+q: How old is Bill Williamson?
+a: ['early twenties']
+
+q: how does bill immobilize evan?
+a: ['stun gun']
+
+q: Who returns home?
+a: ['Bill']
+
+q: Who does Bill kill upon entering the bank?
+a: ['some of the employees']
+
+q: According to Bill, what causes the problems of the world?
+a: ['money']
+
+q: what did bill eat at the bingo parlor?
+a: ['Sandwhich']
+
+q: what is bill unsatisfied with at the coffee shop?
+a: ["They didn't prepare his coffee the way he ordered it"]
+
+q: What has Evan stolen?
+a: ['nothing']
+
+q: Who prints out fake money and then constructs a suit of AR-500 steel body armor?
+a: ['Bill']
+
+q: what is the name of police man?
+a: ['Anthony Fraser']
+
+q: what is bill immobilizes to him?
+a: ['a stun gun']
+
+q: What establishment did Bill enter without shooting anyone?
+a: ['beauty salon']
+
+q: What do Bill's parents ask Bill to do?
+a: ['TO MOVE OUT & LEAVE  FOR WORK']
+
+q: where did bill accidentally reveal himself?
+a: ['Beauty Salon']
+
+q: Who does Bill Williamson live with?
+a: ['PARENTS']
+
+q: What does Bill switch the money with?
+a: ['Fake money', 'person']
+
+q: Who is the killer?
+a: ['Bill', 'Charles']
+
+q: What is Bill Williamson's profession?
+a: ['MECHANIC']
+
+q: Who does Bill kill after walking the streets?
+a: ['countergirl']
+
+q: who was initially identified as the killer?
+a: ['evans father']
+
+q: who did bill call?
+a: ['Evan']
+

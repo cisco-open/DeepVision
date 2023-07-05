@@ -1,0 +1,20 @@
+PARAGRAPH
+Don't Change the Subject is a darkly comic look at what happens when one man dares to ask questions about the dirtiest word in any language suicide. No one seems to want to have a conversation about it. But what if we dig into it in a completely different way?On March 6th, 1979 my mom Sally Stutz, writer, director, advocate for the disabled, singer, daughter, life of the party, wife, and mother of four went from being a well-rounded and complex human being to being that woman who tragically killed herself. You never hear Einstein described as the physicist who died of an aneurysm. Or George Washington described as the president who died of a throat infection. But take your own life and that becomes the headline for eternity. Even in my mind that final act began, over the years, to define her. She became my mother who killed herself.Like my mother, I became a writer and director and over the next thirty years my work continued to reach back to March 6th - the day that everything changed. But, despite the fact that I was writing plays, comic sketches and all sorts of other oddball material about suicide and mental illness, my family still almost never talked about it. Then my step mom Judith got cancer and decided to talk about something we never discussed when I was a kid. Her dad killed himself too. Three days before her birthday just like my mom had killed herself three days before my birthday. Judith had cradled her fathers head as he died just as I had done for my mother. Yet neither of us said a word. If Judith and I had avoided this conversation all these years then how many other folks out there are still busy changing the subject around the dinner table now?In this movie I set out to change the way we deal with the topic. I sit down with my own family, with suicide survivors and with the family and friends of others who have killed themselves to explore all the surreal thoughts and events that surround the act when youre living through it. I also ask comics, artists, choreographers, musicians, animators and even punk clowns (yes there are punk clowns out there) to put their own unique spin on the subject. Dont want to talk about it? Fine, how about dancing it? How about laughing at it? Or animating it or singing about it or whatever you feel like doing to get your feelings heard? The combination of responses is amazing. The stories are not what youd expect and the performances are balls out to say the least. Teenagers dance to autopsy reports. A jumper gives tips on how to come out of a coma. A nervous stand up comic discovers that suicide is on the minds of his audience in ways that he never imagined. Apparently this suicide thing is not as isolated as you might think.In the Mexican Day of the Dead tradition theres a saying that you die three times; the first when your heart stops beating, the second when they put you in the ground and the third when the last person on earth who can tell a story about you dies. We seek to put that last death off as long as possible and to celebrate the lives of those who have died at their own hand instead of cloaking their existence in shame. Dont Change the Subject invites you to sit back, share a laugh, celebrate life and ponder a very dirty word. Dont be scared. Dont change the subject.
+
+
+QUESTIONS
+q: What kind of celebration are the characters attending?
+a: ['Day Of The Dead']
+
+q: How old was Director Stutz when his mother died?
+a: ['suicide']
+
+q: How did Director Stutz's mother die?
+a: ['suicide']
+
+q: Where is the ceremony at the end of the movie?
+a: ['at the ocean']
+
+q: The messages are about preventing what?
+a: ['suicides']
+

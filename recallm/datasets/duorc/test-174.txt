@@ -1,0 +1,23 @@
+PARAGRAPH
+College student Hana falls in love with a werewolf and has two half-wolf children with him: a daughter, Yuki, and a year later a son, Ame. Soon after, their father is killed while hunting food for the children.
+Hana's life as a single mother is difficult; Yuki and Ame constantly switch between their human and wolf forms, and Hana has to hide them from the world. When she is visited by social workers concerned that the children have not had vaccinations, Hana moves the family to the countryside away from prying neighbors. She works hard to repair a dilapidated house and sustain the family on their own crops.
+One winter day, Ame almost drowns in a river after trying to hunt a kingfisher, Yuki saves him and Ame becomes more confident. Yuki begs her mother to let her go to school like other children. Hana accepts on the condition that Yuki keeps her wolf nature secret. Though Yuki's classmates find her strange at first, she soon makes friends. However, Ame is more interested in the forest, and takes lessons from an old fox about survival in the wild.
+In 4th grade, Yuki's class receives a new transfer student, Souhei, who realizes something is strange about her. When he pursues her, Yuki transforms into a wolf and inadvertently injures him, leading to a meeting with his mother and teacher. Souhei tells them a wolf attacked him, absolving Yuki of blame, and the two become friends.
+Yuki and Ame fight over whether they are human or wolf. Two years later, while Yuki is at school, a storm gathers and Ame disappears into the forest to help his dying fox teacher; Hana goes after him. The other children are picked up from school by their parents, leaving Yuki and Souhei alone. Yuki reveals her secret to him by transforming into a wolf. Souhei tells her he already knows, and promises to keep her secret.
+As Hana searches the forest for Ame, she slips and falls unconscious. Ame finds her and carries her to safety. She awakens to see Ame transform into an adult wolf and run into the mountains. She realizes he has found his own path and accepts his goodbye.
+In the following year, Yuki leaves home to move into a dorm in junior high school. Ame's wolf howls can be heard far and wide in the forest. Hana, living alone in the house, reflects that raising her wolf children was like a fairy tale, and feels proud to have raised them well.
+
+
+QUESTIONS
+q: What does Hana do for work?
+a: ['Grows food for her family and repairs the house']
+
+q: How does Hanna meet Wolf Man?
+a: ['In college']
+
+q: What is the name of Hana and Wolf Man's daughter?
+a: ['Yuki']
+
+q: Where does Ame decide to go?
+a: ['The mountains']
+

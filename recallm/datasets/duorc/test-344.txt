@@ -1,0 +1,65 @@
+PARAGRAPH
+Columbia Airlines' Flight 409 is a red-eye Boeing 747-100 en route from Washington Dulles International Airport to Los Angeles International Airport. One of the passengers on board is a teenage girl named Janice Abbott (Linda Blair) who is sceduled to have a kidney transplant in L.A. and she is being wheeled onto the plane on a stretcher. Another passenger is the actress Gloria Swanson (herself) going to L.A. for another movie deal. Barney (Sid Ceasar) and Bill (Norman Fell) are two gambling friends whom are planning just another good time in California. Also on board are two nuns named Sister Beatrice (Martha Scott) and Sister Ruth (Helen Reddy) whom take pitty on the ailing Janice and Sister Ruth borrows a guitar and sings a song for Janice and the rest of the passengers.Meanwhile, Scott Freeman (Dana Andrews) is a businessman living in Santa Fe, New Mexico with an urgent sales meeting in Boise, Idaho. Failure to make this meeting threatens half his sales commissions for the coming year. He is en route in his private Beechcraft Baron.However, an occluded storm front has the entire West Coast socked in, with Los Angeles reporting zero visibility. That not only affects the Columbia flight but also precludes Freeman making his meeting in Boise. Both flights are diverted to Salt Lake City International Airport.Freeman's small plane and the giant Boeing 747 enter Salt Lake's entry pattern. Air traffic control assigns the jumbo to enter the pattern first at a low altitude of 10,000 feet, followed by the Beechcraft. As Columbia 409 is making its final approach, the co-pilot and First Officer Urias (Roy Thinnes) feels a vibration on one of the adjacent panels and rises to check it out. Freeman, anxious about his missed meeting, makes a call to the Salt Lake Tower asking about the delay. The tower confirms that he is second to land after the big jet. Freeman suddenly suffers a massive heart attack. As he grabs his chest, the Baron falls out of the pattern and descends into the approach of Columbia 409.The Beechcraft impacts the flight deck just above the co-pilot seat. Freeman is instantly killed by the impact as his small plane explodes. First Officer Urias, still standing, is instantly blown from the cockpit. Navigator and Flight Engineer Julio (Erik Estrada) is struck on the head by debris and killed. Captain Stacey (Efrem Zimbalist, Jr.) is struck in the face by debris and is blinded.The impact knocks a male flight attendant from the upper lounge down to the cabin below. Nancy Pryor (Karen Black), the head flight attendant, rushes up to the flight deck to find Urias gone, Julio dead, and Stacey badly maimed. Fortunately, the captain is able to engage the autopilot and the altitude hold switch to keep the aircraft in the air before losing consciousness.Nancy informs the Salt Lake control tower that the crew is dead or badly injured and that there is no one to fly the plane. She is told to stay on the same radio frequency. Nancy gives the assessment of the damage as a large hole on the starboard side of the flight deck that wiped out most of the instrument gauges over the engineer station.Joe Patroni (George Kennedy), Columbia's Vice President of Operations, is apprised of Flight 409's situation. He seeks the advice of Captain Al Murdoch (Charlton Heston), Columbia's chief flight instructor, who also happens to be Nancy Pryor's former lover. Patroni takes a personal intrest in Flight 409 because his wife (Susan Clark) is on board the plane with their eldest son.Patroni and Murdoch take the airline's executive jet to Salt Lake City. En route, they communicate with Nancy, who is still in the cockpit in the pilot's seat. While the autopilot is keeping the aircraft in level flight, it is inoperable for turns. Something has to be done, as the jet is heading into the Wasatch Mountains. After successfully guiding Nancy by radio on how to perform the turn, radio communications are interrupted and the Salt Lake tower is unable to restore contact.With the low-flying plane unable to turn, leaking fuel, and dodging the peaks of the Wasatch Mountains, an air-to-air rescue attempt is undertaken from a jet-powered HH-53 Super Jolly Green Giant helicopter flown by the USAF Aerospace Rescue and Recovery Service. While the pilot is preparing to be released on a tether, it becomes apparent that Flight 409 is heading straight into the side of a mountain. With radio communications still out, Nancy flies the plane unaided.The badly wounded Captain Stacey is able to give a cryptic clue regarding the decrease in airspeed during a climb in altitude. Nancy realizes that she must accelerate the engines to be able to climb over the mountain and successfully does so. After Flight 409 has leveled off, the pilot is released on a tow line from the helicopter towards the stricken airliner. Just as Nancy is helping him in, the release cord from his harness becomes caught in the jagged metal surrounding the hole in the cockpit. As he climbs in, his harness is released from the tether and he falls to his death.The only other person on the helicopter who can land a 747 is Captain Murdock. He is tethered to the rear of the helicopter, lowered to the jet and successfully enters it through the hole in the cockpit. Despite the controls being smashed and with serious damage to the landing breaks, he then lands the plane safely at Salt Lake City Airport, where the flight attendants successfully conduct an emergency evacuation of the passengers via the inflatable slides on the left side of the 747. Patroni is reunited with his wife and son, and Nancy and Captain Murdock walk away from the damaged plane.
+
+
+QUESTIONS
+q: Captain Stacy is able to give what regarding the decrease in airspeed during a climb in altitude?
+a: ['A cryptic clue']
+
+q: Is there a large hole on the leftt side of the flight deck?
+a: ['No']
+
+q: Where is Freeman headed, for an urgent business meeting?
+a: ['Boise Idaho']
+
+q: How is Captain stacy blinded?
+a: ['stuck in the face by debris']
+
+q: Where are Columbia 409 and Freeman's Beechcraft diverted to?
+a: ['Salt lake city international airport']
+
+q: Where is the control tower?
+a: ['Salt Lake']
+
+q: Who called Salt Lake control tower?
+a: ['Scott Freeman']
+
+q: The aircraft dodges which mountains?
+a: ['Wasatch Mountains']
+
+q: After speaking with Pryor, where is the jet heading?
+a: ['Salt Lake city']
+
+q: Who is flying the Beechcraft?
+a: ['Scott Freeman']
+
+q: What happened to the crew?
+a: ['They are dead']
+
+q: Who is the chief flight instuctor?
+a: ['Captain Al Murdoch']
+
+q: What happened to the plane?
+a: ['The Beechcraft impacts the flight deck just above the co-pilot seat.']
+
+q: Where do Patroni and Murdock take the airline's executive jet to?
+a: ['Salt Lake city']
+
+q: Who is Joe Patroni?
+a: ["Columbia's Vice President of Operations"]
+
+q: What happens to Freeman before he lands?
+a: ['Heart attack']
+
+q: What is Captain Murdock tethered to?
+a: ['The rear of the helicopter']
+
+q: Where does Captain Murdock land the plane safely?
+a: ['Salt Lake City Airport']
+
+q: The HH-53 helicopter is flown by who?
+a: ['USAF Aerospace Rescue and Recovery Service']
+
+q: What is the flight name?
+a: ['Flight 409']
+

@@ -1,0 +1,38 @@
+PARAGRAPH
+A Secret Service agent (Maurice O'Connell) barely escapes from an English country house, in which satanic rituals are celebrated. Before he dies of his wounds, he reveals to his superiors that four prominent members of society â a government minister, a peer, a general and a famous scientist â are involved in the cult, led by Chin Yang (Barbara Yu Ling). Photos of the four dignitaries taken by the agent are developed, and a fifth photo, apparently showing an empty doorway, is assumed to be a mistake. In order to avoid any reprisals by the minister, secret service official Colonel Mathews (Richard Vernon) calls in Scotland Yard's Inspector Murray (Michael Coles) to work on the case independently. Murray (who had appeared in the preceding Dracula film) suggests consulting noted occult expert Professor Lorrimar Van Helsing (Peter Cushing).
+The cult kidnaps the Secret Service secretary Jane (Valerie Van Ost), who is later bitten by Dracula (Christopher Lee). Murray, Secret Service agent Torrence (William Franklyn) and Van Helsing's granddaughter Jessica (Joanna Lumley) arrive at the country house. They separate; Murray and Torrence investigate inside the house, where they meet Chin Yang. Jessica enters the house through the cellar, where she finds Jane chained to a wall; she is revealed to be a vampire. The ensuing commotion awakens other female vampires who are likewise imprisoned, but they attempt feed on Jessica. The agents hear Jessica's screams and come to her rescue. Murray kills Jane with a stake, and he escapes the grounds with Jessica and Torrence.
+Van Helsing visits his scientist friend Julian Keeley (Freddie Jones), whom he recognized among the four conspirators. The mentally unstable Keeley is involved in bacteriological research designed to create a virulent strain of the bubonic plague. Van Helsing is shot by a guard and passes out. When he revives, Keeley's dead body hangs from the ceiling and the plague bacillus is gone.
+Keeley referred to the 23rd of the month, which Van Helsing discovers is the "Sabbath of the Undead". Keeley's research notes lead Van Helsing to the reclusive property developer D. D. Denham, who funded Keeley's research. Van Helsing speculates that the fifth photo of an empty doorway may actually have been of Dracula, whose image can not be captured; he suggests that Dracula wants to exact revenge on humanity. Van Helsing visits Denham in his headquarters (built on the church yard where Dracula died in the previous film) and discovers that he is actually Count Dracula. He tries to shoot Dracula with a silver bullet but is beaten by the Count's conspirators. Dracula decides that killing Van Helsing would be too simple and has him moved to the country house.
+Jessica, Murray, Mathews and Torrence, while observing the country house, are attacked by snipers. Torrence and Mathews are killed, and Murray and Jessica are captured. Murray awakes in the cellar and escapes the clutches of Chin Yang, revealed to be a vampire herself. After staking her through the heart with a mallet, he destroys the other female vampires with clear running water from the fire sprinkler system.
+Dracula arrives at the house with Van Helsing. He announces to his henchmen that Jessica will be his consort, uncorrupted by the plague that his "four horsemen" â including Van Helsing â will carry out into the world. The conspirators, who had considered the plague a threat not to be used, begin to question their master. Dracula's hypnotic command brings them back into his control. He commands John Porter (Richard Mathews) to break the vial, releasing the bacteria and immediately infecting the minister.
+Murray overpowers a guard in the computer room. The guard's metal baton smashes a computer panel causing an explosion that starts a fire and unlocks the ritual room. Two uninfected conspirators escape, Murray rescues Jessica, and the infected minister and the plague bacteria burn in the fire. Dracula attacks Van Helsing, but his prey escapes through a window into the woods. Van Helsing lures Dracula into a hawthorn bush where he is entangled. Van Helsing grabs a fence post and drives it through his heart. Dracula disintegrates into ash. Van Helsing retrieves Dracula's ring from the ashes.
+
+
+QUESTIONS
+q: What is the name of the occult expert ?
+a: ['Lorrimar Van Helsing']
+
+q: What is Keeley working on?
+a: ['Bacteriological research to create a virulent strain of Bubonic Plague']
+
+q: What movie is "The Satanic Rites of Dracula" sequel to?
+a: ['The Legend of the 7 Golden Vampires']
+
+q: What burns with Dracula in the conclusion?
+a: ["Dracula's ring"]
+
+q: What is Christopher Lee's Character's plan?
+a: ['To release the plague and exact revenge on humanity']
+
+q: What is Dracula's plan ?
+a: ['To exact revenge on humanity']
+
+q: Where does Hansen escape from ?
+a: ['Dracula']
+
+q: What is found in the Pellham House basement?
+a: ['Jane chained to the wall and already turned into a vampire.']
+
+q: How many characters die of asphyxiation?
+a: ['zero']
+

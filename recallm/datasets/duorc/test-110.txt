@@ -1,0 +1,25 @@
+PARAGRAPH
+Hal Larson (Jack Black) is a superficial man whose fixation on the physical beauty of women gets in the way of seeing their inner beauty. Hal and his equally shallow friend, Mauricio Wilson (Jason Alexander), spend their nights obnoxiously hitting on beautiful women at nightclubs. Hal's work life is steady, but he is dismayed after being passed over for a long-sought promotion.
+Hal becomes trapped in an elevator with famous American life coach Tony Robbins. While waiting for the elevator to be repaired, Robbins sympathizes with Hal's disappointment but tries to figure out his ideas about women. He hypnotizes Hal into only seeing a person's inner beauty. Hal does not realize he's been hypnotized and later meets Rosemary (Gwyneth Paltrow), daughter of the president of the company where he is employed. Rosemary is morbidly obese, but Hal sees a slender and beautiful trophy blonde. He is immediately smitten by her. His boss is not certain about Hal dating his daughter, thinking that Hal may be trying to climb to the top of the corporate ladder. Used to being overlooked due to her appearance, Rosemary initially interprets Halâs interest as mocking, but begins to realize his feelings for her are sincere. After apologizing to him, they begin to date, which includes a bike ride with Walt (Rene Kirby).
+Mauricio, worried about Hal's new taste in women, convinces Robbins to give him the trigger phrase to undo the hypnosis. Mauricio phones Hal, who is on a date with Rosemary, and says the trigger phrase, which serves to break Hal's hypnosis. Mauricio confesses to Hal the truth about Robbins' hypnotherapy, but Hal does not believe until he runs into a woman who initially appeared beautiful to him but whom Hal now sees in her true, unattractive state.
+Hal begins to avoid Rosemary, who becomes melancholic without him around. Distraught that he was not seeing the "real" Rosemary, Hal accepts a dinner invitation from his neighbor, Jill. The two dine together and Jill tells Hal that she has observed him overcoming his shallow nature and is interested in dating him now.
+Hal realizes his true feelings for Rosemary who has, coincidentally, arrived at the same restaurant with her family and sees Hal and Jill seated together. Assuming the worst, Rosemary leaves in tears. Not recognizing Rosemary, Hal walks right by her on his way to the pay phone to, ironically, reassure her of his feelings, after refusing to date Jill because of his feelings for Rosemary. Confused and distraught, Rosemary calls Hal a "psycho" over the phone and effectively breaks up with him.
+Five days later Steve informs Hal that Rosemaryâs Peace Corps partner, Ralph, wants to be in a relationship with her again. Hal attempts to find Rosemary, but instead encounters a young patient named Cadence at the hospital where Rosemary volunteers. Previously, due to Robbinsâ hypnosis, Hal saw Cadence as a perfect little girl; he now sees that there are severe burns all over Cadenceâs face. Inspired by Cadence, Hal changes his views on the outer appearances of people in general.
+Rosemary decides to leave the country to rejoin the Peace Corps. Hal, during his search for Rosemary, finds that Mauricio had his own reason for stopping Hal's hypnosis: He has a vestigial tail, which has prevented him from ever getting close to a woman. Mauricio confesses he was jealous of Hal's happiness and is afraid to start a relationship with a woman. Hal convinces Mauricio to accept his abnormality, with confidence.
+Hal makes up with Mauricio and decides to reconcile with Rosemary. He heads to the Peace Corps and confronts Ralph, believing he and Rosemary got back together. Ralph informs Hal that Rosemary's mother forbade him from seeing her again. Hal arrives at the home of Rosemary's parents, where a bon voyage party for Rosemary is underway. Rosemary initially rebuffs Hal's presence, but then accepts his apology when Hal professes his love for her. Rosemary informs Hal she is still leaving on her Peace Corps mission. Hal says he is coming, too, having just been sworn into the Peace Corps right before arriving to the Shanahan's home.
+Hal and Rosemary reconcile, cheered by the crowd as they kiss. He tries to carry her bridal-style to the car, but finds he canât lift her, so she carries him instead. As they drive off, Mauricio meets a woman who loves dogs and the two walk off together as he wags his "tail."
+
+
+QUESTIONS
+q: Who does Hal meet while stuck in an elevator?
+a: ['Tony Robbins']
+
+q: What did Mauricio think when he saw Hal dancing with a fat woman?
+a: ["worried about Hal's new taste in women"]
+
+q: Where did Hal first meet Tony?
+a: ['trapped in an elevator']
+
+q: What is the name of the famous American life coach Hal meets?
+a: ['Tony Robbins']
+

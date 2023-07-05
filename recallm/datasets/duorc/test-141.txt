@@ -1,0 +1,47 @@
+PARAGRAPH
+In the turbulent days in which France was transitioning away from Napoleonic rule, Edmond Dantes (Caviezel) and his closest friend, Fernand Mondego (Pearce), aspire to gain the same two things: the next captaincy of a ship in Morel's (Godfrey) Marseille-based shipping business and the hands of the lovely Mercedes Iguanada (Dominczyk).Dantes and Mondego are diverted to Elba on a shipping mission because their captain requires medical attention. Assistance comes, unexpectedly, in the form of the personal physician of the exiled Napoleon (Norton). In return for the use of his doctor, Napoleon demands that Dantes deliver a letter for him and that the mission and the letter be kept a secret. Unknown to the illiterate Dantes, the letter will provide Bonapartists in Marseille information of pertinence to a possible rescue of Napoleon. Also unknown to him, Fernand has discovered and read the letter and has full knowledge of its contents.On his return to France, Dantes's fortunes peak as Morel names him captain of one of his ships and an improved station in life prompts Edmond to propose to Mercedes, who accepts the offer. In the process of being beaten out of the two things that matter most to him in life, the jealous Fernand knows that the letter Dantes is carrying can be used to falsely implicate him in an act that might be viewed by local authorities as treasonous. Fernand, and his confidant, shipping colleague Danglars (Woodington), betray Dantes by making the magistrate Villefort (Frain) aware of the letter.Dantes is taken by local authorities in front of Villefort. Despite his determination that Dantes is innocent of any crime, he becomes edgy upon learning that the letter was addressed to Noirtier Villefort, a known Bonpartist, and, consequently, a politically inconvenient father for a young man aspiring to a prominent law career in post-Napoleonic France. To eliminate all evidence that his father was involved in plans for an escape attempt by Napoleon from Elba, Villefort burns the letter and has Dantes arrested and taken to the Chateau D'If, a maximum security prison, where Dantes rots for over a decade, with no prospects of getting out in the imaginable future.Dantes befriends a fellow prisoner named Abbe Faria (Harris), who is a great scholar and who, very gradually, transforms the unworldly Dantes into a wise, learned and cultivated man. Faria is an old man, however, and when he comes to realize that he is fatally ill, he tells Dantes of a great treasure and where it is buried.Secretly placing himself in Faria's burial sack, which is to be thrown over the cliffs and into the river alongside the prison, Dantes manages to escape. After a dangerous ordeal in which he mingles with, but ultimately befriends, an enterprising, yet violent, group of smugglers led by Luigi Vampa (Blanc), he makes his way back to Marseilles. Dantes now turns his attention to claiming the treasure Abbe Faria had referred to.After locating the treasure, Dantes's riches are suddenly boundless, but rather than retiring to a life of leisure, his new raison d'etre is vengeance, with the objects of his revenge being Fernand (now a count), Danglars (now a baron), and Villefort (now a chief prosecutor), all of whom live in Paris. As they are now members of Parisian high society, Dantes realizes that to gain access to them, he'll need to reinvent himself, and uses some of his newfound riches to purchase a huge estate near Paris. He then proclaims himself to be the Count of Monte Cristo, and although nobody knows of him, his claim is very credible in view of his visibly substantial wealth.The Count plans a party at his new estate and invites many members of Parisian high society, including all the objects of his vengeance. Now having considerable access to each of them, one at a time, he successfully sets them up for failure. Danglars is tricked into an act of embezzlement and Villefort is tricked into confessing to conspiracy to have his own father murdered within earshot of local authorities.The Count gains close access to Fernand and Mercedes, who are now husband and wife, by paying the smuggler Luigi Vampa to pretend to kidnap their son, Albert. This enables the Count himself to save Albert. Having saved their son, the Count is now welcome in the home of Fernand and Mercedes.Taking note of his mannerisms, Mercedes soon works out that the Count is actually Edmond Dantes, but the Count still has a bone to pick with her, as she married Fernand very shortly after his arrest and had Fernand's son, Albert (Cavill), not long after that. This seemed a sign of her infidelity, but the Count ultimately learns that Villefort had announced that Dantes was dead shortly after the onset of his imprisonment. Fernand, it turns out, had bargained for this announcement, from which he hoped to gain the hand of Mercedes, by murdering, at Villefort's request, Villefort's father. Now understanding that Mercedes had believed him dead, the Count is less incensed by her marriage to Fernand, but still finds the very short period of time between his imprisonment and their marriage very unsettling.The Count is about to turn his back completely on Mercedes. But then, Fernand's financial ruin from compulsive gambling compels him to leave Paris to evade his debtors, against whom he has committed crimes. Unwilling to follow Fernand with their son, Mercedes, finally, tells the Count the truth ---- she had married Fernand because she had, unknown to the Count, been impregnated by Dantes shortly before he was arrested. She wanted Albert to have a father. In truth, however, Albert's biological father is the Count himself.Finally willing to forgive her, the Count falls in love all over again with Mercedes, and, with those who had betrayed them out of the way, they resolve to live their lives, casting aside the dark and regrettable episodes which had robbed them of so many happy times with each other and with their son Albert.
+
+
+QUESTIONS
+q: Whose body does Edmond switch himself for in order to escape?
+a: ['Abbe Faria']
+
+q: Who does Edmond attempt to kill?
+a: ['Fernand']
+
+q: Where does Edmond Dants seek medical help for his ailing captain?
+a: ['personal physician of the exiled Napoleon']
+
+q: What are the pirate preparing to do?
+a: ['to execute a fellow pirate']
+
+q: What character did Guy Pearce portray?
+a: ['Fernand Mondego']
+
+q: Who is the leader of the pirates?
+a: ['Luigi Vampa']
+
+q: What is Edmond's position on the ship?
+a: ['captain']
+
+q: Whose son is Albert?
+a: ['Fernand and Mercedes']
+
+q: Who are complicit in Edmond's betrayal?
+a: ['Danglars and Villefort']
+
+q: Who hands Edmond a letter?
+a: ['Dantes']
+
+q: Who was Edmond's letter addressed to?
+a: ['Napoleon']
+
+q: Who is the company owner?
+a: ['Danglars']
+
+q: Who wins the fight between Edmond and Fernand?
+a: ['Edmond']
+
+q: How did Edmond ingratiate himself to the Mondegos?
+a: ['by staging the kidnap and rescue of their son']
+

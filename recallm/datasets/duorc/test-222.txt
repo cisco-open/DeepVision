@@ -1,0 +1,50 @@
+PARAGRAPH
+As the sun rises over the city of Mumbai, an ordinary day begins. A jogger suddenly finds himself being stalked by a dangerously armed hoodlum and runs into a taxi driver, whom he begs to save him. The taxi driver drives him to a building... and traps him there! The jogger discovers that it was all a set up by the taxi-driver, the dreaded gangster Munnabhai, and the hood, Munna's sidekick "Circuit" Sarkeshwar, had been chasing him to lead him right into Munna's clutches. It's all in a day's work for Munna, until he receives a message from his parents. Then, commotion runs riot as Munna and his gang dress themselves up as doctors and remodel their headquarters to resemble a hospital ("Subhah Ho Gaye Mamu")...Every year, Hari Prasad Sharma and his wife Parvati leave their home village and go to Mumbai to visit their son Murli. They are extremely proud of their son, who has fulfilled their expectations and become a doctor running his own hospital, named the Hari Prasad Sharma Charitable Hospital... or so they believe. Murli had instead become the gangster Munnabhai, but he cannot bear to shatter his parents' dreams, and so whenever they come to visit he sets up this medical masquerade; he dresses up his building as the Hari Prasad Sharma Charitable Hospital and all his gang act as doctors or patients. Therefore, this occasion is no different; everything is set up and everyone acts their part, and with a few criminal interruptions, everything goes smoothly.Munna's parents have arrived this time for a purpose: they wish to find a girl to marry their son. While on a walk in a Mumbai park, Hari Sharma bumps into an old friend, Dr. Asthana, who used to work in their village but now works to the city. The two exchange friendly words and talk about their children; when Hari hears that Asthana's daughter is also a doctor, he decides to have his son marry this girl. Munna, remembering that Asthana's daughter was his childhood pal Chinky, attempts to meet her and explain everything; unfortunately, Dr. Asthana discovers Murli's secret identity and angrily reveals it to Hari and Parvati, insulting them as well. Hari is particularly hard-hit that his son lied to him; he and his wife cut his visit short and leave for home.That night, Munna and Circuit sit sadly in front of their home. Munna, a little drunk, resolves to truly fulfill his father's dream by becoming a doctor. Circuit tells him to sleep the fiasco off, but the next morning Munna's band arrives at the Imperial Institute, the best medical school in Mumbai, to make enquiries. They learn from Dr. Rustom Pavri that to get into the Institiute, he must write and pass an entrance examination, with a mark above 90%. Munna repays Dr. Pavri for this helpful advice by kidnapping Dr. Pavris Poppa, and blackmailing him into assuming Munna's identity and taking the entrance examination. Thus, Munna passes the examination with flying colors, and is joyfully is on his way to fulfilling his fathers dream ("M Bole To").On Munna's first day at the Institute, he immediately causes a stir. He frightens a doctor into treating a young man who had attempted suicide (the doctor had initially refused as the youth's mother hadnt filled out the necessary administrative forms); his class mistakes him for their teacher; he moves into a college room and takes it over completely; he scares the senior students when they attempt to rag him; and on top of that, he discovers that the Institute's Dean is none other than Dr. Asthana! Later on, though, he meets Dr. Suman, who unbeknownst to him is his old friend Chinky.As time progresses, Munna's antics make him popular with his students. He arranges with Circuit to bring an extra body to the Institute for dissection purposes (a concept which fails, as Circuit picks up a Chinese tourist and Munna himself is unable to dissect the body); he meets the suicidal patient he saved earlier and cheers him up with a song (); he hugs a old bitter and underappreciated janitor, cheering the fellow up significantly; and he yells at a doctor for treating Anand Banerjee, a comatose patient, like a corpse, and takes Anand into his own personal care. Although these antics slowly endear Dr. Suman to him, they slowly drive her father mad; as Dr. Asthana places a great emphasis on his students to maintain a formal relationship with the patient, he considers Munna a troublemaker and seeks to eject him. He sets up the most difficult examination in the Institute's history to prove Munna unqualified and get rid of him... which leads Munna to send Circuit to pay a visit to Dr. Pavri's Poppa once again!Having overcome that hurdle, Munna tries to contact Chinky again. This time, Dr. Asthana and Suman try a different method: they send a moll to act as Chinky, and to act in such a foul manner that Munna will be discouraged from marrying her, and so discontinue the medical course. The idea works, Munna is no longer interested in Chinky; but to Dr. Asthana's chagrin he falls in love with Dr. Suman! Later, Munna meets Dr. Suman's patient Zaheer, a depressed young man who has been diagnosed with stomach cancer. Munna later sends Circuit with some girls to entertain Zaheer, cheering him up significantly. This is the last straw for Dr. Asthana, and he attempts to pass Munna off with a degree and get him out. Although he had cheated before, Munna refuses this backhand approach; he eventually manages to stay on by throwing himself over a ledge and severely injuring himself, thereby confining him to the Institute's hospital. Later, Poppa is admitted to the Institute, where even his son is unable to save him; but Munna and Circuit are able to bring life back into Poppa with a board game!Munna is busy memorizing the answers for Dr. Asthana's quiz, kindly provided by Dr. Pavri in gratitude for saving his father, when Dr. Suman brings distressing news: Zaheer is in a terminal condition and wishes to see him. With his last breath, Zaheer begs Munna to save him, eventually dying in Munnas arms. The incident shakes Munna so much that he can't get through Dr. Asthana's quiz. Disgraced by Dr. Asthana a second time, he leaves the Institute. Then the whole Institute is shaken as Anand Banerjee, whom had been given up as a lost cause, attempts to follow Munna and bring him back. Encouraged by this, Dr. Suman publicly rebukes her father for chasing away a man who only tried to make the patients happier and more cheerful.That night, Munna and Circuit drown their sorrows in alcohol, but when they reach home they find a surprise: Munna's parents wait for them at their headquarters with open arms. The Sharmas have been told of their son's exploits, and Hari Prasad Sharma forgives his son everything, being now extremely proud of his son for having changed so many lives for the better. Dr. Suman then reveals herself to be Chinky, and falls into Munna's arms.The film ends with a series of photographs describing the fate of the characters: Munna and Chinky got married and had children; they run a hospital in Munnas village, where they prescribe medicine, as well as lots of laughs and hugs. Circuit, too, married, and had a son, aptly named Short Circuit. Dr. Asthana retired from the Institute, leaving Dr. Pavri in charge, and runs Munnas hospital, finally having become informal and good-humoured. Munna finally achieved his dream of an MBBS (Married with Bouncing Babies and Smiles) after all. The photos are shown by Anand, now fully restored to health, as he narrates the story to a group of children.
+
+
+QUESTIONS
+q: Who is the cancer patient?
+a: ['Zaheer']
+
+q: Who is Munna's right-hand man?
+a: ['Circuit', '"Circuit" Sarkeshwar']
+
+q: Why did Munna leave college?
+a: ['Shamed into leaving']
+
+q: Bhai encourages patients to make life changes in order to avoid what?
+a: ['selective', 'There is not Bhai']
+
+q: How do Dr. Suman and Chinki know each other?
+a: ['college', 'Dr. Suman is Chinky.']
+
+q: Where do Munna and Suman open a hospital?
+a: ["in Munna's home village"]
+
+q: Who taught Bhai "Jadoo Ki Jhappi"?
+a: ['his mother', 'There is no Bhai']
+
+q: Who does Bhai effusively thank?
+a: ['There is no Bhai', 'Bhai thank Lage Raho']
+
+q: Who does Munna marry later?
+a: ['Dr. Suman']
+
+q: Who dies in Munna's arms?
+a: ['Zaheer']
+
+q: What is Murli Prasad Sharma's nicknmame?
+a: ['"Munna Bhai"', 'Munnabhai']
+
+q: Where do Munna and Suman implement Munna's ideas daily?
+a: ['hospital']
+
+q: Who gives a heartfelt speech?
+a: ['Suman give the heart speech', 'Dr. Suman']
+
+q: Who plays Murli Prasad Sharma?
+a: ['Sanjay Dutt']
+
+q: Munna decides to go to medical college to obtain what kind of degree?
+a: ['MBBS']
+

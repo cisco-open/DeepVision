@@ -1,0 +1,47 @@
+PARAGRAPH
+The movie opens with an older man and his dog out on a winter morning hunt, when a strange sight catches his eye. A serving tray on a stand in the middle of a frozen lake. He steps up to investigate, but notices the phrases "Come and See" on several trees surrounding the tray. When he lifts the lid, his eyes widen, but his fate is not shown.Detective Aidan Breslin (Dennis Quaid) is an emotionally detached widower whose life with his two sons have been devoid of personal contact since the death of his beloved wife. He receives a call of a possible murder. He arrives at the lake and is instead asked to identify a man's teeth, due to his former dental forensics expertise it is as yet undetermined if the man is in fact dead. Using the evidence on the teeth, he is able to determine the sex, race, diet and approximate age of the victim which matches that of a man who had earlier been reported as missing, but they have no evidence to what happened to him, and the only clue were that trees surrounding him reading "Come and See" on the north, south, east and west banks. The bizarre murder of a beloved wife and mother of three (including an adopted Asian daughter Kristin) displays prominent features of a ritualistic killing. She had been strung up on a series of hooks, the bedroom painted red and according to an autopsy report, she had been drowned by her own blood due to a precise stabbing through the lung and heart walls, as well as a bizarre twist that she had been pregnant and the fetus was removed. On the walls of the rooms "Come and See" is displayed prominently on all four walls. Using physical evidence, Breslin is able to determine that there were four attackers, and they used a tripod for a camera to record the murder. Breslin attempts to console the grieving daughters, but is interrupted by the arrival of their father.Meanwhile, Breslin's home life finds that though he attempts, his work continually interrupts his chances of attaching emotionally with his sons Alex and Sean. Another murder occurs, with the same M.O. through a man who is hanging in a living room surrounded by black colors. This leads Breslin to a tattoo parlor and finds the builder of the hook rigs who confirms he had constructed four in total. Another murder occurs, but this time in a hotel room with no hook rigging and only three notices of "Come and See" on the walls. Sean's insights point Breslin to the Bible and he discovers that these killings are much like the Four Horsemen of the Apocalypse, the colors of the room corresponding to the colors of the horsemen. "Come and See" goading them toward the lifting of the veil and the coming of the Apocalypse. Kristin contacts him unexpectedly and he goes to meet with her, and console her in her mourning. However during the conversation, she shocks Breslin by presenting her sibling's fetus and revealing she was involved in the murders. After her arrest, her interrogations make her appear unhinged, almost wanting for death. Breslin assumes that she is the one representing the Horseman of Death, as she approached each of the victims and delivered the killing blow to them.Alex, growing more and more distant from his father after Breslin insisted not to continue to celebrate their late mother's birthday every year slowly starts to open himself up to his father. Breslin returns the feelings to his children and attempts to make plans with them, however further reports pull him away. A failed attempt to catch the Horsemen at their home base grants further clues. A website, which Breslin noticed the homepage of before the computer was destroyed, and a partial hard drive recovery which leads them to that website in which a future date is displayed. One boy, Cory, who had come out as gay to his family confronts his homophobic brother Taylor, and turns out to be one of the Horsemen. After stabbing a man, but leaving him alive to provide his description to police and takes Taylor. Taylor awakens to find that he is hooked up into a rack with his eyes fixed open in the middle of a green lit room, as his brother comes out of the darkness and while wielding a bone saw he proceeds to cut himself in the chest and kill himself before Taylor's eyes while trying to cut his own heart out. The following morning, a traumatized Taylor is questioned by Breslin, who goes over to Kristin's house and he and his partner Stingray discover the video recordings of her mother's murder, he then learns that she had been sexually abused by her father, and has him arrested. Breslin's boss tries to get him onto another case, but he becomes convinced that there is still another pending victim as four rigs had been constructed and only 3 had been used in the 4 recent murders. He approaches Kristin that the third victim was the Horseman Pestilence. The third Horseman identified, she refuses to relinquish who their leader is. He comes to the conclusion that due to the nature of the first murder, he was meant to be assigned to the case all along, and becomes concerned that his family will be targeted next.Stingray is attacked when investigating the Breslin home at his request, and when Aidan arrives he searches the house, entering his son's room for the first time since his wife's passing, only to discover to his horror that everything in the room, floor, ceiling, computer, bed spread are white in color; the color of the Horsemen leader. The clues point him to a theater called the Metropolitan, which had earlier been confirmed to be where Aidan first met his wife. When he arrives, he is knocked unconscious by an unseen assailant, when he comes round he finds himself handcuffed to the stadium seating as he finds his son dangling over the stage on the final of the four rigs. Watching, terrified as Alex starts bleeding to death, gives him a speech regarding to his own emotional detachment after being the only one present when his mother died. As Alex succumbs to his injuries, Breslin rips his handcuffs off the seating and fires his gun to detatch the rigging from the ceiling. Alex awakens weakly as his father holds him, but it is undetermined if he survives. In the final scene, Sean wakes up from a bad dream as his father comforts him quietly. When he asks where Alex is, Breslin replies: "Don't you worry about Alex. Alex is going to be okay." In the director's commentary, however, Jonas Akerlund stated," There is no happy ending, however you twist and turn it. There is no happy ending so, to me, Alex had to die in this movie."
+
+
+QUESTIONS
+q: WHERE DOES AIDEN GO AFTER VISITING ALEX'S ROOM ?
+a: ['a theater called the Metropolitan']
+
+q: what was the name of bizaare murder of women ?
+a: ['the Four Horsemen of the Apocalypse']
+
+q: Who is Cory's brother?
+a: ['Taylor']
+
+q: Whose murder served as punishment for her abuse, according to Kristen?
+a: ["her mother's"]
+
+q: How does Cory kill himself?
+a: ['With a bone saw to the chest']
+
+q: WHO REPRESENTED THE HORSEMEN?
+a: ['the killers']
+
+q: At whose home does Sean wake from a bad dream?
+a: ["His father's home"]
+
+q: Who produces the missing fetus?
+a: ['Kristin']
+
+q: WHAT COLOUR IS ALEX'S ROOM PAINTED ?
+a: ['White']
+
+q: What words are painted on several trees that the old man and the dog see?
+a: ['Come and see']
+
+q: What are the killings patterned after?
+a: ['The Four Horsemen of the Apocalypse']
+
+q: Who puts a sedative in Taylor's drink?
+a: ['Cory']
+
+q: The similar hook contraption leads Breslin where?
+a: ['A tattoo parlor']
+
+q: whats the name of Aidan Breslin sons?
+a: ['Alex and Sean']
+

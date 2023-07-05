@@ -1,0 +1,24 @@
+PARAGRAPH
+Mary Horowitz, a crossword puzzle writer for the Sacramento Herald, is socially awkward and considers her pet hamster her only true friend.
+Her parents decide to set her up on a blind date. Mary's expectations are low, as she tells her hamster. Mary is pleasantly surprised when her date turns out to be handsome and charming Steve Miller, a cameraman for the television news network CCN. Steve does not reciprocate her feelings. After an attempt at an intimate moment fails, in part because of her awkwardness and inability to stop talking about vocabulary, Steve fakes a phone call about covering the news out of town. Trying to get Mary out of his truck, he tells her he wishes she could be there.
+Mary believes him and decides to pursue him. Mary's obsession gets her fired when she creates a crossword titled "All About Steve". Following her termination, Mary decides to track Steve around the country in the hopes of winning his affection. She is encouraged by CCN news reporter Hartman Hughes, who hopes to use Mary's encyclopedic knowledge in his reports to help himself get a promotion to become an anchor. On the road, Mary annoys some bus passengers so much, the driver abandons her. She hitchhikes with a trucker named Norm, then meets and travels with a pair of protesters, Elizabeth, a ditzy but sweet and likeable girl, and Howard, who sells apples he carves into celebrities. She gradually grows close to the two.
+Steve and crew end up covering a breaking news story: an old mine collapsed with numerous deaf children stuck inside. Initially, it appears that the children are rescued. Mary, who arrives on the scene, accidentally falls into the mine shaft as well while making a beeline for Steve. It turns out that not all the children have been rescued, and Mary is trapped with one left behind. Steve begins to realize that Mary, in her own unique way, is a beautiful person. Just as Mary figures a way out, the two are joined by Hartman, who is made to feel guilty by Elizabeth and Howard for getting Mary into this predicament. Mary's rescue plan works, but she lets Hartman take the credit. Mary finally realizes she does not need Steve to be happy. She states, "If you love someone, set him free; if you have to stalk him, he probably wasn't yours in the first place."
+After the end credits, a competitive TV reporter, in despair that Hartman got popularity by falling into the mine while trying to save Mary, also jumps into the mine.
+
+
+QUESTIONS
+q: What is Mary's job?
+a: ['crossword puzzle writer']
+
+q: What did Mary fall into?
+a: ['mine']
+
+q: Who is Mary set up on a blind date with?
+a: ['Steve Miller']
+
+q: What is Hartman Hughes prfession in this movie?
+a: ['CCN news reporter']
+
+q: Who is feeling guilty that Mary is in the mineshaft?
+a: ['Hartman Hughes']
+

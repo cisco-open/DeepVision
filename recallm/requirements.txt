@@ -1,0 +1,17 @@
+langchain==0.0.157
+neo4j
+chromadb==0.3.21
+transformers
+sentence_transformers
+openai
+deprecated
+bs4
+readability-lxml
+stanza
+nltk
+datasets
+
+# For MPT7B
+Xformers
+accelerate
+einops

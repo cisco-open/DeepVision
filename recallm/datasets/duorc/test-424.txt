@@ -1,0 +1,92 @@
+PARAGRAPH
+In a small nameless town in the Deep South, "Bubba" Ritter (Larry Drake), a large but gentle retarded man, befriends young 10-year-old Marylee Williams, (Tonya Crowe). Some of the townspeople are upset by the friendship between Marylee and Bubba, and the brooding, mean-spirited postman Otis Hazelrigg (Charles Durning) is the worst. When Marylee is almost killed by a vicious dog (Bubba saves her) and lies unconscious at a doctor's office, Otis promptly assumes that Bubba has murdered (and likely raped) her. Otis and three friends - gas station attendant Skeeter Norris and farmer-cousins Philby and Harliss Hocker - form a lynch mob. They chase Bubba to his mother (Jocelyn Brando)'s house. She believes her son and they play "the Hiding Game": disguising Bubba as a scarecrow and posting him in a nearby field to wait for the drama to cool down. Otis' bloodhounds sniff Bubba out, however, and all four vigilantes empty multiple rounds from their guns into him, killing him. Afterwards, they discover that Marylee is in fact alive, thanks to Bubba, whom they have just murdered. Acting fast, Otis places a pitchfork in Bubba's lifeless hands to make it appear as if he were attacking them with a weapon.In court, Otis and his fellow vigilantes swear they acted in self-defense. Bubba's mother denounces her son's killers before the courtroom, stating, "You may think that you're getting off free, but there's other justice in this world, besides the law!" only to be ejected by the bailiff. Sam Willock, the local district attorney, does not believe the vigilantes' self-defense story, but he cannot make the murder case stick due to a lack of witnesses. The vigilantes go free, but Sam calls after them: "Hazelrigg, just a minute. I want to tell you "men" one thing. I think you executed that man. And I promise you this; If I ever find a single shred of evidence, I'll see every one of you on Death row!"That night, Otis and the rest of his friends celebrate their freedom at a local bar with several locals who stand by them and bad-mouth the simpleton Bubba. A mysterious wind blows through the deserted town's main street and through the town itself. Meanwhile, a recovered Marylee sneaks out of her house and travels to the Ritter house where Mrs. Ritter tells her that Bubba is no longer around, but that he will return.A day or two later, Harliss finds a scarecrow in his fields like the one Bubba was hidden in. Neither Harliss nor his wife can figure out how it got there as neither of them placed it. That evening, the scarecrow has disappeared. As he begins his walk up the steps to his front door, the wood chipper begins to run, and a light comes on in the barn. At first, Harliss believes Sam has invited himself over, walks to the barn, and shuts off the chipper. As he investigates, he climbs up the hayloft to confront what he now believes is the district attorney snooping around his barn. Walking on the support beam, he is startled as the wood chipper is mysteriously reactivated. Losing his balance, he grabs the cord of the light that is hanging in the barn. Screaming, he calls for his wife. No longer able to hang on as the sparks from the light shower him, he loses his grip on the light and dies after falling into the chipper.The next morning, Skeeter and Philby inform Otis of Harliss's mysterious death at the boarding house where Otis resides. The trio investigate, and find the thresher is no longer operational. Otis figures it must have run out of gas, but when its tank proves to be nearly full, he jumps to another conclusion. The next morning, he visits Mrs. Ritter and accuses her of killing his friend, although he cannot prove anything. She denies the charges, but says that all four of the men will get their just deserts promptly enough (and also implies that Otis is a pedophile).That evening, a Halloween costume party is held by the town at the local elementary school, and most of the town children attend, including Marylee. When she is alone in a hallways playing 'hide and seek' with her school friends, Otis appears and asks her questions about what she may know about Harliss' death. Marylee becomes defensive and refuses to answer. When Otis pesters her, Marylee exclaims that she knows that Otis and his three friends killed Bubba and covered it up to make it look like self-defense. When Otis asks how she knows, Marylee replies that Bubba told her. When Otis says that Bubba is dead, Marylee replies "I know".The next day, Philby discovers a scarecrow just like the one Bubba was dressed as in his field. When Otis hears about it, he acts fast. He breaks into Mrs. Ritter's house that evening as she sits before her lit fireplace and grabs her from behind, demanding that she explain what's going on with the scarecrows. But she cannot tell him anything because she has suffered a heart attack as he tries to muffle her screams. To cover his tracks, Otis turns Mrs. Ritter's gas stove on full, then walks out. As the gas reaches the fireplace the house explodes, again leaving nothing for Sam to use against Otis.The following night at his farm, Philby notices that the "Bubba" scarecrow (whom the viewer cannot see) in his field has gotten off its field-post, and is walking toward him. Panicking, Philby locks himself in a grain silo. The scarecrow jams the silo door, trapping Philby inside, and then turns on the conveyor belt feeding into the silo. Philby is buried in grain and perishes.The next day, Skeeter is ready to turn himself in rather than face the scarecrow's wrath. Yet Otis remains convinced that it's all a hoax by somebody seeking to avenge the Ritter murder. To verify said theory, Otis and Skeeter break into the local cemetery that night. They dig up Bubba's coffin and open it. Bubba is inside (again the viewers do not see the decomposing corpse). Otis has to wrestle Skeeter to stop him from fleeing in terror. They agree to fill the grave back in and forget any of this ever happened. But as Skeeter is nailing the coffin shut again, Otis kills him from behind by striking his head with a shovel. Otis re-buries both corpses and then drives off, back towards town.En route home, Otis finds Marylee alone at roadside, and chases her into a pumpkin patch. He grabs Marylee and accuses her of masterminding the scarecrow murders. Suddenly, a combination payloader/plowing machine starts up nearby and chases Otis through the pumpkin patch, snapping its shovel and turning pumpkins to pulp. (It is strongly implied that no one is driving the plow.) As he flees, Otis accidentally runs into the Bubba-Scarecrow, still holding the pitchfork, on which Otis has just impaled himself. Otis sinks to his knees and points at the Scarecrow before keeling over dead. The scarecrow walks off through the pumpkin patch and finds Marylee, to whom he hands a flower. She says: "Thank you, Bubba. You know what? Tomorrow, I think I'll teach you a new game. Did I ever show you how to play the Chasing Game? It's fun. You'll love it. It's sort of like playing tag..."
+
+
+QUESTIONS
+q: Who digs up Bubba's grave?
+a: ['Otis and Skeeter']
+
+q: Who does Otis suspect put the scarecrow in Harliss field ?
+a: ['Mrs. Ritter']
+
+q: Who's wrath is Skeeter afraid of?
+a: ['The Scarecrow']
+
+q: How does Otis kill Skeeter?
+a: ['Otis come behind him and strikes his head with a shovel']
+
+q: How many bodies are in Bubba's grave?
+a: ['2']
+
+q: Is there anyone with Maryledd with Otis sees her in the middle of the road?
+a: ['No']
+
+q: How does Philby attempt to flee?
+a: ['locks himself in a grain silo']
+
+q: Why does Otis kill Skeeter
+a: ['To keep him from turning himself in.']
+
+q: When driving home, is Otis in a sober or intoxicated state?
+a: ['Sober']
+
+q: Who was Otis stopped by when he was chasing after Marylee?
+a: ['combination payloader/plowing machine']
+
+q: What does Otis chase Marylee into?
+a: ['a pumpkin patch']
+
+q: What machine starts up on its own?
+a: ['Wood chipper']
+
+q: What does Harliss find a day later ?
+a: ['a scarecrow']
+
+q: Where is Marylee when Otis sees her as he is driving home?
+a: ['Roadside']
+
+q: What destroys Mrs. Ritter's house?
+a: ['Otis turns on the gas stove, and the gas explodes when it reaches the fireplace']
+
+q: Who does Otis see driving home?
+a: ['Marylee']
+
+q: Who does Marylee sneak out to look for ?
+a: ['Bubba']
+
+q: Whose house does Otis break into?
+a: ["Mrs. Ritter's"]
+
+q: Who is Otis convinced is still alive?
+a: ['Otis thinks Bubba is dead but somebody seeking revenge']
+
+q: Where does Harliss hear activity ?
+a: ['the barn']
+
+q: How does Philby suffocate?
+a: ['burried in grain']
+
+q: Who kills Skeeter?
+a: ['Otis']
+
+q: What does Otis kill Skeeter with?
+a: ['a shovel']
+
+q: Where was Marylee confronted by Ottis?
+a: ['pumpkin patch']
+
+q: Who does Otis see in the middle of the road?
+a: ['Marylee']
+
+q: What is the name of the mentally challenged man
+a: ['bubba']
+
+q: Who is mean-spirited postman?
+a: ['Otis Hazelrigg']
+
+q: What does Otis use to kill Skeeter?
+a: ['by striking his head with a shovel.']
+
+q: Who cannot bring herself to tell Marylee what really happened to Bubba ?
+a: ['Mrs Ritter']
+

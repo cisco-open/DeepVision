@@ -1,0 +1,50 @@
+PARAGRAPH
+An opening title sets the scene:Sometime in the 23rd century... the survivors of war, overpopulation and pollution are living in a great domed city, sealed away from the forgotten world outside. Here, in an ecologically balanced world, mankind lives only for pleasure, freed by the servo-mechanisms which provide everything.There's just one catch: Life must end at thirty unless reborn in the fiery ritual of carousel.To maintain the ecology of the system of domes that makes up the city, both reproduction and death are carefully controlled by a monolithic master computer. Sex is readily available but there are no long-term relationships. You can dial up a sex partner on "the circuit" or visit orgy rooms filled with people of both sexes and clouds of aphrodisiac gas. Babies grow in glass boxes; implanted in each infant's left palm is a life clock, a penny-sized crystal that starts out white and changes color as the years go by. People dress to match their crystal: yellow for a child, green at 16, and red a few years later. Your crystal flashes red as you approach "lastday" -- your 30th birthday. On lastday, you're expected to report to an arena for Carousel, the ceremony that will, you have always been told, result in your renewal and rebirth. In fact, you stand in a circle with your age-mates, float to the ceiling when the gravity is turned off, get zapped with lasers, and disintegrate in a cloud of sparks. During the spectacle, ominous music is piped in while hundreds of younger folks applaud and shout "renew!" to cheer you on.If this doesn't sound good, your alternative is to become a runner. Runners are criminals and are hunted down and terminated by policemen known as sandmen, who wear black. The city dwellers believe that there is no renewal for runners.Logan-5 (Michael York), a sandman, is in the nursery, knocking on the glass that separates him from a pair of infants; he's trying to wake one up. He tells his friend and fellow sandman Francis-7 (Richard Jordan) that the baby is Logan-6, his son. Francis thinks hanging around the nursery is a little odd and teases Logan that he knows who the baby's seed-mother is. "I'm curious, not sick," Logan retorts.Logan and Francis attend a Carousel but have to leave early when they receive a report of a runner. The runner is killed in a fall trying to escape them and Logan removes a silver ankh (?) from the dead man's hand. At home that night, Logan browses the circuit and chooses a woman called Jessica-6 (Jenny Agutter), a green who wears a silver ankh on a choker. She declines to sleep with him, saying she went on the circuit because she was sad about losing a friend in that day's Carousel, but now regrets it; they argue about whether Carousel participants die, whether sandmen are killers, and whether it's wrong to run.The next day, Logan turns in the ankh he took from the runner. The master computer (voice: Lara Lindsay) recognizes the significance of the ankh. It tells Logan that 1056 runners are unaccounted for and are believed to have escaped the city and fled to a place called Sanctuary. Logan is to go under cover, find Sanctuary, and destroy it. To make him a plausible runner, the computer overrides Logan's life clock so that it begins to flash red immediately, though he's 4 years from his lastday. The computer doesn't answer when he asks whether he'll get his 4 years back.Remembering the ankh around Jessica's neck, Logan sends for her and attempts to convince her that he wishes to find Sanctuary. She agrees to help him after he lets a runner go. She leads him through an orgy room to a secret exit where they meet members of the resistance who are very suspicious of Logan, despite his flashing red life clock. They're right to be suspicious; Logan activates his communicator to lead the other sandmen -- who are unaware of Logan's undercover mission -- to the secret exit and the resistance cadre guarding it. Logan was counting on sending Jessica back to the city, but she's starting to fall for him and insists on coming with him to Sanctuary. When the sandmen arrive Logan won't risk Jessica's life; he runs in earnest, taking Jessica with him. Francis is hard on their heels.Using the ankh to unlock a door, Logan and Jessica escape from the city through the water system and find themselves in an icy cave. They have a close call with a homicidal robot named Box (Roscoe Lee Browne), who captures runners and freezes them -- they see a long corridor lined with people he's frozen. He seems to have been designed to capture food from the outside ("fish and plankton and sea greens and protein from the sea!"), but when it stopped coming he adapted and now harvests runners instead. When he tries to harvest Logan and Jessica, Logan fights back and brings down part of the cave, disabling Box. The fugitives find a tunnel that leads to the outside world. They're not sure what the bright thing in the sky is, but they're glad it's warm. Francis still follows at a distance.The Earth has healed since the disaster. In the wilderness outside the city, the runners are disappointed not to find Sanctuary right away and grow tired and thirsty looking for it. But the landscape is healthy, and soon they find a river to swim in. In the water, they notice that their life clock crystals have stopped functioning and turned white again -- the color of a baby's crystal. Jessica and Logan interpret this as indicating they are no longer bound by the rules of the city and its 30-year limit. They fall in love, and Logan abandons his secret mission. But there are no other people, not even other runners.They explore, finding their way to the overgrown ruins of Washington D.C. (shown on screen with award-winning post-apocalyptic special effects). When they discover the Lincoln Memorial, they are confused by Lincoln's appearance; "That must be what it looks like to grow old," Logan says. Searching for signs of life, they find some gravestones marked "beloved husband" and "beloved wife," and wonder what the strange words mean. Then in the ruins of the Capitol, they encounter an eccentric white-bearded old man (Peter Ustinov) and his many cats. The old man has no crystal in his hand; he reminisces about being raised by his own mother and father and recites passages from Old Possum's Book of Practical Cats by T.S. Eliot. This is all nonsense to Logan and Jessica, who have never lived in a family or seen a cat.After quizzing the old man about other people and finding he's never seen or heard of any except his own parents, Logan tries to convince Jessica that there is no Sanctuary. There's no evidence that anyone before them made it past Box. She can't accept it.They are discovered by Francis, who refuses to listen to what they have to say. He attacks Logan; after a fight, Logan kills him by bludgeoning him with an American flag. As he dies, Francis looks at Logan's white crystal and says "Logan, you renewed!"The three of them bury Francis, and the old man gets Jessica to promise that she'll bury him when his time comes. When Logan hears that, he says they can't keep the promise because they have to go back to the city, destroy all the life clocks, and stop the killing. Jessica resists the plan until they hit on the idea of bringing the old man along; he'll convince the city people that life after 30 and life outside the city are possible.They hike back to the city, but are forced to leave the old man waiting outside while they re-enter the domes through the water system. They promise to bring the city-dwellers out to meet him. They fail; not only do the people ignore their news, but sandmen come and arrest them.The city's master computer interrogates Logan using a memory probe and becomes confused and overloaded by the memories it finds ("there is no Sanctuary ... all frozen ... an old man ... all ruined .... no Sanctuary"), which don't conform to the computer's expectations. The computer malfunctions and Logan fights off a group of sandmen to escape with Jessica, doing further damage to the computer in the process. The ensuing chain reaction wreaks havoc on the city. Fleeing the explosions, the inhabitants go outside and gather curiously around the old man, who is delighted to see them.
+
+
+QUESTIONS
+q: WHAT DOES THE ANKH HELP THE RUNNERS FIND?
+a: ['To find the Sactary']
+
+q: What runs the city?
+a: ['A monolithic master computer']
+
+q: What Assignment does the computer interrogate Logan about?
+a: ['The computer interrogate Logan for using memories probe and overloading']
+
+q: WHAT ARE LOGAN AND FRANCIS?
+a: ['sandman']
+
+q: What are the city's elite policemen called?
+a: ['Sandmen']
+
+q: What was the abandoned city formally called?
+a: ['Carousel']
+
+q: WHAT DOES LOGAN FIND AMONG HIS POSSESSIONS?
+a: ['ankh pendent']
+
+q: What does Logan realize is a myth?
+a: ['Sanctuary']
+
+q: In what year does the movie take place?
+a: ['Some time in 2200']
+
+q: Who does Logan fatally wound?
+a: ['Francis']
+
+q: WHO DO THEY MEET LATER WITH A ANKH PENDANT?
+a: ['jessica']
+
+q: What do Logan and Jessica notice are no longer operational once outside?
+a: ['life clocks']
+
+q: HOW OLD IS LOGAN?
+a: ['26']
+
+q: Who do Logan and Jessica try to persuade to return with them?
+a: ['lincoln']
+
+q: WHAT DID LOGAN FIND OUT ABOUT THE BOX?
+a: ['Logan discovers to his horror that Box also captures escaped Runners and freezes them.']
+

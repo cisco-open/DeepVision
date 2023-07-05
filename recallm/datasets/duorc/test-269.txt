@@ -1,0 +1,39 @@
+PARAGRAPH
+A successful weatherman at a Chicago news program, David Spritz (Nicolas Cage) is well paid but garners little respect from people in the area who throw fast food at him, David suspects, because they're resentful of how easy his high-paying job is. Dave also feels overshadowed by his father, Pulitzer Prize-winning author Robert Spritzel (Michael Caine), who is disappointed in Dave's apparent inability to grow up and deal with his two children. The situation worsens when Robert is diagnosed with lymphoma and given only a few months to live. As he becomes more and more depressed, Dave takes up archery, finding the activity a way to build his focus and calm his nerves.
+To prove himself to his father and possibly reconcile with Noreen (Hope Davis), his estranged wife, Dave pursues a weatherman position with a national talk show called Hello America. The job would nearly quadruple his salary, but means relocating to New York City. When Hello America invites him to New York, he takes his daughter, Shelly (Gemmenne de la PeÃ±a), with him and bonds with her by helping her shop for a more suitable wardrobe. While away, Dave learns that his son Mike (Nicholas Hoult) attacked his counselor, Don Bowden (Gil Bellows), claiming that the man wanted to perform oral sex on him. Despite this stress and an all-night drinking binge, Dave impresses the Hello America interviewers and is eventually offered the job.
+When he returns, Dave slaps Russ (Michael Rispoli), Noreen's boyfriend, when he finds him dealing with his son's predicament. Dave later confronts the counselor at his home, beating him up and warning him that he is in store for worse.
+The family holds a living funeral for Robert (organised by Dave's mother, Lauren, played by Judith McConnell), in which Dave asks Noreen to reconcile and move to New York, but she has decided to marry Russ. Dave and Robert have one final talk, in which Dave breaks down in tears, unsure of his life's choices. Robert consoles him, telling him that he has time to "chuck" the garbage of his life. Robert dies soon after.
+The film ends several months later, after Dave has accepted the job and moved to New York. People have ceased throwing things at him though, he muses, this may be a pleasant side-effect of his archery hobby, for which he carries a bow.
+
+
+QUESTIONS
+q: Robert is diagnosed with what?
+a: ['lymphoma']
+
+q: When Dave becomes depressed what activity does he take up?
+a: ['archery']
+
+q: What is the name of Dave's estranged wife?
+a: ['Noreen']
+
+q: Who is David's father?
+a: ['Robert']
+
+q: Where did Dave move?
+a: ['New York']
+
+q: David Spritz is a successful weatherman for a news program in what city?
+a: ['Chicago']
+
+q: Where does Dave pursue a weatherman position nearly quadrupling his salary?
+a: ['New York']
+
+q: What do people in the area throw at David?
+a: ['Fast food']
+
+q: Did Robert die?
+a: ['Yes']
+
+q: What is David Spritz's job?
+a: ['weatherman']
+

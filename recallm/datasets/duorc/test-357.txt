@@ -1,0 +1,45 @@
+PARAGRAPH
+This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (July 2014) (Learn how and when to remove this template message)
+Fourteen-year-old Amelia "Milly" Michaelson (Deakins) and her family move into a new suburban home shortly after the death of her father. Milly makes friends with her new neighbor Geneva, and Milly and her eight-year-old brother Louis (Savage) have difficulty adjusting to their new schools, while their mother Charlene (Bedelia) copes with a demotion at work and her inability to learn how to use a computer. Louis is also plagued by bullies down the street who won't let him get around the block. During the first night at the house, Charlene tells Milly she will need her help to make this work. Milly returns to her bedroom and is talking to her pet bird when something flies past the window, but when Milly goes to investigate she sees nothing.
+Milly and Geneva observe Eric Gibb (Underwood), an autistic boy living next door with his alcoholic uncle Hugo (Gwynne). Eric has never spoken a word in his life, doesn't like to be around people and exhibits bizarre behavior related to flying, such as balancing on the roof of his house with his arms spread out like an airplane. Milly hears that Eric's parents died in a plane crash, and that somehow, in the instant of their death, he knew; and that he did the only thing he could think of to try to save them, which was to become an airplane. Later that night, Milly and her family watch as Eric (along with Milly's teacher Mrs. Sherman) and three adults appear outside with Eric in a straitjacket and being restrained by two men, with Mrs. Sherman arguing with a woman there about what is best for Eric. Milly later reveals to Geneva one night when Milly's mother is out for the evening that she finds Eric attractive.
+Although Eric cannot communicate with anyone, he begins to react to Milly, first by mimicking her movements and facial expressions. Mrs. Sherman observes this interaction and asks Milly to keep an eye on Eric, explaining that because of Uncle Hugo's drinking, Eric is in constant danger of being taken by authorities and placed in a hospital; but that when Eric was taken away before, he became so sick that he almost died. Milly works with Eric over the course of the school year and takes notes on his progress, which is slow at first. Milly notes excitedly the first time Eric smiles on his own rather than merely copying her own smile. Eric does nothing when Milly throws balls to him, except for one day when he spontaneously reaches out and catches a stray baseball flying toward Milly's head.
+However, strange occurrences, like Eric's apparent ability to appear in his own window one instant and in Milly's the next without any link between their homes, begin to make Milly question reality. In her notes, Milly wonders whether Eric is becoming more like her, or the other way around.
+On a school field trip, with no one present except Eric, Milly falls off a bridge while trying to pick a rose. Knocked unconscious, she dreams that she wakes up in the hospital, with Eric sitting on the windowsill. After a conversation with him (albeit wordless on Eric's part), she becomes convinced he can fly. Eric gives her the rose she was trying to reach and then, taking her hand, leads her out of the window and the two begin flying. The two watch a fireworks display from a cloud before they share a kiss and return to the hospital window. After watching Eric fly off, Milly's dream becomes a nightmare as she sees her Dad in a hospital bed, dead, with a girl called Mona (who Milly told to throw a volleyball at her head earlier) throwing a volleyball at her which knocks her out of the window.
+Milly then wakes up in a hospital and tells her mother that Eric can fly and that he caught her as she fell. A shrink, Dr. Grenader, talks to Milly and tells her that Eric caught her as she only has a concussion and no serious injuries. Dr Grenader, however, puts forth a more logical explanation and explains her belief that Eric can fly may be due to stress caused by the death of her father as he died from cancer.
+Upon returning home, Milly notices the rose on her windowsill and now becomes truly convinced that Eric can fly. When she shouts to Uncle Hugo about Eric's whereabouts, he replies by saying the institute has taken him away as Hugo was found drunk again. Despite the efforts of Milly and her family, they are not allowed to see Eric when they visit the institute. As they leave due to not been allowed in, Eric tries to force the window open and is restrained by two men who try to sedate him. Another attempt by Louis to get around the block fails as the bullies tear his tricycle apart and to make matters worse, his dog Max is hit by a passing car and is taken to an animal hospital. Later that evening, Milly thinks she spots Eric on his roof during a thunderstorm and after climbing into the attic, she finds Eric, who is shivering with cold and still wearing a strait-jacket after managing to somehow escape the institute. As Milly helps him, he pulls out a box and from within it, he takes out a ring which he gives to Milly.
+When the authorities arrive at Eric's house the next day, Milly sneaks Eric out and the police chase them to the roof of the school during a carnival. Eric turns to Milly and speaks her name, the first word he has spoken thus far. Milly asks Eric if he really can fly, and he smiles and nods his head. He holds her hand and the two fall off the building. Just before hitting the ground, Milly and Eric begin flying in plain view of the crowd around the carnival, which follows Milly and Eric down the streets of their town, shocking Charlene, Louis, Geneva, and Uncle Hugo. Eric brings Milly to her own window, tells her he loves her, and kisses her before he says goodbye and flies away.
+Milly is heartbroken, but quickly realizes why Eric had to leave: Over the following weeks, spectators, policemen, and scientists mob the town, looking for an explanation and taking all of Eric's belongings away to be analyzed. Milly speculates that Eric too would have been taken by scientists had he remained. It is revealed that Milly's father knew he had cancer, but kept it a secret from his family because he did not want them to worry. Rather than seek treatment, he said goodbye and committed suicide. His refusal to fight for his life left the Michaelsons feeling helpless and hopeless, but Eric's ability to fly shows them that anything is possible if you believe.
+Unlike Milly's father, Eric's uncle and the remaining Michaelsons refuse to give up: Eric's uncle beats his drinking problem and gets an excellent job; the Michaelson's dog Max gets better; Louis dominates the bullies down the street (with some help from Max); Charlene masters the computer at work; and Milly regains interest in her life and relationships with those around her. The movie ends with Milly looking out the window waiting for Eric. As the sun sets, she throws out a paper airplane which flies ever upward.
+
+
+QUESTIONS
+q: What is Charlene able to master at work?
+a: ['the computer']
+
+q: What is Milly trying to do when she falls off the bridge?
+a: ['pick a rose']
+
+q: What is the name of the Michaelson's dog?
+a: ['Max']
+
+q: What is the name of Louis' dog?
+a: ['Max']
+
+q: What is the first word Eric speaks?
+a: ['i love you']
+
+q: How did Eric's parent's die?
+a: ['a plane crash']
+
+q: What does Milly throw at the end of the movie?
+a: ['Paper plane']
+
+q: What does Milly throw out of her window at the end of the movie?
+a: ['a paper airplane']
+
+q: What is Amelia called?
+a: ['milly']
+
+q: What is the name of Milly's brother?
+a: ['Louis']
+

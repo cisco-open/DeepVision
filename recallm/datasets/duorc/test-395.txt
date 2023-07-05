@@ -1,0 +1,98 @@
+PARAGRAPH
+Omar Ali is a young man living in 1980s London. His father, Hussein, is a Pakistani journalist who lives in London but hates Britain and its international politics. His dissatisfaction with the world and a family tragedy has caused his alcoholism to take over, so that Omar has to take care of him. By contrast, Omar's paternal uncle Nasser is a successful entrepreneur and an active member of the London Pakistani community. Omar's father asks his uncle to give him a job and, after working for a brief time as a car washer in one of his uncle's garages, he is assigned the task of running a run-down laundrette and turning it into a profitable business.At Nasser's, Omar meets a few other members of the Pakistani community: Tania, Nasser's daughter and possibly a future bride; and Salim, who trafficks drugs and hires him to deliver them from the airport. While driving Salim and his wife home that night, the three of them get attacked by a group of right-wing extremists shouting racist slogans. Among them but not taking part, Omar recognises an old friend of his, Johnny. Omar tries to reestablish their past friendship, and Johnny decides to help with the laundrette and they resume a romantic relationship which (it is implied) had been interrupted after school. Running out of money, Omar and Johnny sell one of Salim's drug deliveries to make cash for the laundrette redecoration.The laundrette becomes a success. At the opening day, Nasser visits the store with his mistress, Rachel. They dance together in the laundrette while Omar and Johnny are having sex in the back room. Omar and Johnny are almost caught by Nasser, but Omar claims they were sleeping. Tania confronts Rachel about having an affair with her father, Nasser. Nasser and Rachel leave the laundrette and fight in the road; Rachel storms off because she feels humiliated by Tania and her presence. Later in the film, she falls ill with a skin rash apparently caused by a ritual curse from Nasser's wife, and Rachel decides it is the best for the both of them if she leaves him. Omar, while drunk, proposes to Tania. She agrees on the condition that Omar gathers money. Johnny is told about Omar's potential engagement and goes home to get drunk, but Omar finds him and tells him to get back to work. Omar's father stops by late in the night, and appeals to Johnny to persuade Omar to go to college because he is unhappy with his son running a laundrette.Omar decides to take over two laundrettes owned by a friend of Nasser, with the help of Salim. Salim drives Johnny and Omar to view one of the properties, and he expresses his dislike of the British non-working punks (Johnny's friends). Salim attempts to run over the group of punks who had previously attacked Omar's car and injures one of them. The group of working class punks decides to wait for Salim around the laundrette. While the punks circle the laundrette, Tania drops by and tells Johnny she is leaving and asks if he will come with her. He refuses Tania by revealing his relationship with Omar, and she departs. When Salim enters the laundrette, the punks trash his car. Upon noticing their destruction, he runs out of the laundrette and is then ambushed and attacked. He is beaten and bloodied while Johnny watches from the window until he decides to save him, despite their mutual dislike. The punks turn their attention to attacking Johnny instead for supporting the Pakistani community, and as he refuses to fight back, they beat him savagely until Omar interrupts and saves him.The film cuts to Nasser visiting Omar's father, and their discussion about Omar's future. Nasser sees Tania at a train platform while she is running away, and he shouts to her but she disappears. Omar proceeds to clean up Johnny's wounds, but Johnny is still agitated from the fight and becomes frustrated with his playful affection and lack of seriousness. He lashes out at Omar, insisting he needs to go and telling him to stop touching him. Johnny walks to the window and stares outside in silence as Omar comes up behind him and kisses the back of his neck. The film ends with them both topless and playfully splashing each other with water from a sink, showing that they are continuing their relationship together.
+
+
+QUESTIONS
+q: Who protects Johnny as the punks trash the laundrette?
+a: ['Omar']
+
+q: How does Omar know Johnny?
+a: ['used to be in a romantic relationship together']
+
+q: What is Tania doing at the train platform when Nasser sees her?
+a: ['she is running away']
+
+q: Was Omar a homosexual?
+a: ['yes']
+
+q: Who decides to take over two laundrettes owned by a friend of Nasser?
+a: ['omar']
+
+q: What is the name of Omar's childhood friend?
+a: ['Johnny']
+
+q: What is the first job Omar does for Nasser?
+a: ['car washer']
+
+q: Who considered his race was superior?
+a: ['right wing extremist']
+
+q: In what time period is this set?
+a: ['1980s']
+
+q: What is Nasser's daughter's name?
+a: ['tania']
+
+q: Who tells Johnny she is leaving?
+a: ['Tania']
+
+q: Whose father had an affair?
+a: ['Tania.']
+
+q: Who was Nasser's mistress?
+a: ['Rachel.']
+
+q: Who falls ill with a skin rash?
+a: ['Rachel.']
+
+q: Who does Omar propose to while drunk?
+a: ['Tania']
+
+q: Who drives Johnny and Omar to look at the properties?
+a: ['Salim.']
+
+q: Who does Salim get attacked by?
+a: ['Right-wing extremists and a group of punks.']
+
+q: Who does Omar offer a chance to invest?
+a: ['Johnny']
+
+q: What is the time frame that Omar lives in?
+a: ['1980s']
+
+q: Who is Omar's uncle?
+a: ['a successful entrepreneur and an active member of the London Pakistani community; Nasser']
+
+q: Whose drug delivery does Omar and Johnny sell?
+a: ['Salim']
+
+q: Who wanted to marry Tania?
+a: ['Omar']
+
+q: What does Papa ask Nasser to do for Omar?
+a: ['give him a job']
+
+q: Who does Omar meet at Nasser?
+a: ['Tania & Salim']
+
+q: Who does Nasser visits the laundrette with?
+a: ['At the opening day, Nasser visits the store with his mistress, Rachel.']
+
+q: Where is Omar and Johnny?
+a: ['a young man living in 1980s London']
+
+q: What does Salim deal in?
+a: ['trafficks drugs']
+
+q: who refuses to fight the punks back?
+a: ['Johnny']
+
+q: What is the name of Omar's father?
+a: ['Hussein']
+
+q: Who intervenes in the fight?
+a: ['Omar']
+
+q: Tania and Salim are members of what community?
+a: ['London Pakistani community']
+

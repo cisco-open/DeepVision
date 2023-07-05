@@ -1,0 +1,39 @@
+PARAGRAPH
+A reporter interviews Paan Singh Tomar (Irrfan), a dacoit who is in the news for killing 9 people of a community. Answering questions about himself, the story goes in a flashback in year 1950. Paan Singh works in the Army while his wife and mother live in Morena. He surprises his seniors in the Army with his athletic skills. Though he was not interested in sports, he joins the sports division because there were no limits on their diet. Picked for the 5000 metres race's training, he was persuaded to run for the 3000 metre steeplechase by his coach. He participates in the Indian National Games and wins the gold medal in the steeplechase event 7 years in a row. In 1958 he participates in the Asian Games at Tokyo, but couldn't win because of his inability to adjust with the track spikes only given to him in the final event. He felt frustrated when he was not allowed to go the borders to fight in the 1962 and 1965 wars because sportsmen were not allowed to fight in them. In 1967, he participated in the International Military Games and wins the gold medal in the steeplechase.
+His elder brother from his native place visits him and tells about an illegal acquisition by Bhanwar Singh, his relative. Paan Singh retires from the Army to settle his family disputes, despite being offered a position as the coach in the army. On arriving home, he tries to resolve the issue with Bhanwar Singh. He seeks help from the District Collector and local police station, but no help is provided. His son is beaten badly by Bhanwar Singh and his goons. Paan Singh then orders his son to rejoin the army and stay away from the dispute. Bhanwar Singh and his goons try to kill Paan Singh and his family. Most of his family manages to escape but his mother is brutally murdered. Paan Singh decides to avenge his mother's death. He becomes a baaghi who wreaks havoc in the Chambal Valley. He forms a gang of few people who are his relatives and are in problem because of Bhanwar Singh.
+Pann Singh then arranges money by extorting the money of kidnapped wealthy businessman of the area to arrange money and arsenal for his gangs so that they can make a proper gang.After arranging all the necessary arrangement of arms and ammunition for gang members, he arrange a major attack on Bhanwar Singh who has a police protection but Bhanwar Singh got killed by Paan Singh Tomar after a brief chase.
+Then, in order to take revenge for his brother death, he kills an entire village of Gurjars who became police informers and told police about his hideout. This event creates havoc in the public, administration and also among the other gangs of Dacoit who argues with him to surrender so that manhunt by the police would come to a halt but he denies that.
+The interview with the reporter ends here and the interview is published in the newspaper and causes a sensation. The police continued in their search for Paan Singh Tomar, who decides to lie low for a while. He meets his family and his coach in the army who request that he surrenders. Paan Singh refuses to surrender on the principle that while he was a sportsman holding a national record, nobody came to help him with his problems, and the moment he turned a rebel, everyone wants him to be arrested. When the gang reconvenes after a month's hiatus, one of the members Gopi (Nawaz Bhai) who had turned a police informer betrays the gang and gives them away to the police. A shootout ensues where all members of the gang, including Paan Singh, are killed.
+
+
+QUESTIONS
+q: Where does Paan live with his gang?
+a: ['Chambal Valley.']
+
+q: What does Singh surprise his seniors in the Army with?
+a: ['Athletic skills']
+
+q: Whose death does Paan Singh decide to avenge?
+a: ["Mother's"]
+
+q: What race does Paan enter?
+a: ['5000 metres']
+
+q: How does Paan's mother die?
+a: ['is brutally murdered']
+
+q: Where does Paan Singhs wife life in 1950
+a: ['Morena.']
+
+q: How many people is Paan Singh Tomar in the news for killing?
+a: ['Nine']
+
+q: How many times did Paan enter the race
+a: ['7 years']
+
+q: How do Paan and his gang dress?
+a: ['Uniform']
+
+q: How many years in a row did Singh win the gold medal in the steeplechase?
+a: ['Seven']
+

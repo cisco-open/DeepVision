@@ -1,0 +1,56 @@
+PARAGRAPH
+At St. Donovan's, a Catholic High School in New Jersey, Bobby Funke (Reece Thompson) is a less than popular 10th grade sophomore with a dream to get into Northwestern University's summer journalism program. Although Bobby claims he's a great writer, he's never finished an article for St. Donovan's school newspaper. The editor-in-chief Clara, (Melonie Diaz), assigns Bobby to do an article on Paul Moore, the student body president. Bobby attempts to get an interview, but is unable to get a story out of Paul and is bullied by Paul's friends. Paul is the star of the basketball team and on a game night, Paul takes a fall and injures his knee.The next morning Principal Kirkpatrick (Bruce Willis) discovers the SATs have been stolen from a safe in his office. Kirkpatrick rounds up his "usual suspects" of high school misfits along with Bobby to question them. The group is innocent but Kirkpatrick warns them all to watch their step.When attractive senior Francesca Facchini (Mischa Barton) solicits Bobby's help tracking down the set of stolen SATs, Funke uncovers a story. He sets on a large scale investigation and links Paul Moore to the crime. He writes an article pointing the finger at Paul. The day after the article comes out, Kirkpatrick forces Paul to open his locker and the SATs fall out. As a result of his sleuthing, Funke becomes one of the most popular kids at St. Donovan's. Clara decides to submit Funke's article to Northwestern which earns Bobby a scholarship to the summer program. Funke wins the respect of everyone from Principal Kirkpatrick to the kid that farts on him in Spanish class and Francesca takes Funke to the homecoming dance as her date.As Funke's popularity grows so do his suspicions. Paul confronts Bobby, proclaiming his innocence, stating that he got into Cornell but decided to take the test again to see if he could get a better score. Funke begins to wonder if Paul really stole the SATs or if he's just a pawn in a larger conspiracy.Funke investigates even deeper into the lives of Paul's shady friends, all members of the Student Council. He discovers their involvement with drug dealing. The Student Council had actually stolen the SATs along with other tests throughout the year, modifying the marks of the best students to make them doubt their test-taking abilities and turn to the Student Council for performance-enhancing Adderrall and other speed-like medications. Funke says that while Paul wasn't a part of the scam, the group ringleader Marlon Piazza (Luke Grimes) had Paul framed to avoid being caught. Funke also finds out that Francesca lead him along the entire time to keep him from finding out the truth. Francesca and Marlon, step-siblings, are revealed as lovers.Funke confronts the group in the principal's office. Marlon threatens to have Funke thrown out the window and frame it as a suicide, but his threat and confession are heard on the school's intercom system. When Funke entered the room, he secretly turned on the microphone; Funke's friends save him from being thrown out the window and Kirkpatrick rushes into the office, followed by the student body and Francesca. Francesca attempts to gain Funke's trust again, only to be denied and left to deal with Kirkpatrick's punishment. Funke walks out of the office as Clara congratulates him for busting up this latest conspiracy and tells him that this latest story will be a further steping stone to his own career as a writer.
+
+
+QUESTIONS
+q: How are Francesca and Marion related?
+a: ['step-siblings']
+
+q: who stole the sats?
+a: ['The Student Council']
+
+q: who is editor-in-chief of the school newspaper?
+a: ['Clara']
+
+q: what does francesca and bobby track down?
+a: ['the set of stolen SATs']
+
+q: paul's shady friends are all members of what?
+a: ['of the Student Council']
+
+q: who has paul framed?
+a: ['Marlon Piazza']
+
+q: who forces paul to open his locker?
+a: ['Principal Kirkpatrick']
+
+q: how does marion threaten to frame funke?
+a: ['have Funke thrown out the window and frame it as a suicide']
+
+q: what school does bobby funke attend in the movie?
+a: ["St. Donovan's"]
+
+q: who does francesca take to homecoming?
+a: ['Bobby Funke']
+
+q: What are the drugs that the best students get from the Student Council?
+a: ['performance-enhancing Adderrall and other speed-like medications']
+
+q: Who was leading Funke along?
+a: ['Francesca']
+
+q: what does funke do secretly?
+a: ['turn on the microphone']
+
+q: what does principal kirkpatrick discover has been stolen from his office safe?
+a: ['the SATs']
+
+q: Who was the group ringleader of the Student Council?
+a: ['Marlon Piazza']
+
+q: Who is framed?
+a: ['paul']
+
+q: Who is investigating the Student Council?
+a: ['Funke']
+

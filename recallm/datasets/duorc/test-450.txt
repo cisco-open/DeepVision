@@ -1,0 +1,41 @@
+PARAGRAPH
+The movie begins in the fictional Willow Valley in Washington in 1955, where teenager Susie Quinn is getting ready for her Winter formal with her date Johnny Angel. After the dance, on the drive home, their car is struck by some drunk teenage drivers and subsequently falls into water, where they both die.40 years later, Zach Sands, his mother, and his sister Teri move into the same house, which has now garnered a reputation for being haunted, as Susie's parents were evicted and moved to a trailer park. The family have moved there as Penny got a new job as a news reporter for the local news station. Zach recently lost his father in a car accident and blames himself as he was the one who begged his father to come to his basketball game. As a result, Zach doesn't play basketball anymore, even when Coach Stanford asks him to.At the school, Zach makes friends with the drama group and an enemy of the envious Ray Kovich, son of the banker Roger Kovich.When fishing with his sister in the river, Zach finds Susie's bracelet. Later that night, Zach hears noises out his window and looks out to see a girl in a prom dress playing hopscotch. Zach goes out to investigate and the girl appears startled that Zach can see her. She introduces herself as Susie Q "like the song" before running off.Zach is approached in school the next day by Ray Kovich who claims possession of the basketball team. Zach insists that he has no interest in the team and makes a public announcement to that effect. He asks around the next day about Susie Q only to find out that she died 40 years ago.Susie visits Zach again that night and frightens Zach so much that Teri and Penny come in to check on him. It becomes evident to Zach that he's the only one who can see Susie as a result of the bracelet he found. Zach, convinced that he's hallucinating, goes to sleep.The next day, Susie goes to Zach's school telling him that she urgently needs to talk to him. Seeing that Zach is more concerned with checking out his female schoolmates, Susie tears up her prom dress to reveal her figure. Finally getting Zach's attention, albeit his concern, Susie explains that she needs Zach's help in figuring out what happened to her parents. In chemistry class, Susie tries to help Zach with an experiment but gives him the wrong chemical and the classroom is evacuated due to the reacting fumes. Susie follows an upset Zach into the boys' bathroom where he gives out to an upset Susie who explains she was only trying to help. Zach, tells her that she's making it hard for him to fit in in his new school.On the way home, both apologize to each other but Zach is still hesitant to help Susie out as he still thinks that he is probably dreaming. Susie decides to take matters into her own hands and follows Penny to work where the reporter has been called in to replace a sick weather-girl. Susie changes the footage during the weather in contrast to the forecast and moves fans and turns on the sprinklers to create a storm on set. Far from getting angry at Penny, however, the station manager loved the new approach to the weather forecast.Zach goes out later that night to find Susie playing basketball. He starts giving out to her but Susie threatens that she'll keep making noise outside his window so he won't be able to get any sleep and not be able to function properly in class. Zach eventually agrees to visit Susie's parents after school.The following evening, Susie and Zach find the Quinns discussing how they'll have to leave the trailer park as the bank is closing it down. Susie explains that the whole thing has to do with the papers her grandfather was trying to find the night she died.While the two check out basketball practice, Susie gets frustrated at how badly the team is playing and throws a ball at Ray. Ray, thinking that it was Zach, angrily hurls the ball back at him. However, Zach casually catches it and scores a hoop. This leads Susie to ask Zach why he gave up basketball and he reveals to her that he feels it was his love of the game that killed his father. He asks Susie why she hasn't gone to heaven and she replies that there is a heaven but when your life ends you're responsible for looking after the people you love and that Zach can see her because she needs help. Zach asks her if his father is watching over him and she replies that he is.The next day Zach introduces himself to the Quinns and asks if he could talk to Mr. Quinn about basketball as he is a former coach. After a discussion, Russell gives Zach his old playbook. Zach finds out the Quinns were evicted when the bank told them a balloon payment of $25,000 was due. As Russell had given up his job and was living on his savings they couldn't afford it. They had let Susie's grandfather deal with the finances but when he died they didn't find any papers. Susie immediately feels responsible. As they leave they see Ray's jeep pass them. Ray had been spying on them for his father who wants nothing to come in the way of his development deal.Needing to find the papers, Zach approaches Teri whom is fairly computer literate and in exchange for revealing Susie, Teri helps them steal the files from the bank. The files reveal that the land the Quinn house is on, along with most of the town, is owned by Susie's grandfather. The title deed that was needed for inheritance was never produced after his death. They find out that, without the deed being produced, after 40 years the bank can reclaim the property and the 40 year limit ends on that very Friday week. Unfortunately, they need to acquire the papers to prove this. Finding the blueprints of the house, they discover a hidden room in George Quinn's closet and inside, they find the papers.On the way to delivering the papers to Susie's parents, however, they are stopped by a policeman who is in cahoots with the banker Roger Kovich. He confiscates the papers and detains both Zach and Teri. They make their escape when Susie gets the keys to their cell and frightens the guard.With the local police in pursuit and time running out, Zach decides to go to the news station where his mother works and has the Quinn story broadcast on live television. The Koviche's reportedly flee town.While all the loose ends are, seemingly, tied up, Susie reminds Zach that he still has a basketball game to play. Zach comes into the game late but, despite the team's dire performance, manages to get the scores even before the end of the game. At the very end, Zach scores the winning hoop. Susie, seeing that her work is done, leaves the basketball hall.After many congratulations, Zach follows Susie to the bridge where the fateful accident occurred. She tells him that she has to leave. Zach, although upset, accepts this. Susie tells Zach to keep her bracelet for luck. Susie's spirit is finally free after accomplishing her mission she left while alive. Susie, Johnny, and her grandpa leave into a cloud of smoke to heaven.At school the next day, Zach hears a familiar "Jeepers!" Investigating, he finds a girl who is identical to Susie. She introduces herself as Maggie. The film cuts off with Zach breaking the fourth wall and giving the audience an expression of puzzlement.
+
+
+QUESTIONS
+q: What piece of jewelry does Zach find while fishing?
+a: ['a bracelet', 'Bracelet']
+
+q: Where did Susie die?
+a: ['Bridge', 'the bridge']
+
+q: What was Susie's grandfather doing before he died?
+a: ["Susie's grandfather dealt with the finances", 'trying to find papers']
+
+q: What is Susie Quinn preparing for?
+a: ['closure', 'Winter Formal']
+
+q: Who is Susie Quinn's boyfriend?
+a: ['Zach', 'Johnny Angel']
+
+q: What does Suzie rip to get Zach's attention?
+a: ["Susie didn't rip anything.", 'Her prom dress']
+
+q: What is broadcast live on television?
+a: ['the weather forcast']
+
+q: What is the name of the town?
+a: ['Willow Valley']
+
+q: How many years ago did Suzie die?
+a: ['40 years ago']
+
+q: Who discovers that most of the town's land legally belongs to the Quinn Family
+a: ["Suzie's grandfather"]
+
+q: Who apologizes to the Quinns?
+a: ['Susie']
+
+q: How much money is the bank demanding from Susie's Parents?
+a: ['a balloon payment of $25,000 was due']
+
