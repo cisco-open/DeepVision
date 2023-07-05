@@ -26,15 +26,18 @@ class OpticalFlow:
         while True:
             try:
                 ref_id, data = self.flow_xreader_writer.xread_by_id(last_id)
-                if len(frames) < 2:
-                    frames.append(get_frame_data(data))
-                else:
-                    result = inference_model(self.model, frames[0], frames[1])
-                    self.flow_xreader_writer.write_message({'flow_map': pickle.dumps(result)}, output_id)
-                    img = visualize_flow(result)
-                    self.img_xreader_writer.write_message({'img_flow_map': pickle.dumps(img)}, output_id)
-                    output_id = ref_id
-                last_id = ref_id
+                if data:
+                    if len(frames) < 2:
+                        frames.append(get_frame_data(data))
+                    else:
+                        result = inference_model(self.model, frames[0], frames[1])
+                        self.flow_xreader_writer.write_message({'flow_map': pickle.dumps(result)}, output_id)
+                        img = visualize_flow(result)
+                        self.img_xreader_writer.write_message({'img_flow_map': pickle.dumps(img)}, output_id)
+                        frames.clear()
+                        frames.append(get_frame_data(data))
+                        output_id = ref_id
+                    last_id = ref_id
             except ConnectionError as e:
                 print("ERROR CONNECTION: {}".format(e))
 
