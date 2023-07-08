@@ -13,6 +13,7 @@ services:
     profiles:
       - tracking
       - haidetection
+      - vqpy
   
   redistimeseries:
     image: redislabs/redistimeseries
@@ -22,6 +23,7 @@ services:
     profiles:
       - tracking
       - haidetection
+      - vqpy
 
   grafana:
     build: ./grafana
@@ -33,6 +35,7 @@ services:
     profiles:
       - tracking
       - haidetection
+      - vqpy
 
   tracker:
     build:
@@ -90,20 +93,45 @@ services:
       - ./utils:/shared_classes/utils
 
 
+  vqpy:
+    build:
+      context: ./
+      dockerfile: ./videoquery/Dockerfile
+    container_name: "video_query"
+    command: bash -c "source activate vqpy && python loitering.py --fps ${OUTPUT_FPS}"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - vqpy
+    environment:
+      - DEFAULT_CACHE_DIR=/cache/vqpy
+      - PYTHONPATH=$PYTHONPATH:/shared_classes:/videoquery/vqpy
+    volumes:
+      - cache_volume:/cache/vqpy
+      - ./utils:/shared_classes/utils
+
   producer:
     build: .
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE} --actionrecThreshold ${ACTION_REC_THRESHOLD} --videoThreshold ${VIDEO_THRESHOLD}"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
     depends_on:
       redis:
         condition: service_healthy
     profiles:
       - haidetection
       - tracking
+      - vqpy
     environment:
-      - MODEL_CONF=${MODEL_CONF}
       - PROFILE_NAME=${PROFILE_NAME}
 
   ona:

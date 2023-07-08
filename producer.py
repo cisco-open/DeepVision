@@ -62,7 +62,7 @@ if __name__ == '__main__':
     parser.add_argument('-v', '--verbose', help='Verbose output', type=bool, default=False)
     parser.add_argument('--inputFps', help='Frames per second (webcam)', type=float, default=30.0)
     parser.add_argument('--outputFps', help='Frames per second (webcam)', type=float, default=10.0)
-    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
+    parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=5000)
     args = parser.parse_args()
 
     url = urlparse(args.url)

@@ -433,7 +433,7 @@
           "type": "timeSeries"
         }
       ],
-      "title": "Tracker Latency (s)",
+      "title": "Query Latency (s)",
       "type": "timeseries"
     },
     {
