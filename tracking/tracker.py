@@ -153,7 +153,6 @@ def main():
     args = parser.parse_args()
 
     url = urlparse(args.redis)
-
     redis_conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
     ts_conn = Redis(REDISTIMESERIES, REDISTIMESERIES_PORT)
 
