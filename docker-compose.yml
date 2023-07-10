@@ -13,7 +13,7 @@ services:
     profiles:
       - tracking
       - haidetection
-      - vqpy
+      - query
   
   redistimeseries:
     image: redislabs/redistimeseries
@@ -23,7 +23,7 @@ services:
     profiles:
       - tracking
       - haidetection
-      - vqpy
+      - query
 
   grafana:
     build: ./grafana
@@ -35,7 +35,7 @@ services:
     profiles:
       - tracking
       - haidetection
-      - vqpy
+      - query
 
   tracker:
     build:
@@ -93,7 +93,7 @@ services:
       - ./utils:/shared_classes/utils
 
 
-  vqpy:
+  video-query:
     build:
       context: ./
       dockerfile: ./videoquery/Dockerfile
@@ -110,7 +110,7 @@ services:
       redis:
         condition: service_healthy
     profiles:
-      - vqpy
+      - query
     environment:
       - DEFAULT_CACHE_DIR=/cache/vqpy
       - PYTHONPATH=$PYTHONPATH:/shared_classes:/videoquery/vqpy
@@ -133,17 +133,17 @@ services:
     environment:
       - PROFILE_NAME=${PROFILE_NAME}
 
-  producer-vqpy:
+  producer-query:
     build: .
-    container_name: "producer_vision"
+    container_name: "producer_query_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} --maxlen ${MAX_LEN} ${INPUT_FILE} --webcam ${CAMERA} & python3 server-vqpy.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} --maxlen ${MAX_LEN} ${INPUT_FILE} --webcam ${CAMERA} & python3 server-query.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
     depends_on:
       redis:
         condition: service_healthy
     profiles:
-      - vqpy
+      - query
     environment:
       - PROFILE_NAME=${PROFILE_NAME}
 
