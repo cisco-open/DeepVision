@@ -155,7 +155,8 @@ if __name__ == "__main__":
          custom_video_reader=redis_stream_video_reader,
         query_obj=People_loitering_query(),
         verbose=True,
-        additional_frame_fields=["ref_id"]
+        additional_frame_fields=["ref_id"],
+        output_per_frame_results=True,
     )
     results = vqpy.run(query_executor, print_results=False)
 
@@ -169,7 +170,8 @@ if __name__ == "__main__":
         #     "Person": [
         #           # Person 1
         #           {'center': array([563.10626 ,  12.468067], dtype=float32),
-        #           'tlbr': array([  0.        ,   0.        , 1126.2125    ,  24.936134  ], dtype=float32)}
+        #           'tlbr': array([  0.        ,   0.        , 1126.2125    ,  24.936134  ], dtype=float32),
+        #           'in_region': 0}
         #           # Person 2
         #         ]
         # }

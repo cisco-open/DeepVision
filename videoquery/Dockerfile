@@ -36,13 +36,7 @@ RUN pip install -r requirements.txt
 # Install VQPy from Github
 RUN pip install 'vqpy @ git+https://github.com/vqpy/vqpy.git'
 
-RUN pip uninstall -y vqpy
-
 # Deep Vision VQPy
 RUN pip install redis
 COPY ./videoquery/ /videoquery
 WORKDIR /videoquery
-
-ENV PYTHONPATH="${PYTHONPATH}:/videoquery/vqpy"
-
-

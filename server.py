@@ -108,6 +108,16 @@ class VideoQueryStreamItem(StreamItem):
         else:
             return None
 
+    def get_next_stream_item(self):
+        if self.ref_id is None:
+            return self.get_last_stream_item()
+        else:
+            resp = self.redis_connection.xread({self.stream_name: self.ref_id}, count=1, block=None)
+            if resp:
+                key, messages = resp[0]
+                self.ref_id, self.data = messages[0]
+                return True
+            return False
 
 class RedisImageStream(object):
     def __init__(self, conn, args):
