@@ -123,13 +123,26 @@ services:
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 server.py -u ${REDIS_URL} --trackletLength ${TRACKLET_LENGTH} --score ${SCORE} --actionrecThreshold ${ACTION_REC_THRESHOLD} --videoThreshold ${VIDEO_THRESHOLD}"
     depends_on:
       redis:
         condition: service_healthy
     profiles:
       - haidetection
       - tracking
+    environment:
+      - PROFILE_NAME=${PROFILE_NAME}
+
+  producer-vqpy:
+    build: .
+    container_name: "producer_vision"
+    ports:
+      - "5002:5001"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} --maxlen ${MAX_LEN} ${INPUT_FILE} --webcam ${CAMERA} & python3 server-vqpy.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
       - vqpy
     environment:
       - PROFILE_NAME=${PROFILE_NAME}
