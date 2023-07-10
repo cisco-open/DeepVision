@@ -398,7 +398,7 @@
       },
       "gridPos": {
         "h": 5,
-        "w": 12,
+        "w": 24,
         "x": 0,
         "y": 12
       },
@@ -433,104 +433,7 @@
           "type": "timeSeries"
         }
       ],
-      "title": "Tracker Latency (s)",
-      "type": "timeseries"
-    },
-    {
-      "datasource": {
-        "type": "redis-datasource",
-        "uid": "redis_uid"
-      },
-      "fieldConfig": {
-        "defaults": {
-          "color": {
-            "mode": "palette-classic"
-          },
-          "custom": {
-            "axisCenteredZero": false,
-            "axisColorMode": "text",
-            "axisLabel": "",
-            "axisPlacement": "auto",
-            "barAlignment": 0,
-            "drawStyle": "line",
-            "fillOpacity": 0,
-            "gradientMode": "none",
-            "hideFrom": {
-              "legend": false,
-              "tooltip": false,
-              "viz": false
-            },
-            "lineInterpolation": "linear",
-            "lineWidth": 1,
-            "pointSize": 5,
-            "scaleDistribution": {
-              "type": "linear"
-            },
-            "showPoints": "auto",
-            "spanNulls": false,
-            "stacking": {
-              "group": "A",
-              "mode": "none"
-            },
-            "thresholdsStyle": {
-              "mode": "off"
-            }
-          },
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 5,
-        "w": 12,
-        "x": 12,
-        "y": 12
-      },
-      "id": 10,
-      "options": {
-        "legend": {
-          "calcs": [
-            "min",
-            "max",
-            "mean"
-          ],
-          "displayMode": "list",
-          "placement": "bottom",
-          "showLegend": true
-        },
-        "tooltip": {
-          "mode": "single",
-          "sort": "none"
-        }
-      },
-      "targets": [
-        {
-          "command": "ts.get",
-          "datasource": {
-            "type": "redis-datasource",
-            "uid": "redis_uid"
-          },
-          "keyName": "bounding_boxes_latency",
-          "query": "",
-          "refId": "A",
-          "streaming": true,
-          "type": "timeSeries"
-        }
-      ],
-      "title": "Bounding Box Latency (s)",
+      "title": "Query Latency (s)",
       "type": "timeseries"
     }
   ],
@@ -548,8 +451,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Main",
-  "uid": "3m4qPla4z",
+  "title": "VQPy",
+  "uid": "3m4qPlb4z",
   "version": 2,
   "weekStart": ""
 }
