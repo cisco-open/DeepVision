@@ -19,6 +19,9 @@ def is_lt_eq_threshold(entry_id, threshold):
     return diff < threshold
 
 
-def get_frame_data(data):
-    img = pickle.loads(data[b'image'])
+def get_frame_data(data, key=None):
+    if not key:
+        img = pickle.loads(data[b'image'])
+    else:
+        img = pickle.loads(data[key])
     return img

@@ -13,6 +13,7 @@ services:
     profiles:
       - tracking
       - haidetection
+      - optical_flow
   
   redistimeseries:
     image: redislabs/redistimeseries
@@ -53,6 +54,33 @@ services:
     profiles:
       - tracking
       - haidetection
+    environment:
+      - DEFAULT_CACHE_DIR=/cache/mmtracker
+      - XDG_CACHE_HOME=/cache/mmtracker
+      - MMENGINE_HOME=/cache/mmtracker
+      - PYTHONPATH=$PYTHONPATH:/shared_classes
+    volumes:
+      - cache_volume:/cache/mmtracker
+      - ./utils:/shared_classes/utils
+
+  optical_flow:
+    build:
+      context: ./
+      dockerfile: ./tracking/Dockerfile
+    container_name: "OF_vision"
+    command: bash -c "python3 OpticalFlow.py ${FLOW_MODEL_CONF} --redis ${REDIS_URL} --opticalFlowRate ${OF_RATE} --frameDiff ${FRAME_DIFF}"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - optical_flow
     environment:
       - DEFAULT_CACHE_DIR=/cache/mmtracker
       - XDG_CACHE_HOME=/cache/mmtracker
@@ -105,6 +133,18 @@ services:
     environment:
       - MODEL_CONF=${MODEL_CONF}
       - PROFILE_NAME=${PROFILE_NAME}
+
+  producer_of:
+    build: .
+    container_name: "producer_vision"
+    ports:
+      - "5002:5001"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 OF_server.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - optical_flow
 
   ona:
     build:
