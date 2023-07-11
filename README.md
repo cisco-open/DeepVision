@@ -35,6 +35,7 @@ DeepVision
  ├── docs (documentation)
  ├── grafana (grafana provisioning and configuration)
  ├── recallm (system for temporal context understanding with NLP)
+ ├── videoquery (express query on video (supported with VQPy))
  ├── tracking (containing tacking module and submudules (MMtracking))
  └── tracklet (tracking utility data structures and classes)
 ```
