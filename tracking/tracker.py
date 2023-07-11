@@ -22,7 +22,7 @@ import numpy as np
 import json
 import mmcv
 from redis import Redis
-from Monitor import GPUCalculator, MMTMonitor, TSManager
+from utils.Monitor import GPUCalculator, MMTMonitor, TSManager
 from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
 from utils.constants import REDISTIMESERIES, REDISTIMESERIES_PORT, MODEL_RUN_LATENCY, BOUNDING_BOXES_LATENCY, FRAMERATE
 
