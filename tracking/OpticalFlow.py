@@ -1,5 +1,6 @@
 import pickle
 import cv2
+import time
 import numpy as np
 from redis import Redis
 from argparse import ArgumentParser
@@ -8,7 +9,8 @@ from mmflow.apis import inference_model, init_model
 from mmflow.datasets import visualize_flow
 from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
 from utils.Utility import get_frame_data
-# from utils.Utility import mls_diff
+from Monitor import TSManager, GPUCalculator, MMTMonitor
+from utils.constants import FRAMERATE, FLOW_RUN_LATENCY, VISUAlIZE_RUN_LATENCY, REDISTIMESERIES, REDISTIMESERIES_PORT
 
 
 class OpticalFlow:
@@ -17,13 +19,21 @@ class OpticalFlow:
                  of_rate: int,
                  frame_diff: int,
                  flow_xreader_writer: RedisStreamXreaderWriter,
-                 img_xreader_writer: RedisStreamXreaderWriter):
+                 img_xreader_writer: RedisStreamXreaderWriter,
+                 model_run_monitor: MMTMonitor,
+                 visualize_run_monitor: MMTMonitor,
+                 gpu_calculator: GPUCalculator,
+                 ts_manager: TSManager):
 
         self.model = init_model(model, device=device)
         self.of_rate = of_rate
         self.frame_diff = frame_diff
         self.flow_xreader_writer = flow_xreader_writer
         self.img_xreader_writer = img_xreader_writer
+        self.model_run_monitor = model_run_monitor
+        self.visualize_run_monitor = visualize_run_monitor
+        self.gpu_calculator = gpu_calculator
+        self.ts_manager = ts_manager
 
     def inference(self):
         optical_flow_counter = 0
@@ -46,10 +56,16 @@ class OpticalFlow:
                         if len(frames) < 2:
                             frames.append(get_frame_data(data))
                         else:
+                            self.model_run_monitor.start_timer()
                             result = inference_model(self.model, frames[0], frames[1])
+                            self.model_run_monitor.end_timer()
+
+                            self.visualize_run_monitor.start_timer()
                             flow_map = visualize_flow(result)
+                            self.visualize_run_monitor.end_timer()
+
+                            self.gpu_calculator.add()
                             flow_map = cv2.cvtColor(flow_map, cv2.COLOR_RGB2BGR)
-                            # frame = np.concatenate((flow_map, frames[0]), axis=1)
                             self.img_xreader_writer.write_message({'img_flow_map': pickle.dumps(flow_map)})
                             self.flow_xreader_writer.write_message({'flow_map': pickle.dumps(result)}, output_id)
                             frames.clear()
@@ -80,11 +96,18 @@ def main():
 
     url = urlparse(args.redis)
     conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
+    ts_conn = Redis(REDISTIMESERIES, REDISTIMESERIES_PORT)
+    ts_manager = TSManager(ts_conn)
+    model_run_monitor = MMTMonitor(ts_manager, FLOW_RUN_LATENCY, 15)
+    visualize_run_monitor = MMTMonitor(ts_manager, VISUAlIZE_RUN_LATENCY, 15)
+    gpu_calculator = GPUCalculator(ts_manager, 15)
 
     flow_xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream_flow, conn, args.maxlen)
     img_xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream_flow_img, conn, args.maxlen)
 
-    optical_flow = OpticalFlow(args.algo, args.device, args.opticalFlowRate, args.frameDiff, flow_xreader_writer, img_xreader_writer)
+    optical_flow = OpticalFlow(args.algo, args.device, args.opticalFlowRate, args.frameDiff,
+                               flow_xreader_writer, img_xreader_writer, model_run_monitor,
+                               visualize_run_monitor, gpu_calculator, ts_manager)
 
     optical_flow.inference()
 

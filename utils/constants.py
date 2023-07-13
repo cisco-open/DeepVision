@@ -3,6 +3,8 @@ REDISTIMESERIES = "redistimeseries"
 REDISTIMESERIES_PORT = 6379
 MODEL_RUN_LATENCY = "model_run_latency"
 BOUNDING_BOXES_LATENCY = "bounding_boxes_latency"
+VISUAlIZE_RUN_LATENCY = "visualize_run_latency"
+FLOW_RUN_LATENCY = "flow_run_latency"
 GPU_METRICS_CMD = "nvidia-smi --query-gpu=memory.used,memory.total,utilization.gpu,utilization.memory,temperature.gpu --format=csv,noheader,nounits"
 MEMORY_USED = "memory_used"
 MEMORY_TOTAL = "memory_total"

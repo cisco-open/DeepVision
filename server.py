@@ -78,8 +78,6 @@ class VideoFrameStreamItem(StreamItem):
 
     def get_image_data(self):
         if self.frame_ref_id is not None and self.data is not None:
-            # bug
-            # self.get_stream_item(self.frame_ref_id)
             img_data = pickle.loads(self.data[b'image'])
             label = f'{self.stream_name}:{self.frame_ref_id}'
             return img_data, label

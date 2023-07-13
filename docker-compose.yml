@@ -23,6 +23,7 @@ services:
     profiles:
       - tracking
       - haidetection
+      - optical_flow
 
   grafana:
     build: ./grafana
@@ -34,13 +35,14 @@ services:
     profiles:
       - tracking
       - haidetection
+      - optical_flow
 
   tracker:
     build:
       context: ./
       dockerfile: ./tracking/Dockerfile
     container_name: "tracker_vision"
-    command: bash -c "python3 tracker.py ${MODEL_CONF} --redis ${REDIS_URL} & python3 OpticalFlow.py ${FLOW_MODEL_CONF} --redis ${REDIS_URL}"
+    command: bash -c "python3 tracker.py ${MODEL_CONF} --redis ${REDIS_URL}"
     deploy:
       resources:
         reservations:
