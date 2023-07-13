@@ -34,8 +34,6 @@ class DatasetCollector:
     def __init__(self, scrapeops_api_key) -> None:
         self.SCRAPEOPS_API_KEY = scrapeops_api_key
         self.USE_SCAPEOPS = True # Without scrapeops some website might block simple python requests
-        if scrapeops_api_key == '':
-            self.USE_SCAPEOPS = False
 
     def fetch_html_source(self, url):
         # User agent generator - https://www.useragentstring.com/pages/useragentstring.php
@@ -175,58 +173,58 @@ def load_truthqa_dataset(api_keys, print_results=False):
 
 
 
-if __name__ == '__main__':
-    from datastore_gen import *
-    from recall import TextColor
+# if __name__ == '__main__':
+#     from datastore_gen import *
+#     from recall import TextColor
 
-    print(f'Please wait - Initializing...', end="", flush=True)
+#     print(f'Please wait - Initializing...', end="", flush=True)
 
-    parser = argparse.ArgumentParser(description='')
-    parser.add_argument('--reset', action='store_true', help='Reset the database')
-    args = parser.parse_args()
+#     parser = argparse.ArgumentParser(description='')
+#     parser.add_argument('--reset', action='store_true', help='Reset the database')
+#     args = parser.parse_args()
 
-    with open('api_keys.json') as f:
-        api_keys = json.load(f)
-
-
-    # Load content from truthfulqa sources
-    # knowledge_update_dataset is a list of DatasetElement
-    hf_dataset, knowledge_update_dataset = load_truthqa_dataset(api_keys)
-
-    datastore_handler = DatastoreHandler(api_keys=api_keys,
-                                         reset_collection=args.reset)
-
-    print(f'\r                                     ')
+#     with open('api_keys.json') as f:
+#         api_keys = json.load(f)
 
 
-    start_time_string = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f'\nSTARTING KNOWLEDGE UPDATE!\n')
+#     # Load content from truthfulqa sources
+#     # knowledge_update_dataset is a list of DatasetElement
+#     hf_dataset, knowledge_update_dataset = load_truthqa_dataset(api_keys)
 
-    knowledge_update_progress_file_path = f'datasets/truthful_qa/knowledge_update_progress.txt'
-    with open(knowledge_update_progress_file_path, 'a+') as progress_file:
-        progress_file.seek(0)
-        loaded_elements = []
-        for line in progress_file.readlines():
-            loaded_elements.append(line.strip()) # .strip() removes any leading or trailing whitespace
+#     datastore_handler = DatastoreHandler(api_keys=api_keys,
+#                                          reset_collection=args.reset)
 
-        for element in knowledge_update_dataset:
-            if element.source in loaded_elements: # Do not re-load elements that have already been loaded
-                continue
+#     print(f'\r                                     ')
 
-            print(f'{TextColor.CYAN}Updating knowledge for: {element.source_title}\t {element.source}{TextColor.RESET}')
-            print(f'\t{len(knowledge_update_dataset) - len(loaded_elements)} elements remaining', end="", flush=True)
-            # Load knowledge to Recall LM system
-            text = f'{element.source_title}\n\n{element.source_content}'
-            datastore_handler.knowledge_update_pipeline(text)
+
+#     start_time_string = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+#     print(f'\nSTARTING KNOWLEDGE UPDATE!\n')
+
+#     knowledge_update_progress_file_path = f'datasets/truthful_qa/knowledge_update_progress.txt'
+#     with open(knowledge_update_progress_file_path, 'a+') as progress_file:
+#         progress_file.seek(0)
+#         loaded_elements = []
+#         for line in progress_file.readlines():
+#             loaded_elements.append(line.strip()) # .strip() removes any leading or trailing whitespace
+
+#         for element in knowledge_update_dataset:
+#             if element.source in loaded_elements: # Do not re-load elements that have already been loaded
+#                 continue
+
+#             print(f'{TextColor.CYAN}Updating knowledge for: {element.source_title}\t {element.source}{TextColor.RESET}')
+#             print(f'\t{len(knowledge_update_dataset) - len(loaded_elements)} elements remaining', end="", flush=True)
+#             # Load knowledge to Recall LM system
+#             text = f'{element.source_title}\n\n{element.source_content}'
+#             datastore_handler.knowledge_update_pipeline(text)
             
-            progress_file.write(f'{element.source}\n')
-            progress_file.flush()
+#             progress_file.write(f'{element.source}\n')
+#             progress_file.flush()
 
-            print(f'\r                                           ', end="", flush=True)
-            print(f'\r   {TextColor.MAGENTA}Knowledge updated{TextColor.RESET}\n')
+#             print(f'\r                                           ', end="", flush=True)
+#             print(f'\r   {TextColor.MAGENTA}Knowledge updated{TextColor.RESET}\n')
     
-    end_time_string = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+#     end_time_string = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    print(f"TruthfulQA knowledge crawl complete!!\n\nStart time:\t {start_time_string}\nEnd time:\t {end_time_string}")
+#     print(f"TruthfulQA knowledge crawl complete!!\n\nStart time:\t {start_time_string}\nEnd time:\t {end_time_string}")
 
-    datastore_handler.close_datastore()
+#     datastore_handler.close_datastore()

@@ -3,38 +3,35 @@ import config
 from knowledge_crawler import *
 
 # Misc
+import contextlib
+import io
 from typing import List
-from langchain.text_splitter import CharacterTextSplitter
 import re
 from datetime import datetime
 from deprecated import deprecated
 from enum import Enum
 import time
-from collections import deque
+from tqdm import tqdm
 
 # Graph Database
 from neo4j import GraphDatabase
 
-# Chroma Database
-from langchain.vectorstores import Chroma
-import chromadb
-from chromadb.config import Settings
-from langchain.embeddings import HuggingFaceEmbeddings
-
 # Summarization chain
-from langchain import OpenAI
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
+from langchain.chat_models import ChatOpenAI
+from langchain.prompts.chat import (
+    ChatPromptTemplate,
+    SystemMessagePromptTemplate,
+    AIMessagePromptTemplate,
+    HumanMessagePromptTemplate,
+)
+from langchain.schema import AIMessage, HumanMessage, SystemMessage
+
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from transformers import pipeline
 
 # NLTK Pipeline
 import stanza
 from nltk.stem import PorterStemmer
-
-# NER Pipeline (Deprecated)
-from transformers import AutoModelForTokenClassification
-# from transformers import pipeline
 
 
 
@@ -43,33 +40,33 @@ from transformers import AutoModelForTokenClassification
 NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "password"
 
-CHROMA_COLLECTION_NAME = "collection"
-CHROMA_DB_PERSIST_DIR = 'database/chroma_LLMContext'
-
 TEXT_CHUNK_SIZE = 2500
 TEXT_CHUNK_OVERLAP = 1000
 
-# CONTEXT_SIZE is only used for NER pipeline and is deprecated
-CONTEXT_SIZE = 50               # Size of context window for each update
-
-CONTEXT_REVISION_PERIOD = 4     # Number of iterations before context is revised
+CONTEXT_REVISION_PERIOD = 3     # Number of iterations before context is revised
 CONTEXT_SUMMARIZATION_DESIRED_SIZE = 80 # Size in number of words (Only for OpenAI chain)
 
 NEIGHBORING_CONCEPT_DISTANCE_FOR_KNOWLEDGE_UPDATE = 1 # Number of related concepts to fetch -> Warning this causes exponential growth
 
+class LoggingLevel(Enum):
+    NoLogging = 0
+    Minimal = 1
+    Verbose = 2
+
+class ContextResponse:
+    def __init__(self) -> None:
+        self.context = ""
+        self.had_graph_db_entity = False
 
 class DatastoreHandler:
     def __init__(self, api_keys, reset_collection=False) -> None:
-        # self.driver = create_neo4j_driver()
         self.driver = NeoDriverWrapper()
 
-        # self.chroma_collection = get_chroma_collection(reset_collection=reset_collection)
         if reset_collection:
             reset_graph_db(driver=self.driver)
 
-        self.knowledge_crawler = DatasetCollector(api_keys['scrapeops'] if 'scrapeops' in api_keys else '')
+        self.knowledge_crawler = DatasetCollector(api_keys['scrapeops'])
 
-        # self.ner_pipeline = create_ner_pipeline()
         self.nltk_pipeline = create_nltk_pipeline()
         self.word_stemmer = PorterStemmer()
         self.summarization_chain = SummarizationChain(type=SummarizationType.OPENAI,
@@ -81,42 +78,43 @@ class DatastoreHandler:
     def close_datastore(self):
         self.driver.close()
 
-    def question_system(self, question, default_chain, vanilla_chain):
+    def fetch_contexts_for_question(self, question) -> ContextResponse:
         context = fetch_contexts_for_question(
             question=question,
             nltk_pipeline=self.nltk_pipeline,
             word_stemmer=self.word_stemmer,
             driver=self.driver)
+        return context
+
+    def question_system(self, question, default_chain, default_prompt, vanilla_chain, vanilla_prompt):
+        context = self.fetch_contexts_for_question(question)
         
         if context.had_graph_db_entity:
             response = default_chain(
-                {
-                    "question": question,
-                    "info":context.context
-                },
-                return_only_outputs=True
-            )
+                default_prompt.format_prompt(
+                    question=question,
+                    info=context.context
+                ).to_messages()
+            ).content
         else:
             response = vanilla_chain(
-                {
-                    "question": question,
-                    "info":context.context
-                },
-                return_only_outputs=True
-            )
+                vanilla_prompt.format_prompt(
+                    question=question
+                ).to_messages()
+            ).content
         
-        return response['text']
+        return response
 
     def perform_knowledge_update_from_url(self, url):
         title, body = self.knowledge_crawler.get_clean_text_from_url(url)
         text = f"{title}\n\n{body}"
-        self.knowledge_update_pipeline(text)
+        self.knowledge_update_pipeline(text, logging_level=LoggingLevel.Minimal)
     
     def perform_knowledge_update_from_file(self, file):
         text = load_texts(filename=file)
-        self.knowledge_update_pipeline(text)
+        self.knowledge_update_pipeline(text, logging_level=LoggingLevel.Minimal)
 
-    def knowledge_update_pipeline(self, text):
+    def knowledge_update_pipeline(self, text, logging_level=LoggingLevel.NoLogging):
         # Deprecated approach using NER
         # ner_results = self.ner_pipeline(texts)
         # concepts_chunks = fetch_ner_concepts_from_texts(texts, ner_results)
@@ -134,7 +132,8 @@ class DatastoreHandler:
         update_knowledge_graph(
             concepts_chunks,
             self.summarization_chain,
-            self.driver)
+            self.driver,
+            logging_level)
 
 
 
@@ -144,8 +143,10 @@ class DatastoreHandler:
 
 
 def create_nltk_pipeline():
-    stanza.download('en')
-    nlp = stanza.Pipeline('en')
+    with contextlib.redirect_stdout(io.StringIO()): # Supress console output
+        stanza.download('en', verbose=False)
+        nlp = stanza.Pipeline('en', verbose=False)
+        
     return nlp
 
 class NeoDriverWrapper:
@@ -227,34 +228,6 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (n:Concept) REQUIRE n.name IS UNIQUE
 
     driver.execute_query("MERGE (n:Meta)")
 
-def reset_chroma_client(client_settings):
-    client = chromadb.Client(settings=client_settings)
-    client.reset()
-    print("\n!!!\tChroma client reset\t!!!")
-
-def get_chroma_collection(reset_collection = False):
-    chroma_client_settings = Settings(chroma_api_impl="rest",
-                                    chroma_server_host="localhost",
-                                    chroma_server_http_port="8000")
-    
-    if reset_collection:
-        reset_chroma_client(chroma_client_settings)
-
-    embedding_function = HuggingFaceEmbeddings()
-
-
-    chroma_collection = Chroma(
-        collection_name=CHROMA_COLLECTION_NAME,
-        embedding_function=embedding_function,
-        persist_directory=CHROMA_DB_PERSIST_DIR,
-        client_settings=chroma_client_settings
-    )
-
-    if reset_collection:
-        add_texts_to_collection(chroma_collection, texts=["Sample"]) # TODO: Fix this, this was a workaround to so that the collection is actually created immediately instead of remaining empty
-    
-    return chroma_collection
-
 class SummarizationType(Enum):
     OPENAI = 1
     LOCAL_DISTIL_BART = 2
@@ -262,42 +235,62 @@ class SummarizationType(Enum):
 class SummarizationChain:
     def __init__(self, type: SummarizationType, api_keys) -> None:
         self.type = type
-        self.chain = create_summarization_chain(api_keys, self.type)
 
-def create_summarization_chain(api_keys, summarization_type):
-    if summarization_type == SummarizationType.OPENAI:
-        llm = OpenAI(
-            temperature=0.01,
-            openai_api_key=api_keys['open_ai'],
-            model_name="gpt-3.5-turbo"
-        )
+        if type == SummarizationType.OPENAI:
+            self.chain, self.prompt = create_openai_summarization_chain(api_keys)
         
-        prompt = PromptTemplate(
-            input_variables=["context", "max_words"],
-            template="""Each sentence in the folllowing texts are true in chronological order, summarize the text in less than {max_words} words while retaining all relevant information and details:
-            
-            Source: Set in the 21st century, Mars has been 23% terraformed. Set in the second half of the 22nd century, Mars has been 84% terraformed, allowing humans to walk on the surface without pressure suits. Martian society has become matriarchal, with women in most positions of authority. Arriving at the remote mining town, Ballard finds all of the people missing. She learns that they had discovered an underground doorway created by an ancient Martian civilization.
-            Summary: In the 22nd century, 84% of Mars has been terraformed, allowing humans to walk the surface without pressure suits. Women hold most positions of power in Martian society. Ballard finds missing people in remote mining town, these people discovered an underground doorway created by an ancient Martian civilization
-            
-            Source: {context}
-            Summary: """,
-        )
+        elif type == SummarizationType.LOCAL_DISTIL_BART:
+            self.chain = create_local_summarization_chain(api_keys, self.type)
 
-        chain = LLMChain(llm=llm, prompt=prompt)
-
-        return chain
-
-    elif summarization_type == SummarizationType.LOCAL_DISTIL_BART:
-        tokenizer = AutoTokenizer.from_pretrained("sshleifer/distilbart-cnn-12-6")
-
-        model = AutoModelForSeq2SeqLM.from_pretrained("sshleifer/distilbart-cnn-12-6")
-
-        summarization_pipeline = pipeline("text2text-generation", model=model, tokenizer=tokenizer)
+        else:
+            raise Exception(f"Summarization method not implemented: {type}")
+    
+    def summarize(self, content):
+        if self.type == SummarizationType.OPENAI:
+            response = self.chain(
+                self.prompt.format_prompt(
+                    max_words=f'{CONTEXT_SUMMARIZATION_DESIRED_SIZE}',
+                    context=content
+                ).to_messages()
+            ).content
+            return response
         
-        return summarization_pipeline
+        elif self.type == SummarizationType.LOCAL_DISTIL_BART:
+            return self.chain(content)[0]['generated_text']
 
-    else:
-        raise Exception(f"Summarization method not implemented: {summarization_type}")
+        else:
+            raise Exception("Summarization type not implemented")
+
+def create_openai_summarization_chain(api_keys):
+    chain = ChatOpenAI(temperature=0,
+                       openai_api_key=api_keys['open_ai'],
+                       model_name="gpt-3.5-turbo")
+
+    template = (
+        """Each sentence in the folllowing texts are true in chronological order, summarize the text in less than {max_words} words while retaining all relevant information and details:
+        
+        Source: Set in the 21st century, Mars has been 23% terraformed. Set in the second half of the 22nd century, Mars has been 84% terraformed, allowing humans to walk on the surface without pressure suits. Martian society has become matriarchal, with women in most positions of authority. Arriving at the remote mining town, Ballard finds all of the people missing. She learns that they had discovered an underground doorway created by an ancient Martian civilization.
+        Summary: In the 22nd century, 84% of Mars has been terraformed, allowing humans to walk the surface without pressure suits. Women hold most positions of power in Martian society. Ballard finds missing people in remote mining town, these people discovered an underground doorway created by an ancient Martian civilization
+        
+        Source: {context}
+        Summary: """
+    )
+    system_message_prompt = SystemMessagePromptTemplate.from_template(template)
+
+    chat_prompt = ChatPromptTemplate.from_messages(
+        [system_message_prompt]
+    )
+
+    return chain, chat_prompt
+
+def create_local_summarization_chain(api_keys):
+    tokenizer = AutoTokenizer.from_pretrained("sshleifer/distilbart-cnn-12-6")
+
+    model = AutoModelForSeq2SeqLM.from_pretrained("sshleifer/distilbart-cnn-12-6")
+
+    summarization_pipeline = pipeline("text2text-generation", model=model, tokenizer=tokenizer)
+    
+    return summarization_pipeline
 
 def load_texts(filename):
     with open(filename, encoding="utf-8") as f:
@@ -410,19 +403,7 @@ class Concept:
         return False
 
     def revise_context(self, summarization_chain):
-        if summarization_chain.type == SummarizationType.OPENAI:
-            self.context = summarization_chain.chain({
-                                "context": self.context,
-                                "max_words": f'{CONTEXT_SUMMARIZATION_DESIRED_SIZE}'
-                            },
-                            return_only_outputs=True)['text']
-        
-        elif summarization_chain.type == SummarizationType.LOCAL_DISTIL_BART:
-            self.context = summarization_chain.chain(self.context)[0]['generated_text']
-
-        else:
-            raise Exception("Summarization type not implemented")
-
+        self.context = summarization_chain.summarize(self.context)
         self.merge_count = 0
         
 
@@ -637,7 +618,7 @@ def fetch_concepts_from_single_batch(text,
 
     return concepts
 
-def update_knowledge_graph(concepts_chunks, summarization_chain, driver, use_mini_batches=True):
+def update_knowledge_graph(concepts_chunks, summarization_chain, driver, logging_level=LoggingLevel.NoLogging, use_mini_batches=True):
     # It is assumed that all information in the knowledge update is provided to the system at the
     # same point in time. Hence the knowledge update only counts for one increment in the global
     # temporal counter
@@ -653,7 +634,11 @@ RETURN n_temporal_index
     global_temporal_index = int(global_temporal_index[0][0]['n_temporal_index'])
     ### UPDATE THE GLOBAL TEMPORAL INDEX COUNTER ###
 
-    for i in range(len(concepts_chunks)):
+    chunks_iterable = range(len(concepts_chunks))
+    if logging_level == LoggingLevel.Minimal:
+        chunks_iterable = tqdm(chunks_iterable, desc="Updating knowledge")
+
+    for i in chunks_iterable:
         if len(concepts_chunks[i]) == 0:
             continue
 
@@ -716,7 +701,8 @@ RETURN n_temporal_index
                         neo_query += f"r{concept.unique_id}{related.unique_id}.t_index = {global_temporal_index}, "
                     neo_query = neo_query[:len(neo_query)-2]
 
-                    print(f'\rAdding concept relations for chunk:\t {i+1}/{len(concepts_chunks)}\t mini-batch: {mini_batch_i}/{len(concepts_chunks[i])}', end="", flush=True)
+                    if logging_level == LoggingLevel.Verbose:
+                        print(f'\rAdding concept relations for chunk:\t {i+1}/{len(concepts_chunks)}\t mini-batch: {mini_batch_i}/{len(concepts_chunks[i])}', end="", flush=True)
                     driver.execute_query(neo_query)
                 
 
@@ -780,11 +766,13 @@ RETURN n_temporal_index
 
                 neo_query = f'{neo_query}{relation_string}'
             
-            print(f'\rAdding concept relations for chunk:\t {i+1}/{len(concepts_chunks)}')
+            if logging_level == LoggingLevel.Verbose:
+                print(f'\rAdding concept relations for chunk:\t {i+1}/{len(concepts_chunks)}')
             # print(f'Batch neo query:\n{neo_query}\n\n')
             driver.execute_query(neo_query)
 
-        print('')
+        if logging_level == LoggingLevel.Verbose:
+            print('')
 
 
 
@@ -802,7 +790,8 @@ RETURN n_temporal_index
         neo_query += f"\nWHERE n.name IN {[concept.name for concept in concepts_chunks[i]]}"
         neo_query += f"\nRETURN n.name, n.context, n.revision_count"
 
-        print(f'\rFetching concept contexts for chunk:\t {i+1}/{len(concepts_chunks)}')
+        if logging_level == LoggingLevel.Verbose:
+            print(f'\rFetching concept contexts for chunk:\t {i+1}/{len(concepts_chunks)}')
 
         neo_results_object = driver.execute_query(neo_query)
 
@@ -837,11 +826,13 @@ RETURN n_temporal_index
 
         # TODO: Use local summarization model -> Compute in parallel across multiple GPU's
         for j, concept in enumerate(concepts_chunks[i]):
-            print(f'\rRevising context {j+1}/{len(concepts_chunks[i])} for chunk:\t {i+1}/{len(concepts_chunks)}', end="", flush=True)
+            if logging_level == LoggingLevel.Verbose:
+                print(f'\rRevising context {j+1}/{len(concepts_chunks[i])} for chunk:\t {i+1}/{len(concepts_chunks)}', end="", flush=True)
             if concept.should_revise():
                 concept.revise_context(summarization_chain)
 
-        print('')
+        if logging_level == LoggingLevel.Verbose:
+            print('')
     
 
 
@@ -891,15 +882,12 @@ RETURN n_temporal_index
         neo_query += f"\nSET n.context = newContext"
         neo_query += f"\nSET n.revision_count = revisionCount"
 
-        print(f'\rAdding concept context for chunk:\t {i+1}/{len(concepts_chunks)}')
+        if logging_level == LoggingLevel.Verbose:
+            print(f'\rAdding concept context for chunk:\t {i+1}/{len(concepts_chunks)}')
         # print(f'\n\n{neo_query}\n\n', flush=True)
         driver.execute_query(neo_query)
-        print('')
-
-class ContextResponse:
-    def __init__(self) -> None:
-        self.context = ""
-        self.had_graph_db_entity = False
+        if logging_level == LoggingLevel.Verbose:
+            print('')
 
 def fetch_contexts_for_question(question,
                                 nltk_pipeline,
@@ -1076,283 +1064,321 @@ RETURN node, relation
 
 
 
+# # Chroma Database
+# from langchain.vectorstores import Chroma
+# import chromadb
+# from chromadb.config import Settings
+# from langchain.embeddings import HuggingFaceEmbeddings
+
+# # NER Pipeline (Deprecated)
+# from transformers import AutoModelForTokenClassification
+# # from transformers import pipeline
 
 
 
 
 
+# CHROMA_COLLECTION_NAME = "collection"
+# CHROMA_DB_PERSIST_DIR = 'database/chroma_LLMContext'
+
+# # CONTEXT_SIZE is only used for NER pipeline and is deprecated
+# CONTEXT_SIZE = 50               # Size of context window for each update
 
 
+# @deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
+# def reset_chroma_client(client_settings):
+#     client = chromadb.Client(settings=client_settings)
+#     client.reset()
+#     print("\n!!!\tChroma client reset\t!!!")
 
-
-
-
-
-
-@deprecated(version='1.0', reason='Concept extraction using NER is depreciated, use nltk pipeline instead')
-def create_ner_pipeline():
-    tokenizer = AutoTokenizer.from_pretrained("dslim/bert-base-NER")
-    model = AutoModelForTokenClassification.from_pretrained("dslim/bert-base-NER")
-    ner_pipeline = pipeline("ner", model=model, tokenizer=tokenizer)
-    return ner_pipeline
-
-@deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
-def fetch_chroma_contexts_for_question(question, ner_pipeline, driver, chroma_collection, max_relation_distance = 1):
-    context_result = ContextResponse()
+# @deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
+# def get_chroma_collection(reset_collection = False):
+#     chroma_client_settings = Settings(chroma_api_impl="rest",
+#                                     chroma_server_host="localhost",
+#                                     chroma_server_http_port="8000")
     
-    # Identify key concepts in question
-    ner_results = ner_pipeline(question)
-    q_concepts_chunks = fetch_ner_concepts_from_texts(question, ner_results)
+#     if reset_collection:
+#         reset_chroma_client(chroma_client_settings)
 
-    q_concepts_strings = []
-    for q_concept_chunk in q_concepts_chunks:
-        for q_concept in q_concept_chunk:
-            q_concepts_strings.append(q_concept.name)
+#     embedding_function = HuggingFaceEmbeddings()
 
-    if config.verbose:
-        print(f'Main concepts in question: {q_concepts_strings}')
 
-    # For each key concept in question -> Fetch closest/connected concepts
-    neo_query = f"""
-MATCH (startNode: Concept)
-WHERE startNode.name IN {q_concepts_strings}
-CALL apoc.path.spanningTree(startNode, {{relationshipFilter: "", minLevel: 0, maxLevel: {max_relation_distance}}}) YIELD path
-RETURN nodes(path) AS connectedNodes LIMIT 10
-"""
-    query_response = driver.execute_query(neo_query)
+#     chroma_collection = Chroma(
+#         collection_name=CHROMA_COLLECTION_NAME,
+#         embedding_function=embedding_function,
+#         persist_directory=CHROMA_DB_PERSIST_DIR,
+#         client_settings=chroma_client_settings
+#     )
+
+#     if reset_collection:
+#         add_texts_to_collection(chroma_collection, texts=["Sample"]) # TODO: Fix this, this was a workaround to so that the collection is actually created immediately instead of remaining empty
     
-    # query_response[0] -> type: list of results
-    # query_response[1] -> type: neo4j._work.summary.ResultSummary
-    # query_response[2] -> type: list of returned result names ie. ['connectedNodes']
-    query_results = query_response[0]
-    q_concepts_related = []
-    for q_concept in query_results:
-        q_concepts_related.append(q_concept.get('connectedNodes')[len(q_concept.get('connectedNodes')) - 1].get('name'))
+#     return chroma_collection
+
+# @deprecated(version='1.0', reason='Concept extraction using NER is depreciated, use nltk pipeline instead')
+# def create_ner_pipeline():
+#     tokenizer = AutoTokenizer.from_pretrained("dslim/bert-base-NER")
+#     model = AutoModelForTokenClassification.from_pretrained("dslim/bert-base-NER")
+#     ner_pipeline = pipeline("ner", model=model, tokenizer=tokenizer)
+#     return ner_pipeline
+
+# @deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
+# def fetch_chroma_contexts_for_question(question, ner_pipeline, driver, chroma_collection, max_relation_distance = 1):
+#     context_result = ContextResponse()
     
-    if config.verbose:
-        print(f'Related concepts: {q_concepts_related}')
+#     # Identify key concepts in question
+#     ner_results = ner_pipeline(question)
+#     q_concepts_chunks = fetch_ner_concepts_from_texts(question, ner_results)
 
-    if len(q_concepts_related) > 0:
-        context_result.had_graph_db_entity = True
+#     q_concepts_strings = []
+#     for q_concept_chunk in q_concepts_chunks:
+#         for q_concept in q_concept_chunk:
+#             q_concepts_strings.append(q_concept.name)
 
-    # Add identified concepts from question even if they could not be found in graphDB
-    #   Because we might be able to find similar concepts from similarity search in chromaDB
-    for q_concept_chunk in q_concepts_chunks:
-        for q_concept in q_concept_chunk:
-            if q_concept.name not in q_concepts_related:
-                q_concepts_related.append(q_concept.name)
+#     if config.verbose:
+#         print(f'Main concepts in question: {q_concepts_strings}')
 
-    if len(q_concepts_related) == 0:
-        return context_result
-
-    # Query chromadb using concepts to get releveant context
-    chroma_results = chroma_collection.query(    # Returns len(q_concepts_related) * n_results array
-        query_texts=q_concepts_related,
-        n_results=1 # Return single closest match for each concept in q_concepts_related
-    )
-
-    context = ""
-    for result in chroma_results['metadatas']:
-        for n_result in result:
-            if "context" in n_result: # check that key exists - If the database contains a record without the 'context' key it will return an error
-                context = f'{context}{n_result["context"]}'
-                if context[len(context)-1] == '.':
-                    context = f'{context} '
-                else:
-                    context = f'{context}. '
-            else:
-                if config.verbose:
-                    print(f'WARNING: A record exists in chromaDB without the \'context\' key and was excluded from a query.')
-    context = context[0:len(context)-1] # Remove whitespace at the end
-
-    if config.verbose:
-        print(f'Context:\n\t{context}\n')
-
-    context_result.context = context
-
-    return context_result
-
-# Join neighbouring words to form a single concept
-# Eg. Given the text "... from Johannesburg, South Africa ..." this would
-#   become three seperate concepts {Johannesburg}, {South}, {Africa}
-#   we merge them to become one concept {JohannesburgSouthAfrica}
-@deprecated(version='1.0', reason='\'concatenate_concepts\' is part of the NER pipeline which is deprecated')
-def concatenate_concepts(concepts, max_distance) -> List[Concept]:
-    concepts = sorted(concepts)
-    i = 0
-    while i < len(concepts)-1:
-        if concepts[i].end_index >= concepts[i+1].start_index-1 - max_distance:
-            concepts[i].merge_with(concepts[i+1])
-            del concepts[i+1]
-        else:
-            i += 1
-    return concepts
-
-@deprecated(version='1.0', reason='Fetching concepts using Named Entity Recognition is deprecated, us \'fetch_concepts_from_texts\' to perform concept exctraction more efficiently using dependency parsing.')
-def fetch_ner_concepts_from_texts(texts, ner_results):
-    if len(ner_results) == 0:
-        return []
-    if type(ner_results[0]) != list:    # There was no batching in ner_results
-        ner_results = [ner_results]     # So we put it in batch format to work with rest of code
-
-    concepts_chunks = [] # Array of chunks/batches
-    for (i, ner_chunk) in enumerate(ner_results):
-        concepts_chunks.append([])
-        for ner in ner_chunk:
-            concepts_chunks[i].append(Concept(
-                name=ner['word'],
-                type=ner['entity'],
-                start_index=ner['start'],
-                end_index=ner['end'],
-                chunk_index=i))
-
-    for i in range(len(concepts_chunks)):
-        concepts_chunks[i] = concatenate_concepts(concepts_chunks[i], max_distance=1)
-
-        assign_unique_ids_to_concepts(
-            concepts=concepts_chunks[i],
-            chunk_index=i
-        )
-
-        fetch_contexts_for_concepts(
-            concepts=concepts_chunks[i],
-            texts=texts,
-            context_size=CONTEXT_SIZE
-        )
-
-        fetch_neigbouring_concepts(
-            concepts=concepts_chunks[i],
-            distance=NEIGHBORING_CONCEPT_DISTANCE_FOR_KNOWLEDGE_UPDATE
-        )
+#     # For each key concept in question -> Fetch closest/connected concepts
+#     neo_query = f"""
+# MATCH (startNode: Concept)
+# WHERE startNode.name IN {q_concepts_strings}
+# CALL apoc.path.spanningTree(startNode, {{relationshipFilter: "", minLevel: 0, maxLevel: {max_relation_distance}}}) YIELD path
+# RETURN nodes(path) AS connectedNodes LIMIT 10
+# """
+#     query_response = driver.execute_query(neo_query)
     
-    return concepts_chunks
+#     # query_response[0] -> type: list of results
+#     # query_response[1] -> type: neo4j._work.summary.ResultSummary
+#     # query_response[2] -> type: list of returned result names ie. ['connectedNodes']
+#     query_results = query_response[0]
+#     q_concepts_related = []
+#     for q_concept in query_results:
+#         q_concepts_related.append(q_concept.get('connectedNodes')[len(q_concept.get('connectedNodes')) - 1].get('name'))
+    
+#     if config.verbose:
+#         print(f'Related concepts: {q_concepts_related}')
 
-@deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
-def store_concepts_to_database(concepts_chunks, summarization_chain, driver, chroma_collection):
-    # Store relations in graph database
-    for i in range(len(concepts_chunks)):
-        if len(concepts_chunks[i]) == 0:
-            continue
+#     if len(q_concepts_related) > 0:
+#         context_result.had_graph_db_entity = True
 
-        neo_query = ''
-        for concept in concepts_chunks[i]:
-            neo_query = f'{neo_query}\nMERGE ({concept.unique_id}:Concept {{name: \'{concept.name}\', type: \'{concept.type}\'}})'
+#     # Add identified concepts from question even if they could not be found in graphDB
+#     #   Because we might be able to find similar concepts from similarity search in chromaDB
+#     for q_concept_chunk in q_concepts_chunks:
+#         for q_concept in q_concept_chunk:
+#             if q_concept.name not in q_concepts_related:
+#                 q_concepts_related.append(q_concept.name)
 
-        # Create relations between concepts, if relation already exists we increase it's strength
-        # This is synonymous to a synapse developing a stronger connection
-        relation_string = f'\nWITH {concepts_chunks[i][0].unique_id}'
-        for j in range(1, len(concepts_chunks[i]), 1):
-            relation_string = f'{relation_string}, {concepts_chunks[i][j].unique_id}'
-        relations_exist = False
-        for concept in concepts_chunks[i]:
-            for related_concept in concept.related_concepts:
-                relations_exist = True
-                relation_string = f'{relation_string}\nMERGE({concept.unique_id})-[r{concept.unique_id}{related_concept.unique_id}:RELATED]->({related_concept.unique_id})'
+#     if len(q_concepts_related) == 0:
+#         return context_result
 
-        if relations_exist: # This flag will be false if no connections exist
-            relation_string = f'{relation_string}\nWITH'
-            for concept in concepts_chunks[i]:
-                for related_concept in concept.related_concepts:
-                    relation_string = f'{relation_string} r{concept.unique_id}{related_concept.unique_id},'
-            relation_string = relation_string[0:len(relation_string)-1] # Remove extra comma at the end
+#     # Query chromadb using concepts to get releveant context
+#     chroma_results = chroma_collection.query(    # Returns len(q_concepts_related) * n_results array
+#         query_texts=q_concepts_related,
+#         n_results=1 # Return single closest match for each concept in q_concepts_related
+#     )
 
-            for concept in concepts_chunks[i]:
-                for related_concept in concept.related_concepts:
-                    relation_string = f'{relation_string}, COALESCE(r{concept.unique_id}{related_concept.unique_id}.strength, 0) + 1 AS r{concept.unique_id}{related_concept.unique_id}ic'
+#     context = ""
+#     for result in chroma_results['metadatas']:
+#         for n_result in result:
+#             if "context" in n_result: # check that key exists - If the database contains a record without the 'context' key it will return an error
+#                 context = f'{context}{n_result["context"]}'
+#                 if context[len(context)-1] == '.':
+#                     context = f'{context} '
+#                 else:
+#                     context = f'{context}. '
+#             else:
+#                 if config.verbose:
+#                     print(f'WARNING: A record exists in chromaDB without the \'context\' key and was excluded from a query.')
+#     context = context[0:len(context)-1] # Remove whitespace at the end
 
-            relation_string = f'{relation_string}\nSET'
-            for concept in concepts_chunks[i]:
-                for related_concept in concept.related_concepts:
-                    relation_string = f'{relation_string} r{concept.unique_id}{related_concept.unique_id}.strength = r{concept.unique_id}{related_concept.unique_id}ic,'
+#     if config.verbose:
+#         print(f'Context:\n\t{context}\n')
 
-            relation_string = relation_string[0:len(relation_string)-1] # Remove extra comma at the end
+#     context_result.context = context
+
+#     return context_result
+
+# # Join neighbouring words to form a single concept
+# # Eg. Given the text "... from Johannesburg, South Africa ..." this would
+# #   become three seperate concepts {Johannesburg}, {South}, {Africa}
+# #   we merge them to become one concept {JohannesburgSouthAfrica}
+# @deprecated(version='1.0', reason='\'concatenate_concepts\' is part of the NER pipeline which is deprecated')
+# def concatenate_concepts(concepts, max_distance) -> List[Concept]:
+#     concepts = sorted(concepts)
+#     i = 0
+#     while i < len(concepts)-1:
+#         if concepts[i].end_index >= concepts[i+1].start_index-1 - max_distance:
+#             concepts[i].merge_with(concepts[i+1])
+#             del concepts[i+1]
+#         else:
+#             i += 1
+#     return concepts
+
+# @deprecated(version='1.0', reason='Fetching concepts using Named Entity Recognition is deprecated, us \'fetch_concepts_from_texts\' to perform concept exctraction more efficiently using dependency parsing.')
+# def fetch_ner_concepts_from_texts(texts, ner_results):
+#     if len(ner_results) == 0:
+#         return []
+#     if type(ner_results[0]) != list:    # There was no batching in ner_results
+#         ner_results = [ner_results]     # So we put it in batch format to work with rest of code
+
+#     concepts_chunks = [] # Array of chunks/batches
+#     for (i, ner_chunk) in enumerate(ner_results):
+#         concepts_chunks.append([])
+#         for ner in ner_chunk:
+#             concepts_chunks[i].append(Concept(
+#                 name=ner['word'],
+#                 type=ner['entity'],
+#                 start_index=ner['start'],
+#                 end_index=ner['end'],
+#                 chunk_index=i))
+
+#     for i in range(len(concepts_chunks)):
+#         concepts_chunks[i] = concatenate_concepts(concepts_chunks[i], max_distance=1)
+
+#         assign_unique_ids_to_concepts(
+#             concepts=concepts_chunks[i],
+#             chunk_index=i
+#         )
+
+#         fetch_contexts_for_concepts(
+#             concepts=concepts_chunks[i],
+#             texts=texts,
+#             context_size=CONTEXT_SIZE
+#         )
+
+#         fetch_neigbouring_concepts(
+#             concepts=concepts_chunks[i],
+#             distance=NEIGHBORING_CONCEPT_DISTANCE_FOR_KNOWLEDGE_UPDATE
+#         )
+    
+#     return concepts_chunks
+
+# @deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
+# def store_concepts_to_database(concepts_chunks, summarization_chain, driver, chroma_collection):
+#     # Store relations in graph database
+#     for i in range(len(concepts_chunks)):
+#         if len(concepts_chunks[i]) == 0:
+#             continue
+
+#         neo_query = ''
+#         for concept in concepts_chunks[i]:
+#             neo_query = f'{neo_query}\nMERGE ({concept.unique_id}:Concept {{name: \'{concept.name}\', type: \'{concept.type}\'}})'
+
+#         # Create relations between concepts, if relation already exists we increase it's strength
+#         # This is synonymous to a synapse developing a stronger connection
+#         relation_string = f'\nWITH {concepts_chunks[i][0].unique_id}'
+#         for j in range(1, len(concepts_chunks[i]), 1):
+#             relation_string = f'{relation_string}, {concepts_chunks[i][j].unique_id}'
+#         relations_exist = False
+#         for concept in concepts_chunks[i]:
+#             for related_concept in concept.related_concepts:
+#                 relations_exist = True
+#                 relation_string = f'{relation_string}\nMERGE({concept.unique_id})-[r{concept.unique_id}{related_concept.unique_id}:RELATED]->({related_concept.unique_id})'
+
+#         if relations_exist: # This flag will be false if no connections exist
+#             relation_string = f'{relation_string}\nWITH'
+#             for concept in concepts_chunks[i]:
+#                 for related_concept in concept.related_concepts:
+#                     relation_string = f'{relation_string} r{concept.unique_id}{related_concept.unique_id},'
+#             relation_string = relation_string[0:len(relation_string)-1] # Remove extra comma at the end
+
+#             for concept in concepts_chunks[i]:
+#                 for related_concept in concept.related_concepts:
+#                     relation_string = f'{relation_string}, COALESCE(r{concept.unique_id}{related_concept.unique_id}.strength, 0) + 1 AS r{concept.unique_id}{related_concept.unique_id}ic'
+
+#             relation_string = f'{relation_string}\nSET'
+#             for concept in concepts_chunks[i]:
+#                 for related_concept in concept.related_concepts:
+#                     relation_string = f'{relation_string} r{concept.unique_id}{related_concept.unique_id}.strength = r{concept.unique_id}{related_concept.unique_id}ic,'
+
+#             relation_string = relation_string[0:len(relation_string)-1] # Remove extra comma at the end
             
-            neo_query = f'{neo_query}{relation_string}'
+#             neo_query = f'{neo_query}{relation_string}'
         
-        print(f'\rAdding concept relations for chunk: {i+1}/{len(concepts_chunks)}', end="")
-        # print(f'Batch neo query:\n{neo_query}\n\n')
-        driver.execute_query(neo_query)
+#         print(f'\rAdding concept relations for chunk: {i+1}/{len(concepts_chunks)}', end="")
+#         # print(f'Batch neo query:\n{neo_query}\n\n')
+#         driver.execute_query(neo_query)
 
-    print('')
+#     print('')
 
-    # Store contexts in ChromaDB
-    total_revisions = 0
-    for i in range(len(concepts_chunks)):
-        # For knowledge updates
-        chroma_update_ids = []
-        chroma_update_metadatas = []
-        chroma_update_documents = []
+#     # Store contexts in ChromaDB
+#     total_revisions = 0
+#     for i in range(len(concepts_chunks)):
+#         # For knowledge updates
+#         chroma_update_ids = []
+#         chroma_update_metadatas = []
+#         chroma_update_documents = []
 
-        # For creating new knowledge
-        chroma_create_texts = []
-        chroma_create_metadatas = []
-        chroma_create_ids = []
+#         # For creating new knowledge
+#         chroma_create_texts = []
+#         chroma_create_metadatas = []
+#         chroma_create_ids = []
 
-        for j, concept in enumerate(concepts_chunks[i]):
-            print(f'\rAdding context:\tchunk: {i+1}/{len(concepts_chunks)}\t concept: {j+1}/{len(concepts_chunks[i])}', end="")
+#         for j, concept in enumerate(concepts_chunks[i]):
+#             print(f'\rAdding context:\tchunk: {i+1}/{len(concepts_chunks)}\t concept: {j+1}/{len(concepts_chunks[i])}', end="")
             
-            # Check if context for concept id exists
-            db_record = chroma_collection._collection.get(ids=[concept.chroma_id])
+#             # Check if context for concept id exists
+#             db_record = chroma_collection._collection.get(ids=[concept.chroma_id])
 
-            # ChromaDB embedding is by done texts/documents
-            # We use the chroma_id string for embedding so that if we query the concept name or
-            # neighbouring concept names we still get this record as a result
+#             # ChromaDB embedding is by done texts/documents
+#             # We use the chroma_id string for embedding so that if we query the concept name or
+#             # neighbouring concept names we still get this record as a result
 
-            if len(db_record['ids']) > 0:       # If it does exist -> update context for same concept id (Using summarization method)
-                if config.verbose:
-                    print(f'\n\tUpdating context for {concept.name} (ID: {concept.chroma_id}):\t {concept.context}')
+#             if len(db_record['ids']) > 0:       # If it does exist -> update context for same concept id (Using summarization method)
+#                 if config.verbose:
+#                     print(f'\n\tUpdating context for {concept.name} (ID: {concept.chroma_id}):\t {concept.context}')
                 
-                # Combine previous context with new context
-                current_context = db_record['metadatas'][0]['context']
-                if current_context[len(current_context)-1] == '.':
-                    new_context = f'{current_context} {concept.context}'
-                else:
-                    new_context = f'{current_context}. {concept.context}'
+#                 # Combine previous context with new context
+#                 current_context = db_record['metadatas'][0]['context']
+#                 if current_context[len(current_context)-1] == '.':
+#                     new_context = f'{current_context} {concept.context}'
+#                 else:
+#                     new_context = f'{current_context}. {concept.context}'
 
-                # Periodically revise the context to shorten it and maintain key concepts while forgetting irrelevant info
-                update_count = db_record['metadatas'][0]['update_count']
-                update_count += 1
-                if update_count > 0 and update_count % CONTEXT_REVISION_PERIOD == 0:
-                    total_revisions += 1
-                    new_context = summarization_chain.chain({
-                            "context": new_context,
-                            "max_words": f'{CONTEXT_SUMMARIZATION_DESIRED_SIZE}'
-                        },
-                        return_only_outputs=True)['text']
+#                 # Periodically revise the context to shorten it and maintain key concepts while forgetting irrelevant info
+#                 update_count = db_record['metadatas'][0]['update_count']
+#                 update_count += 1
+#                 if update_count > 0 and update_count % CONTEXT_REVISION_PERIOD == 0:
+#                     total_revisions += 1
+#                     new_context = summarization_chain.chain({
+#                             "context": new_context,
+#                             "max_words": f'{CONTEXT_SUMMARIZATION_DESIRED_SIZE}'
+#                         },
+#                         return_only_outputs=True)['text']
                     
-                    if config.show_revisions:
-                        print(f'\nContext revision for: {concept.name}\n\t{new_context}')
+#                     if config.show_revisions:
+#                         print(f'\nContext revision for: {concept.name}\n\t{new_context}')
 
-                chroma_update_ids.append(concept.chroma_id)
-                chroma_update_metadatas.append({"context": new_context, "update_count": update_count})
-                chroma_update_documents.append(concept.chroma_id)
+#                 chroma_update_ids.append(concept.chroma_id)
+#                 chroma_update_metadatas.append({"context": new_context, "update_count": update_count})
+#                 chroma_update_documents.append(concept.chroma_id)
 
-                concept.context = new_context
+#                 concept.context = new_context
 
-            else:                               # Else create new record
-                if config.verbose:
-                    print(f'\n\tAdding context for {concept.name} (ID: {concept.chroma_id}):\t {concept.context}')
+#             else:                               # Else create new record
+#                 if config.verbose:
+#                     print(f'\n\tAdding context for {concept.name} (ID: {concept.chroma_id}):\t {concept.context}')
 
-                chroma_create_texts.append(concept.chroma_id)
-                chroma_create_metadatas.append({"context":concept.context, "update_count":1})
-                chroma_create_ids.append(f'{concept.chroma_id}')
+#                 chroma_create_texts.append(concept.chroma_id)
+#                 chroma_create_metadatas.append({"context":concept.context, "update_count":1})
+#                 chroma_create_ids.append(f'{concept.chroma_id}')
 
-        if len(chroma_update_ids) > 0:
-            try:
-                chroma_collection._collection.update(
-                    ids=chroma_update_ids,
-                    metadatas=chroma_update_metadatas,
-                    documents=chroma_update_documents)
-            except Exception as e:
-                print(f'Failed to update ids: {chroma_update_ids}\n\n{e}')
+#         if len(chroma_update_ids) > 0:
+#             try:
+#                 chroma_collection._collection.update(
+#                     ids=chroma_update_ids,
+#                     metadatas=chroma_update_metadatas,
+#                     documents=chroma_update_documents)
+#             except Exception as e:
+#                 print(f'Failed to update ids: {chroma_update_ids}\n\n{e}')
 
-        if len(chroma_create_ids) > 0:
-            chroma_collection.add_texts(
-                texts=chroma_create_texts,
-                metadatas=chroma_create_metadatas,
-                ids=chroma_create_ids)
+#         if len(chroma_create_ids) > 0:
+#             chroma_collection.add_texts(
+#                 texts=chroma_create_texts,
+#                 metadatas=chroma_create_metadatas,
+#                 ids=chroma_create_ids)
 
-    print(f'\nFinished storing concepts to ChromaDB with {total_revisions} revisions')
+#     print(f'\nFinished storing concepts to ChromaDB with {total_revisions} revisions')
 
 
 

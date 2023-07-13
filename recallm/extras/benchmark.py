@@ -1,7 +1,7 @@
 from datastore_gen import DatastoreHandler
 from datastore_gen import split_text
-from simple_vectorllm import *
-from hybrid_memory_llm import *
+from extras.simple_vectorllm import *
+from extras.hybrid_memory_llm import *
 from utils import TextColor
 
 from langchain import OpenAI
@@ -24,12 +24,15 @@ class MasterBenchmarkHandler:
                  datastore_handler:DatastoreHandler,
                  recall_default_chain,
                  recall_vanilla_chain,
+                 test_hybrid=False,
                  autograde=False) -> None:
         
         self.datastore_handler = datastore_handler
         self.recall_default_chain = recall_default_chain
         self.recall_vanilla_chain = recall_vanilla_chain
         self.api_keys = api_keys
+
+        self.test_hybrid = test_hybrid
         self.autograde = autograde
 
         self.hyrid_memory_llm = HybridMemoryLLM(api_keys)
@@ -60,7 +63,8 @@ class MasterBenchmarkHandler:
                                                     knowledge_update_loops=knowledge_update_loops)
             
                 # Get Hybrid result
-                self.get_hyrid_responses(benchmark_file)
+                if self.test_hybrid:
+                    self.get_hyrid_responses(benchmark_file)
 
                 if self.autograde:
                     benchmark_grader = GPTBenchmarkGrader(results_file=benchmark_handler.results_file(),
@@ -108,8 +112,9 @@ class BenchmarkHandler:
         
         self.benchmark_name = os.path.splitext(os.path.basename(test_file))[0]
         
-        self.statements = load_statements_from_test_file(test_file) # [(truth, statement_string)]
-        self.questions = load_questions_from_test_file(test_file)
+        # Dictionary keys are group names
+        self.statements = load_statements_from_test_file(test_file) # dictionary with values of type --> [(truth, statement_string)]
+        self.questions = load_questions_from_test_file(test_file) # dictionary with values of type --> [(question, answer)]
 
         self.datastore_handler = datastore_handler
         self.datastore_handler.reset_datastore()
@@ -119,48 +124,75 @@ class BenchmarkHandler:
 
         self.vector_lm = SimpleVectorLLM(api_keys=api_keys)     # Initializing new SVLLM resets chromaDB
     
-    def results_file(self):
-        return f'benchmarks/{self.benchmark_name}.json'
+    def results_file(self, question_group_name):
+        return f'benchmarks/{question_group_name}_{self.benchmark_name}.json'
 
     def begin_benchmarking(self, question_samples=1, knowledge_update_loops=1):
-        for _ in range(knowledge_update_loops):
-            # Load knowledge for recall
-            print(f'{TextColor.WHITE}Loading knowledge for RecallLM{TextColor.RESET}')
-            for i, statement in enumerate(self.statements):
-                statement_truth, statement_string = statement
-                self.datastore_handler.knowledge_update_pipeline(text=statement_string)
-                print(f'   {TextColor.MAGENTA}Knowledge updated for {i}/{len(self.statements)}{TextColor.RESET}')
+        if 'INITIAL' in self.statements:
+            # Load initial knowledge only once
+            self.load_statement_group_for_recall(self.statements['INITIAL'],
+                                                 group_name='INITIAL')
             
-            print(f'\n\n')
+            self.load_statement_group_for_vectordb(self.statements['INITIAL'],
+                                                   group_name='INITIAL',
+                                                   ensure_database_sample_count=False)
 
-            # Load knowledge for vectordb + LLM model
-            print(f'{TextColor.WHITE}Loading knowledge for vectorDB + LLM{TextColor.RESET}')
-            vectordb_statement_count = 0
-            while vectordb_statement_count <= 4: # Vectordb needs at least 4 samples to work with document retriever
-                for i, statement in enumerate(self.statements):
-                    statement_truth, statement_string = statement
-                    statements_split = split_text(statement_string) # Split paragraph statements in chunks in the same way as RecallLM
-                    for c_statement_split in statements_split:
-                        self.vector_lm.load_knowledge(c_statement_split)
-                        vectordb_statement_count += 1
-                    print(f'\r   {TextColor.MAGENTA}Knowledge updated for {i}/{len(self.statements)}{TextColor.RESET}', end="")
+        for _ in range(knowledge_update_loops):
+            statement_group = self.statements['LOOP']
+
+            self.load_statement_group_for_recall(statement_group, 'LOOP')
+            
+            self.load_statement_group_for_vectordb(statement_group,
+                                                   group_name='LOOP',
+                                                   ensure_database_sample_count=False)
         
         print(f'\n########################################################################')
         print(f'######      KNOWLEDGE LOADING COMPLETE       ###########################')
         print(f'########################################################################\n')
 
         # Begin questioning the system and save results to file
+        for question_group in self.questions.keys():
+            self.test_question_group(self.questions[question_group],
+                                     group_name=question_group,
+                                     question_samples=question_samples)
+
+
+    def load_statement_group_for_recall(self, statements, group_name):
+        print(f'{TextColor.WHITE}Loading {group_name} knowledge for RecallLM{TextColor.RESET}')
+        for i, statement in enumerate(statements):
+            statement_truth, statement_string = statement
+            self.datastore_handler.knowledge_update_pipeline(text=statement_string)
+            print(f'   {TextColor.MAGENTA}Knowledge updated for {i}/{len(statements)}{TextColor.RESET}')
+        print(f'\n\n')
+
+    def load_statement_group_for_vectordb(self, statements, group_name, ensure_database_sample_count=True):
+        print(f'{TextColor.WHITE}Loading {group_name} knowledge for vectorDB + LLM{TextColor.RESET}')
+        vectordb_statement_count = 0
+        if not ensure_database_sample_count:
+            vectordb_statement_count = 4
+
+        while vectordb_statement_count <= 4: # Vectordb needs at least 4 samples to work with document retriever
+            for i, statement in enumerate(statements):
+                statement_truth, statement_string = statement
+                statements_split = split_text(statement_string) # Split paragraph statements in chunks in the same way as RecallLM
+                for c_statement_split in statements_split:
+                    self.vector_lm.load_knowledge(c_statement_split)
+                    vectordb_statement_count += 1
+                print(f'\r   {TextColor.MAGENTA}Knowledge updated for {i}/{len(statements)}{TextColor.RESET}', end="")
+        print(f'\n\n')
+
+    def test_question_group(self, questions, group_name, question_samples):
         results_data = {
             "question_samples":question_samples,
-            "num_questions":len(self.questions)
+            "num_questions":len(questions)
         }
         for i in range(question_samples):
             print(f'\n{TextColor.GREEN}########################################################################{TextColor.RESET}')
-            print(f'{TextColor.GREEN}######       BEGINNING QUESTION FOR SAMPLE {i}         #################{TextColor.RESET}')
+            print(f'{TextColor.GREEN}######       BEGINNING QUESTION FOR {group_name} - SAMPLE {i}         ##########{TextColor.RESET}')
             print(f'{TextColor.GREEN}########################################################################{TextColor.RESET}\n')
 
             sample = {}
-            for j, qa_pair in enumerate(self.questions):
+            for j, qa_pair in enumerate(questions):
                 question, answer = qa_pair
 
                 print(f'\n{TextColor.GREEN}Q: {question}{TextColor.RESET}\n\t A: {answer}')
@@ -185,8 +217,9 @@ class BenchmarkHandler:
 
             results_data[f'sample_{i}'] = sample
 
-            with open(self.results_file(), 'w') as json_output:
+            with open(self.results_file(question_group_name=group_name), 'w') as json_output:
                 json.dump(results_data, json_output)
+
 
 
     def get_answer_from_recall(self, question):
@@ -633,19 +666,33 @@ def load_statements_from_test_file(filename):
     
     lines = file_text.split("\n")
 
-    statements = [] 
+    statements = []
+    statement_groups = {}
+    group_name = ""
     if lines[0].strip().lower() == 'paragraph':
+        # Statements are in paragraph format, simply read all
+
         for line in lines:
             if line.strip().lower() == 'questions':
                 break
 
             if line.strip() != '':
                 statements.append(('T', line))
+        statement_groups['paragraph'] = statements
 
     else:
         for line in lines:
             if line.strip().lower() == 'questions':
                 break
+
+            # Check for start/end of group
+            if len(line.strip()) > 0 and line.strip()[0] == '<':
+                if line.strip().lower() == '<end>':
+                    statement_groups[group_name] = statements
+                else:
+                    group_name = line.strip()[1:-1]
+                statements = []
+                continue
 
             try:
                 split = line.split(':')
@@ -655,7 +702,7 @@ def load_statements_from_test_file(filename):
             except:
                 pass
     
-    return statements # [(truth, statement_string)]
+    return statement_groups # dictionary with values of type --> [(truth, statement_string)]
 
 
 def load_questions_from_test_file(filename):
@@ -665,6 +712,9 @@ def load_questions_from_test_file(filename):
     lines = file_text.split("\n")
 
     qa_pairs = []
+    qa_pair_groups = {}
+    group_name = ""
+
     start_questions = False
     i = 0
     while i < len(lines):
@@ -676,6 +726,18 @@ def load_questions_from_test_file(filename):
             continue
 
         if start_questions and line.strip() != "":
+            
+            # Check for start/end of group
+            if line.strip()[0] == '<':
+                if line.strip().lower() == '<end>':
+                    qa_pair_groups[group_name] = qa_pairs
+                else:
+                    group_name = line.strip()[1:-1]
+                qa_pairs = []
+                i+=1
+                continue
+
+
             try:
                 q_split = line.split(':')
                 i+=1
@@ -694,5 +756,5 @@ def load_questions_from_test_file(filename):
 
         i+=1
     
-    return qa_pairs # [(question, answer)]
+    return qa_pair_groups # dictionary with values of type --> [(question, answer)]
 
