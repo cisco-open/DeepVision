@@ -18,8 +18,8 @@ class RedisFlowImageStream(RedisImageStream):
         self.videostream = VideoFrameStreamItem(conn, args.camera, args.videoThreshold)
         self.flow_videostream = StreamItem(conn, args.input_stream_flow_img)
 
-    def _get_blank_yellow_image(self):
-        blank_image = np.zeros((720, 1280, 3), np.uint8)
+    def _get_blank_yellow_image(self, height, width):
+        blank_image = np.zeros((height, width, 3), np.uint8)
         blank_image[:, :] = (255, 255, 0)
 
         return blank_image
@@ -30,7 +30,7 @@ class RedisFlowImageStream(RedisImageStream):
 
         if self.videostream.data:
             img_data = get_frame_data(self.videostream.data)
-            flow_img_data = self._get_blank_yellow_image()
+            flow_img_data = self._get_blank_yellow_image(*img_data.shape[:2])
             if self.flow_videostream.data:
                 flow_img_data = get_frame_data(self.flow_videostream.data, b'img_flow_map')
             frame = np.concatenate((img_data, flow_img_data), axis=1)

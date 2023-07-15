@@ -70,7 +70,7 @@ services:
       context: ./
       dockerfile: ./tracking/Dockerfile
     container_name: "OF_vision"
-    command: bash -c "python3 OpticalFlow.py ${FLOW_MODEL_CONF} --redis ${REDIS_URL} --opticalFlowRate ${OF_RATE} --frameDiff ${FRAME_DIFF}"
+    command: bash -c "python3 OpticalFlow.py ${FLOW_MODEL_CONF} --redis ${REDIS_URL} --opticalFlowRate ${OF_RATE} --frameDiff ${FRAME_DIFF} --maxlen ${MAXLEN}"
     deploy:
       resources:
         reservations:
@@ -84,12 +84,8 @@ services:
     profiles:
       - optical_flow
     environment:
-      - DEFAULT_CACHE_DIR=/cache/mmtracker
-      - XDG_CACHE_HOME=/cache/mmtracker
-      - MMENGINE_HOME=/cache/mmtracker
       - PYTHONPATH=$PYTHONPATH:/shared_classes
     volumes:
-      - cache_volume:/cache/mmtracker
       - ./utils:/shared_classes/utils
 
   actionrec:
