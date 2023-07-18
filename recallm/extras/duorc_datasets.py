@@ -66,6 +66,8 @@ class DuoRCLoader:
                 f.write(f'{test["plot"]}\n')
                 f.write('\n\n')
                 f.write('QUESTIONS\n')
+
+                f.write('<standard>\n')
                 
                 for qa_pair in test['qa_pairs']:
                     question = qa_pair['question']
@@ -73,8 +75,10 @@ class DuoRCLoader:
                     f.write(f'q: {question}\n')
                     f.write(f'a: {answers}\n')
                     f.write('\n')
+                
+                f.write('<END>')
 
 if __name__ == "__main__":
-    duorc_loader = DuoRCLoader(percent=50)
+    duorc_loader = DuoRCLoader(percent=1)
 
-    duorc_loader.write_benchmark_files(destination_folder='datasets/duorc')
+    duorc_loader.write_benchmark_files(destination_folder='../datasets/tmp')

@@ -28,6 +28,7 @@ from deprecated import deprecated
 from enum import Enum
 import time
 from tqdm import tqdm
+import random
 
 # Graph Database
 from neo4j import GraphDatabase
@@ -87,6 +88,8 @@ class DatastoreHandler:
         self.word_stemmer = PorterStemmer()
         self.summarization_chain = SummarizationChain(type=SummarizationType.OPENAI,
                                                       api_keys=api_keys)
+        
+        self.thought_gen_chain, self.thought_gen_prompt = create_thought_generation_chain(api_keys)
 
     def reset_datastore(self):
         reset_graph_db(self.driver)
@@ -151,7 +154,37 @@ class DatastoreHandler:
             self.driver,
             logging_level)
 
+    # Fetch the most temporal concepts in the database, higher temperature
+    #   results in more random samples from the database
+    def fetch_thoughts(self, temperature, thought_count):
+        # Fetch memories
+        memories = fetch_memories(
+            driver=self.driver,
+            temperature=temperature,
+            thought_count=thought_count
+        )
 
+        # print(f'Memories:\n{memories}\n\n')
+
+        # Generate questions about memories
+        thoughts_string = self.thought_gen_chain(
+            self.thought_gen_prompt.format_prompt(
+                context=memories
+            ).to_messages()
+        ).content
+
+        # print(f'\n\nThoughts:\n{thoughts}\n\n')
+
+        thoughts = thoughts_string.split('\n')
+        thoughts_out = []
+
+        prefix_pattern = '^[0-9a-zA-Z]\.'
+        for thought in thoughts:
+            stripped = re.sub(prefix_pattern, '', thought.strip())
+            if stripped != '':
+                thoughts_out.append(stripped)
+
+        return memories, thoughts_out
 
 
 
@@ -308,6 +341,34 @@ def create_local_summarization_chain(api_keys):
     
     return summarization_pipeline
 
+def create_thought_generation_chain(api_keys):
+    chain = ChatOpenAI(temperature=0,
+                       openai_api_key=api_keys['open_ai'],
+                       model_name="gpt-3.5-turbo")
+
+    template = (
+        """Think critically about the text below then generate 1-3 interesting questions about something that is not answered in the text:
+        
+        Text:
+        {context}
+
+        
+
+        Questions (Put each question on a new line):
+        """
+    )
+    system_message_prompt = SystemMessagePromptTemplate.from_template(template)
+
+    chat_prompt = ChatPromptTemplate.from_messages(
+        [system_message_prompt]
+    )
+
+    return chain, chat_prompt
+
+
+
+
+
 def load_texts(filename):
     with open(filename, encoding="utf-8") as f:
         file = f.read()
@@ -318,24 +379,14 @@ def split_text(text, text_chunk_size=TEXT_CHUNK_SIZE, chunk_overlap=TEXT_CHUNK_O
     start = 0
     while start < len(text):
         end = start + text_chunk_size
-        end = min(len(text)-1, end)
-        if end < len(text)-1:
+        end = min(len(text), end)
+        if end < len(text):
             # Find last full stop
             while text[end] not in ['.', '\n']:
                 end -= 1
         texts.append(text[start:end])
         start += text_chunk_size - chunk_overlap
     return texts
-
-def add_texts_to_collection(collection, texts):
-    for i, sample in enumerate(texts):
-        print(f'\rAdding document: {i+1}/{len(texts)}', end="")
-        collection.add_texts(
-            texts=[sample],
-            metadatas=[{"source":f'chunk-{i}'}],
-            ids=[f'{i}']
-        )
-    print(f'\n\n')
 
 
 
@@ -905,6 +956,69 @@ RETURN n_temporal_index
         if logging_level == LoggingLevel.Verbose:
             print('')
 
+
+# Create a graph reconstruction in python from a neo query result
+# graph_out should receive a dictionary of type Concept (either empty, or containing partially reconstructed graph from this method)
+def graph_reconstruction_from_neo_query(neo_results_list, graph_out):
+    # Add Concepts
+    for result in neo_results_list:
+        node = result.get('node') 
+        node_id = node.element_id # Eg. '4:4c33fa63-9fcc-4078-9a2b-4bb3f4aa6a2a:106'
+        node = node._properties # Eg. {'name': 'collector', 'context': 'However, collectors often ... '}
+
+        if node_id not in graph_out.keys():
+            new_concept = Concept(name=node['name'],
+                                    type=ConceptType.MULTIPLE_PER_SENTENCE,
+                                    start_index=0,
+                                    end_index=0,
+                                    chunk_index=0)
+            new_concept.context = node['context']
+            new_concept.t_index = node['t_index']
+            new_concept.unique_id = node_id
+            graph_out[new_concept.name] = new_concept
+
+    # Populate relations
+    for result in neo_results_list:
+        relation = result.get('relation')
+        # relation_type = relation.type # Eg. 'RELATED'
+        relation_properties = relation._properties # Eg. {'strength': 1, 't_index': 1}
+        relation_left_node, relation_right_node = relation.nodes
+        relation_left_node = relation_left_node._properties
+        relation_right_node = relation_right_node._properties
+
+        if len(relation_left_node.keys()) > 0 and len(relation_right_node.keys()) > 0:   # For some reason there are results in query result with only one node, we should just ignore these
+            # relation_left_t_index = int(relation_left_node["t_index"])
+            # relation_right_t_index = int(relation_right_node["t_index"])
+            # relation_left_strength = int(relation_left_node["strength"])
+            # relation_right_strength = int(relation_right_node["strength"])
+
+            relation_left_node_name = relation_left_node["name"] # String
+            relation_right_node_name = relation_right_node["name"] # String
+
+            relation_t_index = int(relation_properties['t_index'])
+            relation_strength = int(relation_properties['strength'])
+
+
+            left_concept = graph_out[relation_left_node_name]
+            right_concept = graph_out[relation_right_node_name]
+
+            # Relations are bi-directional so we create 2
+            relation_to_left = TemporalRelation(to=left_concept,
+                                                t_index=relation_t_index,
+                                                strength=relation_strength)
+            
+            relation_to_right = TemporalRelation(to=right_concept,
+                                                    t_index=relation_t_index,
+                                                    strength=relation_strength)
+
+            # Check that relation hasn't already been added (This could have happened from previous iteration)
+            if relation_to_right not in left_concept.related_concepts:
+                left_concept.related_concepts.append(relation_to_right)
+            
+            if relation_to_left not in right_concept.related_concepts:
+                right_concept.related_concepts.append(relation_to_left)
+
+
 def fetch_contexts_for_question(question,
                                 nltk_pipeline,
                                 word_stemmer,
@@ -954,63 +1068,10 @@ RETURN node, relation
         # query_result[2] -> type: list of returned result names ie. ['node', 'relation']
         query_result = driver.execute_query(neo_query)
 
-        # Add Concepts
-        for result in query_result[0]:
-            node = result.get('node') 
-            node_id = node.element_id # Eg. '4:4c33fa63-9fcc-4078-9a2b-4bb3f4aa6a2a:106'
-            node = node._properties # Eg. {'name': 'collector', 'context': 'However, collectors often ... '}
-
-            if node_id not in graph_concept_nodes.keys():
-                new_concept = Concept(name=node['name'],
-                                      type=ConceptType.MULTIPLE_PER_SENTENCE,
-                                      start_index=0,
-                                      end_index=0,
-                                      chunk_index=0)
-                new_concept.context = node['context']
-                new_concept.t_index = node['t_index']
-                new_concept.unique_id = node_id
-                graph_concept_nodes[new_concept.name] = new_concept
-
-        # Populate relations
-        for result in query_result[0]:
-            relation = result.get('relation')
-            # relation_type = relation.type # Eg. 'RELATED'
-            relation_properties = relation._properties # Eg. {'strength': 1, 't_index': 1}
-            relation_left_node, relation_right_node = relation.nodes
-            relation_left_node = relation_left_node._properties
-            relation_right_node = relation_right_node._properties
-
-            if len(relation_left_node.keys()) > 0 and len(relation_right_node.keys()) > 0:   # For some reason there are results in query result with only one node, we should just ignore these
-                # relation_left_t_index = int(relation_left_node["t_index"])
-                # relation_right_t_index = int(relation_right_node["t_index"])
-                # relation_left_strength = int(relation_left_node["strength"])
-                # relation_right_strength = int(relation_right_node["strength"])
-
-                relation_left_node_name = relation_left_node["name"] # String
-                relation_right_node_name = relation_right_node["name"] # String
-
-                relation_t_index = int(relation_properties['t_index'])
-                relation_strength = int(relation_properties['strength'])
-
-
-                left_concept = graph_concept_nodes[relation_left_node_name]
-                right_concept = graph_concept_nodes[relation_right_node_name]
-
-                # Relations are bi-directional so we create 2
-                relation_to_left = TemporalRelation(to=left_concept,
-                                                    t_index=relation_t_index,
-                                                    strength=relation_strength)
-                
-                relation_to_right = TemporalRelation(to=right_concept,
-                                                     t_index=relation_t_index,
-                                                     strength=relation_strength)
-
-                # Check that relation hasn't already been added (This could have happened from previous iteration)
-                if relation_to_right not in left_concept.related_concepts:
-                    left_concept.related_concepts.append(relation_to_right)
-                
-                if relation_to_left not in right_concept.related_concepts:
-                    right_concept.related_concepts.append(relation_to_left)
+        graph_reconstruction_from_neo_query(
+            neo_results_list=query_result[0],
+            graph_out=graph_concept_nodes
+        )
 
     ###     (END) RECONSTRUCT SUBGRAPH IN PYTHON      #########################################################################
 
@@ -1073,6 +1134,62 @@ RETURN node, relation
 
 
 
+def fetch_memories(driver, temperature, thought_count, domain_size=200):
+    neo_query = f"""
+MATCH (node:Concept)
+WITH node
+ORDER BY node.t_index DESC
+WITH DISTINCT node LIMIT {domain_size}
+MATCH ()-[relation]->()
+RETURN node, relation
+"""
+
+    # query_result[0] -> type: list of results
+    # query_result[1] -> type: neo4j._work.summary.ResultSummary
+    # query_result[2] -> type: list of returned result names ie. ['node', 'relation']
+    query_result = driver.execute_query(neo_query)
+
+    graph_concept_nodes = {}
+
+    graph_reconstruction_from_neo_query(
+        neo_results_list=query_result[0],
+        graph_out=graph_concept_nodes
+    )
+
+    concepts_domain = []
+    concepts_domain_shuffled = []
+    for node in graph_concept_nodes.values():
+        node.sort_val = node.t_index
+        concepts_domain.append(node)
+        concepts_domain_shuffled.append(node)
+    
+    concepts_domain = sorted(concepts_domain, key=lambda c: c.sort_val)
+    concepts_domain.reverse()
+    random.shuffle(concepts_domain_shuffled)
+
+    concepts_out = []
+
+    for i in range(min(thought_count, len(concepts_domain))):
+        if random.random() < temperature:
+            concepts_out.append(concepts_domain_shuffled[i])
+        else:
+            concepts_out.append(concepts_domain[i])
+
+    if len(concepts_out) == 0:
+        return ""
+
+    concepts_out = sorted(concepts_out, key=lambda c: c.sort_val) # We need to sort concepts again after including random samples
+
+    context_out = ""
+
+    for concept in concepts_out:
+        context_out = f'{context_out}\n\n{concept.context}'
+    
+    context_out = context_out[2:]
+
+    return context_out
+
+
 
 
 
@@ -1130,6 +1247,17 @@ RETURN node, relation
 #         add_texts_to_collection(chroma_collection, texts=["Sample"]) # TODO: Fix this, this was a workaround to so that the collection is actually created immediately instead of remaining empty
     
 #     return chroma_collection
+
+# @deprecated(version='1.0', reason='Joint storage using ChromaDB is deprecated')
+# def add_texts_to_collection(collection, texts):
+#     for i, sample in enumerate(texts):
+#         print(f'\rAdding document: {i+1}/{len(texts)}', end="")
+#         collection.add_texts(
+#             texts=[sample],
+#             metadatas=[{"source":f'chunk-{i}'}],
+#             ids=[f'{i}']
+#         )
+#     print(f'\n\n')
 
 # @deprecated(version='1.0', reason='Concept extraction using NER is depreciated, use nltk pipeline instead')
 # def create_ner_pipeline():

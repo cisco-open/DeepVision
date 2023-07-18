@@ -55,6 +55,13 @@ print(answer)
 recallm.close()
 ```
 
+### Terminal Interface 
+Alternatively, to quickly start using RecallM you can launch the interactive terminal interface using:
+
+```
+> python recall_terminal.py
+```
+
 ### Usage with Custom LangChain Application
 RecallM also implements the BaseRetriever class from LangChain so that it can be implemented in other LangChain applications:
 

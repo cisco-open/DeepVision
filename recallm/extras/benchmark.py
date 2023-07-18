@@ -14,15 +14,14 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-from datastore_gen import DatastoreHandler
+import sys
+sys.path.append('..') 
+
 from datastore_gen import split_text
+from recall import RecallM
 from extras.simple_vectorllm import *
 from extras.hybrid_memory_llm import *
 from utils import TextColor
-
-from langchain import OpenAI
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
 
 import os
 import json
@@ -37,15 +36,11 @@ class MasterBenchmarkHandler:
     def __init__(self,
                  api_keys,
                  test_file,
-                 datastore_handler:DatastoreHandler,
-                 recall_default_chain,
-                 recall_vanilla_chain,
+                 recallm:RecallM,
                  test_hybrid=False,
                  autograde=False) -> None:
         
-        self.datastore_handler = datastore_handler
-        self.recall_default_chain = recall_default_chain
-        self.recall_vanilla_chain = recall_vanilla_chain
+        self.recallm = recallm
         self.api_keys = api_keys
 
         self.test_hybrid = test_hybrid
@@ -63,16 +58,14 @@ class MasterBenchmarkHandler:
 
     def begin_benchmarking(self, question_samples=1, knowledge_update_loops=1):
         for file in self.files:
-            benchmark_file = os.path.join(os.path.join(os.getcwd(), 'benchmarks'), f'{os.path.splitext(os.path.basename(file))[0]}.json')
+            benchmark_file = os.path.join(os.path.join(os.getcwd(), 'benchmarks'), f'standard_{os.path.splitext(os.path.basename(file))[0]}.json')
 
             # If file has not been benchmarked on recall and vectordb
             if not os.path.exists(benchmark_file):
                 benchmark_handler = BenchmarkHandler(
                     api_keys=self.api_keys,
                     test_file=file,
-                    datastore_handler=self.datastore_handler,
-                    recall_default_chain=self.recall_default_chain,
-                    recall_vanilla_chain=self.recall_vanilla_chain
+                    recallm=self.recallm
                 )
 
                 benchmark_handler.begin_benchmarking(question_samples=question_samples,
@@ -83,8 +76,8 @@ class MasterBenchmarkHandler:
                     self.get_hyrid_responses(benchmark_file)
 
                 if self.autograde:
-                    benchmark_grader = GPTBenchmarkGrader(results_file=benchmark_handler.results_file(),
-                                                        api_keys=self.api_keys)
+                    benchmark_grader = GPTBenchmarkGrader(results_file=benchmark_handler.results_file('standard'),
+                                                          api_keys=self.api_keys)
                     benchmark_grader.score_responses()
     
     def get_hyrid_responses(self, results_file):
@@ -122,9 +115,7 @@ class BenchmarkHandler:
     def __init__(self,
                  api_keys,
                  test_file,
-                 datastore_handler:DatastoreHandler,
-                 recall_default_chain,
-                 recall_vanilla_chain) -> None:
+                 recallm) -> None:
         
         self.benchmark_name = os.path.splitext(os.path.basename(test_file))[0]
         
@@ -132,11 +123,8 @@ class BenchmarkHandler:
         self.statements = load_statements_from_test_file(test_file) # dictionary with values of type --> [(truth, statement_string)]
         self.questions = load_questions_from_test_file(test_file) # dictionary with values of type --> [(question, answer)]
 
-        self.datastore_handler = datastore_handler
-        self.datastore_handler.reset_datastore()
-
-        self.recall_default_chain = recall_default_chain
-        self.recall_vanilla_chain = recall_vanilla_chain
+        self.recallm = recallm
+        self.recallm.reset_knowledge()
 
         self.vector_lm = SimpleVectorLLM(api_keys=api_keys)     # Initializing new SVLLM resets chromaDB
     
@@ -153,14 +141,15 @@ class BenchmarkHandler:
                                                    group_name='INITIAL',
                                                    ensure_database_sample_count=False)
 
-        for _ in range(knowledge_update_loops):
-            statement_group = self.statements['LOOP']
+        for group_name in self.statements.keys():
+            for _ in range(knowledge_update_loops):
+                statement_group = self.statements[group_name]
 
-            self.load_statement_group_for_recall(statement_group, 'LOOP')
-            
-            self.load_statement_group_for_vectordb(statement_group,
-                                                   group_name='LOOP',
-                                                   ensure_database_sample_count=False)
+                self.load_statement_group_for_recall(statement_group, group_name)
+                
+                self.load_statement_group_for_vectordb(statement_group,
+                                                    group_name=group_name,
+                                                    ensure_database_sample_count=False)
         
         print(f'\n########################################################################')
         print(f'######      KNOWLEDGE LOADING COMPLETE       ###########################')
@@ -177,7 +166,7 @@ class BenchmarkHandler:
         print(f'{TextColor.WHITE}Loading {group_name} knowledge for RecallLM{TextColor.RESET}')
         for i, statement in enumerate(statements):
             statement_truth, statement_string = statement
-            self.datastore_handler.knowledge_update_pipeline(text=statement_string)
+            self.recallm.update(knowledge=statement_string)
             print(f'   {TextColor.MAGENTA}Knowledge updated for {i}/{len(statements)}{TextColor.RESET}')
         print(f'\n\n')
 
@@ -239,11 +228,7 @@ class BenchmarkHandler:
 
 
     def get_answer_from_recall(self, question):
-        response = self.datastore_handler.question_system(
-            question=question,
-            default_chain=self.recall_default_chain,
-            vanilla_chain=self.recall_vanilla_chain)
-        return response
+        return self.recallm.question(question)
     
     def get_answer_from_vectordbLLM(self, question):
         return self.vector_lm.ask_question(question)
