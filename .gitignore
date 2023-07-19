@@ -13,5 +13,5 @@ __pycache__
 temp/
 
 # RecallM
-/RecallM/api_keys.json
-/RecallM/NEO4J_ERROR_LOG.txt
+/recallm/api_keys.json
+/recallm/NEO4J_ERROR_LOG.txt
