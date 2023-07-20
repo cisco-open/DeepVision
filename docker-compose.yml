@@ -70,7 +70,7 @@ services:
       context: ./
       dockerfile: ./tracking/Dockerfile
     container_name: "OF_vision"
-    command: bash -c "python3 OpticalFlow.py ${FLOW_MODEL_CONF} --redis ${REDIS_URL} --opticalFlowRate ${OF_RATE} --frameDiff ${FRAME_DIFF} --maxlen ${MAXLEN}"
+    command: bash -c "python3 OpticalFlow.py ${FLOW_MODEL_CONF} --redis ${REDIS_URL} --opticalFlowRate ${OF_RATE} --frameDiff ${FRAME_DIFF} --maxlen ${MAXLEN} --grayScaleThreshold ${GRAY_SCALE_THRESHOLD}"
     deploy:
       resources:
         reservations:
@@ -137,7 +137,7 @@ services:
     container_name: "producer_vision"
     ports:
       - "5002:5001"
-    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 OF_server.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD}"
+    command: bash -c "python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} ${INPUT_FILE} --webcam ${CAMERA} & python3 OF_server.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD} --minBoundary ${MIN_BOUNDARY} --maxBoundary ${MAX_BOUNDARY}"
     depends_on:
       redis:
         condition: service_healthy

@@ -1,5 +1,6 @@
 import time
 import pickle
+import json
 
 
 def convert_redis_entry_id_to_mls(entry_id):
@@ -25,3 +26,7 @@ def get_frame_data(data, key=None):
     else:
         img = pickle.loads(data[key])
     return img
+
+
+def get_json_data(data, key):
+    return json.loads(data[key].decode('utf-8'))
