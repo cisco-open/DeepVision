@@ -4,3 +4,6 @@
 [submodule "cognitivesynergy/ONA"]
 	path = cognitivesynergy/ONA
 	url = https://github.com/opennars/OpenNARS-for-Applications
+[submodule "ethosight/Ethosight"]
+	path = ethosight/Ethosight
+	url = https://github.com/CiscoDeepVision/Ethosight

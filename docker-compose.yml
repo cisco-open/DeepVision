@@ -14,6 +14,7 @@ services:
       - tracking
       - haidetection
       - optical_flow
+      - ethosight
   
   redistimeseries:
     image: redislabs/redistimeseries
@@ -128,6 +129,7 @@ services:
     profiles:
       - haidetection
       - tracking
+      - ethosight
     environment:
       - MODEL_CONF=${MODEL_CONF}
       - PROFILE_NAME=${PROFILE_NAME}
@@ -154,6 +156,27 @@ services:
     profiles:
       - ona
       - haidetection
+
+  ethosight:
+    build: ./ethosight
+    image: ethosight
+    container_name: ethosight_vision
+    command: bash -c "source /miniconda/etc/profile.d/conda.sh && conda activate imagebind && python EthosightService.py --redis ${REDIS_URL}"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - ethosight
+    volumes:
+      - ./utils:/shared_classes/utils
+
 
   hybridaiobjectdetection:
     depends_on: 

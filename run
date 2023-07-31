@@ -12,6 +12,7 @@ declare -A profiles=(
   ["haitracking"]="placeholder: The hybridaiobjecttracking service"
   ["haitext"]="placeholder: The hybridaistreamingtext service"
   ["hainetworking"]="placeholder: The hybridainetworking service"
+  ["ethosight"]="placeholder: The Ethosight service"
 )
 
 # Function to print the help message
