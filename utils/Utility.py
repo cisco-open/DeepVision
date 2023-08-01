@@ -1,7 +1,17 @@
 import time
 import pickle
 import json
+import numpy as np
 
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super(NpEncoder, self).default(obj)
 
 def convert_redis_entry_id_to_mls(entry_id):
     return int(entry_id.split("-")[0])
