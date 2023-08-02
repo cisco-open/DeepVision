@@ -7,6 +7,7 @@ class VideoStream:
         self.isfile = isfile
         self.cam = cv2.VideoCapture(self.isfile)
         self.benchmark = benchmark
+        print(f'benchmark: {self.benchmark}')
         if not self.isFile:
 
             self.cam.set(cv2.CAP_PROP_FPS, fps)
@@ -25,6 +26,8 @@ class VideoStream:
         self.count += 1
 
         ret_val, img0 = self.cam.read()
+        if not ret_val and self.isFile and self.benchmark:
+            raise StopIteration
         if not ret_val and self.isFile and not self.benchmark:
             self.cam.set(cv2.CAP_PROP_POS_FRAMES, 0)
             ret_val, img0 = self.cam.read()

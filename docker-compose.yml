@@ -174,7 +174,7 @@ services:
     build: ./ethosight 
     image: ethosight
     container_name: ethosight_vision
-    command: bash -c "source /miniconda/etc/profile.d/conda.sh && conda activate imagebind && python EthosightService.py --redis ${REDIS_URL} --embeddings ${EMBEDDINGS}"
+    command: bash -c "tail -f /dev/null"
     deploy:
       resources:
         reservations:

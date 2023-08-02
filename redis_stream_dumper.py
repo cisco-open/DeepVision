@@ -20,14 +20,16 @@ if __name__ == "__main__":
     xreader_writer = RedisStreamXreaderWriter(args.input_stream, "", conn, 0)
 
     last_id = '0'
+    was_data = False
     with open(args.filePath, 'w') as file:
         while True:
             ref_id, messages = xreader_writer.xread_by_id_batched(last_id, args.batchSize)
             if ref_id:
+                was_data = True
                 for entry in messages:
                     messages_json = message[b'message'].decode('utf-8')
                     file.write(messages_json + '\n')
-            else:
+            elif was_data:
                 break
 
 

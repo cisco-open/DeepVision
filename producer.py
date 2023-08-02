@@ -35,7 +35,6 @@ def produce_from_camera():
 
 
 def produce_from_file():
-    clear_stream()
     stream = VideoStream(isfile=args.isfile,
                          benchmark=args.benchmark)  # Unless an input file (image or video) was specified
     frame_id = 0  # start new frame count
