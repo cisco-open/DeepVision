@@ -23,16 +23,11 @@ class EthosightService:
                 print("data available", flush=True)
                 aff_scores = self.ethosight.compute_affinity_scores(self.embeddings, get_frame_data(data))
                 frame_id = get_frame_data(data, 'frameId')
-                if self.benchmark and frame_id == -1:
-                    self.xreader_writer.clean_stream('w')
-                    continue
                 timestamp = convert_redis_entry_id_to_mls(ref_id.decode())
                 message_json = json.dumps({'frame_id': frame_id, 'data': {'timestamp': timestamp, 'affinity_scores': aff_scores}}, cls=NpEncoder)
                 print(f'Message: \n {message_json}', flush=True)
                 self.xreader_writer.write_message({'message': message_json})
                 last_id = ref_id
-            elif self.benchmark and was_data:
-                break
 
 def main():
     parser = ArgumentParser()
@@ -50,7 +45,7 @@ def main():
     url = urlparse(args.redis)
     conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
 
-    xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream, conn, args.maxlen)
+    xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream, conn, None)
 
     clean_stream(conn, args.output_stream)
     ethosight_service = EthosightService(xreader_writer, args.embeddings, args.benchmark)

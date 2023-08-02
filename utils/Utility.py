@@ -42,3 +42,7 @@ def get_frame_data(data, key=None):
 
 def get_json_data(data, key):
     return json.loads(data[key].decode('utf-8'))
+
+
+def clean_stream(conn, stream_key):
+    conn.delete(stream_key)

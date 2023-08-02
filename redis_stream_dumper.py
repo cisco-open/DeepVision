@@ -4,11 +4,13 @@ from redis import Redis
 from argparse import ArgumentParser
 from urllib.parse import urlparse
 from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
+from utils.Utility import clean_stream
 
 if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument('--redis', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('--input_stream', help='input stream for dumping', type=str, default="camera:0:affscores")
+    parser.add_argument('--input_stream_original', help='input stream for initial frames', type=str, default="camera:0")
     parser.add_argument('--filePath', help='file where to dump', type=str)
     parser.add_argument('--batchSize', type=int, default=50, help='batch size')
 
@@ -30,6 +32,8 @@ if __name__ == "__main__":
                     messages_json = message[b'message'].decode('utf-8')
                     file.write(messages_json + '\n')
             elif was_data:
+                clean_stream(conn, args.input_stream)
+                clean_stream(conn, args.input_stream_original)
                 break
 
 

@@ -47,14 +47,14 @@ def produce_from_file():
                 'frameId': frame_id,
                 'image': pickle.dumps(img)
             }
-            _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
+
+            if args.benchmark:
+                _id = conn.xadd(args.output, msg)
+            else:
+                _id = conn.xadd(args.output, msg, maxlen=args.maxlen)
             if args.verbose:
                 logging.info('init_frame_count:{}, frame: {} id: {}'.format(count, frame_id, _id))
             frame_id += 1
-
-
-def clear_stream():
-    conn.delete(args.output)
 
 
 if __name__ == '__main__':
