@@ -26,7 +26,16 @@ class RedisStreamXreaderWriter(RedisStreamManager):
             return ref_id, data
         else:
             return None, None
-        
+
+    def xread_by_id_batched(self, item_id: str, count: int) -> tuple:
+        resp = self.redis_conn.xread({self.rstream_name: item_id}, count=count)
+        if resp:
+            key, messages = resp[0]
+            ref_id = messages[0][0]
+            return ref_id, messages
+        else:
+            return None, None
+
     def write_message(self, message: dict, item_id: str = None) -> None:
         if not item_id:
             self.redis_conn.xadd(self.wstream_name, message, maxlen=self.max_len)

@@ -35,8 +35,9 @@ def produce_from_camera():
 
 
 def produce_from_file():
+    clear_stream()
     stream = VideoStream(isfile=args.isfile,
-                         fps=args.inputFps)  # Unless an input file (image or video) was specified
+                         benchmark=args.benchmark)  # Unless an input file (image or video) was specified
     frame_id = 0  # start new frame count
     rate = stream.video_sample_rate(args.outputFps)
     for (count, img) in stream:
@@ -53,6 +54,10 @@ def produce_from_file():
             frame_id += 1
 
 
+def clear_stream():
+    conn.delete(args.output)
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('isfile', help='Input file (leave empty to use webcam)', nargs='?', type=str, default=None)
@@ -60,9 +65,11 @@ if __name__ == '__main__':
     parser.add_argument('-u', '--url', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('-w', '--webcam', help='Webcam device number', type=int, default=0)
     parser.add_argument('-v', '--verbose', help='Verbose output', type=bool, default=False)
-    parser.add_argument('--inputFps', help='Frames per second (webcam)', type=float, default=30.0)
+    # parser.add_argument('--inputFps', help='Frames per second (webcam)', type=float, default=30.0)
     parser.add_argument('--outputFps', help='Frames per second (webcam)', type=float, default=10.0)
     parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=3000)
+    parser.add_argument('--benchmark', help='BenchMark mode or not', type=bool, default=False)
+
     args = parser.parse_args()
 
     url = urlparse(args.url)

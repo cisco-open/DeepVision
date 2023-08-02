@@ -129,7 +129,6 @@ services:
     profiles:
       - haidetection
       - tracking
-      - ethosight
     environment:
       - MODEL_CONF=${MODEL_CONF}
       - PROFILE_NAME=${PROFILE_NAME}
@@ -146,6 +145,20 @@ services:
     profiles:
       - optical_flow
 
+  producer_ethosight:
+    build: .
+    container_name: "producer_vision"
+    command: bash -c "tail -f /dev/null"
+    depends_on:
+      redis:
+        condition: service_healthy
+    profiles:
+      - ethosight
+    volumes:
+      - type: bind
+        source: ./benchmarks
+        target: /app/benchmarks
+
   ona:
     build:
       context: ./cognitivesynergy/ONA
@@ -161,7 +174,7 @@ services:
     build: ./ethosight 
     image: ethosight
     container_name: ethosight_vision
-    command: bash -c "source /miniconda/etc/profile.d/conda.sh && conda activate imagebind && python EthosightService.py --redis ${REDIS_URL}"
+    command: bash -c "source /miniconda/etc/profile.d/conda.sh && conda activate imagebind && python EthosightService.py --redis ${REDIS_URL} --embeddings ${EMBEDDINGS}"
     deploy:
       resources:
         reservations:

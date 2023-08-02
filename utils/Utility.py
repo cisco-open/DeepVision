@@ -32,10 +32,12 @@ def is_lt_eq_threshold(entry_id, threshold):
 
 def get_frame_data(data, key=None):
     if not key:
-        img = pickle.loads(data[b'image'])
+        result = pickle.loads(data[b'image'])
+    elif key == 'frameId':
+        result = int(data.get(b'frameId').decode())
     else:
-        img = pickle.loads(data[key])
-    return img
+        result = pickle.loads(data[key])
+    return result
 
 
 def get_json_data(data, key):

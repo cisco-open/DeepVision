@@ -2,10 +2,11 @@ import cv2
 
 
 class VideoStream:
-    def __init__(self, isfile=0, fps=0.0):
+    def __init__(self, isfile=0, fps=0.0, benchmark=False):
         self.isFile = not str(isfile).isdecimal()
         self.isfile = isfile
         self.cam = cv2.VideoCapture(self.isfile)
+        self.benchmark = benchmark
         if not self.isFile:
 
             self.cam.set(cv2.CAP_PROP_FPS, fps)
@@ -15,8 +16,6 @@ class VideoStream:
             self.cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 600)
         else:
             self.fps = self.cam.get(cv2.CAP_PROP_FPS)
-            if self.fps != fps:
-                raise Exception(f"The actual fps {self.fps} is different from the input fps {fps}")
 
     def __iter__(self):
         self.count = -1
@@ -26,10 +25,10 @@ class VideoStream:
         self.count += 1
 
         ret_val, img0 = self.cam.read()
-        if not ret_val and self.isFile:
+        if not ret_val and self.isFile and not self.benchmark:
             self.cam.set(cv2.CAP_PROP_POS_FRAMES, 0)
             ret_val, img0 = self.cam.read()
-        assert ret_val, 'Video Error'
+        # assert ret_val, 'Video Error'
 
         img = img0
         if not self.isFile:
