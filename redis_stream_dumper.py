@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from redis import Redis
 from argparse import ArgumentParser
 from urllib.parse import urlparse
@@ -12,7 +13,7 @@ if __name__ == "__main__":
     parser.add_argument('--input_stream', help='input stream for dumping', type=str, default="camera:0:affscores")
     parser.add_argument('--input_stream_original', help='input stream for initial frames', type=str, default="camera:0")
     parser.add_argument('--filePath', help='file where to dump', type=str)
-    parser.add_argument('--batchSize', type=int, default=50, help='batch size')
+    parser.add_argument('--batchSize', type=int, help='batch size', default=50)
 
     args = parser.parse_args()
 
@@ -23,19 +24,24 @@ if __name__ == "__main__":
 
     last_id = '0'
     was_data = False
+    retry_count = 0
     with open(args.filePath, 'w') as file:
         while True:
-            ref_id, messages = xreader_writer.xread_by_id_batched(last_id, args.batchSize)
+            ref_id, data = xreader_writer.xread_by_id(last_id)
             if ref_id:
+                retry_count = 0
                 was_data = True
-                for entry in messages:
-                    messages_json = message[b'message'].decode('utf-8')
-                    file.write(messages_json + '\n')
+                message_json = data[b'message'].decode('utf-8')
+                file.write(message_json + '\n')
+                last_id = ref_id    
             elif was_data:
-                clean_stream(conn, args.input_stream)
-                clean_stream(conn, args.input_stream_original)
-                break
-
+                if retry_count == 3:
+                    clean_stream(conn, args.input_stream_original)
+                    clean_stream(conn, args.input_stream)
+                    break
+                
+                time.sleep(3)
+                retry_count = retry_count + 1
 
 
 
