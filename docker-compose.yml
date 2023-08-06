@@ -191,7 +191,7 @@ services:
       - PYTHONPATH=$PYTHONPATH:/shared_classes    
     volumes:
       - ./utils:/shared_classes/utils
-      - ethosight_volume:/app/checkpoints
+      - ethosight_volume:/app/.checkpoints
 
 
   hybridaiobjectdetection:
@@ -265,3 +265,4 @@ volumes:
     name: grafana-data
   cache_volume:
   ethosight_volume:
+    name: model_volume
