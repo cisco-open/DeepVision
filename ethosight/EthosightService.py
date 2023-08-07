@@ -1,18 +1,18 @@
 import json
 import os
+import threading
 from redis import Redis
 from argparse import ArgumentParser
 from urllib.parse import urlparse
-from Ethosight import Ethosight
+from EthosightInitializer import EthosightSingleton
 from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
 from utils.Utility import get_frame_data, NpEncoder, convert_redis_entry_id_to_mls
 
 
 class EthosightService:
-    def __init__(self, xreader_writer: RedisStreamXreaderWriter, embeddings_file_name: str, benchmark: bool):
+    def __init__(self, xreader_writer: RedisStreamXreaderWriter, embeddings_file_name: str):
         self.xreader_writer = xreader_writer
-        self.ethosight = Ethosight(reasoner='reasoner')
-        self.benchmark = benchmark
+        self.ethosight = EthosightSingleton()
         self.embeddings = self.ethosight.load_embeddings_from_disk(f"embeddings/{embeddings_file_name}")
 
     def affinity_scores(self):
@@ -34,24 +34,28 @@ class EthosightService:
 
 def main():
     parser = ArgumentParser()
-    parser.add_argument('--input_stream', help='input stream key for coming frames', type=str, default="camera:0")
-    parser.add_argument('--output_stream', help='output stream key for affinity scores', type=str,
+    parser.add_argument('--input_stream', help='comma separated input streams list', type=str, default="camera:0")
+    parser.add_argument('--output_stream', help='comma separated output streams for affinity scores', type=str,
                         default="camera:0:affscores")
     parser.add_argument('--sampleSize', type=int, default=1, help='frames sample size')
     parser.add_argument('--redis', help='Redis URL', type=str, default='redis://127.0.0.1:6379')
     parser.add_argument('--embeddings', help='Label embeddings', type=str, default='general.embeddings')
     parser.add_argument('--maxlen', help='Maximum length of output stream', type=int, default=5000)
-    parser.add_argument('--benchmark', help='Benchmark mode', type=bool, default=False)
 
     args = parser.parse_args()
 
     url = urlparse(args.redis)
     conn = Redis(host=url.hostname, port=url.port, health_check_interval=25)
 
-    xreader_writer = RedisStreamXreaderWriter(args.input_stream, args.output_stream, conn, None)
+    input_streams = args.input_stream.rstrip(',').split(',')
+    output_streams = args.output_stream.rstrip(',').split(',')
 
-    ethosight_service = EthosightService(xreader_writer, args.embeddings, args.benchmark)
-    ethosight_service.affinity_scores()
+    for input_stream, output_stream in zip(input_streams, output_streams):
+        xreader_writer = RedisStreamXreaderWriter(input_stream, output_stream, conn, None)
+        ethosight_service = EthosightService(xreader_writer, args.embeddings)
+        thread = threading.Thread(target=ethosight_service.affinity_scores)
+        thread.start()
+        thread.join()
 
 
 if __name__ == "__main__":

@@ -41,9 +41,3 @@ class RedisStreamXreaderWriter(RedisStreamManager):
             self.redis_conn.xadd(self.wstream_name, message, maxlen=self.max_len)
         else:
             self.redis_conn.xadd(self.wstream_name, message, id=item_id, maxlen=self.max_len)
-
-    def clean_stream(stream: str):
-        if stream == 'r':
-            self.redis_conn.delete(self.rstream_name)
-        elif stream == 'w':
-            self.redis_conn.delete(self.wstream_name)
