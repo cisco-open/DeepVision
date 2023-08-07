@@ -1,0 +1,35 @@
+PARAGRAPH
+Filmmakers Ryan Fleck and Anna Boden (Half Nelson) weave this introspective sports drama concerning a talented Dominican baseball player who longs to break into the American big league and earn the money needed to support his impoverished family. Miguel Santos is a talented pitcher who might just have what it takes to earn a prized spot on a Major League Baseball team, but before that happens he'll have to prove his worth in the minor leagues. Advancing into the United States' minor league system at the tender age of 19, Miguel is warmly welcomed into the small-town Iowa home of his host family, but can't help but struggle with language and cultural barriers despite the kindness of strangers. Subsequently forced to reevaluate his life's ambition after his once-trusty arm becomes unreliable, the previously single-minded pitcher gradually begins to question both the world he lives in and the role he has chosen to play in it. - Jason Buchanan, All Movie GuideMiguel "Sugar" Santos (Perez Soto) spends his weekends at home, passing from the landscaped gardens and manicured fields on one side of the guarded academy gate to the underdeveloped, more chaotic world beyond. In his small village outside San Pedro de Macoris, Miguel enjoys a kind of celebrity status. His neighbors gather to welcome him back for the weekend; the children ask him for extra baseballs or an old glove. To his family, who lost their father years before, Miguel is their hope and shining star. With the small bonus he earned when he signed with the academy some time ago, he has started to build his family a new house - one that has a bigger kitchen for his mom and a separate room for his grandmother.After learning a devastating knuckle curve, Sugar is invited to spring training by the fictional Kansas City Knights. He is assigned to their Single A affiliate in Iowa, the Swing. He is housed by the Higgins family, who take in Swing players every year. Jorge (Rufino), a veteran player and the only other Dominican on the team, also tries to help Miguel learn the ropes. However, despite the Higgins' welcoming efforts and Jorge's guidance, the challenge of Miguel's acceptance into the community is exposed in small ways every day, from his struggle to communicate in English to an accident of casual bigotry at a local bar.Miguel's domination on the mound masks his underlying sense of isolation, until he injures himself during a routine play at first. While Miguel is on the injured list, Jorge, his one familiar connection to home in this strange new place, is cut from the team, never fully regaining his ability following off-season knee surgery. The new vulnerability of Miguel's injury, coupled with the loneliness of losing his closest friend, force Miguel to begin examining the world around him and his place within it. Pressure mounts when Salvador, a young pitching phenom who used to play with Miguel, is brought up from the Dominican Republic to join the team. Miguel's play falters, and the increased isolation begins to take its toll on him. As his dream begins to fall apart, Miguel decides to leave baseball to follow another kind of American dream. His odyssey finally brings him to New York City, where he struggles to find community and make a new home for himself, like so many before him. [D-Man2010]
+
+
+QUESTIONS
+q: What is Sugar's real name?
+a: ['Miguel Santos']
+
+q: Sugar is invited to whose spring training?
+a: ['by the fictional Kansas City Knights']
+
+q: Where's the small village located?
+a: ['outside San Pedro de Macoris']
+
+q: What do the children ask for?
+a: ['for extra baseballs or an old glove']
+
+q: Where is Sugar assigned?
+a: ['The Kansas City Knights single A affiliate team.']
+
+q: Who is the only other Dominican on the team?
+a: ['Jorge.', 'Bishop']
+
+q: Who spends the weekend at home?
+a: ['Jason Buchanan, All Movie GuideMiguel "Sugar" Santos']
+
+q: Who houses Sugar?
+a: ['youth shelter']
+
+q: Where is Sugar assigned to a Single A affiliate?
+a: ['iin Iowa, the Swing']
+
+q: Who invites sugar to spring training?
+a: ['The Kansas City Knights.', 'Bishop']
+

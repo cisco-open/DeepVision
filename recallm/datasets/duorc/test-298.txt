@@ -1,0 +1,16 @@
+PARAGRAPH
+Vijay Mehra (Rajendra Kumar) is a wealthy builder, and loves Suman (Vidya Sinha), who also loves Vijay. Ram Dogra(Danny Denzongpa) is a civil engineer who loves Suman. Ram and Suman were friends at college time.
+But Vijay leaves Suman because he feels jealousy of Ram &amp; Sumanâs friendship and marries another girl, and Suman gets married to Ram, but Vijay's wife dies after giving birth to baby boy, Bunty, while Suman and Ram welcome a baby girl, Pinky.
+Years later, Bunty (Kumar Gaurav) and Pinky (Vijeta Pandit) meet as strangers, Vijay wants Bunty to become builder to him, but Bunty wants to become pilot, due to this reason Bunty leaves the home, Pinky also leaves the home because his father wants her to get married.
+Bunty and Pinky meet again, but Hawaldar Sher Singh (Amjad Khan), who is assigned the job of finding the missing boy &amp; girl, handcuffs them together, after some of good and bad circumstances, both fall in love with each other, they go somewhere unknown place and build a small cottage and live happily.
+But, not ever after. Ram enters the scene and forcibly takes away Pinky. Now, Vijay is ready to accept his son's love but Ram plans to get marry his daughter against her wishes.
+Bunty and Pinky run away from home again, but a robbery gang follow them, suddenly Vijay and Ram come to save their children, Bunty saves Ram's life. Ram changes his mind, at the end Bunty and Pinky get married.
+
+
+QUESTIONS
+q: What disease does Jenny appear to have?
+a: ['Again, Jenny is not a character in the plot.']
+
+q: How did Jenny find out about her condition?
+a: ['No condition can be gathered about Jenny because Jenny is not in the plot.']
+

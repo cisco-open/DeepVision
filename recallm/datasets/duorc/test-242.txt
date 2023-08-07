@@ -1,0 +1,57 @@
+PARAGRAPH
+The crew of an M3 Lee tank, attached to the British Eighth Army, commanded by U.S. Army Master Sergeant Joe Gunn (Humphrey Bogart), and nicknamed Lulu Belle, become separated from their unit during a general retreat from German forces after the fall of Tobruk. Heading south across the Libyan Desert to rejoin their command, they come across a bombed-out field hospital, where they pick up a motley collection of stragglers, among them British medical officer Captain Halliday (Richard Nugent), four Commonwealth soldiers and Free French Corporal Leroux (Louis Mercier). Halliday, the only officer, cedes command to Gunn.
+The group comes upon Sudanese Sergeant Major Tambul (Rex Ingram) and his Italian prisoner, Giuseppe (J. Carrol Naish). Tambul volunteers to lead them to a well at Hassan Barani. Gunn insists that the Italian be left behind, but, after driving a few hundred feet, relents and lets him join the others.
+En route, Luftwaffe pilot Captain von Schletow (Kurt Kreuger) strafes the tank, seriously wounding Clarkson (Lloyd Bridges), one of the British soldiers. The German fighter aircraft is shot down and von Schletow is captured. Arriving at Hassan Barani, the group finds the well is dry. Clarkson succumbs to his wounds and they bury him there.
+Tambul guides them to the desert well at Bir Acroma, but it is almost dry, providing only a trickle of water, and the group must delay their departure until they can collect as much as they can. When German scouts arrive soon afterwards, in a half-track, Gunn sets up an ambush.
+Gunn finds out from one of the two survivors that their mechanized battalion, desperate for water, is following close behind. He persuades the others to make a stand to delay the Germans while Waco takes the half-track in search of reinforcements. The two Germans are released to carry back an offer: "food for water", even though there is hardly any water left.
+When the Germans arrive in force, Gunn changes the deal to "water for guns". The well has completely dried up by then but a battle of wills begins between Gunn and Major von Falken (John Wengraf), the German commander. Gunn keeps up the pretense that the well has much water and negotiates to buy time. The Germans attack and are beaten off again and again, but one by one, the defenders are killed.
+During one attack, von Schletow tries to escape, stabbing Giuseppe in the process, but Giuseppe manages to warn Gunn before he dies. Tambul chases von Schletow down and kills him, at the cost of his own life. After a second parley, von Falken has his men shoot Leroux in the back as the Frenchman returns to his own side. Gunn and his men fire back, killing von Falken.
+The Germans' final assault turns into a full-blown surrender as they drop their weapons and claw across the sand towards the well. To Gunn's shock, he discovers that a German shell that exploded in the well has tapped into a source of water. Gunn and Bates (Patrick O'Moore), the only other Allied survivor, disarm the Germans while they drink. As they are marching their prisoners east, Gunn and Bates encounter Allied troops guided by Waco (Bruce Bennett). They receive news of the Allied victory at the First Battle of El Alamein, turning back Rommel's Afrika Korps.
+
+
+QUESTIONS
+q: Who plays Rudi Gunn in the movie?
+a: ['Humphrey Bogart']
+
+q: In desparate need of water, Joe and his new passengers head where?
+a: ['Hassan Barani', 'A deserted Saharan oasis.']
+
+q: Who in the movie has a house on the bay in Monterey?
+a: ['Eva']
+
+q: Who does the Texas Gold belong to?
+a: ['Confederate States of America']
+
+q: What is the name of the rescued Italian soldier?
+a: ['Giuseppe']
+
+q: What is Sergeant Gunn's M3 Lee tank lovingly referred to as?
+a: ['Lulu Belle']
+
+q: Who does William H. Macy play in the movie?
+a: ['Admiral James Sandecker']
+
+q: What African country is the civil war in this movie taking place?
+a: ['Libya', 'Mali']
+
+q: Who plays Waco?
+a: ['Bruce Bennett']
+
+q: Who is offered a deal to do covert work?
+a: ['Sandecker']
+
+q: What does Eva find about the water?
+a: ['Contaminated with toxins', 'is contaminated with toxins']
+
+q: What war were there fighting in Libya?
+a: ['World War II', 'civil war']
+
+q: What year is the prologue set in?
+a: ['1942', '1865', '1927']
+
+q: Where did Joe and his crew meet the British soldiers?
+a: ['There is no such character.', 'a destroyed first aid station', 'bombed-out field hospital']
+
+q: What year does the story take place?
+a: ['1865']
+

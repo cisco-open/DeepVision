@@ -1,0 +1,19 @@
+PARAGRAPH
+Los Angeles (L.A.) cop Chris Kenner (Dolph Lundgren) is an American who was raised in Japan. He is given a new partner, Johnny Murata (Brandon Lee), an American of partial Japanese descent. Kenner does not appreciate American culture, while Johnny does not much like Japanese culture. One thing they both enjoy are the martial arts, of which they are both experts. The two are assigned to L.A.'s Little Tokyo, where they break up some criminal activity in a Japanese restaurant, and an arrest is made.
+While Kenner and Johnny are questioning the suspect, Kenner loses his temper and rips the suspect's shirt, and the tattoos that Kenner sees on the suspect remind Kenner of when he was 9 years old, a time when he witnessed his parents being killed by a member of the Yakuza. The tattoos are the trademark of the Iron Claw Yakuza clan. However, before Kenner or Murata can get any information out of the suspect, he kills himself in the interrogation room by breaking his own neck.
+On the other side of town, the leader of the Iron Claw, Yoshida (Cary-Hiroyuki Tagawa), kills the owner of a popular downtown nightclub called the Bonsai Club by crushing the owner, Tanaka (Philip Tan), in a car compactor. To celebrate "gaining" ownership of the Bonsai Club, Yoshida throws a party at his house with all of the club staff.
+One of the girls at the party, named Angel (Renee Griffin), is revealed to have warned Tanaka about Yoshida behind his back, and this infuriates Yoshida. Yoshida questions Angel about her loyalty, and she attempts to appease Yoshida by offering her body to him. Yoshida then drugs Angel and strips off her clothes, and then fondles her from behind before beheading her.
+When the coroner runs an analysis on Angel's body, it is revealed that she had a large amount of methamphetamines in her system (induced by Yoshida) which would have led to her death anyway. This discovery of drugs, together with the suspect having Yakuza tattoos, cause Kenner and Johnny to go to the Bonsai Club in search of information. There they meet lounge singer Minako Okeya (Tia Carrere), who was a good friend of Angel's. Before they can get any useful information out of her, they are ambushed and taken to see the nightclub's owner and Kenner recognizes the owner Yoshida as the man who killed his parents. Yoshida is now a drug manufacturer using a local brewery as his distribution center. He uses smaller gangs such as the Hells Angels, Crips and SureÃ±os to peddle the drugs for him, in return for a percentage of the profit.
+Kenner and Johnny escape from the nightclub. Later that night, Yoshida rapes and kidnaps Minako and vows to kill Kenner. Kenner and Johnny set out for Yoshida's heavily guarded home, where they rescue Minako. His pride wounded, Yoshida sends his men out to get Minako back. He has Kenner and Johnny captured and tortured, but Kenner and Johnny manage to escape, and they take on Yoshida and his men in a battle to the death.
+
+
+QUESTIONS
+q: Who leads the rival gang that attacks and captures Tanaka?
+a: ['Iron Claw Yakuza']
+
+q: Who is Kenner's new partner?
+a: ['Johnny Murata']
+
+q: Where is Chris Kenner working?
+a: ['Little Tokyo in Los Angeles']
+

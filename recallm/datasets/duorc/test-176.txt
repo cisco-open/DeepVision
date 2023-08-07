@@ -1,0 +1,36 @@
+PARAGRAPH
+The movie follows the rise and fall of a con manâa story that begins and ends at a seedy traveling carnival. Fascinated by everything there, including a grotesque geek, Stanton "Stan" Carlisle (Tyrone Power) works with "Mademoiselle Zeena" (Joan Blondell) and her alcoholic husband, Pete (Ian Keith). Once a top-billed act, Zeena and Pete used an ingenious code to make it appear that she had extraordinary mental powers, until her (unspecified) misdeeds drove Pete to drink and reduced them to working in a third-rate outfit. Stanton learns that many people want to buy the code from Zeena for a lot of money but she refuses to sell; she is saving it as a nest egg. He tries to romance Zeena into teaching it to him but she remains faithful to her husband and even hopes to send him to a detox clinic for alcoholics.
+One night in Texas, Stanton accidentally gives Pete the wrong bottle: the old man dies from drinking wood alcohol instead of moonshine. To keep her act going, Zeena is forced to teach Stanton the mind-reading code so that he can serve as her assistant.
+Stanton prefers the company of the younger Molly (Coleen Gray). When their romance is found out, the remainder of the carnies including strongman Bruno (Mike Mazurki) force the pair into a shotgun marriage. No longer welcome in the carnival, Stanton realizes this is actually a golden opportunity for him. He and his wife leave the carnival. He becomes "The Great Stanton", performing to enraptured audiences in expensive nightclubs.
+With scheming Chicago psychologist Lilith Ritter (Helen Walker) providing him with information about her patients, Stan passes himself off as someone who can communicate with the dead. The plan almost works, until Stanton tries to swindle skeptical Ezra Grindle (Taylor Holmes) by having Molly pose as the ghost of Grindle's long-lost love. When the heartbroken Grindle breaks down, Molly refuses to play the charade and reveals herself to Grindle, thereby exposing Stanton as a fake. As he prepares to flee, Stanton discovers he has been scammed by Ritter, who gives him only $150 of Grindle's money rather than the promised $150,000 and threatens to testify that he is mentally disturbed, should he accuse her of complicity. Stanton gives the $150 to Molly and urges her return to the carnival world where people care for her. Meanwhile, he gradually sinks into alcoholism.
+With nowhere else to go, the fallen Stanton tries to get a job at another carnival, only to suffer the ultimate degradation: the only job he can get is playing the geek, eating live chickens in a sideshow and replying to the offer with his recurring catchphrase, "Mister, I was made for it." Unable to stand his life any further, he goes berserk. Fortunately, Molly happens to work in the same carnival. Stan regains hope when he sees her again and Molly vows to nurse him back to health, but their reunion is bittersweet, recalling Zeena's nursing the ever-drunk Pete. This conclusion, while somewhat dark and ambiguous, differs from the novel, which implies that Stanton is doomed to work as a geek until he drinks himself to death.
+
+
+QUESTIONS
+q: What does Stanton accidentally give Pete too much of?
+a: ['Wood Alcohol.']
+
+q: What side show act is Stanton fascinated by?
+a: ['Mind reading']
+
+q: Who does Stanton take the mind-reading act on the road with?
+a: ['Molly (Coleen Gray)']
+
+q: What is the name of Molly's boyfriend?
+a: ['Stanton']
+
+q: What is the name of the beautiful society psychiatrist?
+a: ['Lilith Ritter']
+
+q: Who is raised in an orphanage and reform school?
+a: ['Stanton Carlisle']
+
+q: What is Stanton's job in the carnival?
+a: ['GROTESQUE GEEK']
+
+q: How does Stanton accidentally kill Pete?
+a: ['SERVING HIM WOOD ALCOHOL INSTEAD OF MOONSHINE']
+
+q: What is the name of Zerna's husband?
+a: ['Pete']
+

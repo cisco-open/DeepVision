@@ -1,0 +1,17 @@
+PARAGRAPH
+Jimmy Tong (Jackie Chan) is a taxi driver notorious for his speed and ability to get his customer anywhere in the least amount of time. His reputation lands him a job as the personal chauffeur of the mysterious but wealthy Clark Devlin (Jason Isaacs). Jimmy does not really know what his new boss' job is, but Devlin's friendly nature, imperturbable demeanor, and willingness to offer Jimmy advice wins Jimmy over and the two become friends. What Jimmy does not realize is that Devlin is a secret spy and undercover government agent, and when an attempt to kill Devlin with a car bombing sends him into a coma, Jimmy ends up with Devlin's recent case notes and a special watch that controls Devlin's rather unusual tuxedo.
+The tuxedo is a gadget capable of granting its wearer special abilities (including martial arts, speed, the ability to dance, and various acrobatics) which Jimmy must use to stop the criminal organization responsible for Devlin's attempted murder. The group is a terrorist organization disguised as a corporation named Banning Corporation and is headed by the notorious and ruthless Dietrich Banning (Ritchie Coster). Its goal is to take over the global drinking water supply, starting with the poisoning of major US reservoirs by means of genetically modified water strider insects. These water striders have bacteria that can spread from person to person. By pure chance Jimmy is joined by a genius scientist with aspirations of field work, Delilah "Del" Blaine (Jennifer Love Hewitt). Blaine is completely new to field work and is delighted to be on assignment with Devlin, only to be very confused by Jimmy as he impersonates Devlin, relying on the tuxedo's special abilities to compensate for his lack of skill and training.
+At first, Blaine thinks Jimmy is weird and annoying, and then a fraud when Jimmy's impersonation is finally exposed. She confiscates his borrowed tuxedo and attempts to stop the evil Dietrich Banning on her own by feigning a desire to become a turncoat for Banning Corporation. Meanwhile, Jimmy is ready to give up and go back to his life as a taxi driver, but while packing his belongings he discovers that Devlin had ordered a second tuxedo for Jimmy himself, believing that Jimmy could also be a great agent. Using his own tuxedo, Jimmy defeats the villain, Banning, by throwing a glass containing the queen of the water striders into Banning's mouth. He is then infected with bacteria from the water strider. The other remaining water striders do the same. They attack Banning and he then dies instantaneously.
+As compensation for his role in bringing down Banning, the organization uses its resources to orchestrate an operation so that Jimmy can finally meet his dream girl. However, confused by Blaine's and the now-recovered Devlin's conflicting instructions on how to act Jimmy succeeds only in alarming the girl into threatening to mace him so that the operation is aborted as a failure. Consoling Jimmy afterwards, Blaine admits feeling sad that no one had ever tried to do for her what Jimmy had just done, and Jimmy tells Blaine that she has to change and be more accommodating if she ever wants to have a boyfriend. Feeling a tentative attraction for each other, they walk away to buy coffee.
+
+
+QUESTIONS
+q: Who does Jimmy become a personal chauffeur for?
+a: ['Devlin']
+
+q: What does Devlin have made for Jimmy?
+a: ['had ordered a second tuxedo']
+
+q: What is Jimmy's former occupation?
+a: ['taxi driver']
+

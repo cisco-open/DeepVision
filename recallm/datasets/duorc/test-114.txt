@@ -1,0 +1,98 @@
+PARAGRAPH
+Abandoned by their father deep in a forest one night, young Hansel (Cedric Eich) and Gretel (Alea Sophia Boudodimos) enter a gingerbread house and are quickly nabbed by the old witch who resides in it. The witch forces Hansel to continuously eat candy while making Gretel prepare the oven, but before she has a chance to eat them, the siblings outsmart her and throw her into the oven. Throughout the years after the incident, Hansel (Jeremy Renner) and Gretel (Gemma Arterton) become ruthless bounty hunters dedicated to exterminating witches. Their work is relatively easy because for an unknown reason, they are immune to harmful witch spells and curses. Hansel, however, is diabetic as a result of his ordeal with the old witch and needs to take a regular shot of insulin every day.One day, in the German town of Augsburg, Hansel and Gretel prevent Sheriff Berringer (Peter Stormare) from executing Mina (Pihla Viitala), a young woman falsely accused of witchcraft. Mayor Englemann (Rainer Bock) has hired the siblings to find and rescue several children abducted by witches. At the same time, Berringer hires four trackers for the same mission, hoping to regain the respect of the Mayor. However, all but one of the trackers are killed that night by the powerful grand witch Muriel (Famke Janssen), who sends the surviving member back to the town tavern to explode as a warning to the siblings and the locals. Hansel and Gretel, with the help of the Mayor's assistant Jackson (Bjørn Sundquist), capture the Tall Witch (Zoe Bell) and interrogate her. They discover that the witches are preparing for the Feast of the Blood Moon, which requires sacrificing 12 children - six boys and six girls, each born on a separate month. When the siblings find out that the witches need one more girl to complete their ritual, Berringer refuses to cooperate with them in locating her. Suddenly, Muriel, the Candy Witch and the troll Edward (Robin Atkin Downes)/ (Ingrid Bolsø Berdal) attack the town and abduct the targeted girl before springing their comrade out of jail. Gretel is knocked unconscious throughout the ordeal, but is brought to safety by a local boy named Ben (Thomas Mann), who is aspiring to be a witch hunter himself. Hansel grabs a fleeing Candy Witch by her broomstick, but is lost in the forest.The next morning, Hansel is found by Mina, who takes him to a spring to heal his wounds. Meanwhile, Gretel enters the forest to search for her brother, but she is assaulted by Berringer and his men, who are arresting her for luring the witches to their town. Then, from out of nowhere, Edward charges at the men and mutilates them before bringing Gretel to a waterfall to mend her injuries. When asked by Gretel why he saved her, Edward tells her that trolls serve witches before he walks away. Hansel and Gretel reunite at an abandoned cabin, which they discover is not only their childhood home, but also a witch's lair. Muriel appears in front of them, telling them the truth of their past. It is revealed that Hansel and Gretel's mother was a white witch named Adrianna (Kathrin Kühnel) who betrayed her kind by marrying a farmer(Thomas Scharff). On the night of the Blood Moon, the heart of a white witch is needed to create a potion that makes witches impervious to fire. As Adrianna was too powerful for the sacrifice, Muriel targeted Gretel, who was revealed to be a white witch herself. Muriel spread a rumor across the village about Hansel and Gretel's mother. To keep the siblings away from the angry villagers, their father left them in the forest, but when he returned to their home, he was hanged by the villagers while Adrianna was burned at the stake before his eyes. Following this revelation, the siblings battle Muriel before Muriel stabs Hansel and abducts Gretel for the ceremony.Hansel wakes up to the sight of Mina, who reveals herself to be a white witch. After Mina uses a spell to bless the siblings' arsenal, Hansel, Mina and Ben head to the top of a hill to disrupt the Feast of the Blood Moon. While Mina mows down dozens of witches with a Gatling gun, Hansel squares off against Muriel's minions and frees the children while Edward defies Muriel's orders and releases Gretel before he is thrown off the cliff by Muriel. With the ceremony ruined by the sunrise, Muriel and the surviving witches attempt to flee by broomsticks, but the witches are shredded by piano wire traps while Ben shoots Muriel off her broomstick. On her way to meet up with Hansel, Gretel finds an unconscious Edward and uses her stun gun to defibrillate him back to life. Hansel, Gretel and Mina follow Muriel's trail to the old gingerbread house. During their confrontation, Mina is fatally stabbed by Muriel. The siblings engage in a grueling fight against Muriel inside the gingerbread house until they decapitate her with a shovel. In the end, Hansel and Gretel collect the rest of their reward for rescuing the children before embarking on their next hunt, with Ben and Edward joining them.
+
+
+QUESTIONS
+q: Who assaults Gretel?
+a: ['Berringer and his men']
+
+q: Who rescues Gretel?
+a: ['Edward']
+
+q: What was the occupation of Hansel and Gretel's mother?
+a: ['White witch']
+
+q: Who does Hansel wake up with?
+a: ['Mina']
+
+q: Who does Muriel kill?
+a: ['the trackers']
+
+q: Who captures Hansel and Gretel?
+a: ['the old witch']
+
+q: What is the name of the young woman nearly executed for witchcraft?
+a: ['Mina']
+
+q: Which town Hansel and Gretel arrived in the movie?
+a: ['Augsburg']
+
+q: Who gets rescued?
+a: ['The children']
+
+q: Who rescued Gretel in the movie?
+a: ['edward']
+
+q: Who is prevented from executing a young woman?
+a: ['Hansel and Gretel']
+
+q: Who abandoned Hansel and Gretel?
+a: ['Their Father']
+
+q: Who is Mina?
+a: ['A woman falsely accused of witch craft.']
+
+q: What is the grand witch's name?
+a: ['Muriel']
+
+q: what is the name of Women saved by Hansel and Gretel ?
+a: ['Mina']
+
+q: Who did Hansel and Gretel's mother marry?
+a: ['A Farmer']
+
+q: Who kills Mina?
+a: ['Muriel']
+
+q: Who does Gretel revive?
+a: ['Edward']
+
+q: Who does Ben free?
+a: ['gretel']
+
+q: What does Hansel have to have every few hours to avoid becoming sick?
+a: ['needs to take a regular shot of insulin every day']
+
+q: From what is Hansel found hanging in the morning?
+a: ['cliff']
+
+q: What does the witch force Hansel to contintinuosly eat?
+a: ['candy']
+
+q: Who defies Muriel?
+a: ['Hansel and Gretel']
+
+q: Who is Gretel attacked by?
+a: ['Berringer']
+
+q: Who finds Hansel hanging by a tree?
+a: ['Mina']
+
+q: What was name of the kids abondoned by their father?
+a: ['hansel and gretel']
+
+q: Where do Hansel and Gretel reunite?
+a: ["At an abandoned cabin which is their childhood home and witch's lair."]
+
+q: Who captured them in  gingerbread house?
+a: ['an old witch']
+
+q: Which incident in the gingerbread house has left Hansel diabetic?
+a: ['being continuously forced to eat candy']
+
+q: How many children plan to sacrifice for the Blood Moon?
+a: ['12']
+
+q: What is the witch incinerated in?
+a: ['oven']
+

@@ -1,0 +1,39 @@
+PARAGRAPH
+A popular Miami area high school guidance counselor, Sam Lombardo, is accused of rape by two female students, the wealthy and popular Kelly Van Ryan and poor outcast Suzie Toller, and hires lawyer Kenneth Bowden to defend him. At trial, Suzie admits that she and Kelly had made everything up to get revenge on Lombardo: Suzie for him failing to bail her out of jail on a minor drug charge and Kelly for him having an affair with her mother, Sandra. Kelly's mother is humiliated by the scandal, and Lombardo and Bowden negotiate an $8.5 million settlement for defamation. In reality, Lombardo and the two girls were accomplices who used the trial as a way to get money from Kelly's wealthy family. To celebrate their success, the three accomplices have sex.
+Police detective Ray Duquette, against the wishes of the district attorney's office, continues to investigate Lombardo. He suspects the trio are working a scam, telling both Kelly and Suzie that Lombardo has already transferred the money to an off-shore account. Suzie panics and goes to Kelly for help. Kelly assures Suzie that they can trust each other, but separately tells Lombardo over the phone that they may have to get rid of Suzie. Suzie overhears and attacks Kelly in the pool. Both girls fight, but eventually end up having sex in the pool, all witnessed by Duquette, still investigating the trio. A few nights later, Lombardo and Kelly take Suzie to the beach and he kills her while Kelly waits nearby. After wrapping the body in plastic, they throw it in the trunk of the car and drive out to the swamp, where Lombardo disposes of it.
+Duquette and his partner, Gloria, are called in to investigate Suzie's disappearance. Her blood and teeth are found at the beach while her car is found at a bus terminal. The D.A.'s office again insists that he drop the case, but Duquette asks his partner to watch Lombardo. Lombardo confronts Gloria and invites her in to read his school files on Kelly. She discovers that Kelly is a deeply troubled and violent girl made worse by the suicide of her father. Meanwhile, Duquette goes to Kelly's house to confront her. When he arrives, Kelly attacks him, shooting him in the arm. Duquette is left with no choice but to kill her in self-defense. No charges are filed against Duquette, but he is dismissed from the force for disobeying orders.
+Sam returns to his beach bungalow to find Duquette taking a shower. They were partners, setting everyone up so they could split the money just two ways. Although Lombardo is not pleased that Duquette killed Kelly instead of framing her as originally planned, he agrees that they now have fewer loose ends. The two agree to go fishing on Lombardo's sailboat, where Lombardo tries to eliminate Duquette. When Duquette fights back, he is shot and killed by a very much alive Suzie. She kills Duquette as revenge for killing her friend Davie, and for arresting her on a drug charge when he realized that she had witnessed the murder (the arrest from which Lombardo had not bailed her out). Suzie then poisons Lombardo's drink and knocks him overboard, so his body won't be found.
+An ending sequence features a number of quick scenes that fill in details of the backstory. These scenes reveal that Suzie has a genius I.Q., near 200, and was the ultimate architect of the entire plot. She now has control of all of the settlement money and has taken her revenge on both Lombardo and Duquette. She had been sleeping with Lombardo yet could not get him to bail her out, had discovered that Lombardo and Kelly were now sleeping together, and used it to pull him into her plot, starting with having him befriend Duquette. As for Kelly's death, she had not attacked Duquette as he had claimed. In reality, she tried to escape the guest house when he entered. He shot her dead, broke into her gun case and used her hand to shoot himself in the shoulder. In a final scene Bowden meets with Suzie, whose financial affairs he is handling. She kisses him on the cheek and as she walks off, Bowden tells her to "be good".
+
+
+QUESTIONS
+q: What does Suzie give Sam ?
+a: ['A poisoned drink']
+
+q: Sam Lombardo is accused of what?
+a: ['Rape']
+
+q: Who does Suzie give a drink laced with poison to?
+a: ['Lombardo']
+
+q: Who does Kelly have an affair with?
+a: ['Lombardo']
+
+q: How much does Sam receive as settlement ?
+a: ['8.5 million']
+
+q: Who is accused of rape
+a: ['Sam Lombardo']
+
+q: Why dis Suzie want to kill Ray ?
+a: ['He killed her friend and arrested her on false charges']
+
+q: What is Suzie murdered with?
+a: ['A bottle']
+
+q: After being knocked overboard, who realizes Suzie is actually alive?
+a: ['Lombardo']
+
+q: What does Sam do with the settlement of $8.5 million?
+a: ['split the money']
+

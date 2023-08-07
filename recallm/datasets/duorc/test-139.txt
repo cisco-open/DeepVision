@@ -1,0 +1,29 @@
+PARAGRAPH
+Mahadev (Shreyas Talpade) is an unemployed graduate with a Bachelor of Arts from Satna college, who is forced to make a living writing letters for the uneducated people of his village. His real ambition is to become a novel writer. Through his humble occupation, Mahadev has the potential to impact numerous lives. The movie is a satirical, but warm-hearted portrait of life in rural India.
+Among Mahadev's customers are:
+
+Mahadev's childhood crush Kamla (Amrita Rao) is desperate for communication from her husband Bansi Ram (Kunal Kapoor), who works as a labourer at a dockyard in Mumbai. In the letters to her husband, a jealous Mahadev writes the opposite of the loving messages Kamla wants to convey, while faking what her husband has written to her.
+A hurried mother (Ila Arun) who wants to get her manglik daughter, Vindhya (Divya Dutta) married.
+A landlord whose wife is a candidate for the village Sarpanch, and who wants all her political rivals eliminated from the race.
+A eunuch Munni who is contesting the elections for the village Sarpanch but fears the threats from the landlord.
+A love-lorn compounder, Ram Kumar (Ravi Kishan), who is crazy about the widowed daughter-in-law Shobha Rani (Rajeshwari Sachdev) of a retired army soldier.
+Mahadev manages to get his friend engaged, police protection for Munni, and almost kisses Kamla before they are interrupted. However Munni is seriously injured in the head, and he learns a shocking truth about Kamla's husband.It soon turns out that the story was a fictional novel written by the real Mahadev, but it is mostly based on his own experiences. Though it turns out that some of the villagers didn't exactly have happy endings, Mahadev sorts out his mistakes and accomplishes his long-held dream of writing a novel.
+As Mahadev, under pseudo name Sukhdev, reveals that Munnibai became a successful politician, becoming an MLA, or a Member of the State Legislature, with high connections and powerful people surrounding her. It is also revealed that Kamla and Bansi are happy in small house in Mumbai, who come to visit Sajjanpur every Diwali. In midst of all these good news, Mahadev notes that Ram Kumar and Shobha Rani were lynched because members of their community opposed a widow getting re-married. Mahadev also notes that he got married to Vindhya, the manglik, after wooing her by writing 40 letters. While most people consider a manglik to be a great misfortune, Mahadev notes that he became successful due to his marriage, as he paid down his farm land mortgage, built a wonderful house and realised his dream of writing a novel.
+
+
+QUESTIONS
+q: Where did Mahadev graduate from?
+a: ['Satna College.']
+
+q: Who is Kamla's husband?
+a: ['Bansi Ram.']
+
+q: In which town does Mahadev operate a vegetable store?
+a: ['Sajjanpur']
+
+q: Which university did Mahadev Kuswah graduate from?
+a: ['Satna college']
+
+q: Who is Ramkumar in love with?
+a: ['Shobha Rani.']
+

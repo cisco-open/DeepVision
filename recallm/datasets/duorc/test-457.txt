@@ -1,0 +1,29 @@
+PARAGRAPH
+Beginning in 117 AD, the narrative opens with a Roman soldier fleeing across a snowy landscape, saying: "My name is Quintus Dias. I am a soldier of Rome, and this is neither the beginning, nor the end of my story."
+The Romans have been unable to fully conquer Britain, meeting the fiercest resistance in the north, and the Picts of Alba are engaging in a guerrilla campaign against the Roman forts along the Glenblocker line and the Gask Ridge at the southern border of the Scottish Highlands. At the Roman outpost of Pinnata Castra, Pictish warriors led by Vortix and Aeron force surprise and kill the entire garrison, taking only one survivor for questioning, the second-in-command, Centurion Quintus Dias, because he can speak the Pictish tongue. Dias is brought before the Pictish king Gorlacon, who has united the northern tribes. Dias is brutally interrogated, but two weeks later escapes on foot, as depicted at the beginning of the film.
+However, a messenger dispatched by the fort's commander has reached Gnaeus Julius Agricola, the Roman governor of Britannia, who wants to obtain favour with the Roman Senate, hoping to secure a transfer back to the comforts of Rome. He dispatches the Ninth Legion, under General Titus Flavius Virilus, to eradicate the Pictish threat and provides him with a female Celtic Brigantian scout called Etain. As the legion marches north it encounters Dias and rescues him from his pursuers.
+Etain betrays the legion to Gorlacon, leading them into an ambush where they are annihilated. The general is captured. Dias is one of the few survivors, along with the legionaries Bothos, Thax, Brick, Macros and Leonidas, and Tarak, a cook. They set out to rescue general Virilus and, after a few days' travel, they find him at Gorlacon's village and sneak in at nightfall. However, they are unable to break his chains and he orders them to leave him and get back to Roman territory. During the attack, Thax, taking shelter in Gorlacon's hut, suffocates the king's young son to prevent him crying out.
+The next morning, Gorlacon burns his son's body on a funeral pyre and forces General Virilus to fight Etain in single combat. She kills him and Gorlacon then sends her after the fleeing legionaries at the head of a small group of mounted warriors, including Vortix and Aeron, to seek revenge for his son's death.
+The seven Romans plan to travel north (away from Roman territory) to throw the Picts off their trail, then head west, and then back south. After several days' pursuit, the Picts catch up with the fugitives, who jump off a cliff into a river to escape them, although Tarak is killed before he can jump. Macros and Thax become separated from the others. Dias and his group camp for the night, while their trackers set up camp across the river. Dias and Brick launch a night raid on the enemy camp, killing two men and severely wounding a third, from whom they discover that they are being pursued because of the death of Gorlacon's son, which Thax kept secret. However, Etain has launched her own attack on the Romans' campsite. Dias and Brick return to their camp to discover Leonidas dead and Bothos wounded.
+Macros and Thax are now running from a wolf pack. Thax pretends to fall, with the wolves in close pursuit, and cries out to his comrade for help. Macros returns to help him and Thax hamstrings him to prevent him from standing, allowing Thax to escape while the wolves attack and devour Macros. Dias, Bothos and Brick find a hut in the forest belonging to Arianne, a Pictish exile accused of witchcraft who has learned Latin from the soldiers at a nearby Roman frontier outpost. She shelters them, providing food, and medical attention for Bothos. When Etain and her warriors arrive the following day, Arianne confronts her while the Romans hide in her grain store under the floorboards. The next morning they leave Arianne, who provides them with enough food to travel to the outpost.
+They find the outpost abandoned, with an order pinned to a post saying that the Roman troops have retreated south, by the orders of the Emperor Hadrian. Seeing Etain and her warriors approaching and fed up with running, they set up a defensive position inside the fort. Brick is killed, but the three Romans kill Vortix, Aeron, and the rest of the Picts, with Dias ending the fight by killing Etain.
+Taking the Picts' horses, Dias and Bothos continue southwards and en route are reunited with Thax. Upon reaching Hadrian's Wall, which is now under construction, Thax, afraid that he will report his actions, threatens Dias and they fight, with Dias killing Thax. Bothos, joyfully riding towards the Romans, is mistaken for a Pict because of his clothes and is shot by an archer. Dias reports to Agricola, who is concerned that news of the legion's annihilation might cause other tribes to rise up against them. He is also fearful of his record being tainted by a military failure, and decides that the Ninth Legion's fate should remain a mystery and that Dias must be killed. Dias, however, manages to foil the attempt on his life by Agricola's daughter, although he is badly wounded in the thigh during the fracas. He escapes from the camp and returns to Arianne in the forest. As the weakened Dias lies in her arms by the stream, he and Arianne kiss. The film ends with Quintus Dias adjusting the narrative of the film's opening line:
+"My name is Quintus Dias. I am a fugitive of Rome, and this is neither the beginning, nor the end of my story."
+
+
+QUESTIONS
+q: In what year does the story occur?
+a: ['117 AD']
+
+q: Who is king of the Picts?
+a: ['Gorlacon']
+
+q: Who betrays the Roman legion to Gorlacon?
+a: ['Etain']
+
+q: Who kills Etain?
+a: ['Dias']
+
+q: Who do Dias and his followers befriend in the forest?
+a: ['Arianne']
+

@@ -1,0 +1,41 @@
+PARAGRAPH
+SPOILERS HEREIN!!!Calling herself Miriam Webster, a lovely blonde checks in at a seedy Ventura hotel. Asking the younger BELLBOY to see her to her room, Miriam acts flirtatiously, then asks the young Bellboy if he will marry her for a thousand dollars. She further tells the astonished Bellboy that the marriage will be annulled immediately after the ceremony.The Bellboy agrees and Miriam asks him to drive them to a specific Justice of the Peace, ALFRED ADRIMS, who agrees to marry them so late at night, against the protests of his annoyed wife, MRS. ADRIMS. He performs the ceremony but as he's about to kiss the bride, Miriam pulls a surgical knife from her purse and stabs him repeatedly, fleeing as the Bellboy and the hysterical wife call the police.Miriam changes cars and makes her way back to a secluded home in Solvang. She goes inside and deals with a wheelchair-bound elderly woman, HELGA, who's also been rendered mute by a stroke. The clearly disturbed Miriam takes delight in telling Helga that Adrims died screaming.The next morning, the real MIRIAM WEBSTER arrives, an attractive young woman who runs a nearby flower shop. Miriam checks in on Helga frequently, as Miriam is the sister of WARREN, who is close to Helga and who lives in San Diego. Miriam doesn't care much for the blonde, whose name it turns out is EMILY and who is apparently a friend of Warren and is acting as caretaker for Helga.Miriam's flower shop is next door to the pharmacy operated by handsome KARL, who is dating Miriam. Emily is obviously jealous, as she trashes Miriam's flower shop after Karl turns down her offer of a date. At the same time, she smashes the photograph of Miriam's brother, Warren. When Karl checks in on the plundered flower shop, Emily knocks him out.Warren wakes up Karl, concerned about what has happened. Warren is in town to check on Helga. It's also close to Warren's twenty-first birthday, at which point he will inherit a fortune from his late parents, both of whom were killed in a car accident. At the house, Miriam and Warren recall their wealthy father's cruelty. He often beat Warren, determined to make a "man" out of him.Emily continues acting oddly, is openly hostile to Miriam. When Miriam threatens to talk with Warren about her, Emily tells Miriam that she, Emily, and Warren are married. Emily even threatens Miriam's life. Miriam leaves the house, rattled by Emily's behavior.Emily has her knife sharpened, and it's clear that she intends murdering Helga. Just as she's about to do so, the local DOCTOR JONAS drops by, but before the mute Helga can convince him she's in danger, he leaves. Emily cuts off Helga's head as the old lady comes down the stairs on her wheelchair lift.A POLICEMAN drops by Miriam's shop with the Bellboy who witnessed the murder. They are checking with Miriam since the killer used her name. The Bellboy obviously doesn't recognize the real Miriam. By now, both Miriam and Karl are suspicious of the peculiar, hostile Emily.Karl goes to Ventura to see if the Bellboy recognizes a photo of Emily as the killer. Miriam stays behind. Warren drops by, now concerned about Emily himself. When Karl confirms that the Bellboy has identified Emily as the killer, Warren is shocked and saddened. He also worries about Helga. Warren and Miriam drive out to the house. Warren asks Miriam to stay in the car while he goes into the house to check.Miriam grows restless and frightened as she waits. After Warren has seemingly been in the house too long, Miriam goes into the house to see if he's all right. Miriam is horrified to find Helga's headless corpse on the lift, her head rolling down the steps as Miriam backs up in horror. Emily suddenly leaps from the shadows with a knife poised to kill Miriam. The horrified Miriam screams for Warren, and it's then that Emily reveals that she is Warren, pulling off the blonde wig and removing a dental retainer.Warren/Emily raises the knife to kill Miriam but the Doctor, who remained concerned about Helga, enters the house, struggling with the knife-wielding Warren/Emily. Miriam shoots Warren. Later, in a wrap-up at the police department, the Policeman reveals what happened. It seems that Warren's mother actually delivered a girl, but the mother, knowing that her cruel husband was insisting upon a son, paid Helga and Alfred Adrims to convince the father that a boy - his preference - was born. Warren was actually a girl but was raised as a boy. Helga later took "him" to Denmark, where, perhaps, there might have been a sex change operation.With Warren's birthday approaching and the estate about to become his, it was imperative that he continue hiding his secret as the estate was left to a boy only. He had to kill Sam Adrims and Helga, who knew the secret and he had to kill Miriam, the real heiress to the estate. Now a wealthy woman, Miriam is ready to start a new life with Karl.
+
+
+QUESTIONS
+q: Who murders a justice of the peace?
+a: ['Emily/Warren']
+
+q: Who was both a housekeeper and a justice of the peace?
+a: ['Alfred Adrims']
+
+q: Who does Emily reveal herself to be?
+a: ['Warren']
+
+q: What was the name of the local flower shop owner?
+a: ['Miriam Webster']
+
+q: Whose flower shop does Emily break into?
+a: ["Miriam's"]
+
+q: Who interrupts Emily when she is breaking into Miriam's store?
+a: ['Karl']
+
+q: Who is revealed to be a girl?
+a: ['Warren']
+
+q: Who does Warren create as an alter ego?
+a: ['Emily']
+
+q: Who is Emily's husband?
+a: ['Warren']
+
+q: Miriam's brother Warren recently returned from which country?
+a: ['Denmark']
+
+q: Who resembles the suspect?
+a: ['Miriam Webster']
+
+q: Who is a mute, elderly woman?
+a: ['Helga']
+

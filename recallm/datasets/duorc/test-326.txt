@@ -1,0 +1,38 @@
+PARAGRAPH
+Gomez (Raul Julia) and Morticia Addams (Anjelica Huston) welcome their third child: a mustachioed baby boy named Pubert. Older siblings Wednesday (Christina Ricci) and Pugsley (Jimmy Workman) openly loathe their new brother, and repeatedly attempt to eliminate him by tossing him from the roof of the house, dropping an anvil on him, and decapitating him with a guillotine. Alas, in true Addams style, little Pubert cheats death and mutilation time and time again. He also amuses himself by shooting flaming arrows from his cradle.With the house a shambles, Morticia and Gomez opt to hire a nanny to keep the children in check. Wednesday and Pusgly make short work of every new applicant until the arrival of Debbie Jelinsky (Joan Cusack), a seemingly sweet, chipper, and innocent woman who is hired on the spot. Hapless Uncle Fester (Christopher Lloyd), who had been pining for a romantic relationship, immediately becomes infatuated with the beautiful newcomer.It is revealed that Debbie, unbeknownst to her new employers, is a serial killer who preys on wealthy and lonely men. Knowing of the vast Addams fortune, she had selected Fester as her next victim. She coyly flirts with him, toying with his naive emotions, hoping to marry him and then murder him for his wealth. Debbie's ruse does not fool Wednesday and Pugsly, who make no secret of their suspicions. To remove them from the picture, Debbie persuades Gomez and Morticia to send them to summer camp.To their confusion and horror, Pugsley and Wednesday are sent to the bland and WASP-y Camp Chippewa. Lost in a sea of blond, preppy children, they quickly make enemies with the snobby Amanda Buckman (Mercedes McNab), and the disturbingly cheerful camp owners, Gary and Becky Granger (Peter MacNicol and Christine Baranski). They befriend another misfit, the nerdy Joel Glicker (David Krumholtz), who develops a crush on Wednesday. The three are often sent to the Harmony Hut, a tiny cottage decorated with flowers and inspirational posters, and forced to watch sappy musicals and Disney films as a twisted form of punishment.Though overwhelmed with desire for Debbie, Fester is too shy to speak to her. He recruits Gomez and Morticia to accompany them on a double date for moral support. Fester makes a typical slob of himself on the dinner outing, but Debbie, with the fortune in mind, pretends to return his affections and the two are engaged by the end of the night.Wednesday and Pugsley receive the news of Fester's impending wedding, and resolve to stop him from marrying the two-faced Debbie. Along with Joel, they attempt to sneak out of the camp at night but are caught. They later confirm Debbie's sinister true identity from a pack of Joel's, "Schitzos and Serial Killers" trading cards.The children briefly visit home to attend Fester and Debbie's wedding, which takes place in a graveyard. The newlyweds leave for their Hawaiian honeymoon.While Fester bathes in their hotel room, Debbie attempts to kill him by dropping a radio into the bathtub. She is shocked to find, of course, that Fester is impervious to death and actually seems to enjoy the experience. A frustrated Debbie bribes the (virgin) Fester with sex, telling him that if they make love he can never see his family again. Fester is reluctant to agree, but is soon seduced. He informs Gomez that they can never meet again, and Gomez spirals into depression.Debbie and Fester move into a lavish mansion, where Gomez and Morticia attempt to visit. Fester is still enslaved by Debbie, who banishes her in-laws from the house. Soon after, baby Pubert goes through dramatic emotional and physical changes: he becomes a blond-haired, rosy-cheeked giggling cherub. Morticia and Gomez are horrified. Grandmama (Carol Kane), Morticia's witch mother, determined that the changes were brought on by anxiety due to Fester's departure, and may become permanent if not addressed quickly. The family resolves to win Fester back.Meanwhile, Gary and Becky have arranged the end-of-camp play, an incredibly inaccurate and prejudiced musical about the first Thanksgiving. Amanda Buckman is given the lead role of the Pilgrim heroine Sarah Miller, while Wednesday is cast in the "secondary, but still compellingly written" role of Pocahontas.Pugsley, Joel, and the other misfit campers become even more at odds with the rest of the camp, but Wednesday becomes inexplicably cooperative (and even cracks a smile). At the performance, however, the kids get their revenge. Wednesday, who had been faking her sweet behavior, leads the misfits (dressed as Indians) on a rebellion, burning the stage and tying up other campers. She, Joel, and Pugsley escape by canoe as Gary and Becky are tied to a spit over an open fire. Joel and Wednesday have their first kiss, while Pugsley hijacks a camp van to take them home.For their three-week anniversary, Fester is preparing a fancy dinner for himself and Debbie. Debbie hides a massive bomb in a gift box, leaving it with Fester while she goes out to get champagne. She returns home later to watch the explosion, but is foiled again when an intact Fester emerges intact from the rubble. Debbie then pulls a gun on Fester and prepares to shoot him, but Fester is saved by Thing, the family's loyal disembodied hand, who is driving Debbie's car.They speed off towards the Addams' mansion, with Debbie in hot pursuit. The Addams family has a brief, happy reunion before they are interrupted and captured by a vengeful Debbie who is wielding a shotgun. Debbie straps the family into electric chairs, then explains her life via a slide show, citing an incident on her tenth birthday as the catalyst for her life of crime (her parents bought her Malibu Barbie instead of Ballerina Barbie).Mercifully, baby Pubert manages to get to the attic and splice two loose wires together, reversing the current so that when Debbie throws the switch, she is reduced to a pile of dust and credit cards. Her tombstone is shown to be inscribed: "Debbie Addams, Wife and Psycho".Months later, the family celebrates Pubert's first birthday. After the party, Wednesday and Joel (whom she had invited) visit Debbie's grave. Wednesday claims that Debbie was sloppy for allowing herself to be caught, and that if she herself were to ever marry she would scare her husband to death. Joel scoffs it off, but is suddenly grabbed by a bloody hand that shoots from the ground, as Wednesday gives a knowing smirk.
+
+
+QUESTIONS
+q: What are Wednesday, Pugsley and Joel forced to watch?
+a: ['Sappy musicals and Disney films']
+
+q: Who laments Debbie's loss at Pubert's first birhtday party?
+a: ['Wednesday laments that Debbie was sloppy for allowing herself to get caught.']
+
+q: Who does Debbie try to kill?
+a: ['Fester Addams']
+
+q: Who runs Camp Chippeawa
+a: ['Gary and Becky Granger.']
+
+q: Who become engaged?
+a: ['Debbie and Fester.']
+
+q: What is Wednesday cast as?
+a: ['Pocahontas']
+
+q: Who seduced Uncle Fester
+a: ['Debbie.']
+
+q: Who intervenes to save fester?
+a: ['Thing']
+
+q: whom is Debbie is horrified?
+a: ['Grandmama']
+
+q: Who electrocutes Debbie?
+a: ['Pubert']
+
+q: What is the name of Gomez and Morticia's newborn son?
+a: ['Pubert.']
+

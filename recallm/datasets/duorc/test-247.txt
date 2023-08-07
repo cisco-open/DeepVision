@@ -1,0 +1,53 @@
+PARAGRAPH
+About an hour before dawn just outside Seattle in 1973, a man dons sunglasses and fits a silencer to a pistol. He then drives into the city and eventually to a corner where a policeman sees his car and approaches - and is promptly shot dead by the man. He then drives to a police impound lot where another officer, Wally Johnson, is parking a car; the killer shoots him dead. The killer then drives to a corner coffee shop; as he washes his hands his police badge briefly appears, indicating he is a dirty cop. The shop proprietor greets him, for he is Stan Boyle, a detective sergeant. While the proprietor goes to the kitchen, Boyle sees a car pull up outside; he goes to the car and gives the driver a carrying case with the murder weapon inside - but as he returns to his own car the driver shoots him down with a shotgun then escapes.Boyle's partner is Lon McQ, a lieutenant, and after being noisily awakened by his telephone on his dockside houseboat, McQ learns from police Sergeant J.C. Davis of the shootings. McQ deduces the shootings to be the work of Manuel Santiago, a businessman who fronts for massive shipments of narcotics from Canada. McQ's suspicion about Santiago is hardened when he is fired on near his car by a hitman who he shoots dead and identifies as Patty Samuels.McQ visits the hospital where Boyle is in critical condition and comforts Boyle's wife Lois. He asks her about the previous night where they were attending a show and Stan got a phone call to leave. After his questioning he drives to police headquarters where his superior, Captain Ed Kosterman, has rounded up street radicals he believes may be responsible for the shootings; here he greets city councilman Franklin Toms, who is close to him as well as the Boyles.McQ greets Kosterman in the station commisary and Ed orders McQ not to harass Santiago, pointedly reminding him of a previous case where a hood was brutally assaulted by McQ and the police had to deal with backlash from several lawyers. McQ blows him off and drives to Santiago's harborside business where he photographs him greeting a suspicious type just before he drives to a downtown diner. It is there that a news broadcast reveals that Stan Boyle has died of his shotgun injuries; when Santiago goes to the restroom and uses a payphone to inform someone of Boyle's death, McQ jumps him and rams him head-first into the mirror then punches him unconscious and dumps him in the trough.For this McQ is taken off duty and assigned to a desk until further notice by police brass, but instead of taking this punishment McQ angrilly quits the force, though he gives J.C. Davis the roll of film on Santiago and tells him to get an identification on the suspect with Santiago. Days later following Boyle's funeral Lois comes by McQ's houseboat where he comforts her and she suggests they get in his "Green Hornet," a splashy Pontiac, and just drive away.Later McQ shows up at the office of Pinky Farrell, a private detective, and asks to join him; he wants to investigate Boyle's murder and Santiago's supposed role in it and not be held up by the police umbrella. Farrell reluctantly agrees to register McQ, and at police headquarters J.C. gives him the photos he took, identifying the man with Santiago as Freddie LaSalle, a hitman from St. Louis. McQ later borrows $5,000 from his ex-wife Elaine, who still holds Lon in her heart and remembers the fear for his life that drove her away.That night at a Seattle Supersonics game Lon confronts Rosey, an informant who wants nothing to do with him anymore since he's not on the force; Lon shows him a newspaper with some of the $5,000, and Rosey tells him that Santiago has brought in three hitmen for a drug heist. Lon then greets Myra, a waitress who was an informant of Boyle and may have been closer to him that just that; she is an addict and Lon gives her a line for her to inhale; she agrees to tell him that she knows about Santiago's hit team and that they intend to steal from the police.Lon follows a state police detail transferring several million dollars worth of powder to an incineration plant, but Santiago's hit team, disguised as part of a laundry service, jumps them and steals the power, but have to fire on Lon as he pursues them to their laundry truck. Lon chases them in his Pontiac and catches up to and corners a laundry truck, but it turns out to be a different one.Kosterman is doubly furious at Lon for the shootout and for not imforming the police beforehand as well as at Franklin Toms, who defends Lon to Kosterman. Kosterman revokes Lon's gun permit before leading a sweep of Santiago's house and business to find the powder; Lon for his part purchases another gun anyway, then is told by his friend Jack, the gun shop owner, about a new submachine weapon, the Ingram, a 9 mm weapon that fires 20 rounds per second. Lon is so impressed with the Ingram after test firing it on a trashcan of water he borrows the weapon and half a dozen magazines of ammo. He then drives to Lois' house for a drink before getting a phone call from J.C. Davis that the police search turned up nothing. Lon, though, knows better, and that Santiago has driven the junk around before stashing it where the police already searched - his office.Yet it blows up in Lon's face when he finds the powder in Santiago's office but is cornered by his gunmen and then learns from the furious Santiago that the powder he stole is in fact harmless sugar. Clearly the drugs were switched with sugar by certain officials, and now Lon realizes Santiago never was involved in the killing of Boyle or the other two officers. Santiago, with nothing to fear from Lon, lets him go, but first beats him up as revenge.Lon now suspects Kosterman may be involved, but gets more shocking news when he confronts his informant Rosey and Rosey reveals that Boyle himself was a dirty cop. Lon initially doesn't believe it, but after seeing Myra she herself is shot to death by a gunman who thinks she knows something. Lon himself is then attacked when two trucks crush his Pontiac between them. Lon is questioned about the attempt on his life by J.C., who reveals where the wrecked car is being held.Lon now realizes something about his car, and when he sneaks into the impound yard both to retrieve the Ingram weapon and to search the car he finds traces of cocaine - the cocaine switched with sugar earlier. Now Lon realizes his friend was indeed dirty - some time earlier he'd loaned Stan his car for a day, and this was how Stan switched the sugar and cocaine - but the police now suspect he himself is involved, so he must hotwire a car to escape, then finds Lois, who is packing to visit her folks upstate; Lon drives with her and reveals that her husband was dirty - but that others close to him are involved, all leading to a confrontation involving Santiago and a lengthy high speed pursuit along a stretch of beach.
+
+
+QUESTIONS
+q: What did the drugs his men steal turn out to be?
+a: ['sugar']
+
+q: What is the name the full name of the detective?
+a: ['Stan Boyle']
+
+q: Who does Kosterman believe committed the shootings?
+a: ['Street radicals']
+
+q: What was the name of the professional hit man that was trying to kill the detective?
+a: ['Manuel Santiago']
+
+q: What is going to be stolen?
+a: ['Several million dollars worth of powder']
+
+q: Where did the drugs come from?
+a: ['police']
+
+q: Who is the target of their investigation?
+a: ['Santiago']
+
+q: Who is the local private eye helping McQ?
+a: ['Pinky Farrell']
+
+q: With what type of gun is the policeman, Hyatt, shot?
+a: ['pistol']
+
+q: What did Santiago to do McQ as payback for the earlier assault?
+a: ['Santiago beat up McQ as revenge for the previous assault.']
+
+q: Who was not responsible for Stan Boyle's death?
+a: ['McQ']
+
+q: Who was not a threat?
+a: ["Lon's Wife"]
+
+q: Who broke into Santiago's office?
+a: ['Kosterman']
+
+q: Where was the detective when he was told about the shootings?
+a: ['On his houseboat']
+
+q: What is Detective Lieutenant Lon McHugh called by others?
+a: ['McQ']
+
+q: In what city does the shooting of the policeman take place?
+a: ['Seattle']
+

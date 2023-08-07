@@ -1,0 +1,70 @@
+PARAGRAPH
+The story is set in England and taking place mainly at a family home. Daniel (Matthew Macfadyen) and his wife Jane (Keeley Hawes) live with his parents; when the story opens, it is the day of Daniel's father's funeral and, while in the process of organising this event, Daniel and Jane plan to purchase a flat and move away from the parental home. Daniel's brother Robert (Rupert Graves), a renowned novelist living in New York City, would rather spend his money on a first class airline ticket to England than help finance the funeral, leaving Daniel to cover the burial expenses. As guests begin to arrive at the family home, where the funeral service is to be held, he struggles to complete a eulogy, although everyone expects Robert the writer will be the one to deliver some appropriate remarks.
+Daniel's cousin Martha (Daisy Donovan) and her fiancÃ© Simon (Alan Tudyk) are desperate to make a good impression on Martha's uptight father Victor (Peter Egan). Their hopes for doing so are dashed when Martha, hoping to calm Simon's nerves, gives him what she believes is Valium but is actually a hallucinogenic designer drug manufactured by her brother Troy (Kris Marshall), a pharmaceutical student. While on the way to the funeral, Simon begins to feel its effect.
+An American dwarf named Peter (Peter Dinklage) introduces himself to Daniel, who is too busy to speak to him at that moment and suggests they talk later. None of Daniel's relatives can identify the man. The service begins and the hallucinating Simon, certain he sees the coffin moving, tips it over, causing the body to spill out onto the floor. During the ensuing chaos, Martha drags Simon outside, where her father forbids her to marry him. When Simon is told why he is reacting as he is, he panics and locks himself in the upstairs bathroom. Martha tries to persuade him to open the door while fending off the unwelcome advances of Justin (Ewen Bremner), with whom she once had a one-night stand that she deeply regrets and would like to forget. When the drug overcomes Simon, he steps out of the window naked and sees Justin kissing Martha. Thinking what he sees reflects mutual feelings, he proceeds to climb onto the roof, where he threatens to jump. Hoping to calm him, Martha reveals she is pregnant with their child.
+While most of the guests are caught up in Simon's seeming insanity, Peter meets privately with Daniel and Robert and reveals he was their father's lover. Unhappy that he was left nothing in their father's will, Peter reveals photographs that prove his relationship, and attempts to blackmail the family for Â£15,000. The brothers panic and bind and gag Peter, and to calm him down they give him the hallucinogenic drug, also believing it is Valium. Peter manages to free himself, but in his drug-induced state he jumps repeatedly on the sofa before falling and hitting his head on a glass coffee table. Troy and germaphobic family friend Howard (Andy Nyman) cannot feel a pulse, so they believe Peter to be dead. Forced to dispose of the body as quickly and surreptitiously as possible, Daniel and Robert decide to place it in the casket with their father.
+The service resumes, and Daniel's awkward eulogy is interrupted when the still very-much-alive Peter leaps from the coffin and the compromising photos fall out of his pocket for everyone, including the widow, Sandra (Jane Asher), to see, who, in shock, attacks Peter and tries to choke him to death, only to be stopped by Robert. Daniel demands everyone stay calm and declares his father was a good man, although clearly one with secrets, and he delivers a loving and inspired tribute to the man.
+In the evening, after all the mourners (including Peter) have left, Robert tells Daniel that he plans on taking their mother to New York so that Daniel and Jane can finally buy their own flat and live alone like they had always wanted. Their conversation is interrupted when Jane shows up and tells them that Uncle Alfie (Peter Vaughan) will be staying over that night because of his panic attack after having seen Daniel and Robert move the body. She also tells them that she gave him some "Valium", which shocks Daniel and Robert. The scene cuts to a shot of Uncle Alfie on the roof, naked like Simon had been, complaining about how "everything is so fucking green".
+
+
+QUESTIONS
+q: What is Ryan's job?
+a: ['writer', 'successful author']
+
+q: Where does Robert live?
+a: ['New York City']
+
+q: Where was the story set in?
+a: ['England', 'Funeral Home']
+
+q: Aaron and Ryan reunite with family members for whose funeral?
+a: ["their father's", 'Their Father']
+
+q: How much money does Peter blackmail the family for?
+a: ['£15,000']
+
+q: How are Aaron and Ryan related?
+a: ['brothers', 'Brothers']
+
+q: Where doe Daniel and Robert decide to hide Peter's body?
+a: ['in the casket with their father.']
+
+q: What was the name of the dwarf who introduces himself to Daniel?
+a: ['Frank', 'Peter']
+
+q: Who is Aaron married to?
+a: ['Michelle', 'Michelle', 'Michelle']
+
+q: Who reveals that she is pregnant?
+a: ['Elaine', 'Martha', 'Elaine']
+
+q: Why is Oscsr threatening to jump off the roof?
+a: ['He saw Elaine get kissed by Derek', 'He saw Elaine get kissed by Derek', "Because he thinks he saw Elaine's ex-boyfriend kissing her."]
+
+q: What was tipped over and fell on the floor?
+a: ['The coffin']
+
+q: Where does Simon lock himself when he learns why he is reacting as he is?
+a: ['in the bathroom']
+
+q: What did Martha reveal she was?
+a: ['Pregnant']
+
+q: How much did Peter attempt to blackmail the family for?
+a: ['15,000', '$30,000']
+
+q: Who is put in the coffin but isn't actually dead?
+a: ['Frank', 'Frank', 'Peter']
+
+q: What does Michelle give Une Russell?
+a: ['Valium', 'Valium', 'Pills that she believed to be Vallium']
+
+q: Who do Arron, Elaine, and Oscar pick up before heading to the funeral?
+a: ['Jeff', 'Jeff', "Elaine's brother, Jeff."]
+
+q: Who ends up naked on the roof?
+a: ['Uncle Russell', 'Oscar', 'Uncle Alfie.']
+
+q: What do Daniel and Jane plan to purchase in order to move away from the parental home
+a: ['A flat']
+

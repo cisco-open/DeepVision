@@ -1,0 +1,20 @@
+PARAGRAPH
+In a Vojvodinian village, a cafe owner is in conflict with Trisa, a hog dealer. In order to get his revenge, the cafe owner and his friends persuade the half-drunk hog dealer to marry Goca, the village innocent. In the meantime, Reza, a young nymphomaniac teacher comes to the village and the hog dealer falls in love with her. Thinking his wife now bothers him, he murders her. His father takes the fall but dies in prison. For her part, Reza does not waste her time ; she first seduces Lile, a handsome pilot who has fallen from the sky, then a policeman and... nearly all the males of the village. On the other hand, things turn sour for the hog dealer since when the peasants discover the real murderer, they lure him into the belfry, tie him between the bells and Trisa dies, torn apart...
+
+
+QUESTIONS
+q: how is this movie
+a: ['seems good']
+
+q: How does the young mans wife die?
+a: ['The Young man murders her', 'he murders her']
+
+q: what to do female teacher
+a: ['seduce nearly all the men']
+
+q: who arrives in the town to teach
+a: ['Reza']
+
+q: who kill his wife
+a: ['Trisa']
+

@@ -1,0 +1,24 @@
+PARAGRAPH
+Thomas Whitman is a 75-year-old former musician who has lapsed into a coma after years of suffering from multi-infarct dementia. As he is clinging to his life while his estranged daughter Gem ponders on signing a do not resuscitate order, Thomas' mind enters a fantasy world where he relives his life as a ten-year-old orphan. After meeting a girl named Ann at the orphanage and acquiring a snow globe containing a dancing figurine named "Arabesque", young Thomas befriends a snowman named "Mr. White", who takes him on a flight to the skies. But while chasing his father Theodore's airplane, Thomas loses his balance and falls into a surreal world bordered by a run-down roller coaster track, which represents his mind and memories. As pieces of the track fall apart, a mechanic, symbolic of Thomas' doctor in the real world, complains about how futile it is to try to repair the track. The doctor looks to a younger Gem for advice who says they should just let it fall apart; this coincides with Gem agreeing to the DNR order in the real world. Thomas meets a younger version of Gem and a 72-year-old Ann, who warn him about Mr. White. He runs to a "dollhouse", where he sees himself and Ann in their 30s, as members of his band Whitman. The elderly Ann once again appears in front of him, warning him that the snowman is evil and is responsible for the loss of his memories.
+As he travels to other parts of his past, young Thomas witnesses the simultaneous events of both his father and his older self lamenting the deaths of their wives. Suddenly, Theodore pulls a gun and shoots himself through his head while the older Thomas smashes the Arabesque globe against the wall, resulting in Thomas distancing himself from his daughter. He chases after Gem throughout the dream world as they both age to the present day.
+Back in the real world, Gem arrives at Thomas' home, where she encounters Ann. It is revealed that when Thomas and Ann toured together with their band, Thomas' wife was killed in a car accident when Gem was a child. Because Thomas was not around during her childhood, Gem grew up resenting him throughout her life. Ann informs her that Thomas was with her, as he had stopped her from overdosing on drugs at the time, which reminded him too much of his father's suicide. Later, Ann opens a safe in Thomas' study, only to find sheets of paper containing incomprehensible writing. Ann makes Gem realize that in time Thomas grew as bitter as his own father due to their similar pasts. As a result, he pushed her away in order not to hurt her as his father did. Gem realizes that the notes are all of Thomas' memories when he found out about his dementia and that he did care for her after all. She spends the night piecing the sheets together to form a pattern on the floor. When the house experiences a power failure and Gem's cell phone dies, Ann drives Gem to the hospital.
+Meanwhile, in his dream world, Thomas rediscovers his memories with Gem and is determined to hold on to them. He confronts Mr. White, who reveals himself as the manifestation of Theodore. During the ensuing roller coaster ride, Thomas relinquishes his grip on his father. In turn, he lets go of his last memories of Theodore, and holds onto those of Gem. He reaches the end of the roller coaster ride and awakens from his coma with Gem and Ann by his bedside. With his last breath, Thomas reconciles with his daughter before passing away.
+Gem returns to her father's home to play the grand piano. When she notices a key not playing right, she opens the lid and discovers a brass name plate lodged between the wires, removing it and placing it on the repaired snow globe. The name plate reads "G Em", revealing Gem's name as the keys G and E minor. Thomas mentions throughout the film that the two chords are key to his memories and all he wants is to hear them one last time. He told her that when the chords are played correctly, the Arabesque in the globe will spin. After Gem realizes Thomas really loved her, she plays the chord and the Arabesque spins, symbolizing their reconciliation.
+
+
+QUESTIONS
+q: What is the name of Tom's daughter?
+a: ['Gem']
+
+q: What is Tom's profession?
+a: ['Former musician']
+
+q: What does Tom suffer from?
+a: ['Multi-farct dementia']
+
+q: What genre is Imaginaerum?
+a: ['Fantasy']
+
+q: How does Gem discover the path she must follow to find her father again?
+a: ['Notes he left behind']
+

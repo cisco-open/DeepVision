@@ -1,0 +1,89 @@
+PARAGRAPH
+In the year 3000, Earth has been ruled for 1,000 years by the Psychlos, a brutal race of giant humanoid aliens. The remnants of humanity are either enslaved by the Psychlos and used for manual labor or survive in primitive tribes living in remote areas outside Psychlo control. Jonnie Goodboy Tyler (Barry Pepper), a member of one such tribe, leaves his home in the Rocky Mountains on a journey of exploration. He joins forces with Carlo (Kim Coates), a hunter, but both men are captured by a Psychlo raiding party and transported to a slave camp at the Psychlos' main base on Earth, a giant dome built over the ruins of Denver, Colorado.
+Terl (John Travolta), the Psychlo security chief on Earth, has been condemned by his superiors to remain indefinitely at his post on Earth as punishment for an unclear incident involving "the Senator's daughter". Aided by his deputy, Ker (Forest Whitaker), Terl devises a plan to buy his way off the planet by making a fortune using human slaves to mine gold in radioactive areas. Psychlos are unable to visit such areas due to the explosive interaction of the gas they breathe with radionuclide particles. Terl selects Jonnie as his "foreman" for the project and gives him a Psychlo education using a rapid-learning machine. Terl gives Jonnie a party of slaves and a Psychlo flying shuttle and orders him to go out and find gold.
+After learning the Psychlos' language, history, and myriad other things from the rapid learning machine, Jonnie plots a human uprising against the Psychlos. He obtains gold from Fort Knox to satisfy Terl's demands, and uses the free time to plot a revolution. Jonnie and his followers find an abandoned underground U.S. military base with working aircraft, weapons, fuel, and nuclear weapons. They use the base's flight simulators to train themselves in aerial combat. When Terl returns, he orders more gold to be extracted, and tells how in the 21st century the Psychlos conquered Earth in only nine minutes. Jonnie warns Terl that he will be overthrown and the humans will retake Earth, citing the United States Declaration of Independence as inspiration, to which Terl scoffs.
+After a week of training, the rebels launch a mass uprising against the Psychlos using Harrier jump-jets and other weapons. Carlo sacrifices himself to destroy the dome over Denver, and the Psychlos inside suffocate in Earth's atmosphere, which they are unable to breathe. Jonnie captures a Psychlo teleportation device and uses it to teleport an atomic bomb to the Psychlo home world. The ensuing detonation causes the entire Psychlo atmosphere to explode, wiping out the Psychlo world. The film ends with the humans in control of Earth but facing an uncertain future, along with Terl and Ker who survived the base destruction. Terl is now imprisoned inside Fort Knox in a makeshift cell of gold bars, while Ker sides with the victorious humans, and helps in their hard effort to rebuild their civilization.[3]
+
+
+QUESTIONS
+q: What does Terl want his slaves to mine for?
+a: ['to mine gold in radioactive areas']
+
+q: Who does Terl gives his party of slaves to?
+a: ['Jonnie']
+
+q: Where does Jonnie Goodboy Tyler go on a journey of exploration?
+a: ["To a slave camp at the Psychlos' main base on Earth."]
+
+q: Are both men captured or just one of them?
+a: ['BOTH']
+
+q: Why was Terl punished for?
+a: ["An unclear incident involving the Senator's daughter"]
+
+q: What weapon did the humans teleport to the Psychlo homeworld?
+a: ['Atomic bomb']
+
+q: How was Terl able to buy his way off the planet ?
+a: ['By making a fortune using human slaves to mine gold in radioactive areas.']
+
+q: Who does Terl choose for his foreman?
+a: ['Jonnie']
+
+q: Where is Terl's post?
+a: ['Earth']
+
+q: who was the Psychlo security chief ?
+a: ['Terl']
+
+q: who plots a human uprising against the Psychlos?
+a: ['Jonnie']
+
+q: Does Carlo wish the dome over Denver stay intact or be destroyed?
+a: ['Be destroyed']
+
+q: Who was Terl deputy?
+a: ['Ker']
+
+q: Where is Jonnie Goodboy Tyler's home?
+a: ['Rocky Mountains']
+
+q: Who is Terl's deputy?
+a: ['Ker (Forest Whitaker)']
+
+q: Are some of the remnants of humanity living in advanced tribes?
+a: ['YES']
+
+q: What does Jonnie capture?
+a: ['Psychlo teleportation device']
+
+q: Where is Terl imprisoned?
+a: ['Fort Knox']
+
+q: Who sacrifices himself?
+a: ['Carlo']
+
+q: What American city is domed by the Psychlos?
+a: ['Colorado']
+
+q: Is Jonnie Goodboy Tyler a member of a tribe?
+a: ['YES']
+
+q: In the year 3000, who has ruled Earth for 1,000 years?
+a: ['The Psychlos,']
+
+q: What did the rebels use to launch a mass uprising against Psychlos?
+a: ['Harrier jump-jets and other weapons']
+
+q: What is the Psychlos a brutal race of?
+a: ['Giant humanoid aliens']
+
+q: Who does Jonnie Goodboy Tyler join forces with?
+a: ['Carlo (Kim Coates)']
+
+q: How long did the rebels train?
+a: ['A week']
+
+q: where was the  gold found to satisfy Terl's demands, instead of mining gold as ordered.
+a: ['Fort Knox']
+

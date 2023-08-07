@@ -1,0 +1,44 @@
+PARAGRAPH
+In ancient China, Qin Shi Huang, a brutal and tyrannical warlord, unites the country's kingdoms into an empire and becomes The Dragon Emperor. He orders the construction of the Great Wall of China to bury and curse his dead enemies. The Emperor's mystics teach him supernatural mastery over the Five Elements. Years later, he begins to grow fearful that all he has accomplished will be lost upon his death. He hears of a sorceress, Zi Yuan, who is said to know the secret of immortality and sends his henchman, General Ming Guo, to bring her to the palace. When Ming finds her, they fall in love. After she seemingly casts a spell on the Emperor in Sanskrit, a language he does not understand, after discovering their love affair, and having feelings for her as well, has Ming executed and after she refuses his proposal, he stabs her. Revealing that she has foreseen these events, Zi Yuan immolates and detains the Emperor transforming his army into the Terracotta Army, and the sorceress flees.In 1946, archaeologist Alex O'Connell, Rick and Evelyn O'Connell's son, locates the Emperor's tomb with the financial backing of archaeology professor Roger Wilson. Three assistants are killed by booby traps and Alex is attacked by a mysterious woman, but succeeds in bringing the Emperor's coffin to Shanghai. Meanwhile, the British government entrusts the O'Connells to take the Eye of Shangri-La back to China. Wilson is actually a member of a rogue military faction led by General Yang and his deputy, Choi, who see the Emperor as the one who can restore order and greatness to China. The mysterious woman from the tomb, Lin, stabs the mummified body within the coffin and discovers it is a decoy. By accident, the magical fluid within the Eye lands on the statue of the carriage driver, revealing itself to be the Emperor's actual body. The Emperor is revived, trapped in his terracotta undead form. He accepts Yang and Choi's service but kills Wilson. Lin attempts to kill the Emperor with a magical dagger, the only weapon that can destroy him.Along with Evelyn's brother Jonathan Carnahan, who owns a Shanghai nightclub named Imhotep's, the O'Connells and Lin travel to a stupa in the Himalayas that will reveal the path to Shangri-La when the Eye is placed on top of it. With the help of Yetis summoned by Lin, the group hold off Yang's soldiers but the Emperor discovers Shangri-La's location. While attempting to trigger an avalanche with a thrown grenade attached to some dynamite, Alex fails to notice the Emperor throwing a dagger at his back. Rick shoves his son to safety and ends up with a mortal stab wound to the chest. Lin takes everyone to Shangri-La where the sorceress heals Rick's wound. The group discovers that Lin is Zi Yuan's 2000-year-old daughter, both rendered immortal due to the power of Shangri-La's waters. The magical dagger which Lin carries is the same dagger that the Emperor used in his attempt to kill Zi Yuan years earlier. Zi Yuan also reveals that she would have died if the Yetis had not saved her, and warns Alex that if the Emperor is allowed to drink from the Pool of Eternal Life, he will not only be able to raise his army, but be granted the power to transform into ancient and fearsome Chinese animal spirits. Alex and Lin have grown attached to each other, but Lin pushes the relationship away due to her immortality; after watching Zi Yuan mourn General Ming for centuries, she does not know if she can bear falling in love with Alex only to watch him grow old and die.The Emperor eventually arrives and attacks them in Shangri-La, taking the dagger and shattering his terracotta form before bathing in the mystical waters. It restores his human form and youth, replenishes his powers, and gives him the ability to shapeshift. He transforms into a gigantic three-headed dragon, kidnaps Lin, and flies to his tomb where he raises the Terracotta Army, now aided by General Yang's soldiers. The Emperor announces his plans to conquer the entire world and that once he leads his army across the Great Wall, they will be invincible. The O'Connells and Zi Yuan pursue the Emperor to the Great Wall where she sacrifices her and Lin's immortality to revive the workers killed and buried beneath The Great Wall, creating her own undead army, led by a vengeful, revived General Ming. The Army of the Dead, with aid from the group's modern weapons and air support, fights the Terracotta Army while Zi Yuan battles the Emperor; she is mortally wounded but succeeds in securing the dagger. Disguised as one of Yang's soldiers, Alex rescues Lin, who Yang had held prisoner, bound and gagged in a tent under armed guard.The group gather up again, finding a grieving Lin cradling the dying Zi Yuan in her arms. As this is going on, the Emperor transforms into a horned Ogre to get past Zi Yuan's army and goes beneath the Great Wall in order to use his elemental powers to negate Zi Yuan's spell and draw Ming's army back underneath it. Alex interrupts the Emperor, who transforms into an ogre and knocks Alex into a wall. Rick tries to stab the Emperor, getting thrown into a lit torch stand for his efforts. Meanwhile, Evelyn and Lin fight with Yang and Choi, eventually knocking the general onto some moving gears that crush both him and Choi. While Emperor is gaining the upper hand over Rick with his Wushu skills, Alex grabs the dagger's blade and slips into the nearby water. Rick takes the dagger's hilt and plunges it into the Emperor's chest while Alex stabs him with the blade's tip from behind, simultaneously piercing the Emperor's heart from both sides and releasing the dagger's curse. The Emperor is consumed from the inside and out by molten lava, resulting in the deaths of him and his army. Ming's army briefly celebrates before finally moving on to a peaceful afterlife.The O'Connells return to Shanghai, where Alex and Lin have fallen in love. Jonathan decides to move to Peru with the Eye of Shangri-La, which he has somehow managed to keep, as he wants to go somewhere with no mummies. In postscript, it is revealed that shortly after his arrival, mummies were discovered in Peru.
+
+
+QUESTIONS
+q: What do O'Connell and Wilson locate?
+a: ["Emperor's tomb"]
+
+q: What does Jonathon bring to Peru?
+a: ['Eye of Shangri-la']
+
+q: Why was the Great wall of China constructed?
+a: ['To bury and curse his dead enemies']
+
+q: Who are Alex O'Connell's parents?
+a: ["Rick and Evelyn O'connell"]
+
+q: Where does Lin travel along with Evelyn's brother Jonathan Carnahan, the O'Connells and the mysterious woman
+a: ['stupa in the Himalayas']
+
+q: Who orders the construction of the Great Wall of China?
+a: ['Qin Shi Huang']
+
+q: What are the O'Connell's entrusted to take back to China?
+a: ['the Eye of Shangri-La']
+
+q: Who pursue the Emperor to the Great Wall?
+a: ["O'Connells and Zi Yuan"]
+
+q: who gives the dagger to the group before dying?
+a: ['Zi Yuan']
+
+q: What Emperor throws at alex
+a: ['a dagger']
+
+q: What does Emperor discovers.
+a: ['discovering the path to Shangri-La']
+
+q: who bathes in the mystical waters?
+a: ['The Emperor']
+
+q: Who was Zi Yuan's secret lover?
+a: ['General Ming Guo']
+

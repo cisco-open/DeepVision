@@ -1,0 +1,14 @@
+PARAGRAPH
+It almost makes us question the justice of fate that the innocent should suffer for the crimes of the guilty. Such, you must admit, is often the case, as will be seen in this Biograph film story. In a barroom on the Mexican border, Pedro is engaged in a game of poker with several cow-punchers. One of the party seems to be attended with remarkable luck. Pedro becomes suspicious and at last detects him cheating. A quarrel ensues, which results in Pedro laying out the crook, cold and stiff. The sheriff now takes a hand in the squabble and Pedro dives through the window, taking glass and sash with him, followed by a fusillade of 44s, several of which take effect in his body. Staggering into his home, where he is met by his wife, Juanita, and his mother, weak from the loss of blood, he recounts as best he can what has occurred. They hide him in the loft above, and none too soon, for the sheriff enters and searches the place. He is just about to leave when he is attracted by the dropping of blood on the bed. Convinced that the fugitive is above, he makes a start for the loft, but is shot by Pedro, who anticipates him. At this moment in rushes the vigilance committee, who, seeing the sheriff stretched out, accuse Juanita of the crime and carry her off to jail. The mother visits her and devises a scheme. Attiring Pedro in her clothes, she sends him to the prison with a basket of provisions. While the guard is examining the contents of the basket, Pedro, still disguised, slips a pistol to Juanita. The guard, satisfied things are all right, opens the jail door. Juanita and Pedro at once pounce upon him, bind, gag and lock him in the cell. Off they go, but have not proceeded far when their flight is discovered and they are pursued by mounted police. They go down over a rugged rocky hill, which they figure impassable for the pursuers. Hiding behind the rocks, they await an opportunity, and taking the guards unawares, cover them with their guns until they have appropriated the horses, and make good their escape. The guards, however, by a short cut through the woods, come out on the road ahead of the fleeing Pedro and Juanita and as they approach a bullet from the guards in ambush lays poor Juanita prostrate across her horse, dead, while Pedro is seized, bound and carried back to prison to meet his inevitable fate. The Moving Picture World, July 18, 1908
+
+
+QUESTIONS
+q: Who shoots the poker cheater?
+a: ['Pedro']
+
+q: What happens to the player of the poker game that cheats?
+a: ['The crook is killed by Pedro.']
+
+q: Why is Juanita arrested?
+a: ['She is blamed for the death of sheriff, who Pedro has killed.']
+

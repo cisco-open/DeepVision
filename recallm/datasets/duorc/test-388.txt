@@ -1,0 +1,38 @@
+PARAGRAPH
+In 1981, San Francisco salesman Chris Gardner (Will Smith) invests his entire life savings in portable bone density scanners, which he demonstrates to doctors and pitches as a handy quantum leap over standard X-rays. The scanners play a vital role in Chris' life. While he is able to sell most of them, the time lag between the sales and his growing financial demands enrage his already bitter and alienated wife Linda (Thandie Newton), who works as a hotel maid. The financial instability increasingly erodes their marriage, in spite of them caring for their five-year-old son, Christopher (Jaden Smith).
+While downtown trying to sell one of the scanners, Gardner meets Jay Twistle (Brian Howe), a manager for Dean Witter Reynolds and impresses him by solving a Rubik's Cube during a taxi ride. After Jay leaves, Gardner lacks money to pay the fare, and chooses to run, resulting in the driver chasing him into a BART station. Gardner boards a train but loses one of his scanners in the process. His new relationship with Jay earns him the chance to become an intern stockbroker. The day before the interview, Gardner grudgingly agrees to paint his apartment so as to postpone being evicted due to his difficulty in paying the rent. While painting, Gardner is greeted by two policemen at his doorstep, who take him to the station, stating he has to pay for his numerous parking tickets he has accumulated. As part of the sanction, Gardner is ordered to spend the night in jail, complicating his schedule for the interview the next morning. He manages to arrive at Dean Witter's office on time, albeit still in his shabby clothes. Despite his appearance, he impresses the interviewers, and lands an unpaid internship. He would be amongst 20 interns competing for a paid position as a broker.
+Gardner's unpaid internship does not please Linda, who eventually leaves for New York. After Gardner bluntly says she is incapable of being a single mother, she agrees that Christopher Jr. will remain with his father. Gardner is further set back when his bank account is garnished by the IRS for unpaid income taxes, and he and his young son are evicted. He ends up with less than twenty-two dollars, resulting in them being homeless, and are forced at one point to stay in a restroom at a BART station. Other days, he and Christopher spend nights at a homeless shelter, in BART, or, if he manages to procure cash, at a hotel. Later, Gardner finds the bone scanner that he lost in the station and, after repairing it, sells it to a physician, thus completing all his sales of his scanners.
+Disadvantaged by his limited work hours, and knowing that maximizing his client contacts and profits is the only way to earn the broker position, Gardner develops a number of ways to make phone sales calls more efficiently, including reaching out to potential high value customers, defying protocol. One sympathetic prospect who is a top-level pension fund manager even takes him and his son to a San Francisco 49ers game. Regardless of his challenges, he never reveals his lowly circumstances to his colleagues, even going so far as to lend one of his bosses five dollars for cab fare, a sum that he cannot afford. Concluding his internship, Gardner is called into a meeting with his managers. One of them notes he is wearing a new shirt. Gardner explains it is his last day and thought to dress for the occasion. The manager smiles and says he should wear it again tomorrow, letting him know he has won the coveted full-time position. Fighting back tears, Gardner shakes hands with them, then rushes to his son's daycare to embrace Christopher. They walk down the street, joking with each other and are passed by the real Chris Gardner (in a business suit appearance). The epilogue reveals that Gardner went on to form his own multimillion-dollar brokerage firm.
+
+
+QUESTIONS
+q: who is Christopher?
+a: ['the five year old son']
+
+q: What machine did Chris Gardner invest in?
+a: ['portable bone density scanners']
+
+q: Where is smart salesman and chirs gardner?
+a: ['San Francisco']
+
+q: How much money did the government take from Chris for taxes?
+a: ['all of it.']
+
+q: Where was the homeless shelter?
+a: ['Bart']
+
+q: What year does the movie take place?
+a: ['1981']
+
+q: who is walking down a street?
+a: ['the real chris gardner']
+
+q: Where they invests the family savings?
+a: ['portable bone density scanners']
+
+q: What position was Chris competing for at Dean Witter
+a: ['broker']
+
+q: What part did the real Chris Gardner play in the movie?
+a: ['Salesman']
+

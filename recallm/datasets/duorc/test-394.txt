@@ -1,0 +1,32 @@
+PARAGRAPH
+When a Russian youth is put on trial for the murder of his adoptive father, it's up to a room full of jurors divided by racism and prejudice to determine the boy's ultimate fate in director Nikita Mikhalkov's loose remake of Reginald Rose's 12 Angry Men. At the center of the storm is a broodingly silent foreman (Mikhalkov). As the deliberation grows increasingly tense, a racist Russian cabbie (Sergei Garmash) attempts to sway the vote of a well-dressed television producer (Yuri Stoyanov) by staging a vivid recreation of a gruesome murder scene; an elderly Jewish man (Valentin Gaft) recovers the nightmares of the Holocaust; and a Caucasus surgeon (Sergei Gazarov) is pushed over the edge by a hateful rant about the brutishness of Chechens. Later, after one soft-spoken juror (Sergei Makovetsky) wins the jury over with a heartfelt monologue about intemperance and redemption, the volatile group struggles to settle on a final verdict. ~ Jason Buchanan, All Movie Guide
+
+
+QUESTIONS
+q: what kind of jurors are in the room?
+a: ['racism and prejudice', 'angry']
+
+q: How does Sergei Makovetsky win the jury over?
+a: ['He wins the jury over with his heartfelt monologue about intemperance and redemption.', 'A heartfelt monologue about redemption and intemperance']
+
+q: what is his heartfelt monologue talks about?
+a: ['it talks about intemperance and redemption.', 'intemperance and redemption']
+
+q: What does the elderly Jewish man recover?
+a: ['He recovers the nightmares of the Holocaust.', 'Nightmares of the Holocaust']
+
+q: who is the soft spoke juror?
+a: ['Sergei Makovetsky', 'Sergei Makovetsky']
+
+q: how did Sergei Makovetsky win the jury's decision?
+a: ['by a heartfelt monologue.', 'a heartfelt monologue about intemperance and redemption']
+
+q: who is put on a trial for murder?
+a: ['russian youth', 'a Russian youth']
+
+q: who does the russian youth murdered?
+a: ['his adoptive father', 'his adoptive father']
+
+q: Why is a Russion youth put on trial?
+a: ['He is put on trial for the murder of his adoptive father.', 'Killing his adoptive father']
+

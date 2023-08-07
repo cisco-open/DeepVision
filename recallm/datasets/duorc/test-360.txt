@@ -1,0 +1,59 @@
+PARAGRAPH
+DAVID and ANN SMITH have a volatile marriage, to say the least. They also have several "rules" concerning their marriage. One is that they will not leave their room until they've patched up after a quarrel. The latest goes on for three days. David, a lawyer, hangs up his whole STAFF while the bickering couple patch it up.Once they've made up, they're back at the usual loving bickering. They also have a rule that once a day they can ask the other a question in which they must answer honestly. Mrs. Smith asks her beloved: "If they could do it all over again, would he marry her?" Mr. Smith, believing honesty is the best policy, tells her "No," which is decidedly the wrong answer.That afternoon, MR. DEEVER comes to see David. An officious man, Deever informs David that because of a legal technicality, he and his wife aren't legally married. They'll have to marry again. David's somewhat amused by the whole idea, not realizing that Mr. Deever also goes to see Ann, telling her the same thing.David takes Ann out for a romantic evening, going to the restaurant they used to attend, which has now become somewhat of a hovel. Further, the dress that Ann wore when they were courting doesn't quite fit. When David takes Ann up to the apartment and appears intent upon still sleeping with her, Ann is outraged when she realizes he, too, knows they aren't legally married and intends taking "advantage."Furious, Ann tosses him out of their apartment. David seeks solace at a local club, where carousing member CHUCK BENSON gives him advice. Now David finds himself in a peculiar position. Having stated that morning to Ann that he might not marry her again if he had it to do over, he now has the chance "not" to be married but now realizes he does want to be married to her, after all.Thus, David pursues her all over town. Unfortunately, Ann will have none of it. When he threatens to cut her off financially, Ann allows that she's taken a job at a department store. David tries to drag her away physically from her new position. Ann loses the job anyway, when her BOSS realizes she's married, which is against store policy.Meanwhile, David abandons his work, getting behind in his cases. His partner, JEFF, asks to make a dinner date with Ann, hoping to straighten everything out, but, to David's chagrin, Ann shows interest in Jeff and begins dating him. David retaliates by going out with some FLOOZIES arranged by club member chuck Benson, everyone ending up at the same club. David tries to extract himself from the embarrassing situation by giving himself a bloody nose - not an easy task, requiring that he bop himself in the face a few times.Ann leaves with Jeff, angry that David's "date" is acting like Florence Nightingale. Ann and Jeff attend an amusement park, getting stuck in a ride in the rain. Jeff starts getting a cold. They go back to Ann's apartment, where Jeff proves ever the gentleman, reluctant to make any moves on Ann. When he has a few drinks, he only gets goofy and she leaves.The following day, David continues following Ann, this time by cab, pretending to the CABBIE that he's a private detective. He follows her into his law office, finding her in partner Jeff's office, along with Jeff's PARENTS. David finds out that Jeff's Parents consider their son engaged to Ann, so David, determined to break this up, starts making it sound as though Ann's a problem. Horrified, Jeff's Parents start believing she's on the "trashy" side.Ann and Jeff travel to Lake Placid to meet Jeff's Parents. When they arrive, they find they've been relegated to remote adjoining cabins. David shows up, frozen in the snow, collapsing in front of them. They rush him to a warm bed, where he prattles on, apparently only half conscious. Ann feels sorry for him.When Jeff sees how connected they still are, he politely agrees to withdraw his offer of marriage. Ann is torn, but when she realizes that David is just faking being sick, she's furious with him, confronting him. The two have one of their royal fights. But later, after dinner, Ann worries about David, telling Jeff she intends to make him dislike her once and for all. While David's in an adjoining cabin, Ann pretends that she and Jeff are more intimate than they really are.David rushes in, realizes that she's only pretending. Furious, Ann wants David to stand up to David, but he doesn't. Jeff's Parents show up as all parties are entangled in this most sticky romantic mess. But the bickering David and Ann end up together, after Ann, hoping to escape him on skis, becomes trapped in a room with him when he knocks her back into a chair, skis akimbo. As with their rule, they won't leave the room until they've made up. After a few angry words, Ann begins to calm down and soon they begin to kiss
+
+
+QUESTIONS
+q: Does Jeff drink alcohol?
+a: ['Yes']
+
+q: Who are they both assigned to kill?
+a: ['Benjamin "The Tank" Danz']
+
+q: What is the relationship between John and Eddie?
+a: ['Best friends']
+
+q: In what profession do both David and Jeff work?
+a: ['Law']
+
+q: What does Ann decide ?
+a: ['To end up with David']
+
+q: What is Benjamin Danz's nickname?
+a: ['The Tank', 'Adam Brody']
+
+q: What does John say Jane looks like when they met?
+a: ['Christmas morning', 'looked like Christmas morning" to him on the day they met']
+
+q: Who doesn't allow David to enter his home?
+a: ['Anne']
+
+q: What type of resort do Ann and Jeff stay at at Lake Placid?
+a: ['remote adjoining cabins']
+
+q: Where does the final fight scene take place?
+a: ['inside a department store', 'inside a department store', 'In a cabin']
+
+q: What kind of counseling session are John and Jane attending?
+a: ['Marriage']
+
+q: Who deliverers the news that the Smith's marriage license is not valid?
+a: ['Mr. Dreever']
+
+q: How does David get Ann to fawn all over him?
+a: ['pretends he is sick']
+
+q: What is the bounty on each Smith?
+a: ['$400,000', '$400,000']
+
+q: Where do Mr and Mrs Smith meet?
+a: ['Bogot, Colombia', 'Bogota, Colombia']
+
+q: What is the profession of John and Jane?
+a: ['Assasin']
+
+q: Where do the Smiths kidnap Danz from?
+a: ['high-security prison', 'his high-security prison', 'high-security prison']
+
+q: Who rents a cabin next to Ann and Jeff?
+a: ['David']
+

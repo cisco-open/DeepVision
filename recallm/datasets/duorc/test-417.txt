@@ -1,0 +1,12 @@
+PARAGRAPH
+Alice Barlow (Marie Wright) is murdered by an unknown man, who then ransacks her house, looking for her valuable and famous rubies. The house remains empty for years, until newlyweds Paul and Bella Mallen move in. Bella (Diana Wynyard) soon finds herself misplacing small objects; and, before long, Paul (Anton Walbrook) has her believing she is losing her sanity. B. G. Rough (Frank Pettingell), a former detective involved in the original murder investigation, immediately suspects him of Alice Barlow's murder.
+Paul uses the gas lamps to search the closed off upper floors, which causes the rest of the lamps in the house to dim slightly. When Bella comments on the lights' dimming, he tells her she is imagining things. Bella is persuaded she is hearing noises, unaware that Paul enters the upper floors from the house next door. The sinister interpretation of the change in light levels is part of a larger pattern of deception to which Bella is subjected. It is revealed Paul is a bigamist. He is the wanted Louis Bauer, who has returned to the house to search for the rubies he was unable to find after the murder.
+
+
+QUESTIONS
+q: Who was murdered?
+a: ['Alice Barlow']
+
+q: What is the name of the detective?
+a: ['B.G. Rough']
+

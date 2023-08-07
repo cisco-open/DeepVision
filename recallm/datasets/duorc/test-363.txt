@@ -1,0 +1,40 @@
+PARAGRAPH
+The film is about a group of students from Leiden, the Netherlands, amongst them Erik Lanshof (Rutger Hauer), Guus LeJeune (Jeroen KrabbÃ©), Jan Weinberg (Huib RooymansÂ (nl)), and Alex (Derek de Lint). Robby Froost (Eddy HabbemaÂ (nl)) is a friend of Erik, and Esther (Belinda Meuldijk) is Robby's girlfriend. Each of them follow a different path and therefore have a different role in World War II, either as a collaborator or in the resistance. Part of the story is set in London, where Queen Wilhelmina (Andrea DomburgÂ (nl)) has residence. The students Erik and Guus fight alongside Colonel Rafelli (Edward Fox) and soldier Susan (Susan Penhaligon) of the allied forces in London.
+The film begins with a flashforward in the form of a newsreel with a voice-over. Queen Wilhelmina is accompanied by Erik arriving in the Netherlands from London shortly after World War II. After the newsreel, the film starts in the late 1930s in Leiden, where freshmen undergo the humiliation of the initiation rites of their fraternity. Erik is picked out by Guus, the chair of the fraternity, who throws a bowl of soup over his head and injures him with the bowl. After this accident, Guus apologises to Erik, the two become close friends, and Guus offers him a room in his private student house in the centre of Leiden. In this house, the students (Erik, Guus, Jacques, Jan, and Alex) have a drink which confirms their new friendships.
+In September 1939, an English radio broadcasting interrupts the students in a tennis match and announces the declaration of war by the United Kingdom against Germany. In the beginning, the students seem to take things lightly believing that the Netherlands will probably remain neutral as in World War I. Jan, who is a Jew, and also Alex, who has a German mother, immediately join the Dutch army. In May 1940, Germany invades the Netherlands and Erik and Guus try to join the army, too, but they are not accepted by a traumatised army officer. Shortly thereafter, the Netherlands capitulates due to the Rotterdam Blitz. Erik has an affair with Esther.
+Robby has a radio transmitter in his garden shed from where he contacts the Dutch resistance in London. He arranges for Erik to take a flight to London. The Jewish Jan, student and boxing champion, gets into trouble by fighting with two anti-Semitic collaborators, who were bullying a Jewish salesman. Because of this, Erik offers his place on the airplane to Jan. However, during the pickup they get into a fight with German soldiers, and Jan gets captured. Erik is able to escape.
+When Erik meets Alex during a military parade, he finds out Alex is now fighting on the German side for the SS. Later, Erik is also captured. In prison, he hears from Jan that a man called Van der Zanden is the traitor in London. Jan is executed at the Waalsdorpervlakte dune area. Robby's radio installation is discovered, and he is blackmailed by the Gestapo to cooperate as a spy, because his fiancÃ©e Esther is a Jew.
+Erik and Guus try to flee to London again, this time successfully on the Swiss cargo St. Cergue.[3] In London, Erik meets Van der Zanden (modelled after general FranÃ§ois van 't Sant) and tries to kill him, but he appears not to be a traitor but head of the Dutch Central Intelligence Service and a trustee of the Dutch Queen. Guus has an affair with a British soldier Susan. Erik and Guus agree with the Queen to pick up some resistance leaders who could play an important role in the Netherlands after the war. Guus is dropped on the beach and tricks himself into a party nearby. Now, Erik has an affair with Susan.
+Erik comes back to the Netherlands to pick up Guus and the resistance leaders. However, Robby is with them on the beach and the Germans have followed the group who are about to escape by sea. Erik tries to warn them about Robby but cannot reach them. On his way to the beach, Erik runs into Alex at a Nazi party and dances ballroom tango with him. Erik is able to flee the party onto the beach and meets the others. When Robby realises that Erik knows about his collaboration, he fires a light signal and flees. The group tries to escape, but the resistance leaders are killed. Guus escapes swimming into the sea, but only Erik is able to reach the British ship and returns to London and to Susan.
+Another day, Guus meets Robby and shoots him in the middle of the street. Guus gets caught and is executed by guillotine. In Russia, Alex is killed in a latrine by a hand grenade thrown by a boy whom he had insulted earlier when he begged him for food. Erik becomes an RAF pilot and drops bombs over Germany.
+Later Erik is appointed assistant to the Dutch Queen Wilhelmina, and accompanies her back to the Netherlands after the war, as shown in the newsreel in the beginning of the film. In the end, Erik meets Esther and finds that Dutch citizens have cut her hair short in anger of her and Robby's collaboration with the Nazis. She says she bears no grudge against anyone for this. Finally, Erik celebrates the end of the war with one of his fellow students, Jacques ten Brinck, who also survived the war.
+
+
+QUESTIONS
+q: What kind of dance did Erik and Alex do at the Nazi party by the beach?
+a: ['Tango']
+
+q: Who is Robby's girlfriend?
+a: ['Ester']
+
+q: What country are the group of students from?
+a: ['Leiden, The Netherlands']
+
+q: Where were the students when the English radio broadcast interrupted them?
+a: ['Tennis Match']
+
+q: Who does Erik have an affair with?
+a: ['Esther']
+
+q: What did the Dutch do to Esther in anger over her collaberation with the Nazi's?
+a: ['Cut her hair short']
+
+q: How did Alex die?
+a: ['By a thrown Hand Genade']
+
+q: Who did Guss have an affair with?
+a: ['Susan']
+
+q: How did Jewish Jan get in trouble?
+a: ['by fighting with two anti-Semitic collaborators']
+

@@ -1,0 +1,8 @@
+PARAGRAPH
+Oscar Bonsetter tells a dying prisoner that he will take revenge on the sadistic guard who killed him. In exchange, Oscar is told of a stash of money. Oscar is eventually released from prison but when he goes to get his revenge, he gets sidetracked by the now-handicapped guard and his alluring wife, Rose. The tension builds as Oscar becomes more and more attracted to Rose.
+
+
+QUESTIONS
+q: What nationality are the triads?
+a: ['Chinese']
+

@@ -1,0 +1,41 @@
+PARAGRAPH
+Shouting "Roma Invicta!" as his forces attack, General Maximus Decimus Meridius leads the Roman Army to victory against Germanic barbarians in the year 180 A.D., ending a prolonged war and earning the esteem of elderly Emperor Marcus Aurelius. Although the dying Aurelius has a son, Commodus, he decides to appoint temporary leadership to the morally-upstanding Maximus, with a desire to eventually return power to the Roman Senate. Aurelius informs Maximus and offers him time to consider before informing Commodus, who, in a bout of jealousy, smothers his father.Declaring himself the emperor, Commodus asks Maximus for his loyalty, which Maximus, realizing Commodus' involvement in the Emperor's death, refuses. Commodus orders Maximus' execution and dispatches Praetorian Guards to murder Maximus' wife and son. Maximus narrowly escapes his execution and races home only to discover his family's charred and crucified bodies in the smoldering ruins of his villa. After burying his wife and son, a grieving Maximus succumbs to exhaustion and collapses on their graves.Slave traders find Maximus and take him to Zucchabar, a rugged province in North Africa, where he is purchased by Proximo, the head of a local gladiator school. Distraught and nihilistic over the death of his family and betrayal by his empire, Maximus initially refuses to fight, but as he defends himself in the arena his formidable combat skills lead to a rise in popularity with the audience. As he trains and fights further, Maximus befriends Hagen, a Germanic barbarian, and Juba, a Numidian hunter, the latter becoming a close friend and confidant to the grieving Maximus, the two speaking frequently of the afterlife and Maximus' eventual reunification with his family.In Rome, Commodus reopens the gladiatorial games to commemorate his father's death, and Proximo's company of gladiators are hired to participate. In a recreation of the Battle of Zama (incorrectly named the Battle of Carthage) at the Colosseum, Maximus leads Proximo's gladiators to decisive victory against a more powerful force, much to the amazement of the crowd. Commodus descends into the arena to meet the victors and is stunned to discover Maximus as the leader of Proximo's gladiators. The Emperor, unable to kill Maximus because of the crowd's roaring approval for him, gives the thumbs-up sign allowing Maximus to live and sulks out of the arena.As the games continue, Commodus pits Maximus against Tigris of Gaul, Rome's only undefeated gladiator, in an arena surrounded by chained tigers with handlers instructed to target Maximus. Following an intense battle, Maximus narrowly defeats Tigris and awaits Commodus' decision to kill or spare Tigris. As Commodus votes for death, Maximus spares Tigris, deliberately insulting the Emperor and garnering the audience's approval. His bitter enemy now known as "Maximus the Merciful," Commodus becomes more frustrated at his inability to kill Maximus or stop his ascending popularity while Commodus' own popularity shrinks.Following the fight, Maximus meets his former servant Cicero, who reveals that Maximus' army remains loyal to him. They are camped at the port Ostia. Maximus forms a plot with Lucilla, Commodus' sister, and Senator Gracchus to reunite Maximus with his army and overthrow Commodus. Commodus however, suspecting his sister's betrayal, threatens her young son and forces her to reveal the plot. Praetorian guards immediately storm Proximo's gladiator barracks, battling the gladiators while Maximus escapes. Hagen and Proximo are killed in the siege while Juba and the survivors are imprisoned. Maximus escapes to the city walls only to witness Cicero's death and be ambushed by a legion of Praetorian guards.Concluding that legends born in the Colosseum must die there, Commodus personally challenges Maximus to a duel in front of a roaring audience. Acknowledging that Maximus' skill exceeds his own, Commodus deliberately stabs Maximus with a stiletto, puncturing his lung, and has the wound concealed beneath the gladiator's armor. In the arena, the two exchange blows before Maximus rips the sword from Commodus' hands. Commodus requests a sword from his guards, but they refuse to lend him their weapons. Maximus drops his own sword, but Commodus pulls a hidden stiletto and renews his attack. Maximus then beats Commodus into submission and kills him with his own stiletto.As Commodus collapses in the now-silent Colosseum, a dying Maximus sees his wife and son in the afterlife. He reaches for them, but is pulled back to reality by the Praetorian prefect Quintus, who asks for instructions. Maximus orders the release of Proximo's gladiators and Senator Gracchus, whom he reinstates and instructs to return Rome to a Senate-based government. Maximus collapses, and Lucilla rushes to his aid. After being reassured that her son is safe and Commodus is dead, Maximus dies and wanders into the afterlife to his home and family in the distance. Senator Gracchus and Proximo's gladiators carry his body out of the Colosseum. That night, a newly-freed Juba buries Maximus' two small statues of his wife and son in the Colosseum (in the patch of Maximus' blood), and says that he too will eventually join them, "but not yet."
+
+
+QUESTIONS
+q: Maximus leads a victory over the legionnaires of whom?
+a: ['Germanic barbarians']
+
+q: Who enters the arena to offer personal congratulations?
+a: ['Commodus']
+
+q: What is Maximus' moniker
+a: ['Hispano-Roman general']
+
+q: Where is the duel to take place?
+a: ['in the Colosseum']
+
+q: Where is Juba from?
+a: ['a Numidian']
+
+q: The name of the film is what?
+a: ['Maximus Decimus Meridius,', 'Gladiator']
+
+q: Who does Maximus want to go against?
+a: ['barbarian army']
+
+q: How long are the games that Commodus organized?
+a: ['150 days']
+
+q: Where does Maximus go for the games?
+a: ['Rome']
+
+q: Where does Maximus' first gladiatorial combat take place?
+a: ['Zucchabar, North Africa']
+
+q: Where do the slavers take Maximus?
+a: ['to Zucchabar']
+
+q: The battle is a re-enactment of the Roman victory over whom?
+a: ['the Germans']
+

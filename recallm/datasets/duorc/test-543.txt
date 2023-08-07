@@ -1,0 +1,29 @@
+PARAGRAPH
+The Ox-Bow Incident takes place in Nevada in 1885 and begins with Art Croft (Harry Morgan) and Gil Carter (Henry Fonda) riding into the town of Bridger's Wells. They go into Darby's Saloon and find that the atmosphere is subdued, in part because of the recent incidents of cattle-rustling (the stealing of livestock) in the vicinity. Everyone wants to catch the thieves.Gil learns that his former girlfriend left town at the start of the spring and drinks heavily to drown his sorrows. Art and Gil are possible rustler suspects simply because they are not often seen in town. The townspeople are wary of them, and a fight breaks out between Gil and a local rancher named Farnley. Immediately after the fight, another man races into town on horseback, goes into the saloon and announces that a rancher named Larry Kinkaid has been murdered. The townspeople immediately form a posse to pursue the murderers, who they believe to be the cattle rustlers. The posse is told by the local judge that they must bring the presumed rustlers back alive for trial, and that their deputization by a deputy is illegal, but little heed is taken of this. Art and Gil join the posse as well, as much to avoid being its target as to participate. Davies (Harry Davenport), who is vehemently opposed to forming the posse because of its capacity for "mob rule," also joins. Among the other people in the posse are "Major" Tetley (Frank Conroy) and his son, Gerald (William Eythe). The major informs the posse that three men with cattle bearing Kinkaid's brand have just entered Bridger's Pass, and therefore shouldn't be too difficult to catch.On their journey, the posse encounters a stagecoach. They try to stop it, but the stagecoach guard assumes that it is a stickup, and shoots, accidentally wounding Art in the left shoulder. In the coach are Rose Mapen (Mary Beth Hughes), Gil's old girlfriend, and her new, obviously rich husband, Swanson (George Meeker).Later in the night, in the Ox-Bow canyon, the posse finds three men sleeping on the ground, with what are presumed to be stolen cattle nearby. The posse interrogates the men: a young, well-spoken man, Donald Martin (Dana Andrews); a Mexican named Juan Martínez (Anthony Quinn) who claims to be unable to understand English; and a delusional old man named Alva Hardwicke, portrayed by veteran Hollywood character actor/silent film director Francis Ford (brother of famed film director John Ford). Martin claims that he purchased the cattle from Kinkaid, but that he received no bill of sale because the sale took place out on the range. No one believes Martin, and it is therefore decided that the three men are to be hanged at sunrise.Martin, as his last wish, writes a private letter to his wife and asks Davies, the only member of the posse that he trusts, to deliver it. Davies reads the letter, and, hoping to save Martin's life, gives it to the others to read. Because of the letter's eloquence, Davies believes that Martin is innocent and does not deserve to die. However, Martin finds out that his letter has been read, and becomes angry at the betrayal of his privacy.During the argument, the Mexican, who is actually a gambler named Juan Morez, tries to escape and is shot. The posse discovers that Juan is able to speak "American" and ten other languages and that he has Kinkaid's gun. Major Tetley wants the men to be lynched immediately because he does not want any of the rustlers to escape through the courts. A vote is taken on whether the men should be hanged or taken back to face trial. Only seven of the group (of approximately twenty-five people), among them Davies, Gerald Tetley, Gil and Art, vote to take the men back to town alive; the rest support immediate hanging. Gil tries to stop it, but is overpowered. The group must choose three people to hit the horses out from under the condemned men. Farnley and Jenny Grier (Jane Darwell), the only woman in the posse, volunteer, and Gerald Tetley is ordered by his father to be the third. While the others hit the horses of the old man and Morez, Gerald Tetley does not, and the horse therefore simply walks out from under Martin. Farnley shoots Martin to kill him.After the lynching, the posse heads back towards Bridger's Wells. On the way, they meet Sheriff Risley (Willard Robertson). They tell him with pride of their actions, but the sheriff replies that Lawrence Kinkaid was not killed, is under the care of the doctor in Pike's Corner, and that the men who shot him have already been arrested. Risley strips the deputy of his badge and asks Davies, whom he knows would not have supported a hanging, to tell him who was involved. "All but seven," Davies replies. "God better have mercy on you," the sheriff tells the posse. "You won't get any from me."The men of the posse gather back in Canby's Saloon and drink in silence. Major Tetley returns to his house and locks the door so his son cannot come in. His son yells at him through the door, telling him what he thinks of him. Major Tetley walks into another room and shoots himself. In the saloon, Gil reads Martin's letter out loud to Art while the other members of the posse are listening. In the closing scene, mirroring the initial scene, Gil and Art ride out of town to deliver the letter to Martin's wife and family.
+
+
+QUESTIONS
+q: Who plays Davies?
+a: ['Harry Davenport']
+
+q: Why did Art and Gil join the posse?
+a: ['Catch the perpetrators']
+
+q: Who plays Rose Mapen?
+a: ['Mary Beth Hughes']
+
+q: Who was murdered?
+a: ['Local rancher']
+
+q: Who does Martin trust to deliver his letter to his wife?
+a: ['Davies']
+
+q: What is Juan's nationality?
+a: ['Mexican']
+
+q: Where did Art Croft and Gil Carter enter?
+a: ["Bridger's Wells"]
+
+q: Who strips the deputy of his badge?
+a: ['Sheriff Risley']
+

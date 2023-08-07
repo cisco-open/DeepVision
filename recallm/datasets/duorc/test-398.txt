@@ -1,0 +1,14 @@
+PARAGRAPH
+The story is set in high school. Pia (Angel Locsin) is beautiful and wealthy. She is the campus sweetheart that every guy is dreaming of. However, she is unhappy because her father (Tonton Gutierrez) constantly blames her for her brother's death, and makes all the decisions with regards to her future. Eric (Richard Gutierrez), Pia's high school classmate, is intelligent and has a good heart, but lives in poverty. Both of his parents have already died. He is left with his kind and loving grandmother who continues to encourage him to pursue his dreams and his love for Pia, no matter what obstacles get in his way. Eric works as the school's janitor during the day to support his studies, and to provide for him and his grandmother's needs. He has always admired Pia but never really had the courage or the chance to even talk to her. Although they belong to the extremes of social classes, Pia and Eric's paths cross when they share the same seat in class - Eric during the night (as part of his scholarship program) and Pia during the day. Eric becomes Pia's anonymous 'savior' as he answered Pia's school-related questions, and promised to always be there whenever she needed him. Are they destined to be with each other because of this sign? Or is fate playing a trick on them? Meanwhile, in the background, one of Eric's best friends, Luigi(Mark Herras) is the typical playboy, and often changes his girlfriend. This has gone on since they were in highschool. Luigi best friend is Eric, but on the sidelines, Alex(Jennelyn Mercado). Alex is a tomboy who has a crush on Luigi. After five years, she changed and blossomed into a beautiful girl, with Luigi falling in love with her.
+
+
+QUESTIONS
+q: What do Pia and Eric have in common?
+a: ['Seat']
+
+q: What is the name of the actress who portrayed Pia?
+a: ['Angel Locsin']
+
+q: What is Eric's daytime job?
+a: ["School's Janitor"]
+

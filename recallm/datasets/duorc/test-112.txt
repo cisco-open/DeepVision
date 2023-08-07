@@ -1,0 +1,44 @@
+PARAGRAPH
+In a forested area overlooking a sprawling suburban neighborhood, an alien spacecraft has landed. The creatures aboard have come to observe and collect specimens. One of them wanders some distance away, when strange lights and sounds cause him to hide. The group of men are led by one who has a jingling set of keys attached to a belt loop. Scared, the creature takes of running, with the men in pursuit. The creature attempts to get back to his spaceship, but it leaves without him. Eventually, it makes its way down an embankment into the suburban housing development below.In one house, a young boy named Elliot is sent out to pick up a pizza being delivered for his brother Michael and his friends. Elliot is about to return inside when a strange noise in the backyard catches his ears. Elliot traces the noise to a gardening shed in the backyard. Elliot throws a baseball into the shed, and is scared when something in the shed throws it back out. Elliot rushes inside to tell everyone, and they all come out to investigate, but find nothing in the shed, except for some strange prints, which Michael assumes must belong to some type of coyote from the nearby woods.Later that evening, Elliot hears some noise outside in the backyard, and goes outside. He encounters a strange creature that scares the both of them. The creature quickly leaves the backyard and through a nearby gate that leads into the woods.The next day, Elliot goes out on his bike to the forest, taking a bag of Reese Pieces with him, hoping to find the creature he saw. He soon sees the man with the keys on his belt loop, and quickly leaves the forested area.That evening, Elliot gets into an argument with his family, when it seems that noone will believe him. Elliot claims that his Dad would believe him. As their Mother has just been through a messy divorce, this causes her feelings to be hurt, with Michael angrily chastising his brother for being cruel.Later that evening, Elliot stays outside, where this time, the creature comes right up to him, and returns some of the Reeses Pieces that were in the forest. Elliot then lures the creature into the house and up to his room. When he finally sees the creature in full, it is a strange brown-colored being that is like nothing he's ever seen before.Elliot fakes having a fever the next day to stay home from school. During the day, he acclimates himself to the creature, and tells him his name, as well as shows him different things around the house. Later that evening, Elliot shows the creature to Michael and their younger sister Gertie, who both promise not to tell anyone about him.They soon surmise that this thing must in some way be an alien, and get him to try and explain where he's from. Instead, the creature displays its powers, which cause several spheres to levitate and rotate like the planets in the solar system. Gertie also gives the alien a potted plant with dying flowers,which the alien revives.Elliot has the creature hide in his closet the next day, as everyone heads off to school. While everyone is away, the alien gets out and into the fridge, raiding the food and drinking several beers, before watching TV. Unknown to Elliot, the alien has formed a mental bond with him, and these feelings carry on over to his Science Class, where Elliot finds himself setting loose a number of frogs for a dissection project, as well as kissing a girl in class.After Elliot returns home that evening, he finds that Gertie has helped teach the alien to talk, and Elliot then decides to name the alien E.T. E.T. then attempts to explain that he intends to build a machine to communicate with his home planet, so they can come to get him.Later that evening, Elliot and Michael go through the garage looking for items to use. Michael notes that E.T. doesn't look so good, to which Elliot explains that "they are fine." Unknown to the two of them, a van monitoring outside has picked up their conversation.On Halloween, Elliot and Michael dress E.T. up in a sheet, pretending to their Mother that it is Gertie dressed up as a ghost. Gertie has already left with Elliot's bicycle, and gone to a specific point above the suburban area. Once the three meet her there, Gertie trades places with E.T., as both Elliot and E.T. head off to assemble and use the communications machine he has assembled.Elliot wakes up the next day in the woods, with no sign of E.T. He returns home where his Mother has been afraid something had happened to him. Elliot pleads with Michael to find E.T. Michael first goes to the forest, but eventually finds E.T. barely breathing near a storm drain.Getting him home, Michael and the others show E.T. to their mother. E.T. has taken on a pasty look, and is shallowly breathing. Elliot explains that both he and E.T. are sick and perhaps dying. Their Mother demands they leave E.T. and get out of the house immediately, but they are soon set upon by persons in space suits, and then government men who quickly seal off the house and set up a medical unit to examine and help Elliot and E.T.It is here that the man with the keys on his belt loop (who we will call "Keys") returns to the picture. Keys explains to Elliot that they have found the machine in the forest, and wants to know how to save E.T.. Elliot explains that E.T. needs to go home, but as they talk, E.T. soon detaches himself from Elliot, and finally succumbs to the illness. Michael realizes this when the plants E.T. had revived begin to wilt and die.The medical team attempts to revive E.T., but he eventually dies. Before they take E.T. away, Keys allows Elliot some time alone with E.T.. Elliot then explains that E.T. must be dead, because he can't feel anything anymore. Elliot then tells E.T. that he loves him, and turns away. As he does so, he sees the flowers that were dying before are returning to life. Elliot goes back to the container where E.T. is, and finds him alive, and explains that his planet's people will be returning to get him. Elliot manages to hide the fact that E.T. is alive, and then hatches a plan with Michael to get him to the forest.Michael has his friends take Elliot's bike and theirs to a playground at the top of a nearby hill. Meanwhile, Michael and Elliot steal the van with E.T.'s container, and make their way to the playground. Meeting Michael's friends there, they then take E.T. and head for the forest. The government agents then give chase before E.T. causes the bicycles to fly, sending the boys to the forest.As they land, and night settles, E.T.'s ship lands. Elliot's mother and Gertie show up shortly afterward, and Gertie and Michael say their goodbyes, before it's Elliot's turn. E.T. asks Elliot to come with him, but Elliot says he has to stay. E.T. gives his new friend a hug, and then lights his finger and points it at Elliot's head, telling Elliot that he'll "be right here."Gertie gives E.T. the plant she initially gave him, and he goes into the enormous ship, which soon lifts off leaving a rainbow behind, as everyone stares off into the sky.
+
+
+QUESTIONS
+q: What does Elliot experience at school?
+a: ['A psychic connection with the alien']
+
+q: How old is Elliot?
+a: ['Young kid']
+
+q: Who picks up the chrysanthemum?
+a: ['E.T.']
+
+q: what do michael and elliot steal?
+a: ['The van containing ET.']
+
+q: Who says goodbye to Michael and Gertie?
+a: ['E.T.']
+
+q: Why is Elliot  sent to the principal's office?
+a: ['Kisses a girl he likes']
+
+q: who is the character in the comic strip E.T reads?
+a: ['Buck Rogers']
+
+q: where does elliot wake up?
+a: ['In the woods']
+
+q: Who does E.T. repeat to learn English?
+a: ['Gertie']
+
+q: Where does a group of alien botanists land in a spacecraft?
+a: ['Top of the Hill', 'In a forested overlooking a suburban neighborhood.']
+
+q: What does Elliot do to lure the creature to his bed room?
+a: ["Elliott leaves Reese's Pieces candy"]
+
+q: What did E.T. use to phone home?
+a: ['Communication machine', 'Speak & Spell toy']
+
+q: who dresses e.t.?
+a: ['Elliot and Michael', 'Gertie']
+

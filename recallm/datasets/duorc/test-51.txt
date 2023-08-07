@@ -1,0 +1,40 @@
+PARAGRAPH
+Before the start of the film, Krishna has set fire to his bullying elder brother's motor-bike. This has landed him in big trouble with his mother. She has taken him to the nearby Apollo Circus and told him that he can only come home when he earns 500 rupees to pay for the damaged bike. Krishna agrees and works for the circus.
+The film begins as the circus is packing up to move on. His boss asks him to run an errand, but when Krishna returns, he finds that the circus has left. Alone, with nowhere to turn, and without the money to repay his mother, he travels to the nearest big city, Bombay. As soon as he arrives, he is robbed of his few possessions. He follows the thieves, befriends them, and ends up in the city's notorious red-light area of Falkland Road, near the Grant Road Railway Station.
+One of the thieves, Chillum, a drug pusher and addict, helps Krishna to get a job at the Grant Road Tea Stall. Baba, a local drug dealer, employs people like Chillum who are addicted to his drugs. His wife is also a prostitute and they have a little daughter. Baba's wife is annoyed that she has to raise her daughter in such an environment. Baba earlier promised to start a new life elsewhere, but it is a promise which Baba cannot, or has no intention of fulfilling.
+Krishna gets a new name, "Chaipau", and learns to live with it. His goal is still to get the money he needs to return home to his mother, but he soon finds out that saving money in his new surroundings is next to impossible. To make matters worse, he has a crush on a young girl named Sola Saal, who has been recently sold to the brothel. He sets fire to her room and attempts to escape with her, but the two are caught. Sola Saal, who is considered valuable property since she is still a virgin, denies starting the fire and tearfully tries to resist her enslavement. The madame of the house asks Baba to 'break her into' the business, which Baba agrees to do.
+The fire causes Krishna to get a severe beating, and he loses his job. He works odd jobs to feed himself and look after Chillum, who can't live without drugs. To get more money, Krishna and his pals rob an elderly Parsi man by breaking into his house in broad daylight. Krishna eventually checks on the 300 rupees he has saved, and finds out that they had been stolen by Chillum who had used them to buy drugs, which he then overdosed on and died.
+One night while returning home from work, the boys and Baba's daughter are apprehended by the police and taken to a juvenile home. Eventually, Krishna escapes and goes back to his world. He finds a new recruit in Baba's drug business has taken Chillum's place and name. Baba's wife is told that the authorities will not release their daughter, because the mother is a prostitute. Krishna meets Sola Saal and tries to convince her to run away with him. She reveals that she is charmed by Baba and not interested in Krishna; she is driven away to service her first 'client'. In a fit of rage, Krishna kills Baba, and attempts to run away with Baba's wife, but they become separated in a parade honoring Ganesh.
+
+
+QUESTIONS
+q: where krishna finally settled
+a: ['Bangalore']
+
+q: what do bombay's street children call their home?
+a: ['Salaam Baalak Trust']
+
+q: what is the underlying theme of this movie?
+a: ['day-to-day life of children living on the streets']
+
+q: young krishna can read?
+a: ['No']
+
+q: for what salam bom bay film was nominated
+a: ['Academy Award for Best Foreign Language Film']
+
+q: why does krishna need 500 rupees?
+a: ['to pay for the damaged bike']
+
+q: how much amount was asked to bring by krishna's mother
+a: ['500']
+
+q: bombay is a calm place?
+a: ['No']
+
+q: when does the circus pack up and leaves town?
+a: ['when Krishna returns']
+
+q: what holds krishna in good stead in bombay?
+a: ['Chillum']
+

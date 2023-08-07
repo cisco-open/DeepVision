@@ -1,0 +1,140 @@
+PARAGRAPH
+Martin Harris (Liam Neeson) and his wife, Liz (January Jones), arrive in Berlin for a biotechnology conference where he is to give a paper. When they arrive at their hotel, also the site of the conference, Martin realizes he left his briefcase with their passports at the airport. While Liz checks in, he takes a cab to retrieve the briefcase. When a truck's cargo crashes into the road, the cab veers into the river. The cab driver, Gina (Diane Kruger), rescues him but disappears into the crowd when authorities arrive.Martin is in a coma for four days. When he revives, his memory is shaky. When he sees a television news report about the biotechnology conference, he remembers that he is supposed to be there. He checks himself out of the hospital and goes to the hotel. He sees Liz at a reception and goes to embrace her. But she claims not to know him and introduces everyone to her husband, who claims to be Martin Harris (Aidan Quinn).Martin wanders the streets of Berlin. He tracks down Gina, an illegal immigrant working several jobs. She doesn't want to help him because she risks deportation. Martin goes to meet Professor Bressler (Sebastian Koch), a German bioscientist with whom he had had phone calls about their plans to revolutionize food production. But when he arrives, Martin B is already there. After an argument, Martin is escorted out by police. He checks himself back into the hospital for more tests. One of the nurses gives him the name of a private detective. After one of the tests, a hit man kills the nurse and tries to abscond with Martin, but Martin disappears into the crowded emergency room and escapes.Martin goes to see the private detective, Ernst Jurgen (Bruno Ganz), a former Stasi officer. Jurgen believes Martin's story, and tells him to track down Gina again. He finds her and asks for a place to stay for the night, giving her a watch that Liz gave him on their anniversary. As he takes a shower, the hit man bursts in. Gina kills him with his own poison. As they escape in a borrowed cab, they are pursued by a second hit man. They elude him by hiding in a discotheque.Martin and Gina meet with Jurgen. He has a friend at the airport searching security camera footage for Martin, and has contacted Martin's colleague, Rodney Cole, who Martin is certain can help. Martin follows Liz to a photography exhibition. At first she pretends not to know him but pulls him aside to tell him that she is being forced to betray him and that she still loves him and will wait for him at the airport. When Martin B and the second hit man appear, Martin is barely able to escape with Gina.Rodney Cole (Frank Langella) arrives at Jurgen's office. Realizing who Cole really is, Jurgen takes cyanide rather than reveal what he knows. Martin and Gina retrieve the briefcase with the passports and thousands of euro in cash. Gina leaves Martin to wait at the airport. Cole arrives and takes Martin to a black van where he is tasered by the second hit man. Gina sees this and follows the black van in a stolen cab. Cole and the hit man take Martin to the top level of a deserted parking garage. Cole explains to Martin that he is really a government assassin using "Martin Harris" as a cover. When Martin woke up from the post-accident coma, he believed his cover story was the truth, so Martin B was called in to finish the mission. Before the second hit man can kill Martin, Gina crushes him between the van and cab; the impact sends the van, with Cole in it, crashing to the ground below.Martin now remembers everything. Several months earlier he and Liz had gone to the hotel to plant a bomb. It would be used to kill Bressler in a manner that could be blamed on Muslim extremists opposed to the liberalizing plans of Prince Shada (Miro Hamada), who is also sponsoring the biotechnology conference. He and Gina race to the hotel. There, at a reception for Bressler, Liz copies the files containing information about a new, easily grown form of corn, and arms the bomb. Martin arrives in time and persuades hotel security that a bomb is about to go off. When security evacuates the hotel, Liz goes to disarm the bomb while Martin B follows Bressler in order to kill him. Liz fails and is obliterated in the explosion. Martin and Martin B fight amidst the debris as Gina watches. Martin kills Martin B with a glass shard.The next day, Bressler and Prince Shada freely give their new corn to the world, in their mutual effort to end world hunger. Using additional fake passports found in his briefcase, Martin and Gina leave Berlin together, as Henry and Claudia Taylor.
+
+
+QUESTIONS
+q: Why does security evacuate the hotel?
+a: ['because martin informed them that bomb is about to go off.']
+
+q: Who confronts Liz alone?
+a: ['Martin']
+
+q: What does Martin find in his briefcase?
+a: ['Passports for Henry and Claudia Taylor']
+
+q: How many guys are asleep in the warehouse?
+a: ['Five', '3', 'three']
+
+q: Where do Dr. Martin Harris and his wife arrive?
+a: ['Berlin']
+
+q: Who wakes up first?
+a: ['"Blue jean shirt"', 'Caviezel', 'Cole']
+
+q: Who's office did Martin visit?
+a: ['Ernst Jurgen']
+
+q: Who does Martin part ways with?
+a: ['Gina']
+
+q: Where does Martin head towards with Gina?
+a: ['airport']
+
+q: Where was Martin and Liz three months prior to plant a bomb in the suite to be occupied by Prince Shada?
+a: ['the same hotel in Berlin']
+
+q: What did Martin leave at the airport?
+a: ['His briefcase']
+
+q: Who kills nurse Gretchen Erfurt
+a: ['Not mentioned']
+
+q: Where are you?
+a: ['A warehouse', 'Warehouse', 'home']
+
+q: What are you tied to?
+a: ['A chair', 'Tied to the strong  relationship (Between Couples)']
+
+q: What did Prince Shada survive numerous of?
+a: ['Bombs']
+
+q: What did Martin find in the hidden compartment of his briefcase?
+a: ['not mentioned']
+
+q: Where does Prof. Rodney Cole live?
+a: ['Not mentioned']
+
+q: What were Martin's only clues?
+a: ['briefcase']
+
+q: Does the assassin succeed?
+a: ['No']
+
+q: Does anyone remember how they got there?
+a: ['No', 'No']
+
+q: Who kidnapped Martin?
+a: ['Rodney Cole and the second hitman']
+
+q: Who is the private investigator?
+a: ['Ernst Jurgen']
+
+q: Who is the former Stasi agent?
+a: ['Ernst Jurgen (Bruno Ganz)']
+
+q: Who is heading the secret project?
+a: ['Martin Harris']
+
+q: Who did Martin fin with another man
+a: ['His wife Liz']
+
+q: Who kidnaps Martin?
+a: ['a hit man']
+
+q: Where does Gina work?
+a: ['Berlin']
+
+q: What did Bressler develop?
+a: ['a new easily grown form of corn']
+
+q: What is the name of the person in Berlin to occupy the suite that Martin and Liz planted a bomb in?
+a: ['Bressler']
+
+q: Who is the real target?
+a: ['Bressler']
+
+q: What body part does Martin injure in the car crash?
+a: ['His head']
+
+q: What does Ji_rgen ingest to commit suicide?
+a: ['cyanide']
+
+q: What does Jurgen ingest to commit suicide?
+a: ['cyanide']
+
+q: What does "Blue Jean shirt lie about?
+a: ['A Glock being in the desk drawer.', 'Blue Jean Shirt depicts the romantic nature of the man.']
+
+q: How many others are with you?
+a: ['Four', 'all the great learners']
+
+q: Who kills Smith?
+a: ['No one is named Smith in this plot.']
+
+q: Where is Gina from?
+a: ['Bosnia']
+
+q: Sada is Prince of what country?
+a: ['Germany']
+
+q: Who did Smith the assasin kill?
+a: ['there is no one named smith']
+
+q: Bressler offered his project for how much?
+a: ['Free']
+
+q: How does Liz die?
+a: ['In a bomb explosion']
+
+q: How long was Martin in a coma?
+a: ['four days']
+
+q: How did Martin injure his head?
+a: ['a car crash']
+
+q: Who is an illegal immigrant from Bosnia?
+a: ['Gina']
+
+q: Who did Martin phone to in the States?
+a: ['not mentioned']
+

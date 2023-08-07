@@ -1,0 +1,39 @@
+PARAGRAPH
+Bogart as Dixon Steele
+Dixon "Dix" Steele (Humphrey Bogart) is a down-on-his-luck Hollywood screenwriter who has not had a hit "since before the war." While driving to meet his agent, Mel Lippman (Art Smith), at a nightclub, Dix's explosive temper is revealed at a stoplight along the way in a confrontation with another motorist that almost becomes violent.
+At the nightclub, Mel cajoles him to adapt a book for a movie. The hat-check girl, Mildred Atkinson (Martha Stewart), is engrossed in reading it and asks if she can finish, since she only has a few pages left. Dix has a second violent outburst when a young director bad-mouths Dix's friend Charlie (Robert Warwick), a washed-up actor.
+Dix claims to be too tired to read the novel, so he asks Mildred to go home with him, ostensibly to explain the plot. As they enter the courtyard of his apartment, they pass a new tenant, Laurel Gray (Gloria Grahame). As soon as Mildred is convinced that Dix is not trying to seduce her, she describes the story, in the process confirming what he had suspectedâthe book is trash. He gives her cab fare to get home.
+The next morning, he is awakened by an old army buddy, now a police detective, Brub Nicolai (Frank Lovejoy), who takes him downtown to be questioned by Captain Lochner (Carl Benton Reid). The coat check girl Mildred was murdered during the night and Dix is a suspect. Laurel is brought to the police station and confirms seeing the girl leave Dix's apartment alone and unharmed, but Lochner is still deeply suspicious. Although Dix shows no overt sympathy for the dead victim, on the way home from the police station, he anonymously sends her two dozen white roses.
+
+
+
+
+Laurel takes a frightening ride with Dix
+When he gets home, Dix checks up on Laurel. He finds she is an aspiring actress with only a few low-budget films to her credit. They begin to fall in love; this invigorates Dix into going back to work with a vengeance, with Laurel assisting him, much to his agent's delight.
+However, Dix behaves strangely. He says things that make his agent and Brub's wife Sylvia (Jeff Donnell) wonder if he did kill the girl. In addition, Lochner sows seeds of doubt in Laurel's mind, pointing out Dix's lengthy record of violent behavior. Dix becomes furiously irrational when he learns of it. He drives at high speed, with Laurel a terrified passenger, until they sideswipe another car. Nobody is hurt in the collision, but when the other driver accosts him, Dix beats him unconscious and is about to strike him with a large rock when Laurel stops him.
+Laurel gets to the point where she cannot sleep without taking pills. Her distrust and fear of Dix are becoming too much for her. When he asks her to marry him, she accepts but only because she is too scared of what he might do if she refused. She makes a plane reservation and tells Mel she is leaving because she cannot take it anymore. Dix finds out and almost strangles her during a violent confrontation before he regains control.
+Just then, the phone rings. It is Brub with good news: Mildred's boyfriend (named Henry Kesler, the same as the film's associate producer) has confessed to her murder. Tragically, it is too late to salvage Dix and Laurel's relationship.
+
+
+QUESTIONS
+q: Who is the most likely suspect in the murder of the young girl?
+a: ['Dix', 'Dixon Steele']
+
+q: Who wakes Dixon up?
+a: ['Brub Nicolai']
+
+q: How does Dix nearly kill Laurel?
+a: ['Strangulation', 'Strangles her during a violent confrontation.']
+
+q: What is Dix's profession?
+a: ['Dix is a Hollywood screen writer.']
+
+q: Who gives Dix an alibi?
+a: ['Laurel', 'Laurel Gray']
+
+q: What is Dixon Steele's job?
+a: ['Hollywood screenwriter']
+
+q: What keeps Dixon from strangling Laurel?
+a: ['He regains control.']
+

@@ -1,0 +1,18 @@
+PARAGRAPH
+Mexican filmmaker SebastiÃ¡n (Gael GarcÃ­a Bernal) and his executive producer Costa (Luis Tosar) arrive in Cochabamba, Bolivia, accompanied by a cast and crew, prepared to create a film depicting Christopher Columbus's first voyage to the New World, the imposition of Columbusâ will upon the natives, and the subsequent indigenous rebellion. Cognizant of his limited budget, Costa elects to film in Bolivia, the poorest country in South America. There, impoverished locals are thrilled to earn just two dollars a day as extras in the film, and willingly engage in physical labor for set preparation. Costa saves many thousands of dollars by having underpaid extras perform tasks meant to be completed by experienced engineers.
+SebastiÃ¡n casts a local man named Daniel (Juan Carlos Aduviri) in the role of Atuey, the TaÃ­no chief who led a rebellion against Columbus; and Daniel's daughter BelÃ©n in a crucial role as well. Their first encounter with Daniel gives Costa pause and causes him to oppose his casting, but Sebastian gives him the role. Sebastian is unaware that Daniel is leading demonstrations against water privatization that the Bolivian government has agreed to. Filming begins smoothly despite the alcoholism of actor Anton, (Karra Elejalde) cast as Colon (Columbus), but when Costa observes Danielâs revolutionary involvement, he grows uneasy.
+Daniel pretends to acquiesce to Costa's insistence that he stop protesting, but heedlessly continues and sustains facial wounds in a clash with the police. At this point, Costa bribes Daniel to wait for filming to conclude before participating in the rebellion again. Daniel agrees, accepting the money, but spends it on funding the protesters and remains involved, eventually becoming bloodied and imprisoned. SebastiÃ¡n experiences moral conflict and begins to doubt the likelihood of the filmâs completion, but is reassured by Costa, who bribes the police for Danielâs temporary release in order to film a key scene. Upon this sceneâs completion, police arrive in the Bolivian jungle to once again detain Daniel but are besieged by the filmâs extras, aiding Daniel's escape.
+That night, when actors Juan and Alberto see the latest news reports showing violence in Cochabamba, they become worried to the extent that they demand to leave. SebastiÃ¡n begs that they stay and they hesitantly agree. The next day, as the cast and crew prepare to depart for filming, Costa is met by Danielâs wife, Teresa, who desperately implores him to assist her in finding her daughter BelÃ©n, who has disappeared into the protests and is reportedly wounded and needing hospitalization. Teresaâs persistence wins over Costaâs conscience, and despite SebastiÃ¡n's equally impassioned insistence against it, he leaves with her.
+After Costa and Teresa's obstacle-laden drive through riotous Cochabamba, BelÃ©nâs life is saved, but her leg is badly injured and may never fully heal. Meanwhile, the rest of the crew is stopped by a military blockade and all except AntÃ³n leave SebastiÃ¡n to journey home. The revolution ends shortly thereafter with the departure of the multinational water company, but Cochabamba is left in ruins from the conflict. Costa expresses hope that the film will be finished after all, and Daniel emotionally presents him with a vial of Bolivian water in appreciation for his life-saving efforts.
+
+
+QUESTIONS
+q: What country will the film about Columbus be shot in?
+a: ['Bolivia']
+
+q: Who was first Indian leader to resist?
+a: ['Atuey']
+
+q: Who does Sebastian want to make a film about?
+a: ['Christopher Columbus']
+

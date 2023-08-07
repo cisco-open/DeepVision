@@ -1,0 +1,29 @@
+PARAGRAPH
+In Sã Paulo, Lourenç is the owner of a second hand shop. Little by little, he exchanges cold cash negotiating for pleasure in taking unfair advantage of customers who go to his shop when they are in financial difficulties. Lourenç sees the world as a place in which people, as well as used objects, are for sale - preferably for a vile price. The diversity of people passing through his shop makes him see them as componenets of a great human catalogue. He classifies them according to a characteristic or to the object that is offered to them: "the bride", "the gramaphone man", or "the addict". This process of "transforming into things" of the world will stop when Lourenç has to relate to people using a currency that is strange to him - namely, affection. He is also symbolically disturbed by a foul-smelling drain in the shop. Confronted by characters he imagined were under his control, Lourenç is obliged to reassess his vision of the world. The cast includes representatives of new talent in Brazilian cinema such as Silvia Lourenç (Contra Todos), Alice Braga ( Lower City ) and Flávio Bauraqui (The 12 Labours, O Céµ de Suely).
+
+
+QUESTIONS
+q: What did Lourenco have a lust for?
+a: ['money']
+
+q: What type of business does Lourenco own?
+a: ['a second hand shop']
+
+q: What does Laurence list for?
+a: ['power over people']
+
+q: What did Lourenco become infatuated with?
+a: ['money']
+
+q: Where did the name of the movie, "The Smell from the Drain" come from?
+a: ['Louren is symbolically disturbed by a foul-smelling drain in his shop']
+
+q: What does the smell of the drain symbolize?
+a: ['He is also symbolically disturbed by a foul-smelling drain']
+
+q: What brings Lourenco pleasure?
+a: ['taking unfair advantage of people who are i financial difficulties']
+
+q: Where is the smell in his office coming from?
+a: ['a drain']
+

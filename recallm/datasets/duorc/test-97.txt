@@ -1,0 +1,32 @@
+PARAGRAPH
+Noorie (Poonam Dhillon) lives in the Bhaderwah valleys with her father, Ghulam Nabi (Iftekhar) and her dog Khairoo, she has a boyfriend Yusuf (Farooq Shaikh), they decide to get married, the date is decided and preparations begin. But fate had something else in store. As another villager Bashir Khan (Bharat Kapoor) takes a liking to Noorie and approaches Noorie's father for her hand, to which Ghulam Nabi refuses. An angry Bashir Khan then arranges the murder of Gulam Nabi, through his men, using a falling tree. The marriage is suspended, few months later when the marriage preparations are back on, however a few days before the marriage Bashir Khan, who happens to be Yusuf's boss sends him on an errand out of town. While Yusuf is out of town Bashir Khan goes over to Noorie's house and rapes her. Noorie commits suicide and Yusuf gets to know that it all happened because of Bashir, so he runs behid him to kill him followed by Khairoo. They end up into a physical fight and Yusuf gets shot by Bashir. As Bashir runs back, he finds Khairoo there, who finally kills Bashir. Yusuf runs to the place where Noorie's body is and dies there. At the end they both are dug into the ground and unite with each other.
+
+
+QUESTIONS
+q: Who does Noorie decides to get married to?
+a: ['Yusuf']
+
+q: Who commits suicide?
+a: ['Noorie']
+
+q: Who did Noorie live with?
+a: ['her father, Ghulam Nabi, and her dog Khairoo']
+
+q: Who kills Bashir?
+a: ['Khairoo']
+
+q: In which valley does Noorie lives with her father?
+a: ['Bhaderwah']
+
+q: Where did Noorie live?
+a: ['the Bhaderwah valleys']
+
+q: Who kills Yusuf?
+a: ['Bashir']
+
+q: Who asked Noorie's father to marry her?
+a: ['Bashir Khan']
+
+q: Who rapes Noorie when Yusuf is out of town?
+a: ['Bashir Khan']
+

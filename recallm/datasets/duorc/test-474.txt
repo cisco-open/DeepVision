@@ -1,0 +1,27 @@
+PARAGRAPH
+This article needs an improved plot summary. (November 2015)
+Returning to her native Turin for the opening of a branch of a Rome fashion salon, the elegant Clelia (Eleonora Rossi Drago) discovers a young woman named Rosetta Savoni (Madeleine Fischer) near death in the next room of her hotel. Rosetta took an overdose of sleeping pills in an attempt to commit suicide. Clelia, who is alone in her hometown, befriends Rosetta and her three wealthy friends. Momina De Stefani (Yvonne Furneaux) is separated from her husband and easily replaces lovers. Nene (Valentina Cortese) is a talented artist becoming successful in her career; she is living with a frustrated painter named Lorenzo (Gabriele Ferzetti) who envies the success of his wife. Mariella (Anna Maria Pancani) is futile. Clelia is attracted by Carlo (Ettore Manni), the assistant of the salon's architect, Cesare Pedoni (Franco Fabrizi), but he belongs to the working class living in a different social reality. When Momina and Clelia discover that the reason Rosetta tried to commit suicide was because she felt in love for Lorenzo, the cynical Momina encourages Rosetta to stay with him, even though he and Nene were supposed to marry soon. The advice leads to tragic consequences.
+
+
+QUESTIONS
+q: why does clelia return to turin?
+a: ['to set up a new fashion salon']
+
+q: Where was Clelia born?
+a: ['Turin']
+
+q: Who overdoses on pills?
+a: ['Rosetta']
+
+q: Who is a painter?
+a: ['Lorenzo']
+
+q: Who comes from the working class?
+a: ['Carlo']
+
+q: which woman overdoses on pills?
+a: ['Rosetta']
+
+q: which of the women is a talented ceramics artist?
+a: ['Nene']
+

@@ -1,0 +1,54 @@
+PARAGRAPH
+The plot is largely similar to that of the original film with extra dialogue scenes. The film tells the story of the deranged Dr. Caligari and his faithful sleepwalking Cesare and their connection to a string of murders in a German mountain village, Holstenwall. The movie features a "frame story" in which the body of the plot is presented as a flashback, as told by Francis.
+The narrator, Francis, and his friend Alan visit a carnival in the village where they see Dr. Caligari and Cesare, whom the doctor is displaying as an attraction. Caligari brags that Cesare can answer any question he is asked. When Alan asks Cesare how long he has to live, Cesare tells Alan that he will die tomorrow at dawn â a prophecy which turns out to be fulfilled.
+Francis, along with his girlfriend Jane, investigate Caligari and Cesare, which eventually leads to Jane's kidnapping by Cesare. Caligari orders Cesare to kill Jane, but the hypnotized slave refuses after her beauty captivates him. He carries Jane out of her house, leading Jane's father and brother on a chase. Cesare is stabbed to death after being pursued by Jane's brother, and Francis discovers that Caligari had created an illusion of Cesare to distract him.
+Francis discovers that "Caligari" is the head of the local insane asylum, and with the help of his colleagues discovers that he is obsessed with the story of a medieval Dr. Caligari, who used a somnambulist to murder people as a traveling act. After being confronted with the dead Cesare, Caligari breaks down and reveals his mania and is imprisoned in his own asylum.
+The "twist ending" reveals that Francis' flashback is his fantasy: The man he claims is Caligari is indeed his doctor in the asylum, who, after this revelation of the source of his patient's delusion, claims to be able to cure him.
+
+
+QUESTIONS
+q: Is Francis actually is an asylum inmate?
+a: ['Yes']
+
+q: The director is obsessed with the story of a mystic named what?
+a: ['Dr. Caligari', 'Caligari']
+
+q: Where did the 18th century murders take place?
+a: ['Northern Italy', 'in a German mountain village Holstenwall']
+
+q: What does the director shout ?
+a: ['Caligari!']
+
+q: What does Alan ask Cesare?
+a: ['How long shall I live?']
+
+q: Dr. Caligari is restrained in what device?
+a: ['straight jacket']
+
+q: Who, besides Francis, competes for Jane's affections?
+a: ['Alan']
+
+q: What do Francis and the police investigate?
+a: ["alan's murder"]
+
+q: What is Dr. Caligari's Position at the asylum?
+a: ['head', 'The Director']
+
+q: Where does most of Francis' story take place?
+a: ['insane asylum']
+
+q: What was used to restrain Francis?
+a: ['Straight Jacket']
+
+q: What is Cesare chased by?
+a: ['townsfolk']
+
+q: Who does Francis spy on?
+a: ["He sneaks outside of Dr. Caligari's trailer to spy on him and Cesare."]
+
+q: Dr. Caligari creates his own somnambulistic Whom?
+a: ['Cesare', 'Francis']
+
+q: Who actually is Dr. Caligari?
+a: ['The asylum director']
+

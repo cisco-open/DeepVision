@@ -1,0 +1,30 @@
+PARAGRAPH
+Patrick 'Stevie' Logan is sleeping rough in London and seeks employment on a building site. Learning that he is homeless, Stevie's new workmates Larry, Mo and Shem volunteer to find him an empty flat to squat in on a nearby housing estate.
+Stevie meets struggling Irish actress and singer Susan (Emer McCourt) when he finds and returns a handbag belonging to her. This chance encounter leads to a turbulent relationship.
+Stevie rounds up some of the men from the building site to support Susan at one of her pub gigs where she sings "Always On My Mind". The audience is initially hostile, but Larry shames them into calling Susan back for an encore and she sings "With A Little Help From My Friends", which is much better received. Susan agrees to move into Stevie's flat, where they are happy for a time.
+On the building site, life continues as a series of small escapades and petty misdemeanors. Larry is vocal in his left-wing views and opposition to Margaret Thatcher and the ruling Conservative party. No-one shares his view that politics is important to their real-life situation. Meanwhile, the management sack men for minor misbehaviour and are only superficially interested in safety.
+Stevie and Susan's relationship becomes strained. Susan tends towards negative emotions associated with her lack of career success. Stevie, on the other hand, can be callous and unsympathetic.
+After hearing his name on radio Stevie finds out that his mother has died so leaves to attend her funeral in Scotland. In his absence Susan starts using the heroin dealt by youths on the estate. This precipitates the end of their relationship and Susan's sudden departure.
+Larry is sacked from the site after requesting safer working conditions. After jokingly making an expensive phone call on the boss' mobile phone, Shem also gets the sack (and is arrested for the assault that follows).
+Desmonde, a young construction worker, falls off the roof of the converted hospital and despite Stevie and Mo's efforts to save him he loses grip and falls to the ground and is severely injured. The cause of the accident is unsafe scaffolding, which the men have already warned about. Stevie and Mo return in the middle of the night and set a huge fire in the building.
+
+
+QUESTIONS
+q: What city does Stevie get a job in?
+a: ['London']
+
+q: What type of site does Stevie work at?
+a: ['building site']
+
+q: Who's handbag does Stevie find?
+a: ['Susan']
+
+q: the music for the film is scored by whom?
+a: ['Stewart Copeland']
+
+q: who is the owner of the handbag that stevie finds?
+a: ['Susan']
+
+q: What is Susan's job
+a: ['Irish actress and singer']
+

@@ -1,0 +1,27 @@
+PARAGRAPH
+An anthropomorphic dog is tired of appearing in cartoons and goes home to study the works of Shakespeare. Upon arriving back home, the dog finds that his home has been invaded by gophers. Unfazed, the dog then begins reading Hamlet. Upon discovering the Goofy Gophers sleeping in the book, he throws the book out the window.
+The Goofy Gophers then decide to get back at the dog by literally interpreting lines from Shakespeare's works, including "lending him ears", by rolling a curtain up to annoy him, tormenting him with flames (to his foot), dousing him with "the joy of life" (by dumping a tub of water into the dog), dumping limburger cheese as the dog utters the "that which we call a rose by any other name" line while holding a rose, imitating the exhumed Yorick in a dance (making the dog appear like a Shakespearean coward), using magnets on the floor and ceiling to toss and carry the dog around the room (in armor), with the coup de grÃ¢ce coming about when the Gophers use a horse to kick the dog out of his house, after he says "A horse, a horse, my kingdom for a horse!" and back to the studio, where the dog decides to finish what he started.
+
+
+QUESTIONS
+q: What does drinking to the joy of life mean?
+a: ['dumping a tub of water into the dog']
+
+q: What is thrown in the face of the Warner Brothers dog?
+a: ['Limburger cheese']
+
+q: What is the dogs yard overrun by?
+a: ['gophers']
+
+q: What is the Warner Brothers cartoon dog rehearsing?
+a: ['Shakespeare']
+
+q: What play did the dog start rehearsing after the gopher holes came?
+a: ['Hamlet']
+
+q: What is the yard overrun with?
+a: ['gophers']
+
+q: What is the dog aspiring to be?
+a: ['an actor']
+

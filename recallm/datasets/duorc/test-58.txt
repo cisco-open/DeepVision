@@ -1,0 +1,17 @@
+PARAGRAPH
+Special agent Nick (Daniel Wu) is deep undercover in the heart of Asia's lucrative crime trade as he plays protégé to one of the key players in the game, "Banker" (Andy Lau). In the eight years he has been infiltrating the underworld industry, Nick has amassed enough evidence to indict Banker, but has been ordered to remain undercover and expose the identity of the man behind Banker in order to bring down the entire organisation. However, as Nick becomes more trusted and embroiled with Banker's crime family, he finds himself corrupted by the easy money and his new found power. Unable to separate himself from his undercover persona, he immerses himself into his role as a crime figure. In the seedy underbelly of mob culture, where redemption comes at a price and the borders of justice, loyalties and truth are constantly changing, Nick grapples with dangerous choices and finds himself flirting with more than the devil. Protégé is a suspense-filled exploration of the complex relationships and loyalties within the multilayered, international crime syndicates of today.
+
+
+QUESTIONS
+q: Undercover who spent the last seven years?
+a: ['Nick', 'Special Agent Nick']
+
+q: what was the ailing kwan makes?
+a: ['Nick his protégé']
+
+q: What is Officer Nick's issue?
+a: ['power and money corrupt him', 'sway before money and power']
+
+q: What drug is the addict hooked on?
+a: ['heroin']
+

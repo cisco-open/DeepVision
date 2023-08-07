@@ -1,0 +1,35 @@
+PARAGRAPH
+A naive monk, named Brother Ambrose (Marty Feldman), is sent by the abbot on a mission to raise $5,000 in order to save their monastery from closing. He goes to Hollywood where he encounters a number of eccentric characters. He is at first robbed and later befriended by con artist Dr. Sebastian Melmoth (Peter Boyle), and meets a prostitute named Mary (Louise Lasser) who lets him stay at her apartment. Mary grows to care for Ambrose and seduces him while he is taking a cold shower to try to alleviate his lustful thoughts about her.While he is in Hollywood, he visits several churches including a service at the Church of Divine Profit, performed by the televangelist Armageddon T. Thunderbird (Andy Kaufman) in which he sees the focus of the sermon being a request for money in exchange for salvation. Ambrose is angered by this message and tries to meet a number of times with Thunderbird, being ejected each time.Dr. Melmoth and Ambrose travel the city in a modified schoolbus, in which they hold church services for donations. During one service, the brakes of the bus release and the bus rolls downhill into a river. The passengers escape safely in the river and are shown on the local news being baptized by the pair, which catches Thunderbird's attention. He prays to G. O. D. for guidance and it tells him to work with Ambrose to make more money because Ambrose is an innocent and has a clean image.Thunderbird has his minions kidnap Ambrose and bring him to his office where he outlines a plan for his own brand of church on wheels. He says he will pay Ambrose the $5,000 the monastery needs if he assists him. While they are talking, Thunderbird mentions that G. O. D. (Richard Pryor) audibly talks to him when he prays to him and Ambrose is surprised because he himself has never heard from God in this way. Ambrose agrees to work with Thunderbird and they go across the country from town to town holding services in their own bus.One day at Thunderbird's headquarters, Ambrose overhears Thunderbird praying to G. O. D. in his private chamber and when he hears G. O. D. speak back to him, he is intrigued. When Thunderbird leaves, he sneaks into the chamber and discovers that G. O. D. (General Organizational Directivatator) is a sophisticated master computer, linked to all of Thunderbird's finances and operations. He talks with G. O. D. and reads the Bible to it, giving it morality and a conscience. G. O. D. decides to give all of Thunderbird's money away and tells Ambrose what to do to accomplish this, which results in bags of money being poured out of the office's window. Thunderbird discovers someone has been interfering with the computer and rushes back to headquarters where he tries to capture Ambrose and destroys the computer. Ambrose grabs the paid monastery mortgage certificate from Thunderbird's office and escapes in a chase through the city.While Mary and Dr. Melmoth look for Ambrose during his escape, she learns that Melmoth is the father that left her family when she was a child, due to a distinctive tattoo she sees on his leg. They eventually find Ambrose and rescue him from the people chasing him.Ambrose goes back to the monastery and gives the abbot the mortgage certificate, then leaves and marries Mary, who is pregnant from their single night together. The end titles show Melmoth's bus traveling down the road, saying they "all lived happily hereafter".
+
+
+QUESTIONS
+q: What do Melmoth and Ambrose hold in return for donations?
+a: ['Church services in a bus']
+
+q: What does Mary see on Dr. Melmoth's leg that reveals he is the father that left her family?
+a: ['tattoo']
+
+q: Who does Ambrose marry?
+a: ['Mary']
+
+q: What do Dr. Melmoth and Ambrose travel the city in?
+a: ['A modified schoolbus']
+
+q: Who has Ambrose kidnapped?
+a: ['Armageddon Thunderbird']
+
+q: What is Mary's profession?
+a: ['prostitute']
+
+q: What does Ambrose read to G.O.D.?
+a: ['the bible']
+
+q: How much money is Brother Ambrose sent to raise?
+a: ['$5,000']
+
+q: What does the acronym G.O.D. stand for?
+a: ['General Organizational Directivatator']
+
+q: How much money is Brother Ambrose told to raise for the monastery?
+a: ['$5,000.00']
+

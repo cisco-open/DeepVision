@@ -1,0 +1,1 @@
+{"grader_name": "gpt", "question_samples": 1, "num_questions": 1, "graded_questions": 3, "q0": {"quesiton": "Where does the plane crash?", "answer": "['The waters around the Bahamas']", "recall": 1, "vectordb": 2, "hybrid": 2}, "recall_correct": 1, "vectordb_correct": 2, "hybrid_correct": 2, "recall_accuracy": 0.5, "vectordb_accuracy": 1.0, "hybrid_accuracy": 1.0}

@@ -1,0 +1,50 @@
+PARAGRAPH
+In a remote village in France, Balian (Orlando Bloom), a blacksmith, is haunted by his wife's (Nathalie Cox) recent suicide. A group of Crusaders arrive at the small village and one of them approaches Balian, introducing himself as his father, Baron Godfrey of Ibelin (Liam Neeson). Godfrey, asks Balian to return with him to Jerusalem. Balian refuses and the Crusaders leave. Afterwards, the town priest (Michael Sheen), Balian's younger brother, reveals that he had ordered Balian's wife beheaded before burial (a customary practice in those times for people who committed suicide). During the encounter Balian kills him. Balian follows after his father in the hope of gaining forgiveness and redemption for him and his wife. After he catches up to his father, Godfrey instructs him in swordsmanship. Then soldiers led by Godfrey's nephew arrive to arrest Balian. Godfrey refuses to hand him over and during the subsequent fight most of Godfrey's men are killed and Godfrey himself is mortally wounded.In Messina, Godfrey knights Balian and orders him to serve the King of Jerusalem and protect the helpless then succumbs to his injuries. On Balian's journey to Jerusalem, his ship is run aground by a storm, leaving Balian and a horse as the survivors of the wreck. When Balian releases the horse from the wreckage it flees in panic. Tracking the horse into the desert, Balian is confronted by a Muslim cavalier and his servant. A fight over possession of the horse follows and Balian slays the horseman, but spares the servant, asking him to guide him to Jerusalem. Upon their arrival in Jerusalem, Balian gives the horse to the servant and releases him. The man then tells him his slain master was an important knight amongst the Saracens.After being accepted as the new Lord of Ibelin by Godfrey's retainers, Balian soon becomes acquainted with the main players in Jerusalem's political arena: the leper King Baldwin IV, Tiberias (Jeremy Irons), Marshall of Jerusalem, Princess Sibylla, King Baldwin IV's sister, and Guy de Lusignan (Marton Csokas), Sibylla's husband, who supports the anti-Muslim activities. Guy is determined to rule after Baldwin's death and seeks to provoke a war that will allow him to dispose of the Muslims and claim the Kingdom for the Christians.Guy and his co-conspirator Raynald of Châtillon (Brendan Gleeson) massacre a Muslim trade caravan with the aid of the Templars. Saladin, leader of the Muslim forces attacks Kerak, Raynald's castle, to bring him to account for his crime. Balian decides to protect the villagers as they attempt to enter the castle from Saladin's cavalry. Though outnumbered, Balian and his knights charge Saladin's cavalry, allowing the villagers time to flee to the castle; Balian's knights are soon defeated resulting in their capture. In the enemy camp, Balian encounters the 'servant' he freed, Imad ad-Din, learning he is actually Saladin's Chancellor, who then releases Balian to enter Kerak. Saladin arrives with his army to besiege Kerak and King Baldwin IV approaches with his. The two rulers successfully negotiate a Muslim retreat and Baldwin swears that he will punish Raynald for his crimes. The exertion of these events cause Baldwin to collapse, weakened beyond recovery.Baldwin asks Balian to marry Sybilla (Eva Green), knowing that the pair have affection for each other, but Balian refuses to be associated with the necessary murder of Guy. After Baldwin dies, Sibylla's six year old son Baldwin V becomes King of Jerusalem. It quickly becomes apparent that he is also infected with leprosy. Grief-stricken and unwilling to condemn her son to a life behind a mask, Sibylla gives him poison. Sibylla succeeds her son and names Guy King of Jerusalem. Guy releases Raynald asking him to give him a war, which Raynald does by murdering Saladin's sister. When Saladin sends an emissary to demand the return of his sister's body, the heads of those responsible, and the surrender of Jerusalem, Guy answers by decapitating the emissary and sending his head back to Damascus.In council war is agreed upon "because God wills it" and against sound advice they march into the desert away from adequate water supplies to fight Saladin, leaving Jerusalem unguarded except for Balian, his knights, and the townspeople. Saladin's army attacks the Crusader army near to the city of Hattin, and at the Battle of Hattin, the Crusader army is annihilated. Guy and Raynald are captured; Saladin executes Raynald, and then marches on Jerusalem, sparing Guy out of tradition but stating that he is not worthy of this. Balian prepares the defences, challenging the Patriarch's advice to flee, and then knights a number of men-at-arms because "making a man a knight makes him a better fighter." Knowing they cannot defeat the Saracens, they hope hold their enemies off long enough for the Saracens to offer terms; after three days and having proven their resolve, Saladin offers terms: Balian surrenders Jerusalem when Saladin offers all the inhabitants safe passage to Christian lands. Balian points out that when the Crusaders conquered Jerusalem a hundred years previously, they massacred the Muslim inhabitants, but Saladin assures him that he is "not those men". Saladin releases Guy back to Jerusalem where Balian encounters him in a fight. Balian tells him "When you rise again, if you rise again, rise a knight." As he returns to the city, Balian must step around the bodies of the dead. After he tells the inhabitants Saladin's terms, he says "if this is the kingdom of heaven, let god do w/ it what he will". He then encounters Sybilla & tells her that her brother's kingdom was in his head & heart, & that can never be lost. When she says she is also queen of several other lands, he tells her to stop being a queen & he will come to her.In the marching column of citizens, he finds Sibylla who has renounced her claim as Queen of Jerusalem and other cities. Saladin's forces destroy many of the Christian books and replace the cross on the top of the church with a crescent. Privately, Saladin is shown refusing to step on the stones carved with crucifixes, and later picks up a cross and gently puts it back on the table. Imad returns the horse to Balian, saying it was not a good horse anyway & asks him if God didn't love him, how could he have accomplished so much. They wish each other peace in the other's language.Balian returns to his village in France and a column of English knights ride through looking for Balian, defender of Jerusalem. Balian replies that he is the blacksmith, and the man identifies himself as King Richard I of England, and they are commencing a new Crusade to retake Jerusalem from Saladin. Balian responds that he is still the blacksmith and Richard rides off. Balian is joined by Sybilla, and passing by the grave of Balian's wife, they ride towards a new life together.An epilogue states that "nearly a thousand years later, peace in the Kingdom of Heaven remains elusive."
+
+
+QUESTIONS
+q: Why did Tiberias and his men leave?
+a: ['Believed Jerusalem lost']
+
+q: What does Balian become acquainted with?
+a: ["Balian becomes acquainted with the main players in Jerusalem's political arena"]
+
+q: Who does Balian defeat and spare?
+a: ["He defeats the horseman but spares the horseman's servant."]
+
+q: What is Balian haunted by?
+a: ["Balian is haunted by his wife's recent suicide."]
+
+q: Balian is known as the defender of what city?
+a: ['Jerusalem.']
+
+q: Who destroys the Crusaders and kills Raynald?
+a: ["Saladin's army"]
+
+q: Sibylla has renounced her claim to what position?
+a: ['Queen of Jerusalem.']
+
+q: What does Guy intend after Baldwin's death?
+a: ["Guy is determined to rule after Baldwin's death"]
+
+q: Who releases Balian in repayment of the earlier debt?
+a: ["Imad ad-Din, Saladin's Chancellor"]
+
+q: Who does the crusader introduce himself as?
+a: ["The crusader introduces himself as Godfrey and as Balian's father."]
+
+q: Who encounters the servant he freed?
+a: ['Balian']
+
+q: How long did the siege last?
+a: ['3 days']
+
+q: Balian in confronted by whom?
+a: ["Soldiers led by Godfrey's nephew"]
+
+q: Who asks Balian to take control of the army?
+a: ['Baldwin']
+
+q: Whose sister does Raynald murder?
+a: ['Saladins']
+

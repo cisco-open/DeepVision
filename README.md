@@ -32,9 +32,13 @@ DeepVision
  ├── data (directory containing video source examples)
  ├── docs (documentation)
  ├── grafana (grafana provisioning and configuration)
+ ├── recallm (system for temporal context understanding with NLP)
  ├── tracking (containing tacking module and submudules (MMtracking))
  └── tracklet (tracking utility data structures and classes)
 ```
+
+### RecallM
+[RecallM](./recallm/) provides a system capable of natural language analytics by supplementing Large Language Models with an updatable, persistent memory mechanism. Click [here](./recallm/) for more details.
 
 ### Documentation
 

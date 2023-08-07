@@ -1,0 +1,77 @@
+PARAGRAPH
+Nagase is a young man on a train, apparently deciding at random where to go. As he walks out of a train station, he bumps into a woman, Nami. He is immediately fascinated by her, and follows her to the estate agent's office where she works.
+At the office her boss and husband, Hideki, invites him inside. He rents an apartment and asks for a job. Although Nami tells her husband that she has a certain feeling about Nagase, he is given a job.
+Later, Nagase rapes Nami at a house that is on the estate agent's books. However, they soon move upstairs to the bedroom and make consensual love. The affair continues, with Nagase telling her it was love at first sight.
+At a hotel on a company trip, Hideki catches the couple together in the bath and finds out about their affair. He sacks Nagase. However, Nami later tracks him down and they spend a night together in a hotel where Nagase decides to murder Hideki.
+Hideki catches Nami and Nagase together again, but finds himself unable to divorce his wife, instead wanting to make a fresh start to their marriage. To achieve this, he books them a break in an expensive Tokyo hotel.
+However, Nagase comes to the hotel intent on carrying out his plan to kill Hideki. After hiding in the couple's bedroom when Hideki arrives unexpectedly early and watching the married couple make love, he attacks Hideki in the bathroom. After a protracted fight, Hideki is finally killed, and Nagase hits Nami so that the police will believe that the incident was a robbery gone wrong.
+The final scene shows Nagase asking Nami when he can see her again, Nami replying when everything has settled down. The final shot shows her pensively smoking a cigarette.
+
+
+QUESTIONS
+q: Where did Walter find Julia?
+a: ['In Cuba']
+
+q: Who plays Luis Vargas?
+a: ['Antonio Banderas']
+
+q: What time and country was Original Sin set in?
+a: ['No specified time and set in Japan']
+
+q: Who swallows the poison?
+a: ['Luis']
+
+q: What weapon did Walter have?
+a: ['Knife']
+
+q: What does Luis throw away ?
+a: ['This is not the correct movie plot.']
+
+q: What was the gun loaded with?
+a: ['Blanks']
+
+q: Where does Julia tell Luis to buy tickets to?
+a: ['Train', 'Back home']
+
+q: Who shoots Walter?
+a: ['Luis', 'There is no Walter']
+
+q: How was Julia going to kill her husband?
+a: ['No Julia', 'Poison']
+
+q: Who is Julia working with?
+a: ['No Julia', 'Walter']
+
+q: Who is worried about Julia?
+a: ['Nagase']
+
+q: Who persues Julia?
+a: ['Luis', 'No Julia']
+
+q: Who is the detective Luis teams up with?
+a: ['This is not the correct movie plot.']
+
+q: What does Luis find out about Julia and Walter once he finds them?
+a: ['This is not the correct movie plot.']
+
+q: Who does Julia run off with?
+a: ['Luis', 'No Julia']
+
+q: What does Luis open himself to ?
+a: ['This is not the correct movie plot.']
+
+q: Who betrayed Walter?
+a: ['Julia']
+
+q: What does Luis discover after following Julia ?
+a: ['This is not the correct movie plot.']
+
+q: Does Julia think she's pretty?
+a: ['No']
+
+q: How does the fight between Julia and Walter end?
+a: ['Wrong plot']
+
+q: What happens when Luis goes to buy tickets home and leaves Julia to take care of Walter's body?
+a: ['Wrong plot']
+

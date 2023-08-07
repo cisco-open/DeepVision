@@ -1,0 +1,14 @@
+PARAGRAPH
+Marine Sgt. Brandon Beckett (Collins), the son of the previous Sniper film's protagonist Thomas Beckett (Tom Berenger), takes up the mantle set by his father and goes on a mission of his own. While working with the UN Forces in the Democratic Republic of the Congo, Brandon Beckett receives orders to rescue a European farmer, Jean van Brunt (Rob Fruithoff), in the middle of hostile rebel territory. When he and his men arrive at the farm, a mysterious sniper ambushes them, wounding Beckett and killing everyone else. With the help of his father's former protÃ©gÃ©, sniper instructor Richard Miller (Billy Zane), and UN Lieutenant Ellen Ambarowitz (Annabel Wright) Beckett sets out on a personal mission to avenge the deaths of his team members. In the resulting climax of the film, Beckett learns the identity of the sniper, ex-Marine Vincent "The Italian" Masiello (Justin Strydom) a former student of Miller's who was acting under the orders of UN colonel Ralf JÃ¤ger (Richard Sammel) to cover up an arms-dealing conspiracy supplying weapons to both sides of an ongoing civil war. The mysterious sniper is finally killed by Brandon. Shortly after apprehending JÃ¤ger, Beckett is offered a job by Miller for Special Operations.
+
+
+QUESTIONS
+q: What profession does Billy Zane play in the film?
+a: ['Sniper Instructor']
+
+q: Who must Sgt. Brandon Beckett rescue?
+a: ['Jean van Brunt']
+
+q: Where did the sniper ambush Beckett?
+a: ['A farm in the Democratic Republic of Congo']
+

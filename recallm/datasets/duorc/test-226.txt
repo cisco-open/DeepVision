@@ -1,0 +1,71 @@
+PARAGRAPH
+Rozat "Rusty" Sabich (Harrison Ford) is a prosecutor in a mid-Western American city and the right-hand man of Kindle County Prosecuting Attorney Raymond Horgan (Brian Dennehy). Sabich is married with a young son. He arrives at work one day to learn that his colleague Carolyn Polhemus (Greta Scacchi) has been tortured and murdered in her apartment. Horgan insists that Sabich take charge of the investigation, especially since the election for County PA is due in a few days' time and that Tommy Molto (Joe Grifasi), the acting head of Homicide, has left to join the rival campaign of Nico Della Guardia (Tom Mardirosian).Sabich faces a conflict of interest since he had an affair with Polhemus. She dumped him when he showed little ambition, like running for office against Horgan, and will therefore be of little use to her and her own career. Sabich has since made up with his wife, Barbara (Bonnie Bedelia), though he is still obsessed with Polhemus and finds it hard to get her out of his mind. While Polhemus developed a reputation for aggressively prosecuting rapists and similar criminals, she had become an ambitious career-woman who slept around to advance herself.Although Detective Harold Greer (Tucker Smallwood) is initially in charge of the case, Sabich instead calls in his friend Detective Lipranzer (John Spencer) and persuades him to narrow the inquiry to focus on men that she put behind bars, thus excluding his relationship with Polhemus from the investigation. However, Sabich soon realizes that Molto is making inquiries of his own into the case.It becomes evident that some of the evidence suggests that the killer knew something about how police gather evidence and covered it up accordingly - suggesting a cop, a private detective, or even a PA. Semen was found in the victim's body but the sperm is dead, leading the coroner to conclude that the killer is sterile. The killer's blood type was A, the same as Sabich's, but he is a father, and obviously fertile.When Della Guardia wins the election for County PA, he and Molto are quick to accuse Sabich himself of the crime and pull out all the stops to gather evidence against him, including the way he conducted the investigation. The evidence includes a beer glass found in Polhemus' apartment with Sabich's fingerprints on it and fibers matching his home carpet that match fibers found on her body.Things aren't helped by the fact that Horgan suddenly turns against his friend and former protégé and claims that Sabich had insisted on handling the investigation - when in fact he didn't - which the prosecution uses to back their claim of a cover-up by Sabich. Horgan learns of Sabich's affair with Polhemus, just as Polhemus learns that Raymond also had an affair with Polhemus. Called to testify, Horgan doesn't reveal what he knows about Sabich's affair with Polhemus.Sabich calls on Sandy Stern (Raul Julia), a top defense attorney with whom he has often clashed in court. Stern acknowledges Sabich as his "toughest adversary" but agrees to take the case. When the trial begins, the prosecution reveals that the beer glass is missing from the evidence room. It is a crucial piece of the prosecution's case and Stern persuades Judge Larren Lyttle (Paul Winfield) to suppress the fingerprint evidence. Sabich's wife Barbara is surprisingly supportive throughout the trial.In the course of his investigation, Sabich discovered that Polhemus had acquired a "B-file" (meaning bribery) from Prosecuting Attorney Horgan which detailed a bribery case involving a law-enforcement official. It describes a man named Leon (Leland Gantt) who paid a $1500 bribe to get his case of public indecency thrown out of court. Carolyn Polhemus was his probation officer before she joined the Prosecuting Attorney's office and set up the bribe. The deputy prosecutor in charge of the case was Tommy Molto.The main thrust of Stern's defence is that Molto and Della Guardia have set Sabich up to help Nico Della Guardia's election campaign against Ramond or, Stern hints, as part of a cover-up of a bribery case that involved Molto. He implies that the details are revealed in the missing B-file. Sabich is demanding that he be allowed to testify, but his attorney Stern says he would only implicate himself. Sabitch's friend and fellow detective Lipranzer finds Leon. Leon reveals that the official who took the bribe was in fact Judge Larren Lyttle, the same judge handling Sabich's trial!Stern calls the coroner to the stand and while questioning him, produces contradictory evidence showing that Polhemus had a tubal ligation. He implies that the coroner must have mishandled or even falsified the evidence because a woman with a tubal ligation would not need to use contraceptive jelly like that found in the seminal fluid in her vagina. The prosecution persuades the judge to accept testimony from a fingerprint expert about the fingerprints on the glass, but since they are unable to produce the glass itself, the judge tells the juror that this introduces reasonable doubt into the prosecution's case.The next morning, the judge announces that based on the mishandled seminal fluid and beer glass evidence, and the lack of any proof that Sabitch and Polhemus had a relationship, he dismisses the case. Unknown to the jury, the judge was also influenced by the possibility that the missing B-file, which documented him accepting bribes, might turn up.Sabich presses his defense attorney Stern for information and learns, in private, that both Stern and Prosecuting Attorney Horgan knew that Judge Lyttle had been accepting bribes and that Polhemus was his courier. Lyttle had been going through a bad period after a divorce. He offered his resignation but the County Prosecuting Attorney Horgan believed that he was in fact a brilliant judge and should be given another chance. Stern raised the issue of the bribery investigation during the trail in a way that implied he knew what it revealed, causing the judge to think it's contents might be made public. On the whole, Stern concluded. Judge Lyttle handled the case is a rightful manner.Detective Lipranzer later reveals to Sabich on a boat that he has the missing beer glass. He failed to return it to the evidence room when Molto, in a bureaucratic foul up, signed it as "returned to evidence" when in fact it was still in the evidence lab. The evidence lab returned it to Lipranzer after he had already been taken off the case. Since nobody asked for the glass he simply kept it in his desk drawer. As far as Lipranzer was concerned: "The lady was bad news." He gave the glass to Sabitch who tossed it into the water.Sabich is in the clear, though he does not appear to be too pleased about the ways by which this was achieved.Some time later, while doing some work in his garden, Sabich comes across a small combination hammer, hatchet, and nail puller with blood and hair on it. The tool matches the coroner's description of the murder weapon. Sabich realizes that the blood and hair belong to Polhemus. His wife sees him washing the hammer and confesses to the crime. In a detached state, talking in the third person, Barbara confesses that, following his affair, she fell into a depression. She even considered suicide before deciding that it would be better to destroy the destroyer, i.e. Polhemus. She bought beer glasses like those they had given to Polhemus as a house-warming gift. She got Sabich's fingerprints on a glass. She also captured some seminal fluid from her vagina after sex with her husband and froze it. She arranged to meet Polhemus at her apartment, and when her head was turned, struck her and killed her. She used a syringe to insert the seminal fluid into Polhemus' vagina, making it look like her husband had sex with her before she died, implicating him in her death. She claims that she did not actually intend to frame her husband; she assumed that as the investigator he would soon realize that she had killed Polhemus and would file it as an unsolved case.Sabich cannot bring himself to separate his son from his mother and proceeds to cover-up the crime. In the end, justice was served.
+
+
+QUESTIONS
+q: What judge dismisses charges against Rusty?
+a: ['Lyttle']
+
+q: What caused Rusty's own wife to commit murder?
+a: ['Sabich']
+
+q: Which weapon was used to kill Carolyn?
+a: ['Beer glass']
+
+q: Who threw the beer glass into the river?
+a: ['Rusty']
+
+q: What is Sandy Stern's profession in the movie?
+a: ['investigator']
+
+q: Where did Lipranzer keep the beer glass?
+a: ["Carolyn's apartment"]
+
+q: Who says that the murder of Carolyn has been written off as unsolved?
+a: ['Laprinzer', 'the judge']
+
+q: What is Larren Lyttle's profession in the movie?
+a: ['Judge']
+
+q: What did Rusty show little of that caused Carolyn to dump him?
+a: ['little ambition']
+
+q: Why is it impossible for Carolyn to become pregnant?
+a: ['had undergone a tubal ligatio', 'Carolyn had undergone a tubal ligation', 'v']
+
+q: Who is Rusty's wife?
+a: ['Barbara']
+
+q: Who was Lyttle's courier?
+a: ['Sabich', 'carolyn']
+
+q: What was Larren Lyttle's profession in the movie?
+a: ['Judge']
+
+q: Who replace detective Greer from the case
+a: ['Rusty']
+
+q: Where was Carolyn Polhemus found murdered?
+a: ['in her apartment']
+
+q: Who does Rusty work for?
+a: ['Raymond Horgan']
+
+q: What did Nico win?
+a: ['election']
+
+q: who was Raymond romantically involved with?
+a: ['Carolyn']
+
+q: What is the name of the deputy prosecutor in charge of Leon's case?
+a: ['Rozat "Rusty" Sabich', 'Rusty Sabich']
+
+q: What is the explanation for the discrepancy?
+a: ["the fluid sample was not actually taken from Carolyn's body", "that the fluid sample was not actually taken from Carolyn's body."]
+
+q: How is Barbara related to Rusty?
+a: ['shes his wife', 'Wife']
+
+q: Who was making his own inquires against rusty
+a: ['Molto']
+

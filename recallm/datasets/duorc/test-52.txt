@@ -1,0 +1,133 @@
+PARAGRAPH
+In 2008, terrorists developed a biological weapon called "Blizz". They used this weapon in local weather patterns in the United States. As it falls from the sky, it will instantly burn any living thing it touches. At her seventh birthday party, young Peggy (Emily Graham) watched as her friends were killed by Blizz, whilst she, her sister, and her mother take refuge inside the house, refusing to allow anyone else shelter with them.
+Ten years later, America has been ravaged by the effects of World War III. The death count continues to rise in this dark and bleak future and some states simply no longer exist. Peggy (Jessica Lowndes) is now almost 17, ignorant of the world outside of her mother's diner. She has lost both her father and her sister, Anna, and now depends on her mother, Kate (Marilyn Norry). Business is slow, but Kate tells Peggy they're fine financially, as Peggy's father left them some money before his death in the war. One day, Peggy meets biker and drug addict Jak (Jonathan Tucker) and his two "friends", junkies Boxx (Ryan McDonald) and Celia (Lucie Guest). The three are into some shady dealings with a nightclub called The Doom Room, located in the grubby town of Muskeet.
+Kate warns Peggy that "everything the people of Muskeet do is a goddamn trick", and although she's afraid to disobey her mother, Peggy sneaks out with Jak in the middle of the night to the Doom Room with Boxx and Celia. Muskeet, as it appears, is completely ravaged and the home to ravagers, sociopathic bikers, and teenagers. The Doom Room is a heavy metal bar run by an MC (Robert Englund). As Peggy and Celia watch the band Decree perform, Boxx and Jak go behind the stage to perform a business deal with the MC. They provide him packets of blood. The MC promises that he will pay them if their product is good enough for the next "performance". If not, he'll make them eat it.
+At that point, Peggy witnesses what the performance is. The MC has collected the bodies of overdosed teens, called LUPs (Living Undead Phenomenon, or "loopies") injecting them with a drug that causes their hearts to beat twice as fast as normal resulting in convulsions and seizures. This drug was first discovered in the battlegrounds of the war, so the dead soldiers could get up and keep fighting. They are then pumped with blood and forced to dance, and those who can't move are shocked with electric prods. Peggy watches in horror as the MC brings out her own sister, Anna (Melena Ronnis).
+When Anna falls off the stage, Peggy and Jak take her away from the Doom Room, to be followed by the MC and one of his goons. Peggy and Jak meet up with Kate, who has tracked them to Muskeet. The MC sheds some light on how he came to "own" Anna. When she was still alive, Anna was just like the other teenagers in Muskeet, and Kate was sick of having to drag her out of the Doom Room every weekend. Then Anna overdosed on drugs, so Kate decided to sell her to the MC, although she was still alive.
+Kate is pistol whipped multiple times by the MC and tries to explain to Peggy that she sold Anna because she was always in trouble, and they had nothing, the money Peggy's father had allegedly left them is a lie, they have been living off the money the MC paid her for Anna. Furious at what her mother did, Peggy trades her for Anna, and buries her sister, whom she considers her last remaining family. In the end, Peggy becomes another Muskeet teenager, now romantically involved with Jak, and watches as Kate's corpse is beaten with electric rods and forced to dance in the Doom Room.
+
+
+QUESTIONS
+q: What member of the SciFi club is killed by a zombie?
+a: ['rod']
+
+q: Who did Jimmy and Kyle run into before they are all attacked?
+a: ['gwen']
+
+q: Where are Jimmy and Lindsey forced to hide?
+a: ['beneath the bleachers']
+
+q: Why the school kids block all the doors ?
+a: ["So the zombies can't escape"]
+
+q: Why did Jimmy call Lindsey?
+a: ['to find out where she is']
+
+q: Who survives the zombie plague?
+a: ['The small group that hid at the prom, the coach, the gravedigger']
+
+q: When did Lindsey break up with Jimmy?
+a: ['day before prom']
+
+q: Who is caught and killed by the horde?
+a: ['Jenson']
+
+q: Who does Lindsey go to the prom with?
+a: ['Mitch']
+
+q: Who marches towards the high school?
+a: ['The zombies']
+
+q: Stopping the music causes the zombies to do what?
+a: ['dance', 'Attack again.']
+
+q: Who blows up the school?
+a: ['Peggy', 'Jimmy']
+
+q: Who kills all the corpses?
+a: ['The grave digger']
+
+q: Who escaped from underneath the bleachers?
+a: ['Jimmy and Lindsey']
+
+q: Who is the only survivor of the crashed truck Jimmy finds?
+a: ['Kyle']
+
+q: How did everyone escape?
+a: ['by Jimmy blowing up the school']
+
+q: How is Mitch killed?
+a: ['by a zombie']
+
+q: Where does the bus go?
+a: ['A pancake house']
+
+q: Who carries a gun in their truck?
+a: ['Kyle']
+
+q: Who rescues the kids from the zombies?
+a: ["There aren't any zombies", 'the grave digger']
+
+q: Does Mitch's car break down?
+a: ['yes']
+
+q: Where do Lindsey, Jules, George and Steven take refuge?
+a: ['in a nearby house']
+
+q: Where is the high school prom?
+a: ['The school gym']
+
+q: What re-animates the corpses?
+a: ['A drug and electric prodes if needed', 'a substance dumped by the power plant']
+
+q: What weapon does Kyle have in his truck?
+a: ['Gun']
+
+q: What is the name of the movie?
+a: ['Dance of the Dead']
+
+q: Why did Jimmy go back?
+a: ['The coach dropped the detonator into a chip bowl']
+
+q: Who attacked and killed Mitch at the cemetary?
+a: ['Zombies']
+
+q: Who tells the kids how to kill the zombies?
+a: ['the coach']
+
+q: What school club is investigating the cemetery?
+a: ['Sci Fi Club']
+
+q: What was Jimmy doing when he first discovered the zombies?
+a: ['A pizza delivery']
+
+q: Who is bitten in the neck?
+a: ['Kyle']
+
+q: What does the house turn out to be?
+a: ['A funeral home']
+
+q: What does the band find the zombies enjoy?
+a: ['Music']
+
+q: What was going to attack Jimmy and Lindsey?
+a: ['Mitch, who has become a zombie']
+
+q: What does the coach decide?
+a: ['To use his explosives to blow up the school']
+
+q: Where does the group head?
+a: ['The prom']
+
+q: What accidentally pulled the plug on the band's instruments?
+a: ['A zombie']
+
+q: What has the family become?
+a: ['Zombies']
+
+q: Which character hides the fact that they were bitten?
+a: ['Gwen']
+
+q: For whom has Gwen developed feelings?
+a: ['Stephen']
+

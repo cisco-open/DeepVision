@@ -1,0 +1,18 @@
+PARAGRAPH
+The documentary starts with Steinbauer's obsession with a widely circulated viral video featuring outtakes from an RV commercial shoot, centered on a cantankerous pitchman who regularly becomes outraged and flustered, cursing in colorful mannerisms. Steinbauer researches the video, and discovers that it had been circulating on VHS long before it appeared on the Internet.
+With the help of a private detective, Steinbauer ultimately tracks down the infamous "Winnebago Man": Jack Rebney. Steinbauer visits Rebney at his home in a remote mountain area in California. Steinbauer is surprised to find Rebney to be calm, congenial, and articulate â in contrast to the angry, profane man on the famous video. Rebney claims to be indifferent about the video and its popularity on the Internet. Steinbauer returns home disappointed.
+But soon, Rebney begins contacting Steinbauer, and admits that he had not been candid in their first encounter. He reveals that he has long been angry about the video and its notoriety because he does not want to be remembered that way. Steinbauer learns that Rebney was once a news broadcaster and editor who left the industry embittered by the decline in real news and the rise of opinion-based news and punditry; additionally, Rebney reveals that he now has strong political opinions that he wants to share. Rebney invites Steinbauer for a second visit, but before this takes place, local papers report that Rebney had gone missing for a time while taking a walk. When Steinbauer makes his second visit to Rebney's home, a now openly cantankerous Rebney explains that he is now blind.
+Rebney gives a series of often profane, but articulate, interviews to Steinbauer. He refuses to discuss personal matters, but instead wants to make political speeches about subjects that make him angry, such as Dick Cheney and Walmart. Eventually, Steinbauer convinces Rebney to attend the Found Footage Festival in San Francisco. There, fans have lined up for a sold-out screening of the original video featuring Rebney. The fans describe Rebney's positive impact on them. During the screening, the Festival organizers invite Rebney onstage as a special guest, where he wittily engages the audience. After the screening, Rebney meets several fans who request autographs and express to him how viewing the old footage cheers them up after a hard day.
+Later that night, Rebney muses to an old friend that his fans are more intelligent than he anticipated. The next day, the filmmakers and Rebney's friend drive him back home. There, Rebney's friend tells him, "You made a lot of people happy this weekend." Rebney replies by acknowledging that he takes some small degree of pride in how, for many people, he represents the human condition in the face of adversity.
+
+
+QUESTIONS
+q: What does Jack Rebney do for a living?
+a: ["He sells RV's"]
+
+q: Who is searching for Jack Rebney?
+a: ['Steinbauer']
+
+q: Where does Jack Rebney live?
+a: ['A remote mountain area in California']
+

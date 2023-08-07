@@ -1,0 +1,65 @@
+PARAGRAPH
+The evil witch Mother Malkin (Julianne Moore) is imprisoned in a chamber by the town's Spook (fighter of evil creatures and spirits), Master Gregory (Jeff Bridges). After much time has passed, Malkin morphs into her beastly form and breaks free from her confinement in anticipation of the Red Moon.Gregory's apprentice Billy Bradley (Kit Harington) finds Gregory in a tavern. The bells have rung to summon Gregory for help. Billy calls upon him, but the man refuses to leave. Another man attempts to make Gregory go out and help, but Gregory fights the man and takes him down without spilling his drink. Gregory then follows Billy to the home of a small girl that appears to be possessed. Gregory confronts the child and hears her speak in a demonic voice, letting him know that Malkin has come back and is ready to face him again.Gregory and Billy go to find Malkin and confront her. The witch shows herself and taunts Gregory. She turns into a beast again, and Billy latches onto her. He and Gregory try and trap Malkin. They get her into a cage, but Billy gets caught in there with her. Malkin uses her claws and digs into Billy's neck, poisoning and killing him. She retreats, and Gregory yells that he will find her.In a nearby village lives Tom Ward (Ben Barnes) with his sister Cate (Lilah Fitzgerald) and their Mam (Olivia Williams). Tom has visions of spirits and creatures with no idea what they mean. Gregory happens upon them and requests that Tom join him as his new apprentice, for he is the seventh son of a seventh son. Mam allows Tom to go off and train with Gregory, and she leaves him with a stone before he departs.Malkin returns to her lair to find her sister Bony Lizzie (Antje Traue) burnt badly. Malkin restores Lizzie's natural beauty and plots to get back at Gregory.In town, people are gathering around a young woman, Alice (Alicia Vikander), claiming her to be a witch. Tom intervenes and pulls her away from the people at her defense. Alice goes home and we learn that she is Lizzie's daughter and Malkin's niece.Tom stays with Gregory as they will commence his training, along with a troll-like thing named Tusk. At night, Tom wanders from his room and encounters a giant armored creature. He runs from it but Gregory subdues it. Gregory later engages in a duel with Tom, expressing his doubts on the boy and thinking he does not have what it takes to fight against the forces of evil. Tom angrily throws his sword in the direction of Gregory's head, sort of impressing the Spook. He gives Tom a bit of information on Malkin and her cohorts - her lieutenant is a shapeshifter named Radu (Djimon Hounsou), and she has a large group of demonic minions at her disposal. We briefly see Malkin gathering these creatures together.Tom comes across Alice again. He learns that she is indeed a witch, but she asserts the fact that not all of them are evil. She adds that only her mother is a witch, and her father was a gypsy.Gregory is summoned into the city along with Tom to combat a beast that all the men are too afraid to go near. The creature appears as a bear, but is really one of Malkin's shapeshifting minions. Gregory fights the villain and brings it back to its man form. He has Tom go over to finish him off, but Tom cannot bring himself to do it. Gregory burns the villain alive as Tom walks away.Alice finds Tom again. She tells him that Gregory was once in love with a witch. Tom questions what else she knows, but they end up kissing and getting cozy together. Tom then has another vision, this time seeing a huge beast, Malkin sinking her claws into Gregory's throat, and the whole city being consumed in a wave of fire.Tom returns to find Gregory. He tells her that he was married to a witch, but she was murdered by Malkin, thus sparking his hate-filled vendetta against her and other witches.On their continuing journeys, the two encounter a giant monster in the woods. Gregory tells Tom to make a run for it. They outrun the creature and jump over a cliff into the river. They get onto the raft with a stranger, but the monster jumps in after them. It grabs Tom as they go down the rapids. Tom stabs the monster in the head right before they go over the falls. The monster dies but Tom survives. Lizzie finds him in her beast form and threatens to kill him until she spots the stone that his mother gave him. Lizzie claims it belongs to Malkin and she flies away.After Tom reunites with Gregory, he comments on Tom being able to defeat a monster that was thought to be unslayable. He also reveals to Tom that his own mother was a witch, and the stone belonged to Malkin's clan.Lizzie returns to Malkin and tells her about the stone. The witches and their minions take on their beast forms and attack the city. Mam gets her daughter to safety before using her witch powers to fight back against the minions. Malkin grabs her and calls her a traitor before killing her.Alice comes across Tom one more time and steals the stone from him. More of Malkin's minions led by Radu come and attack Tom and Gregory. Although they fight back, the minions capture Gregory and leave Tom for dead. Tom then has a vision of his mother, who tells him that she was killed by Malkin. She inspires him to fulfill his destiny and defeat her.The witches gather as Malkin attempts to seduce Gregory into joining forces with her and the clan. Remorseful of her actions, Alice grabs the stone from Malkin and runs away with it, breaking Malkin's hold on Gregory. The minions attack, but Tom arrives in time and starts to burn them. Radu turns into a dragon and confronts Gregory, while Malkin turns into a beast and flies to kill Alice, with Lizzie turning into a beast and trying to stop her sister. Gregory challenges Radu to fight him as a man, and he ends up killing Radu when he uses Radu's blade hands on him. Lizzie brings Malkin down to the ground, but Malkin kills Lizzie in front of Alice.Gregory confronts Malkin in her room as she appears close to death. He conceals a knife, but Malkin grabs him with her claws. Tom arrives and throws a blade at Malkin, killing her. He finishes her off by burning her body.Tom and Alice part with a kiss. He believes he is set to depart with Gregory, but Gregory tells him he is ready to stay with Tusk and defend the town as the new Spook. Gregory leaves, and the bells start to ring to call upon Tom.
+
+
+QUESTIONS
+q: Whose training is complete?
+a: ["Tom's"]
+
+q: What is the mob going to burn?
+a: ['Alice']
+
+q: Who attacked Tom?
+a: ['Bony Lizzie', 'The monster']
+
+q: Who avenge the death of Urag
+a: ['Malkin and her minions']
+
+q: Who attacked Gregory, Tom, and Tusk?
+a: ['an enormous boggart', 'Malkin']
+
+q: What is the witch's name?
+a: ['Mother Malkin and Alice']
+
+q: Why couldn't Tom kill Malkin?
+a: ["Tom couldn't bring himself to do it.", "He needed to set Malkin's body on fire ."]
+
+q: Tom's vision is of who?
+a: ['Malkin and Gregory', 'spirits and creatures']
+
+q: Who promises Tom that they'll meet again?
+a: ['Alice']
+
+q: Who has the power to kill Malkin?
+a: ['Tom']
+
+q: Who tries to kill Alice?
+a: ['Malkin']
+
+q: What happens at after a full moon?
+a: ['Tom turns into a beast.']
+
+q: Who is Lizzie's daughter?
+a: ['Alice']
+
+q: Before Tom leaves, what does his mother give him as a talisman?
+a: ['a stone']
+
+q: Why did Lizzie fight Malkin?
+a: ['Try to stop Malkin']
+
+q: Who is Tusk?
+a: ['a troll-like thing']
+
+q: Why does Malkin kill Lizzie?
+a: ['Like was trying to stop malkin']
+
+q: The rise of what allowed Malkin to regain much of her power?
+a: ['The Red Moon']
+
+q: Who did Alice steal the stone from
+a: ['Tom']
+
+q: Who does Malkin kill?
+a: ['Lizzie']
+

@@ -1,0 +1,42 @@
+PARAGRAPH
+yler is obsessed by the lost horror film The Hills Run Red, considered by those who have seen it to be the scariest movie ever made, with the deranged serial-killer Babyface in the lead role. However, the director, Wilson Wyler Concannon, and the movie vanished many years ago and there is no known copy. When Tyler discovers that Concannon's daughter Alexa works in a night club, he decides to meet her and ask about the lost film. Alexa tells him that the movie might be in her father's house in the middle of the woods, so Tyler decides to travel there with Alexa, Serina and their friend Lalo. During the night, they are attacked and bound by the rednecks, but saved by Babyface, who kills the assaulters, then disappears.Tyler breaks into the house and finds a red room that contains many film reels hanging from the ceiling. When Tyler hears pain-filled screams, he finds Alexa tied to a bed and releases her. The two leave the house and find Serina, but Babyface breaks through the door and brutally throws Tyler to a wall. Alexa is slammed against the wall by Babyface and says "fetch". Tyler drops unconscious as Alexa approaches him, smiling. Serina hides under the car parked in front of the house. Babyface enters a barn as Serina quietly moves to an adjencent building. Serina is shocked to find bloodied bodies in the room, which turns out to be a smoke house. When Babyface goes inside the smoke house, he doesn't find her and leaves. Serina emerges from a drum that was used to store blood and changes clothes. However, when she leaves the smoke house, Babyface jumps down at her from the roof.
+Tyler wakes and finds himself tied to a wheelchair. On the shelves behind him are many film reels, all titled "The Hills Run Red." Tyler is shocked when Concannon, the missing director of The Hills Run Red, appears. The director tells him the secret behind the scares in his film, and plays a video of 20 years before, when the film was in shooting. Concannon is dissatisfied with the actor portraying Babyface, and angrily explains to him how to properly make a scene feel scary. He takes Babyface's costume and axe, and violently axes the actor to death. It is then that the reason why screenings were canceled and all actors vanished is revealed: the film was considered too violent, and all the death scenes in it were real. The next shot is Alexa taunting a bound Lalo and Serina. Babyface appears, carries Serina into the next room, and rapes her. Concannon pushes Tyler into the barn, where Alexa is making cuts into Lalo's skin. It is revealed that Alexa wants to be a director as well, and to prove herself to her father, she continues to viciously slash at Lalo's flesh. Wilson and Alexa start arguing.Babyface is called away by Wilson and returns to the barn, leaving Serina alone. She breaks free from her binds and successfully escapes the room. Alexa stabs Lalo in the chest, killing him. Concannon tells his daughter he's the only director of the family and shoots her. Babyface, angered by Alexa's death, turns on Concannon and fights him. Concannon screams out that he is Babyface's father, saying that Alexa was only 13 when she 'had him' indicating Babyface is a child born of incest between father and daughter. Tyler takes a camera and encourages Babyface to kill Concannon - which he does. Babyface then turns on Tyler but before he can kill him, Serina stabs Babyface through the back with a long iron staff, killing him. However, Serina is hit by a shovel and Alexa, still alive, hits Tyler as well, knocking him unconscious.Tyler awakens in a cinema room built in the house's basement. Set up as members of a macabre audience are the corpses of all those who died in the filming of The Hills Run Red, including Concannon and Lalo. Alexa gives Tyler the opportunity to do the thing he'd wanted all along - watch the entirety of the film, uncut. Alexa leaves as the film is screened, leaving Tyler to watch all the bloody deaths of the actors by himself. He bursts into maniacal laughter and the film abruptly cuts to the credits, leaving Tyler's fate open for the audience to decide.Alexa walks into the cellar, checking in on Serina. Serina, bound by the wrists, struggles, and Alexa shows Serina Babyface's mask, asking if she thinks it'll be good for the baby - Serina is several months pregnant. Alexa sings a lullaby to Serina's baby, and the end credits continue to roll.
+
+
+QUESTIONS
+q: What is Tyler tied to?
+a: ['rednecks']
+
+q: WHO IS THE LEAD IN THE FILM THE HILLS RUN RED ?
+a: ['Serena - Janet Montgomery']
+
+q: Serena is hit by what digging tool?
+a: ['Shovel']
+
+q: What does Serena hide under in front of the house?
+a: ['the car']
+
+q: What does Serena use to stab Babyface?
+a: ['Long iron staff']
+
+q: What is hanging from the ceiling of the red room?
+a: ['Film reels']
+
+q: What does Tyler find Alexa tied to?
+a: ['bed']
+
+q: All the deaths scenes ending up being what?
+a: ['Were real']
+
+q: WHAT IS ALEXA'S PROFESSION ?
+a: ['Night club']
+
+q: Does Serena successfully escape?
+a: ['Yes']
+
+q: How old was the video Concannon plays?
+a: ['20 years']
+
+q: who sings a lullaby to Serina's unborn baby?
+a: ['Alexa']
+

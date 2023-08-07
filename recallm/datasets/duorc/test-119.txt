@@ -1,0 +1,42 @@
+PARAGRAPH
+Juliette (Brigitte Bardot) is an 18-year-old orphan with a high level of sexual energy. She makes no effort to restrain her natural sensuality â lying nude in her yard, habitually kicking her shoes off and walking around barefoot, and disregarding many societal restraints and the opinions of others. These factors cause a stir and attract the attentions of most of the men around her.
+Her first suitor is the much older and wealthy Eric Carradine (Curd JÃ¼rgens). He wants to build a new casino in town, but his plans are blocked by a small shipyard on the stretch of land which he needs for the development; the shipyard is owned by the Tardieu family.
+Antoine, the eldest Tardieu son (Christian Marquand), returns home for the weekend to discuss the situation and Juliette is waiting for him to take her away with him. His intentions are short-term, and he spurns her by leaving town without her.
+Tiring of her antics, Juliette's guardians threaten to send her back to the orphanage. To keep her in town, Carradine pleads with Antoine to marry her, which he laughs off, but his naive younger brother Michel (Jean-Louis Trintignant), secretly in love with Juliette, rises to the challenge and proposes. Despite being in love with his older brother, she accepts.
+When Antoine is contracted to return home for good, the trouble starts for the newlyweds. In a huff, Juliette takes off in a boat belonging to the family, gets in trouble, and has to be saved by Antoine. The pair are washed up on a wild beach, and make love.
+Juliette begins acting bizarrely. She takes to her bed, claiming to have a fever. She confesses to Michel's little brother Christian (Georges Poujouly) about her fling with Antoine on the beach. Maman (Marie Glory) hears about it, tells Michel when he comes home, and advises that he kick Juliette out in the morning. Michel goes to their room to talk with Juliette, but she has gone off to the Bar des Amis to drink and dance.
+Michel goes looking for her, but Antoine locks him inside, telling him that he should forget that 'bitch whore.' Michel tries to shoot the lock away, but it doesn't work. He winds up having to fight his brother for the key.
+Juliette's friend Lucienne (Isabelle Corey) calls Eric to tell him how bizarre Juliette is acting, and Eric comes over to collect her, but Juliette refuses to go. Eventually, Michel catches up with Juliette at the Bar, but she refuses to even talk with him and goes on dancing. Michel orders her to stop, but she pays him no heed, so he takes out his gun. Just as he's about to shoot her, Eric steps in and takes a bullet in his hand. Antoine offers to drive Eric to a doctor, and they leave the Bar. Michel angrily slaps Juliette four times, and Juliette smiles at him. On their way to the doctor, Eric tells Antoine that he's going to transfer him out of St Tropez. 'That girl was made to destroy men,' he adds. In the final scene, Michel and Juliette walk home together, hand in hand.
+
+
+QUESTIONS
+q: Who does Billy live with?
+a: ["His brother Peter and Billy's son Timmy", 'There is no one named Billy in the plot']
+
+q: The police come for Robin when she is performing with her ?
+a: ['The police come for Robin when she is performing with her band at a bar.', 'There is no one named Robin in this plot', 'with her band at a bar']
+
+q: Why does James order Robin's parole to be revoked?
+a: ['pictures of robin and billy']
+
+q: What advice did James give to Robin?
+a: ['The plot does not contain these names', 'Get married']
+
+q: Robins passionate performance earns them a ?
+a: ['Not part of this plot', 'a standing ovation']
+
+q: Billy works as a?
+a: ['Not part of given plot', 'a carpenter and a handyman']
+
+q: Who joined Robins Band?
+a: ['Peter']
+
+q: Where is Robin Shea held prisoner?
+a: ['New Mexico']
+
+q: Who does Robin marry?
+a: ['Billy Moran']
+
+q: What does James Tiernan tell Robin will help her chances for parole?
+a: ['SEX']
+

@@ -7,3 +7,6 @@
 [submodule "ethosight/Ethosight"]
 	path = ethosight/Ethosight
 	url = https://github.com/CiscoDeepVision/Ethosight
+[submodule "recallm/chroma"]
+	path = recallm/chroma
+	url = https://github.com/chroma-core/chroma.git

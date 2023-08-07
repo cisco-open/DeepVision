@@ -1,0 +1,16 @@
+PARAGRAPH
+U.S. Army lieutenant Duke Halliday (Robert Mitchum) is robbed of a $300,000 payroll by Jim Fiske (Patric Knowles). When Halliday's superior, Captain Vincent Blake (William Bendix), suspects him of having taken part in the theft, Halliday has no choice but to pursue Fiske into Mexico. Along the way, he runs into Joan Graham (Jane Greer), who is after the $2000 she loaned to her boyfriend, Fiske. The two join forces, though they are not sure at first if they can trust each other. Fiske stays one step ahead of the couple, while they are in turn chased by Blake. When Halliday is knocked down trying to stop Fiske from getting away, he comes to the attention of Police Inspector General Ortega (Ramon Novarro). Ortega lets him go after Halliday claims to be Blake (using identification he took from the captain after a brawl), but keeps an eye on him. His suspicions are confirmed when the real Blake shows up at his office for help.
+Halliday and Graham track Fiske to an isolated house in the desert, where Fiske is meeting with Seton (John Qualen), a fence who offers Fiske $150,000 in untraceable bills in exchange for the payroll. The couple are captured by Seton's henchmen. When Blake shows up, Halliday is initially relieved to be rescued, until he learns that Blake is actually Fiske's partner in crime.
+Fiske wants to take Graham with him, but Blake makes it clear that he intends to dispose of both her and Halliday. Fiske reluctantly gives in. However, when he starts to leave, Blake shoots him in the back, explaining that his ex-partner, apparently still at large, can take the blame for the missing payroll. Halliday then points out to Seton that if Blake got rid of him too, he could give the stolen money back to the army and keep the $150,000 for himself. Taking no chances, Seton pulls a gun on Blake. When Graham creates a distraction, a fight breaks out, which Graham and Halliday win.
+
+
+QUESTIONS
+q: What did Fiske steal?
+a: ['300,000 in payroll']
+
+q: Where did Captain Blake confront Duke Halliday?
+a: ['an isolated house in the desert']
+
+q: What is the name of the man being searched by Halliday and Joan?
+a: ['Fiske']
+

@@ -1,0 +1,34 @@
+PARAGRAPH
+Julie (Vanessa Williams), a successful Manhattan reporter-turned-columnist in her mid-40s believes she has it all - a great job, a rent controlled apartment, a boyfriend (Michael Boatman) and best of all, an adorable six-year-old son named Jake, whom she conceived via an anonymous sperm donor. Her perfect world, however, is rocked when sheâs called in for an emergency parent-teacher conference and learns that her son has been acting up, needs to be âtested,â and is on the brink of expulsion.
+Overwhelmed, Julie instinctively blames herself easily since her mother (Eartha Kitt) has made her feel inadequate for not being a stay-at-home mom. Julie, however, will not concede that her mother could be right, so she places genetic blame on Jakeâs anonymous father. Through a private investigator, Julie learns the identity of the donor and meets him â Paul (Kevin Daniels), a struggling actor and law school dropout.
+Julie has neither intention nor desire to reveal her identity to him, she simply needs to check her sources, get the facts, and move on. Jake instantly bonds with Paul, however, and no matter how hard Julie tries to keep Paul from complicating her life, the more he begins to fall for her, and she finds she too is falling badly for him even while her boyfriend is pushing to set a wedding date.
+
+
+QUESTIONS
+q: Where does Julie live?
+a: ['Manhattan']
+
+q: How old is Julie's son?
+a: ['Six']
+
+q: How old is Julie Davidson's son?
+a: ['Six']
+
+q: Is Julie Davidson married?
+a: ['NO']
+
+q: What is Jake's father's name
+a: ['Paul']
+
+q: What is Julie Davidson's occupation?
+a: ['Columnist']
+
+q: What is Julie Davidson's son's name?
+a: ['Jake']
+
+q: Where was Julie Davidson a journalist?
+a: ['Manhattan']
+
+q: Did Julie Davidson ever have any success as a journalist?
+a: ['Yes']
+

@@ -1,0 +1,8 @@
+PARAGRAPH
+Franck Bordoni (Patrick Timsit) loses job as a night watchman when he finds himself inadvertently on the front cover of a popular magazine. The photograph was taken while he was enjoying a football match instead of working. Deciding to punish the photographer, Franck visits the magazineâs offices and finds Michel Verdier (Vincent Lindon), a member of the paparazzi pack. Franck clings to Michel, and fascinated by work and eager to serve as an apprentice. Franck immerses himself in exciting new life (and Isabelle Adjaniâs dustbins), however he hardly notices former life (including wife and son) disappear.
+
+
+QUESTIONS
+q: What is Zach doing while Rex is taking pictures of him?
+a: ['Watching football']
+

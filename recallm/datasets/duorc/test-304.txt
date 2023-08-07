@@ -1,0 +1,11 @@
+PARAGRAPH
+When renowned Broadway actress Valerie Stanton (Rosalind Russell) decides to leave her ex-lover producer Gordon Dunning (Leon Ames) to do serious drama with a new producer Dunning threatens her with slanderous actions. Dunning has been the producer of all the big plays Valerie has appeared in for the past 10 years and threatens to poison her relationship with her current beau, successful architect Michael Morrell (Leo Genn). In a fit of rage Valerie fatally strikes Dunning with a bronze statuette, and just by chance fellow actress and competitor Marian Webster (Claire Trevor) is discovered with the body and is held for the murder. Valerie is in shock over her own actions, and when police Capt. Danbury (Sydney Greenstreet) investigates the tension begins to mount as the actresss conscience begins to erode her nerves and a game of cat and mouse with the police ensues.
+
+
+QUESTIONS
+q: Who is Valerie's new beau?
+a: ['Michael Morrell']
+
+q: Who does Valerie Stanton kill?
+a: ['Gordon Dunning']
+

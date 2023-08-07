@@ -1,0 +1,26 @@
+PARAGRAPH
+As the words This boy... and this girl...were never properly introduced to the world we live in we see Keechie (Cathy ODonnell) and Bowie (Farley Granger) smiling at each other, we cut to a helicopter shot of a car driving fast with Chickamaw (Howard Da Silva) driving until a tire blows out and T-Dub (Jay C. Flippen) and Bowie (Farley Granger) ditch the car and take off across a field. They have just knocked over a bank and gotten away with enough money to fund their next robbery. Along the way they stop off in a small ranch where Bowie meets Keechie (Cathy ODonnell) and the two bond after sharing their unrealistic life goals. Each of them wants a better life and when Bowie is injured driving a car Keechie nurses him back to health and the two team up using the large cache of bank money to fund their attempt to get away from the authorities. Through their travels among back roads and out-of-the-way motels the two fall deeper in love and blindly plan out a future as the authorities close in.
+
+
+QUESTIONS
+q: Who does Bowie marry?
+a: ['Keechie']
+
+q: Why does Bowie need money?
+a: ['Bowie needs the money to hire a lawyer to prove he is innocent.']
+
+q: What was Bowie in prison for?
+a: ['T-Dub']
+
+q: What is the first name of Bowie's wife?
+a: ['Keechie']
+
+q: What is T-Dub in prison for?
+a: ['Flippen']
+
+q: Who is Bowie being hunted by?
+a: ['by the law']
+
+q: What type of accident injury's Bowie?
+a: ['Driving a car.']
+

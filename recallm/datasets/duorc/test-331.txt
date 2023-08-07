@@ -1,0 +1,44 @@
+PARAGRAPH
+At a small unnamed English college, Quaid and his friend Stephen (a film student), do a Fear Study as a school project, recording people talking about their greatest fears and worst times in their lives. Quaid however is quite insane and wants to take the fear to "the next level".Quaid saw his parents murdered by an axe murderer as a child, this is his greatest fear and he wants to learn what makes others afraid and what it takes for them to overcome their fear.Stephen lost his brother as a teen, his brother was driving drunk and he wonders if he had driven if his brother would still be dead, Quaid buys the same model car and wants Stephen to drive it, and Stephen does.Joshua is a student who gets interviewed by Quaid where he reveals that his fear is becoming deaf again for he lost his hearing for a while after a childhood accident. The following night, shows up at Quaid's house because Quaid told him he had more questions for him. Quaid knocks him out, chains him to a radiator, fires a gun next to his ears, shattering his eardrums and leaving him deaf again. Quaid then drops Joshua off in an alley and goes home again.Abby, a girl involved with the project, has a dark birth mark covering half of her face and also her body, which she doesn't want anyone to see and is terrified of being teased or shunned because of her birthmark. Quaid has video footage of her stripping naked before sex and he sets it up so every TV on campus is showing her naked, and covered in birth marks, he holds up signs in the video which read, "You will never be normal". Humiliated she goes home, fills a bathtub with bleach and starts scrubbing off her skin with a Brillo pad. Stephen shows up at her dorm as she stumbled down the hall naked and bleeding. He gets her to the hospital and goes after Quaid, grabbing the fire axe off the wall to take with him. While he is leaving the hospital, Joshua, who is now clearly deaf follows after him, remembering that Stephen was with Quaid during his interview and assumes they are working together.Cheryl, who is editing the project and who Stephen is in love with, was molested by her father as a girl, he worked at a meat packing plant and he smelled of meat while molesting her so to this day she can't stand the smell of meat and refuses to eat it. Quaid kidnaps her and locks her in a room with a huge piece of beef. After about a week, she finally eats the entire piece of rotten beef.When Stephen shows up and confronts Quaid, Quaid knocks him out, when he awakens he is tied to a chair and Quaid is showing him video footage of him torturing Cheryl. Quaid claims that he let Cheryl go after she ate the meat. Stephen thinks he's lying. Quaid hears a noise downstairs, and goes to check it out. Stephen breaks free. Stephen and Joshua run into each other as Quaid hides and watches. Joshua stabs Stephen with the axe on the floor. Quaid appears and shoots Joshua in the back of the head killing him. Quaid stands over Stephen's body watching him bleed out from the axe wound. Once Stephen is dead, he drags the body down stairs, unlocks a door in the basement, inside is Cheryl, he throws Stephens body in with her, throws a tiny knife on the floor and says, "Let's see how hungry you have to be to get through that". He slams the door shut and leaves her crying with Stephen's dead body.
+
+
+QUESTIONS
+q: How does Stephen's brother die?
+a: ['Drunk driving accident']
+
+q: What type of study do Quaid and Stephen do?
+a: ['Fear study']
+
+q: Where is Cheryl?
+a: ['house']
+
+q: What weapon was thrown to Cheryl with Stephen's body?
+a: ['gun']
+
+q: Who dies from an axe wound?
+a: ['Stephen']
+
+q: Who starts to eat human flesh?
+a: ['Cheryl']
+
+q: Joshua lost what after a childhood accident?
+a: ['His Hearing for a while']
+
+q: Who was molested by her father as a little girl?
+a: ['Cheryl']
+
+q: Who killed Stephen
+a: ['Cheryl']
+
+q: How did Stephen die?
+a: ['gun']
+
+q: Who did Stephen confront?
+a: ['Quaid']
+
+q: What covers half of Abby's face and body?
+a: ['a dark birthmark']
+
+q: Who shoots and kills Joshua?
+a: ['Quaid']
+

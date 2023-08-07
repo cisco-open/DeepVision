@@ -1,0 +1,42 @@
+PARAGRAPH
+LexCorp's CEO, Lex Luthor, has been elected President of United States during a severe nationwide economic depression. Under his leadership, the economy begins to thrive, and he assembles a force of government-employed superheroes consisting of Captain Atom, Katana, Black Lightning, Power Girl, Starfire, and Major Force. Meanwhile, Superman and Batman maintain their distrust toward Luthor.
+The United States government discovers that a massive Kryptonite meteor is hurtling toward Earth. Instead of asking superheroes for aid and wanting to take credit for himself, Luthor decides to destroy it with nuclear missiles. Luthor arranges a meeting with Superman in Gotham City under the pretense of forming a pact. This results in a battle with the hired Metallo against Superman and Batman, in which Metallo manages to injure them both. Following the heroes' escape, an unknown assailant kills Metallo.
+On national television later that night, Luthor pins Metallo's murder on Superman, using footage of their battle to implicate him. Luthor claims that the radiation being emitted by the meteor can affect Superman's judgment, and he places a one-billion-dollar bounty on the Man of Steel.
+While breaking into S.T.A.R. Labs seeking information on the meteor, Batman and Superman find Metallo's remains and realize that radioactive energy is what killed him, while it is made to look like Superman used his heat vision to kill him. An army of villains looking to collect on the bounty then attacks them, including: Silver Banshee, Captain Cold, Icicle, Killer Frost, Mr. Freeze, Gorilla Grodd, Bane, Black Manta, Black Spider, Brimstone, Catman, Cheetah, Copperhead, Deadshot, Eclipso, Kestrel, King Shark, Brutale, Despero, Giganta, Girder, Lady Shiva, Mongul, Captain Boomerang II, Nightshade, Parasite, Solomon Grundy, and Shrike. After some effort, most of the villains are defeated. Captain Atom, who has arrived with Luthorâs superhero team to arrest Superman, defeats the remaining villains with a giant energy blast. All but Power Girl, whose loyalties are divided, attempt to capture the heroic duo. Superman creates a twister using his superspeed, and the two heroes escape with Power Girl.
+In Metropolis, Power Girl admits that she feels unnerved by Luthor and does not believe Superman killed Metallo. Luthor's superheroes catch up and the fight begins anew, this time with Power Girl aiding Superman and Batman. The Dark Knight realizes that Major Force killed Metallo under Luthor's orders and goads him into admitting it in front of everyone. When Major Force begins angrily attacking Batman, Power Girl punches him in the stomach hard enough to rupture his containment suit, releasing his radiation. Captain Atom, ashamed at his complicity in Luthor's misdeeds, absorbs the energy, disintegrating Major Force and injuring himself in the process.
+Meanwhile, Luthor's missiles fail to stop the meteor when the sheer amount of radiation being emitted by it detonates them before impact. Amanda Waller later discovers that Luthor has secretly been taking a serum composed of liquid kryptonite and super steroid Venom since the last days of the presidential election campaign, making him lose whatever rationality he had left. Feeling disillusioned by his failure in destroying the meteor with his missiles, Luthor decides to let the meteor hit the Earth so that he may rule over what remains of society. Batman and Superman attempt to break into Luthor's base of operations to retrieve data on the meteor's radiation. They end up in battle with Captain Marvel and Hawkman, eventually emerging victorious with Power Girl's (off-screen) aid. However, Luthor refuses to relinquish the data, going so far as to erase it from the lab computers. Waller gives them a copy, being disgusted with Luthor's plans. Batman and Superman fly off to Tokyo to deliver the data on the meteor to the Japanese Toyman, who has already built a giant rocket-propelled spacecraft, intending to use it as a large missile to stop the meteor. Waller and the military then attempt to arrest Luthor, but he injects himself with more kryptonite steroid and dons a power suit. After escaping Waller and the military, Luthor follows Superman and Batman overseas.
+After Batman and Superman arrive at Toyman's base, he shows them the spacecraft, which resembles a giant, robotic composite version of Superman and Batman. With the data, Toyman is able to calculate the necessary reinforcements needed for his own rocket so it will not explode before impact. Unfortunately, the arriving Luthor neutralizes Power Girl, Superman and Batman, and then disables the rocket's remote guidance systems so that it will not take off by itself. Having no other choice, Batman decides to fly the rocket himself, despite Superman's protests. Though initially faring poorly against Luthor and his kryptonite power suit, the rage over losing his best friend allows Superman to gain the upper hand, and after an aerial chase leading them all the way back to Metropolis, he defeats him in the streets there. Batman succeeds in destroying the meteor, and Superman finds him alive and well in an escape pod.
+With the truth of Metallo's death now public knowledge, Superman is cleared of the murder charge and Luthor is arrested and taken away to face trial and impeachment for his crimes. Batman then returns to Gotham while the Daily Planet's star journalist, Lois Lane, arrives and happily embraces the Man of Steel.
+
+
+QUESTIONS
+q: Who tries to arrest Lex Luthor?
+a: ['Waller and the military']
+
+q: Whose murder is charged against Superman?
+a: ["Metallo's", 'Metallo']
+
+q: What was Lex Luthor secretly taking?
+a: ['a serum composed of liquid kryptonite and super steroid Venom']
+
+q: What material is the meteor made of?
+a: ['kryptonite', 'Kryptonite']
+
+q: Who is LexCorp's CEO?
+a: ['Lex Luthor']
+
+q: Where did Lex Luthor arrange a meeting with superman?
+a: ['Gotham City']
+
+q: What country did Lex Luthor become the leader of?
+a: ['the United States']
+
+q: Who punches Lex's power suit?
+a: ['Power Girl']
+
+q: Who killed Metallo?
+a: ['Major Force']
+
+q: Who embraces the man of steel?
+a: ['Lex Luthor']
+

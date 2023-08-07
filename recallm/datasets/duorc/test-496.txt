@@ -1,0 +1,137 @@
+PARAGRAPH
+Ted Wiggins (Zac Efron), an idealistic 12-year-old boy, lives in "Thneed-Ville", a walled city that, aside from the citizens, is completely artificial: everything is made of plastic, metal, or synthetics. Ted sets out to find the one thing that will win him the affection of Audrey (Taylor Swift), the girl of his dreams, who wishes to see a real tree. Ted's energetic grandmother (Betty White) suggests he speak with the Once-ler (Ed Helms) on the matter. Ted manages to find his way outside of the city, finding out where much of the city's waste and contaminants are, and an empty wasteland filled with tree stumps, and broken-down equipment.Following a path, he comes across the Once-ler's Lurkem (aka his home). The Once-ler at first tells Ted to go away, but when Ted claims he wishes to hear about trees, the Once-ler begins to tell him his tale.In his youth, the Once-ler was a young man, who left his mean-spirited family, and set out into the world to make his fortune, and find suitable material to create a product he dubbed 'a Thneed.' He soon chanced upon the land of the Truffula Trees, where lived the Barbaloots, Swammy Swans, and the Humming Fish. Chopping down one tree to make his Thneed, out of the downed tree's stump popped the Lorax. The Lorax berates the Once-ler for what he has done, and orders him to leave. However, the Once-ler refuses.After this, the Lorax attempts to have the animals help him float the Once-ler out of the area on a river, but ends up accidentally steering him towards a nearby waterfall. The Lorax and the other animals manage to save the Once-ler, who then promises that he won't cut down anymore trees.The Once-ler soon after goes to a nearby town to sell his Thneed, but no one is interested until he throws it away, and the townspeople see the multiple uses a Thneed can have. With demand exceeding supply, the Once-ler contacts his family to come and help him. The family is more accepting of the Once-ler given his new success, but is disrespectful of the Lorax and the local environment.When it seems the method of simply hand-picking Truffula tufts is too slow, the Once-ler gives into his family's request to chop down the trees to make the job quicker. The Lorax attempts to ask the Once-ler to stop this, but he refuses, focusing on 'biggering' his company and business, not giving a care that deforestation and industrial waste are harming the ecosystem.Eventually, the Lorax finally manages to have an audience with the Once-ler, who claims that he will not cease production...until during their conversation, they witness the cutting down of the last Truffula tree. With no trees left, the Once-ler's family packs up and leaves (after once again claiming their disappointment in him for no longer being a success), and the Barbaloots, Swammy Swans, and Humming Fish leave. The Lorax is the last one to go, floating away and leaving the Once-ler alone in the wasteland he created.The Once-ler relates the story to Ted over several visits. Over this time, the mayor of Thneed-Ville, Aloysius O'Hare (Rob Riggle), finds out about Ted's leaving town and attempts to stop him. O'Hare is the most powerful and wealthy citizen in town, selling the citizens bottled air at high prices, and feels that Ted's 'meddling' will jeopardize his position and profits. Even so, Ted continues to leave town.When the Once-ler finally completes his story to Ted, they ponder the small pile of rocks the Lorax left behind, upon which is written one word: "Unless." The Once-ler then gives Ted a Truffula seed and requests that he use it to repopulate the world with the trees.Ted eagerly returns to Thneed-Ville to show Audrey, but he is accosted by O'Hare and two of his minions. With the help of his family, Ted, Audrey, and his grandmother head to the center of town to plant the seed. O'Hare gives chase, but his attempts to claim the seed fail. Confronting the three in the center of town, O'Hare tries to convince the townspeople they are better off without trees, citing them to be unclean, and an intrusion on their perfect world. To counter this, Ted, Audrey, and his grandmother climb aboard an Earthmover, and knock down part of the city's wall, revealing the wasteland outside.Getting a taste of reality, the townspeople rally around Ted, and the seed is planted. Their cheers reach the ears of the Once-ler, who takes down the boards over the window of his Lurkem.Time passes, and we see the seed has caused numerous small Truffula trees to begin appearing across the wasteland. As the Once-ler leaves his lurkem to water a few, he is surprised to see a Swammy Swan fly by, and shortly thereafter, the Lorax appears before him. The two embrace, with the Lorax telling the Once-ler that he did good.
+
+
+QUESTIONS
+q: What do the Lorax and Once-ler both witness?
+a: ['The leveling of the last truffula tree.', 'the two are witness to the leveling of the last truffula tree.']
+
+q: what does the traffula seed do when water accidentally spills on it?
+a: ['Swammy Swan flies by']
+
+q: What is O'Hare determined not to have undermine his business?
+a: ["Aloysius O'Hare (Rob Riggle),"]
+
+q: What kind of trees once thrived in the land?
+a: ['Truffula', 'truffula trees']
+
+q: Who does the Lorax speak for?
+a: ['The trees', 'for the trees']
+
+q: Who does Ted desire to impress?
+a: ['His dream girl, Audrey.']
+
+q: Why is the Once-ler cutting down the trees?
+a: ['To build something for the people', 'To manufacture Thneeds.', 'To make thneeds']
+
+q: What does Audrey want to see?
+a: ['A real tree.']
+
+q: What is the name of the company the once-ler runs?
+a: ['Thneeds, inc', 'Thneeds, Inc']
+
+q: What is the boy given?
+a: ['Truffula seed', 'A seed']
+
+q: Who pollutes the land, sky and river?
+a: ['The Once-ler and his family']
+
+q: Who is the Once-ler confronted by?
+a: ['The Lorax', 'The Lorax.', 'The lorax']
+
+q: What does the Once-ler give Ted?
+a: ['a Truffula seed']
+
+q: Who eat truffula fruit from the local trees?
+a: ['Bar-ba-Loots', 'The Barbaloots']
+
+q: what kind of seed did the lorax give ted the last of?
+a: ['Truffula tree seed']
+
+q: what prevents the Swomee Swans from singing
+a: ['smogulous smoke', "The factory's pollution"]
+
+q: What do the Brown Bar-ba-loots feed on?
+a: ['Truffula fruits', 'truffula fruit from the local trees', 'the truffula trees']
+
+q: Where does the Lorax pop out off?
+a: ['The stump of a truffula tree', 'the stump of a cut down truffula tree', 'the trees downed stump']
+
+q: Where does Ted Wiggins live?
+a: ['in "thneed-ville"']
+
+q: Who eats truffula fruit?
+a: ['The brown Bar-ba-Loots', 'Bar-Ba-Loots']
+
+q: What was the stone-cut word?
+a: ['Unless']
+
+q: What story does The Once-ler tell?
+a: ['The story of the Lorax.', 'The story of his time as a young man making Thneed']
+
+q: What is accidentally spilled on the trufulla seed?
+a: ['Not in the passage']
+
+q: Who does Ted visit?
+a: ['the Once-ler']
+
+q: What fills the Swomee Swans' throats with smog?
+a: ['The smogulous smoke.', 'Thneed factory smog']
+
+q: What trees were used for Thneed production?
+a: ['Truffula']
+
+q: What is Audrey's profession?
+a: ['There is no Audrey in passage.']
+
+q: Who does Ted have a crush on?
+a: ['Audrey, the girl of his dreams']
+
+q: Who sends the fauna away to find more hospitable habitats?
+a: ['the Lorax', 'The Lorax']
+
+q: What is the name of the company?
+a: ['Thneeds Inc.', 'Thneeds, Inc']
+
+q: What happens when the final tree falls?
+a: ['The factory shuts down', "the Once-ler's family and the Barbaloots, Swammy Swans, and Humming Fish leave"]
+
+q: What was the pond home to?
+a: ['The Humming Fish', 'The humming fish']
+
+q: What color is the Once-ler?
+a: ['Dark green.', 'Green']
+
+q: Who does Once-ler call to help him with his thriving business?
+a: ['Relatives', 'He calls the family that previously rejected him.']
+
+q: Where does Ted live?
+a: ['Thneed-ville']
+
+q: Who is the Mayor of Thneedville?
+a: ["Aloysius O'Hare"]
+
+q: On his way home who does Ted encounter?
+a: ['The Once-ler', "O'Hare and his minions"]
+
+q: How did the Once-ler arrive?
+a: ['In a horse drawn carriage', 'In a horse-drawn cart']
+
+q: What does the lorax urge the once-ler to do?
+a: ['to leave the forest']
+
+q: Who is expelled from the town?
+a: ["O'Hare"]
+
+q: Who is the guardian of the forest?
+a: ['The Lorax']
+
+q: Why does his family leave him?
+a: ['With no further chance of business']
+
+q: Who does the Lorax claim to speak for?
+a: ['Trees', 'He speaks for the trees']
+
+q: Who tells Ted the legend of the Once-ler?
+a: ['Grammy Norma']
+

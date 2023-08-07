@@ -1,0 +1,41 @@
+PARAGRAPH
+Based on both the legend of Hercules and Heracles.On Mt Olympus, Zeus and his wife are celebrating the birth of their son, Hercules. The Lord of the Underworld, Hades, is also invited, though is not at all pleased with the birth of Hercules.Returning to the Underworld, Hades meets up with the 3 Fates, who tell Hades that in 18 years, when the planets align, if he unleashes the Titans (who were imprisoned by Zeus), he will defeat Zeus and rule over all. However, there is a possibility that Hercules could stop him.Hades assigns his minions, Pain and Panic, to turn hercules mortal, and kill him. Armed with a potion, the two kidnap Hercules, and take him to Earth. Hercules drinks almost every drop except one, when a childless couple disturbs the two minions' plan. The two decide to tell Hades that they killed Hercules, but figure leaving him on Earth as a mortal will keep him from interfering in Hades' eventual plot.As Hercules is almost completely mortal, he cannot return to Mt Olympus. However, the childless couple have taken him in, and raise him as their own. However, not being completely mortal, Hercules is ostracized from the rest of society by his immense strength. As he approaches his teenage years, his father tells of how they found him, with a medallion bearing the symbol of the gods.Hercules sets off for the Temple of Zeus to find answers. Once inside the temple, the enormous statue of Zeus comes to life, first scaring Hercules, but then explaining how he is the young boy's father. Zeus then explains that if Hercules can become a True Hero, he'll be able to return to My Olympus and rejoin them. Zeus then provides Hercules with a winged horse named Pegasus, and sends them off to find Philoctetes.Hercules and Pegasus find Philoctetes (who is nicknamed 'Phil') on a deserted island. Having become a grouchy, old satyr, Phil is at first reluctant, but finally relents. After an intense period of training, Hercules grows from a scrawny teenager to a buff young man. At Hercules' insistence to try what he has learned, Phil, Hercules and Pegasus head for the city of Thebes, which is plagued by a number of disasters and problems.On the way there, they are sidetracked by Meg, who appears to be menaced by a centaur. Hercules grows somewhat enchanted with her, before Phil gets them back on track to Thebes. After they leave, Meg meets with Hades, and his assistants, Pain and Panic. Meg was actually trying to get the centaur to side with Hades, but claims Hercules spoiled her plans. Upon hearing this, Hades angrily grabs his assistants, realizing they have lied to him. Pain and Panic manage to convince Hades that since Hercules is mortal, they can still kill him.In Thebes, Hercules tries to convince the citizens that he is a hero, but noone is willing to believe him. Suddenly, Meg appears, and tells of two small boys trapped under a rock in a nearby canyon. Hercules saves the little boys (actually Pain and Panic in disguise), but then has to contend with the 3-headed beast called the Hydra. After finding out that cutting off one head produces 3 more, Hercules ends up crushing the beast with a rock slide. The defeat of the Hydra causes the citizens of Thebes to acknowledge Hercules as a hero, and further anger Hades.Hades continues to send beasts and creature against Hercules, but each and everyone is defeated, further making Hercules a hero in the eyes of the citizens. Statues and merchandise are soon rampant with Hercules' face, and Hercules thinks that his fame will allow him to return to Mt Olympus. However, upon visiting the Temple of Zeus again, Zeus explains to Hercules that fame does not equal heroism. When Hercules asks to know what he can do, Zeus refuses to explain further.Back in Thebes, the conversation has upset Hercules, who wonders if he even has what it takes to be a hero. While in his home, Meg appears, and gets Hercules to come with her for an evening rendezvous. However, Meg's intentions are to secretly find Hercules' weakness, but as the night goes on, she begins to find him charming. The mood is broken when Phil and Pegasus show up to take Hercules home. During the flight away, Phil ends up getting hit by a tree, and falls off Pegasus. When he comes to, he sees Meg talking to Hades, with their conversation sounding as if Meg has been two-timing Hercules. In truth, Meg refuses to go along with Hades plan, claiming that Hercules has no weakness...which leads Hades to believe that she IS that weakness.Back at Thebes Stadium, Phil tries to convince Hercules of what he saw, but Hercules angrily hits Phil. Phil, hurt by his protege's backlash, gets up and leaves. Once Phil is gone, Hades appears, and offers Hercules an ultimatum: if Hercules gives up his powers for 24 hours, Hades will allow Meg to go free, with the provision that the deal will be voided if any harm comes to her. Hercules goes through with the deal, only to have Hades then tell Hercules how Meg was working for him. Now drained of his strength, Hercules can only watch as Hades lets loose the Titans that Zeus had imprisoned years earlier.Hades sends a giant cyclops to Thebes to destroy the City. Even though Hercules is drained of his strength, he still tries to stop the creature. Fearing that he'll be killed, Meg and Pegasus find Phil, who they convince to return and help his student. With Phil's help and some ingenuity, Hercules ends up blinding and finishing off the cyclops, but in the process, Meg is gravely injured.Her injury causes Hades' deal to expire, and Hercules receives his strength back. With Phil watching over Meg, Hercules and Pegasus fly to Mt Olympus, where the Titans have all but over-powered Zeus and the other gods. Hercules helps turn the tide of battle, and ends up taking care of the Titans, and Hades angrily retreats to the Underworld.When Hercules returns to Thebes, Phil reveals that Meg has died. Upset by this, Hercues descends into the Underworld to get her back. Hercules makes a deal with Hades, that he will take Meg's place if he rescues her from the River of Death. Hades accepts the deal, sure that Hercules will die before he can save her.It seems Hercules will die, but upon reaching Meg, he suddenly begins to glow yellow, having achieved god status by risking his life to save her. Hercules manages to get Meg out of the River of Death, much to Hades ranting and protestations, several of which cause Hercules to send him flying into the river, where the dead attempt to drown him.Hercules, Pegasus, Phil and Meg then fly to Mt Olympus where the gods are waiting to welcome Hercules back, now that he has become a 'True Hero.' However, Hercules chooses to stay on Earth, but still be able to visit his family.The film ends as one of the gods creates a constellation in the sky of Hercules, making Phil swell with pride that he was able to train a legend and a god.
+
+
+QUESTIONS
+q: Who are Hercules' parents?
+a: ['Zeus and Hera', 'Zeus']
+
+q: Where are the Titans imprisoned?
+a: ['the underworld', 'Mt. Olympus']
+
+q: How many boys were said to be trapped in a gorge?
+a: ['Two']
+
+q: Who is sent to dispose of Hercules?
+a: ['cyclops', 'Pain and Panic']
+
+q: WHO'S STATUE COMES TO LIFE AT THE TEMPLE HERCULES VISITS?
+a: ['Zeus']
+
+q: WHO TRAINS HERCULES TO BECOME A TRUE HERO?
+a: ['Phil', 'The beasts sent by Hade']
+
+q: Who is Zeus' jealous brother?
+a: ['Hade', 'Hades']
+
+q: How does Hercules finally kill the hydra?
+a: ['Blinds it']
+
+q: WHAT MAKES HERCULES AN OUTCAST?
+a: ['His strength']
+
+q: Who inspires Hercules to fight and kill the cyclops?
+a: ['Phil']
+
+q: Who unleashes the Titans?
+a: ['Hades']
+
+q: Who was Meg secretly working for?
+a: ['no one', 'Hades']
+

@@ -1,0 +1,53 @@
+PARAGRAPH
+Small-time Italian-American criminals Caesar Enrico "Rico" Bandello (Edward G. Robinson) and his friend Joe Massara (Douglas Fairbanks, Jr.) move from New York to Chicago to seek their fortunes. Rico joins the gang of Sam Vettori (Stanley Fields), while Joe wants to be a dancer. Olga (Glenda Farrell) becomes his dance partner and girlfriend at the local taxi dance club.Joe tries to drift away from the gang and its activities including running several speakeasys and illegal gambling casinos, but Rico (whom the gang now refers to by his nickname 'Little Caesar') makes him participate in the robbery of the nightclub where he works. Despite orders from underworld overlord "Big Boy" (Sidney Blackmer) to all his men to avoid bloodshed, Rico guns down crusading police crime commissioner Alvin McClure during the robbery, with Joe as an aghast witness.Rico accuses Sam of becoming soft and seizes control of his organization. Rival boss "Little Arnie" Storch (Maurice Black) tries to have Rico killed, but Rico is only grazed by a bullet during a drive-by shooting. Rico and his gunmen pay Little Arnie a visit, after which Arnie hastily departs for Detroit. The Big Boy eventually gives Rico control of all of Chicago's Northside.Some months later, Rico becomes concerned that Joe knows too much about him. He warns Joe that he must forget about Olga, and join him in a life of crime. Rico threatens to kill both Joe and Olga unless he accedes, but Joe refuses to give in. Olga calls Police Sergeant Flaherty and tells him Joe is ready to talk, just before Rico and his henchman Otero (George E. Stone) come calling. Rico finds, to his surprise, that he is unable to take his friend's life. When Otero tries to do the job himself, Rico wrestles the gun away from him, though not before Joe is wounded. Hearing the shot, Flaherty and another cop give chase and kill Otero. With the information provided by Joe, Flaherty proceeds to crush Rico's organization.Desperate and alone, Rico retreats to the gutter from which he sprang. A few weeks later, while hiding in a flophouse, he becomes enraged when he learns that Flaherty has called him a coward in the newspaper. He foolishly telephones the cop to announce he is coming for him. The call is traced to the phone booth where Rico is. He runs from the police and hides behind a large billboard. Refusing to surrender, Flaherty personally shoots at the billboard with a tommy gun. Ironically, the billboard shows an advertisement featuring dancers Joe and Olga. The police walk around the billboard to find Rico dying on the ground who with his last breath mutters, "Mother of mercy... is this the end of Rico?"
+
+
+QUESTIONS
+q: Where was Rico hiding when he learned Flaherty had called him a coward?
+a: ['flophouse']
+
+q: Who warns Joe that he must forget about Olga?
+a: ['Caesar Enrico "Rico" Bandello']
+
+q: Who is killed after being chased by Flaherty and another cop?
+a: ['Otero']
+
+q: What part of Chicago is Rico given control of?
+a: ["Chicago's Northside"]
+
+q: Where do Caesar and Joe move?
+a: ['Chicago']
+
+q: what he avoid?
+a: ['bloodshed']
+
+q: who tries to drift?
+a: ['Joe']
+
+q: Who gets wounded?
+a: ['Joe Massara']
+
+q: What does Otero try to kill Joe with?
+a: ['Gen']
+
+q: Who kills Otero?
+a: ['Police Sergeant Flaherty']
+
+q: Who is Flaherty?
+a: ['A Chicago police sergeant.']
+
+q: Who tries to have Rico killed?
+a: ['Rival boss "Little Arnie" Storch']
+
+q: Who becomes concerned that Joe knows too much about him?
+a: ['Caesar Enrico "Rico" Bandello']
+
+q: Who threatens to kill both Joe and Olga?
+a: ['Rico']
+
+q: To whom does Rico address his final words as he died?
+a: ['The police']
+
+q: Who does Rico warn Joe to forget about?
+a: ['Olga']
+

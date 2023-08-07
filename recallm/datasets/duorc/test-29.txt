@@ -1,0 +1,50 @@
+PARAGRAPH
+Jesus, a carpenter in Nazareth, Judea,during the Roman occupation, has been hearing voices and having premonitions that tell him that God has a special plan for him, in atonement for sins. He assumes it is his own sins and is confused about what to do, although he has a firm will to follow any commands from God. Because he senses that he himself will be crucified some day, he constructs crosses for Roman use in executing criminals and rebels, an act of traitorous collaboration in the eyes of others in his town, including Mary Magdalene, who spits on him. Judas, a zealot rebel, appreciates Jesus' devotion to God and attempts to recruit him to the zealot cause, but Jesus refuses.Jesus feels guilty about his inability to correspond to the adult love of his childhood friend, Mary Magdalene, who in her dejection has become a prostitute. He asks Mary to forgive him. Mary asks Jesus to stay with her, which Jesus is tempted to do, but he rejects the temptation and heads for a monastic community. At that community, he experiences his own unusual powers as two deadly cobras obey his command, and he learns that the community leader who welcomed him the night before was already dead. One of the monks in the community convinces Jesus that the fact that God communicates with him is extraordinary.Judas is sent with orders to kill Jesus for being a collaborator. Judas senses Jesus is specially favored by God, and asks Jesus to lead the rebellion against the Romans. Jesus tries to tell Judas that his message is love, that love of one's fellow humans is the key to God's will. Judas promises to join Jesus in his ministry, but with the threat that he will kill him if he strays from his ministry. Thus influenced by Judas, Jesus agrees to abandon his will to that of God, become a teacher, and let God speak through him.As he walks to begin his new life, Jesus comes across an angry mob which is dragging Mary Magdalene to be stoned for her prostitution and working for Romans on the sabbath. Jesus interrupts the stoning, challenging the crowd to admit they have all sinned, asking whoever has not sinned to take a bigger stone from his hand. Half the crowd sneaks away, the other half stays to hear what he has to say. He opens his mouth and begins his teaching in parables, awkwardly at first, but growing in confidence and preaching with the phrases recorded as the Sermon on the Mount.Jesus develops a following of disciples, but he is still uncertain of his role. He experiences his own unusual power as, while eating an apple, he throws out the apple seeds, and one of them becomes a full grown tree with fruit. Judas convinces him to travel to see John the Baptist, who has publicly claimed that he is preparing the way for the Messiah, telling him that John surely will know what Jesus' mission really is. John baptizes Jesus, and that night the two discuss their differing views. John believes that Jews must first gain freedom from the Romans before the kingdom of God is declared, while Jesus believes that love is more important.John tells him that God speaks most clearly in the desert, so Jesus then goes into the desert to see if God's will mayb be clearly revealed to him. Choosing a spot in the desert, Jesus draws a circle on the ground and vows he will not leave the circle until God has made his will known. While in the circle, Satan appears to him, first as a snake, then as a lion, finally as a pillar of fire, to tempt him. Jesus resists these temptations. An apple tree bearing luscious fruit appears to him, but he conquers his hunger and instead of eating he chops down the tree. At this point he realizes that the message from God is that he is strong enough to rebuff Satan. He walks out of the desert. He comes across the home of Martha and Mary, who take him in and help him recover from his long fast. He rejoins his disciples after his recovery. In front of them he takes out his heart in his hand to prove his authority and tells them to follow him. He proceeds to perform many signs and wonders and each increases his confidence that he is in fact God's son and the Messiah. He turns water into wine, he restores the vision of a blind man, heals cripples so they walk, he raises Lazarus from the dead, and casts out many demons. His ministry finds rejection and enmity in many quarters. In his own town of Nazareth none come to join him, and Saul, a Roman agent, eventually murders the resurrected Lazarus to destroy the greatest evidence of his divine power.Eventually Jesus and his followers enter Jerusalem, where he is received with joy by many. Jesus goes to the temple, where he is enraged by the money changers and throws them out. The angry Jesus even leads his followers to try to take the temple by force, but as he reaches the steps he begins bleeding from his hands. He stops, realizes he is doing the will of men and not of God, and that he must die in order to bring salvation to all, Jews and all others. He asks Judas, his strongest apostle and the one who best understands him, to betray him to the Romans, something that Judas does not want to do. Nevertheless, Jesus insists that this is the only way and Judas acquiesces, weeping.Jesus joins his disciples, Martha, Mary, Mary Magdalene and his mother for the Passover seder, where he breaks bread telling them all to eat of it, for it is his body, and to drink from his wine cup, for it is his blood, commanding them to do this again to remember him.. After the meal, while in the garden of Gethsemane, Judas leads the Roman soldiers to Jesus and identifies him. Peter cuts off the ear of Malchus and Jesus performs the miracle of reattaching it. Pontius Pilate tells Jesus that he must be put to death because he represents a threat against the status quo, the Roman Empire. Jesus is flogged and a crown of thorns is placed on his head. He is led to Golgotha, where he is crucified.From the cross Jesus sees a young girl who tells him she is his guardian angel who has been sent to rescue him. She tells him that it is not necessary for him to die on the cross, because God loves him, is pleased with him, and wants his happiness. She brings him down from the cross and leads him away.She takes him to be with Mary Magdalene, who cleans his wounds, and the couple make love. The couple has a child and lives a tranquil life in a forest cabin. Mary dies during a pregnancy, and the sobbing Jesus is told by the angel that there is only one woman, all women are "Mary", and takes him to be comforted by Martha and Mary, the sisters of Lazarus. He has a family with them and lives a peaceful life as a carpenter. Some years later he encounters the apostle Paul describing his own conversion and preaching about the Messiah. Jesus tries to tell Paul that he is the man that Paul has been preaching about but Paul rejects him, saying that he needs the Jesus who died and resurrected to bring salvation to all.In old life and near death, Jesus' former disciples visit him. Judas arrives last, tells Jesus he has been a traitor. The angel who stopped his crucifixion is recognized as Satan in disguise, who tempted him into a life of comfort as an ordinary man. Jesus realizes that he should have died to bring salvation to all. Although aged and weak, Jesus crawls back to the edge of a burning Jerusalem at the time of the Jewish Rebellion, he reaches the site of his crucifixion and begs God to let him fulfill his mission, crying out "Let me be Your Son!".We see Jesus back on the cross. The whole episode with the fake angel must have been a dreamy hallucination. He smiles in recognition of his destiny and cries out "It is accomplished! It is accomplished!", as he dies. Then a blinding white light envelops everything.
+
+
+QUESTIONS
+q: Does Jesus have children?
+a: ['Yes', 'No']
+
+q: Where do Peter, Nathaniel and John visit Jesus?
+a: ['Jerusalem']
+
+q: Who does Jesus raise from death ?
+a: ['Lazarus']
+
+q: Jesus also has an undisclosed prior relationship with whom?
+a: ['Mary']
+
+q: where does his ministry reached ?
+a: ['Nazareth and Jerusalem']
+
+q: Where does Jesus go to test God's connection to him ?
+a: ['Jerusalem']
+
+q: Who does the young lady say that he is not?
+a: ['Jesus']
+
+q: Who does Jesus marry first?
+a: ['Mary Magdalene']
+
+q: Who does Jesus save from the mob ?
+a: ['Mary Magdalene']
+
+q: Jesus returns from the desert to the whose home ?
+a: ['Martha and Mary']
+
+q: Who is preaching about the Messiah?
+a: ['paul', 'John The Baptist']
+
+q: Who is the Jewish Rebellion against?
+a: ['Romans']
+
+q: What does Jesus "escape" to find himself on the cross again?
+a: ['Crucifixion']
+
+q: What does Jesus say that salvation can not be founded on?
+a: ['Sins']
+
+q: What is the occupation of Jesus of Nazareth?
+a: ['A Carpenter']
+

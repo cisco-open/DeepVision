@@ -1,0 +1,41 @@
+PARAGRAPH
+Thinking that his fighting days are over, Robert "Dutch" Holland (James Stewart) had become a successful third baseman for the St. Louis Cardinals, only to be recalled into the newly-formed Strategic Air Command. Set in 1955, when the Cold War is rapidly heating up, SAC has been formed to provide the ultimate deterrent to World War III. By building up a powerful force of nuclear-armed bombers and keeping them on a war-ready status at all times, SAC's leader, Gen. Hawkes (Frank Lovejoy) hopes to keep the "enemy" from starting another devastating conflict. Unfortunately, he is forced to recall reserve pilots and crew from their private lives in order to fill his needs.Holland, promoted to Lt. Colonel, grudgingly accepts the assignment, along with some other equally unhappy airmen, many of whom are old acquaintances from bomber missions flown over Tokyo in 1945. Holland's wife Sally (June Allyson) is less than pleased with the turn their life has taken, and isn't happy about her husband being sent out on dangerous missions when there isn't even a war going on. Also, she soon discovers that she's pregnant, and though she tries to support her husband's efforts to do his job, Holland is soon torn between his sense of duty to his men and country, and his responsibilities to his wife and family.Holland flies missions in the massive B-36 "Peacemaker" bomber, a plane that can take off from its base in Texas and fly non-stop to Alaska and back while carrying a crew of a dozen men and more destructive power than a thousand WW-2 bombers. Over the next few months, Holland helps form SAC into a tightly run, well oiled machine, but it means long stretches away from Sally; she's come to dread the sound of the phone ringing, fearing it will be terrible news about Dutch.Holland is flying a cold-weather test mission over Greenland at -40 degrees when his plane's fuel tank seals fail, and the fuel sloshing around in the left wing starts a fire. Nothing they can do will extinguish it, and Holland orders the crew to bail out. Realizing he's too low to bail out himself, he rides the big plane down to a belly landing on the snow, and spends days trapped in the plane's wreck before rescue arrives. Meanwhile, Sally has given birth, and is overjoyed to hear that her husband is alive with only a twisted shoulder for an injury.Returning to duty, Holland is shown the newest addition to SAC's inventory: the futuristic B-47 Stratojet, a sleek, swept-wing jet plane that looks like nothing Dutch has ever seen before. Gen. Hawkes wants Col. Holland to head up the new Stratojet bomber force, but Sally has different plans. Wrangling an opportunity from Dutch's old boss with the Cardinals that she knows he will take, he can finally leave the Air Force behind. Joyfully presenting this to Dutch that night, she is dismayed to see that he has been thinking about his duty to SAC, and has decided to stay. He tries to explain his reasons, his belief that he's doing something far more important than he's ever done, his desire to serve his country and protect his family by staving off war, but Sally is heartbroken, and Dutch must leave on yet another mission.Still bothered by his shoulder injury, Holland leads a massive deployment of the entire wing to Japan, a tremendous undertaking designed leave no doubt in an enemy's mind about what SAC can accomplish. It will also stretch SAC to its limits, and push everyone to the breaking point. Sally tries to speak to her husband one last time before he takes off, but she's too late. Flying non-stop to their base in Japan, Dutch keeps track of all his planes and people, and manages to get everyone there safely, but when it's his turn to land the field is socked in with fog, and Dutch can barely move his right arm. With the help of his co-pilot, he manages a hair-raising blind landing, and collapses from exhaustion.Grounded by his shoulder, Gen. Hawkes is finally forced to release Holland from the Air Force. But before he leaves, he tells Dutch just how much good he has done for SAC. The example he set for his men, staying in even when he had every reason to leave, has done more good for the force than he can imagine. Sally is overjoyed that she's got her husband back at last, and Holland leaves, knowing he has done his duty.
+
+
+QUESTIONS
+q: Where is the plane diverted?
+a: ['Greenland']
+
+q: Where is he discharged from?
+a: ['Japan']
+
+q: Who struggles to cope with Dutch's frequent absences and dangers of flying?
+a: ['his wife Sally']
+
+q: Where is Carswell AFB located?
+a: ['Texas']
+
+q: What was name of plane?
+a: ['Peacemaker']
+
+q: Who was going to fly the plane?
+a: ['Robert "Dutch" Holland']
+
+q: How long was Dutch recalled to active duty for?
+a: ['21 Months']
+
+q: Leakage from what was a challenge for the B-52 aircraft?
+a: ['fuel tank']
+
+q: What professional baseball team did Dutch play for?
+a: ['St. Louis Cardinals']
+
+q: Over what country is the crew forced to bail out of the aircraft?
+a: ['Japan']
+
+q: What Air Base was the crew's destination before the bail out?
+a: ['alaska']
+
+q: Who has worse arm injury?
+a: ['Robert "Dutch" Holland']
+

@@ -1,0 +1,30 @@
+PARAGRAPH
+The film opens up by showing a large crowd outside the Verona Arena, Italy, with eager fans queuing for the rock concert of Jordan (Ranbir Kapoor). Jordan, who was being attacked by thugs moments ago, manages to escape and reach the arena. He shows a complete disregard for his fans, storms onto the stage in a fit of rage and starts strumming his guitar.
+A flashback shows the story of Jordan, when he was Janardhan Jhakar a.k.a. JJ, a simple Jat from, Delhi, a student in Hindu College who dreams of becoming a big star and gets laughed at by his friends for that. Khatana, a canteen owner (Kumud Mishra), tells him that the only way melody can be produced is by undergoing trauma via a heartbreak. Janardhan jokingly tells himself that since he hasn't seen bad times, he hasn't been able to reach his idol's (Jim Morrison) level of fame. He goes to the performance of Heer Kaul (Nargis Fakhri), a Kashmiri Pandit girl, one of the girls in St. Stephens College, and overhears that she is the "perfect heartbreaking machine". Instantly deciding to propose to her, he suffers humiliation, which he deciphers as the perfect method for receiving the "heart-break" and the key to "fame". However, they both become good friends, hanging out together and doing things like drinking desi liquor and watching a B-grade Hindi film called "Junglee Jawaani".
+Heer marries Jai (Moufid Aziz) in Kashmir and departs to Prague with him. During the process, she develops feelings for JJ and coins the name "Jordan" for him before leaving. JJ returns home finds himself thrown out by his elder brother for attending Heerâs wedding and stealing â¹5,00,000, which he actually did not take as he points out that the money has been stolen several times even in his absence. He takes refuge for two months in the nearby Nizamuddin Dargah, singing qawwalis and finally to Khatana's place, making it his home.
+Ustad Jameel Khan (Shammi Kapoor), a Padma Bhushan classical artist, remembers JJ singing at the Dargah, and prompts Dhingra (Piyush Mishra), the owner of a music company called "Platinum Records", to sign JJ as he foresees a bright future for him. When Sheena (Aditi Rao Hydari), a journalist interviewing Jordan as a rockstar, hints to Jordan that Dhingra intends to send some artists to Prague for a tour and recordings, he instantly volunteers to work there to reunite with Heer.
+Heer, meanwhile, suffers from continuous spurts of health problems. She meets JJ, and after a while of intimacy, when he tries to profess his love for her, Heer, being married, spurns his advances. Heer warns him to stay away from her and he decides to say "bye" one last time before departing for India. While doing so, Jordan trespasses on Heerâs property and is arrested by cops and escorted off the premise. While doing so, Heer collapses in the presence of everyone. Upon being deported back to India, he is overwhelmed by the media attention he receives. Frustrated, JJ clashes with the media and the Indian Police, resulting in a term in jail. Dhingra becomes happy about the publicity he has received because of JJ, as it has helped the sale of his records.
+After being released, JJ goes on a country-wide tour for his concerts. He becomes famous as 'Jordan', and cancels the contract with Dhingra's company. He is now truly a 'Rockstar', which he wanted to be. He has fame, money, music, everything he craved for. But inside, he has become a lonely man. He constantly gets into fights with the media, which reveals he has become arrogant. His friends, who earlier made fun of him in college, now use his fame to click photos with him, which disturbs him. Khatana is now his manager, but fails to control him. In spite of all this, Jordan is highly popular among his fans.
+Jordan meets Heer's younger sister Mandy (Sanjana Sanghi) during one of his performances. She asks him to help Heer, as she has been diagnosed with Aplastic Anemia. When Jordan goes to meet her, her mother, Neena Kaul (Shernaz Patel), gets angry and asks him to leave her house as she is aware of his past with Heer. To everyone's surprise, Heer starts recovering quickly due to Jordan's presence. He starts to spend more time with her disregarding all his work. Khatana requests Heer to persuade him to attend his concerts. During a visit to Kangra Valley, Heer accompanies him to one of his concerts where the media links them, portraying her as having an affair despite being married. Heer asks Jordan to take some time off and first finish his work before coming back to her. Her condition worsensÂ ; she slowly slips into a coma, and is discovered to be pregnant with Jordan's child. Mandy calls him for one last time hoping that she will recover. However, her condition only worsens. Jordan goes while she is in a coma and realises that this time she is really gone. Heer dies offscreen, and a quick montage of shots follow, where Jordan is seen bearing the pain of heartbreak and becoming a famous international rockstar.
+The movie then goes back to where it began with Jordan, now as famous as his idol Jim Morrison, singing "Nadaan Parindey" in Verona Arena, Italy. While performing, Jordan sees a vision of Heer walking on the stage towards him, smiling lovingly. As he watches her with desperate tears, the audience cheers on, oblivious to his anguish. The film finishes by recapping all of the happy times the couple spent together, ending with a line from Mawlana Jalal-ud-Din Muhammad Rumi's poem: "Away, beyond all concepts of wrong-doing and right-doing, there is a field. I'll meet you there".
+
+
+QUESTIONS
+q: What was Janardan's name changed to?
+a: ['Jordan']
+
+q: Who was Heer already arranged to marry?
+a: ['Jai']
+
+q: Whose fame did the star chase after?
+a: ['Jim morrison']
+
+q: Who did Janardan fall in love with?
+a: ['Heer']
+
+q: Where did Jai live?
+a: ['Italy']
+
+q: Who was the protagonist?
+a: ['Jordan']
+

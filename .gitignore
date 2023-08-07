@@ -4,9 +4,14 @@ __pycache__
 -*
 *.pt
 *~
+*.chroma/
 
 # ignore ALL .log files
 *.log
 
 # ignore ALL files in ANY directory named temp
 temp/
+
+# RecallM
+/recallm/api_keys.json
+/recallm/NEO4J_ERROR_LOG.txt

@@ -1,0 +1,28 @@
+PARAGRAPH
+Adam and Paul are childhood friends who as adults have withered into two hopeless, desperate addicts, tied together by habit and necessity. The film is a stylised, downbeat comedy, following the pair through a single day, which, like every other, is devoted to scrounging and robbing money to buy heroin.
+Adam and Paul wake up sick in the middle of a field with Adam glued to a mattress. They make their way into town via a run-in with a terrified and terrifying drug dealer named Martin in Flat 63 of a tower block in Ballymun, a hasty exit from the top deck of a bus, a long trudge down the median of a dual carriageway and an incident with a moped that injures Paul's leg. Wandering through St Stephen's Green they meet their old gang who are drinking cans and having "a little picnic for the kiddies". Made feel unwelcome, the boys sit down to a roasting from Marian and Orla who are furious with them for not turning up that morning to the month's mind of Matthew, the boys' best friend and Orla's brother. Marian, backed by her brother Wayne, warns them to stay away from his sister, Janine. To the disgust of Wayne and the girls, Georgie lets slip that there is a "do" on for Matthew that night in the Bunker pub.
+From here we follow the boys aimlessly wandering around the city looking for an unknown personâperhaps a contact that might be able to sort them out with a fix. They have a misunderstanding with a homeless guy in a sleeping bag who thinks they're looking for a local troublemaker under the alias of "Clank" who he mistakenly gathers owes them money. Paul hurts his hand in a botched attempt at a smash and grab; they get kicked out of a cafÃ© for trying to steal a handbag and Paul gets barred from a shop for "feelin' bread". After a random argument with a Bulgarian immigrant (who asks them infuriated "Why the fuck, are you here?"), and failing to get anywhere in their search for drugs, they make their way to Janine's. She is not home but the door is left open. The boys are just about to steal her telly, when they hear the sound of a baby crying. Janine returns home to find the two gently holding and whispering to the baby. They leave Janine with the promise that they will see her again that night at the Bunker.
+The pair mug an adolescent with Down syndrome, but he does not have any cash or valuables. Later, a furious man grabs them, accusing them of spreading rumours that he owes them money. He identifies himself as Clank. Clank and his friend Zippy kidnap the two and force them to keep a lookout for trouble while they "cause a bit of mayhem" in a nearby garage with baseball bats. Adam and Paul fail to notice the arrival of police and both Clank and Zippy are arrested.
+The pair decide to take Clank's car to a fence, but crash in the process. Sitting on an old cooker down a back lane, they come across a flat-screen TV. They and Kittser, a stolen goods merchant, take the telly to Ballymun and attempt to sell it to an older man. But Kittser and the buyer argue and the telly gets damaged, forcing the again hopeless depressed Adam and Paul to leave. On the way out they pass the door of drug dealer Martin who is being raided by a gang of vigilantes. As the two sit outside the block, the contents of Martin's flat are thrown off of his tower block and land on the ground around the boys including two bags of heroin.
+After spending the night in the centre of Dublin intoxicated on their find, Paul wakes up the next morning on Dublin Bay. Adam, who is lying behind him, has overdosed and is dead. Paul, visibly distraught and conflicted, resigns to taking the two bags of heroin from Adam's pockets and leaving.
+
+
+QUESTIONS
+q: What bridge was one scence shot?
+a: ['The bridge in which one scence shot was Millennium bridge.']
+
+q: What have Adam and Paul run out of?
+a: ['Adam and Paul ran out of heroin.']
+
+q: What is Adam and Paul hooked on?
+a: ['heroin']
+
+q: How long does the film follow Adam and Paul?
+a: ['The film follows Adam and Paul for one day.']
+
+q: Where are Adam and Paul located?
+a: ['Adam a Paul are located in Dublin.']
+
+q: What is this film a testament to?
+a: ['Drug addiction']
+

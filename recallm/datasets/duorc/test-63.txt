@@ -1,0 +1,32 @@
+PARAGRAPH
+Huey, Dewey and Louie Duck are enjoying a swim in the lake. But they are being watched by Truant Officer Donald Duck.
+He captures the nephews and drives them to the schoolhouse in his truant officer van. While he endlessly goes on about the importance of a good education, the boys pull out their pocket knives, managing to cut themselves out of the van and make a run for it. Donald notices the back of his van is gone and he chases the boys to their clubhouse.
+Donald tries numerous ways to get in, but each attempt fails miserably. In one attempt, he jacks up the clubhouse to load onto his van, but the boys manage to reverse the jack so it comes back down on top of Donald. He tunnels out and decides as a last resort to smoke the boys out. Meanwhile inside the clubhouse, the boys are cooking three chickens over the fire when suddenly they notice smoke pouring in. They decide to beat Donald at his own game by putting the chickens in the bed and escape through the roof. Donald peaks inside to see if his ploy had worked, and is horrified to see the chickens in the bed.
+Donald is very beside himself as he thinks he cooked the nephews alive. Then, Huey disguises himself as an angel and is lowered into the clubhouse. He manages to kick Donald in the rear. The second one causes him to fall and his disguise falls off. Donald finally captures them and takes them to school. But in a twist ending, as they reach school, Donald is shocked when he notices that school is closed for the summer holidays. The nephews give him an angry glare and Donald literally shrinks from embarrassment over his mistake.
+
+
+QUESTIONS
+q: where is Huey,Dewey, and Louie ?
+a: ['In the clubhouse']
+
+q: when Nephews ecape from the cardboard box, what Donald soon finds out ?
+a: ['that he thinks he cooked his nephews']
+
+q: why donald places them back in the back ?
+a: ['of a van']
+
+q: What did boys decided to do to Donald?
+a: ['beat him at his own game']
+
+q: why The boys decide to prank Donald ?
+a: ['because he was being mean to them']
+
+q: what did donald apprehends the boys ?
+a: ['Because it was time to go to school']
+
+q: what boys did from a hole in the ceiling ?
+a: ['Huey, Dewie, and Louie']
+
+q: Where did Donald marched the boys?
+a: ['school']
+

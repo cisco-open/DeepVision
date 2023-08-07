@@ -1,0 +1,17 @@
+PARAGRAPH
+Melissa Morris (Emily Osment) desperately tries to gain more attention from her always preoccupied father, Neal, a best-selling author (George Newbern). Melissa lives in the shadow of Tripp Zoome (Jonathan Keltz), the adventurous and clever hero from her father's popular spy novels. Before a long overdue father-daughter vacation, her father gets kidnapped by obsessive fans: Wheeze (David Henrie) with his friend, Sheldon (Denzel Whitaker) and his brother, Andre (MoisÃ©s Arias).
+However, the tables turn when she must team up with them to find and rescue him from Merv (Jason Earles) and his brothers, Maurice (Phill Lewis) and Skunk (Charles Halford). It turns out Merv is just using Skunk and Maurice as part of a plan to get Neal to write one final book and uses his daughter as a hostage. Wheeze, Andre and Sheldon get all of the Trip Zoome fans in town to gather together to rescue Melissa and Neal and they attack when Melissa manages to signal them.
+The fans attack Merv, Maurice and Skunk and they try to run but are stopped by more fans. Merv sneaks out with Neil while Skunk and Maurice go after Melissa who escapes. Melissa defeats them and ties them up. Merv nearly gets away, but Sheldon, who had been trying to find where everyone went, spots him and alerts everyone else. Neil is rescued, but Merv tries to get away.
+As he runs, Skunk and Maurice, still tied up, come out and see this and, regretting what they've done, use the floss they're bound in to trip Merv, knocking him down and ending his escape. The police arrest Maurice, Merv and Skunk while Neil thanks his fans. Wheeze gives his number to Melissa before she and her father leave on their long-overdue vacation.
+
+
+QUESTIONS
+q: Who is the hero in Neil's popular spy novels?
+a: ['Tripp Zoome (Jonathan Keltz)']
+
+q: What is Melissa's father's name?
+a: ['Neal']
+
+q: Who are the obsessive fans that kidnap Neil the first time?
+a: ['Wheeze (David Henrie) with his friend, Sheldon (Denzel Whitaker) and his brother, Andre (Moiss Arias)']
+

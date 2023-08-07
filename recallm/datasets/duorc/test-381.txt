@@ -1,0 +1,29 @@
+PARAGRAPH
+A man walks into a church that is filled with worshipers, all holding candles and staring at a sculpture at the front altar. He steps forward and observes a white statue of the Virgin Mary, with two streams of red tears flowing out of its eyes. As another priest greets him, you learn that the man is Father Andrew Kiernan, an investigator sent from the Vatican to determine the validity of divine occurrences. The priest explains to Father Kiernan that the tears began flowing when Father Almedia died; his body still on display in a coffin to the side of the statue. While Father Kiernan takes pictures and samples of the liquid, a small young boy steals the rosary wrapped around Father Almedia's hands in the coffin.In a local market, the boy sells the rosary to an older white woman, while a local stall vendor warns them that it isn't right to steal from the dead.In Pittsburg, Frankie Paige (Patricia Arquette) lives a fast and free lifestyle, working at a hair salon and partying with her friends at clubs. After a long night of partying, she wakes up to a phone call from her mother. Her mom was the lady at the Brazilian market, and had sent Frankie a package of trinkets and gifts from her travels - the rosary among the presents. Frankie gives the gifts a cursory look, and stares at the rosary after she hangs up the phone. While examining the rosary, she suddenly feels extremely nauseous and vomits.Meeting up with her friend before they head to work, they both consider the possibility that Frankie is pregnant. After a day at the salon, Frankie relaxes at home in a hot bath. Suddenly, a dove flies frantically around her apartment, and Frankie is suddenly thrown under the water in the bath, struggling with an unseen force. Flashes between nails being driving into a man's wrist, and wounds developing on Frankie's fill the screen.Her friend finds her at home in the bath with blood everywhere, and rushes her to the hospital. While a surgeon attempts to sew up the two wounds, she explains that they look like they were done by a single sharp object driven through her wrists. The staff believes they are self-inflicted, though Frankie denies it.Back in Rome, Father Kiernan comes back to give in his report about a Virgin Mary sighting in a wall in Brazil. He mentions the statue that he discovered, but is quickly directed to drop the subject by the head priest. Frustrated, the Father accepts the church's decision.Frankie and her friend are riding the subway home, when Frankie suddenly stands up from her seat to confront a priest at the end of the car. She asks the man if he is Andrew, and when he replies no, she swears, and suddenly the train runs wild. Passengers are thrown around the car, while Frankie is now being whipped on the back by an unseen force. Finding herself again at the hospital enduring rigorous tests, the doctors finally conclude that she may have a case of epilepsy. While leaving the hospital, the priest from the subway meets her in the waiting room, hands her his card, and says that when she is up to talking to him, he wants to ask her about "stigmata."News of Frankie's "attacks" have made the papers, and the Vatican has decided to send Father Andrew Kiernan to Pittsburg, and investigate the occurrences. He is told to quiet the situation, and defuse any rumors of stigmata. Upon arrival, there is an instant connection between himself and Frankie. They have a coffee at the diner, while Father Andrew starts the interview. After Frankie explains that she isn't religious, and doesn't even believe in God, Father Andrew explains that what is happening cannot be stigmata, as it only afflicts the extremely devout. After showing the wounds on her wrist that still haven't healed, he looks confused, but still does not relent. Frankie storms out, frustrated that this glimmer of explanation and hope did not amount to anything.That night, Frankie meets her friend at their usual club. She is clearly distressed - feeling that God is doing this to her, and that she just wants everything to stop. After her friend tells her that she is losing it, Frankie storms off only to be halted by another attack - this time scratches and slashes on her forehead. Bloody and hurt, she runs from the club in the rain. She reaches her apartment door, and sees Father Andrew ringing her bell. He sees her, but Frankie runs. Father Andrew discovers her crouching on a car in an alleyway, scratching symbols into the paint with a broken bottle. He walks towards her, and Frankie stands up bellowing something in a foreign language in a man's voice. She collapses, and Father Andrew carries her into her apartment. Father Andrew calls his friend in Rome and replays the phrase Frankie yelled - the friend explains that it is an ancient dialect of Aramaic - the language of Jesus.
+
+
+QUESTIONS
+q: Who was sent for investigation?
+a: ['Father Andrew Kiernan']
+
+q: Where does Frankie Paige live?
+a: ['Pittsburg']
+
+q: Whom does Frankie attempt to seduce?
+a: ['Andrew']
+
+q: What is the language that Frankie writes on her wall?
+a: ['Aramaic']
+
+q: What does Father Andrew Kiernan investigate?
+a: ['The vadality of divine occurances']
+
+q: Who was attacked?
+a: ['Frankie']
+
+q: What does Frankie smash and use to carve symbols in the hood of a car?
+a: ['Bottle']
+
+q: What does Frankie do when Andrew rejects her?
+a: ['she attacks him and denounces his beliefs in a male voice']
+

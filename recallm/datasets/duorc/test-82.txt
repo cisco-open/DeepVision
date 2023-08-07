@@ -1,0 +1,20 @@
+PARAGRAPH
+Starting from a relationship marked by taboos of incest and homosexuality, this film presents a manifesto for freedom in a world full of prejudice and oppression.This is a story of possible unconditional love set in a violent and intolerant world.Julieta (Julia Lemmertz) is a physician and mother of Francisco (played by Lucas Cotrim as a child and by João Gabriel Vasconcellos as an adult), the result of her relationship with the Argentine Pedro (Jean-Pierre Noher). After the separation, she knows the architect Alexandre (Fábio Assunção), with whom she has another son, Thomás (Gabriel Kaufman / Rafael Cardoso). By creating the boys together, Julieta is the first one to realize that the affection shown by the two brothers is characterized by a strong passion.In its very first scene, 'From Beginning to End' already reveals its intentions: sitting on a bench in a maternity hospital, the six year-old boy, Francisco, is led by a nurse to a nursery where, through a window glass, he sees by the first time his brother Thomás. Until then, the baby had kept her eyes closed and finally opens them up to gaze at Francisco, exactly the man that is going to mark the rest of his life.Pedro is the first one to notice the special relationship between the two brothers, when the two kids go to Buenos Aires to spend Christmas together with the Argentinian. Pedro tells Julieta about the great intimacy between the kids, but the mother was not alarmed : she already knew the affection that binds the children and is not dismayed.Built gradually, through small events, the relationship between the brothers is only possible thanks to Julieta, which becomes the mainstay of the relationship. Rosa (Louise Cardoso) is the friend, housekeeper and the nanny of the two boys therefore she shares the family routine.Milestones in the life of the brothers end up consolidating their relationship. The death of Pedro, for example, when Francisco and Thomás are still boys, fact which leads them back to Buenos Aires. And, most crucial, when the movie takes a leap of 15 years until the death of Julieta, when they are already adults. The pain of their loss makes them closer and at this moment the audience becomes witness to the love relationship between them.One of the major trials that they must face is when Thomás, expert swimmer, receives an invitation to train for three years in Russia, in preparation to compete in the Olympics. Initially reticent, he is eventually convinced by his brother to invest in his future.The separation is painful, and while Thomás applies himself in training, Francisco undergoes a period of trials and tribulations. He meets a girl at a club and tries to start a relationship with her, but love for his brother prevails. At the end of the movie, he flies to Russia to meet with his beloved brother.
+
+
+QUESTIONS
+q: What year is Thoms born?
+a: ['1986']
+
+q: What year did Julieta die?
+a: ['2008']
+
+q: Where does Julieta work?
+a: ['working in a hospital emergency department.']
+
+q: Who is Thom's brother?
+a: ['Francisco']
+
+q: Who is Thoms's brother?
+a: ['Francisco']
+

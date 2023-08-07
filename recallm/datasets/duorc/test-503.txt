@@ -1,0 +1,43 @@
+PARAGRAPH
+On June 17, 1972, a security guard (Frank Wills, playing himself) at the Watergate complex finds a door kept unlocked with tape. He calls the police, who find and arrest five burglars in the Democratic National Committee headquarters within the complex. The next morning, The Washington Post assigns new reporter Bob Woodward (Robert Redford) to the local courthouse to cover the story, which is thought to be of minor importance.
+Woodward learns that the five men, four Cuban-Americans from Miami and James W. McCord, Jr., had bugging equipment and have their own "country club" attorney. At the arraignment, McCord identifies himself in court as having recently left the Central Intelligence Agency and the others also have CIA ties. Woodward connects the burglars to E. Howard Hunt, a former employee of the CIA, and President Richard Nixon's Special Counsel Charles Colson.
+Carl Bernstein (Dustin Hoffman), another Post reporter, is assigned to cover the Watergate story with Woodward. The two are reluctant partners, but work well together. Executive editor Benjamin Bradlee (Jason Robards) believes their work is incomplete, however, and not worthy of the Post's front page. He encourages them to continue to gather information.
+Woodward contacts "Deep Throat" (Hal Holbrook), a senior government official, an anonymous source he has used in the past. Communicating through copies of The New York Times and a balcony flowerpot, they meet in a parking garage in the middle of the night. Deep Throat speaks in riddles and metaphors about the Watergate break-in, but advises Woodward to "follow the money."
+Over the next few weeks, Woodward and Bernstein connect the five burglars to thousands of dollars in diverted campaign contributions to Nixon's Committee to Re-elect the President (CRP, or CREEP). Bradlee and others at the Post dislike the two young reporters' reliance on unnamed sources like Deep Throat, and wonder why the Nixon administration would break the law when the President is likely to defeat Democratic nominee George McGovern.
+Through former CREEP treasurer Hugh W. Sloan, Jr. (Stephen Collins), Woodward and Bernstein connect a slush fund of hundreds of thousands of dollars to White House Chief of Staff H. R. Haldemanâ"the second most important man in this country"âand former Nixon Attorney General John N. Mitchell, now head of CREEP. They learn that CREEP used the fund to begin a "ratfucking" campaign to sabotage Democratic presidential candidates a year before the Watergate burglary, when Nixon was behind Edmund Muskie in the polls.
+Bradlee's demand for thoroughness forces the reporters to obtain other sources to confirm the Haldeman connection. When the White House issues a non-denial denial of the Post's above-the-fold story, the editor thus continues to support them.
+At the subtle climax, Woodward again meets secretly with Deep Throat, who finally reveals that the Watergate break-in and cover-up was indeed masterminded by Haldeman. Deep Throat also claims that the cover-up was not to hide the other burglaries or of their involvement with CREEP, but to hide the "covert operations" involving "the entire U.S. intelligence community", and warns that Woodward, Bernstein, and others' lives are in danger. When Woodward and Bernstein relay this to Bradlee, he urges the reporters to continue despite the risk and Nixon's re-election.
+In the final scene, set on January 20, 1973, Bernstein and Woodward type out the full story, with the TV in their office showing Nixon taking the Oath of Office, for his second term as President of the United States, in the foreground. A montage of Watergate-related teletype headlines from the following years is shown, ending with Nixon's resignation and the inauguration of Vice President Gerald Ford on August 9, 1974.
+
+
+QUESTIONS
+q: What does the security guard find at the Watergate?
+a: ['door kept unlocked with tape']
+
+q: What newspaper does Woodward work for?
+a: ['Washington Post']
+
+q: What date was Gerald Ford's inauguration?
+a: ['August 9, 1974']
+
+q: Who gets assigned to the story?
+a: ['Bob Woodward']
+
+q: Who plays Bob Woodward?
+a: ['Robert Redford']
+
+q: Who plays Watergate complex security guard, Frank Wills?
+a: ['Frank Wills', 'Frank Wills, himself']
+
+q: What Florida city are four of the five Watergate burglars from?
+a: ['Miami']
+
+q: Who plays Deep Throat?
+a: ['Hal Holbrook']
+
+q: What does CRP stand for?
+a: ['Committee to Re-elect the President']
+
+q: Who is Woodward's partner?
+a: ['Carl Bernstein']
+

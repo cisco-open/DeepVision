@@ -1,0 +1,23 @@
+PARAGRAPH
+Mona Gray (Jessica Alba) systematically withdraws from life into a world of mathematics after a mysterious mental illness leaves her father (John Shea) incapacitated and a shell of his former self. Forced by her mother to move out on her own, Mona gets a job as a math teacher at an elementary school. There she discovers she has an unorthodox talent for teaching and finds herself thrust back into life again, with children to care for, and a reason to live. Mona takes special interest in one of her students, Lisa Venus (Sophie Nyweide), whose mother is dying of cancer. When fellow teacher Ben Smith (Chris Messina) shows romantic interest in her, Mona reverts to some of her old self-destructive impulses. Eventually, Mona discovers her value in the love she shows her students, and Ben's patience is finally rewarded as the two find love in each other.
+
+
+QUESTIONS
+q: Which subject she teach the movie?
+a: ['Math']
+
+q: Mona gets a job at an elementary school as what?
+a: ['math teacher']
+
+q: Where she gets a job?
+a: ['Elementary school']
+
+q: What was the name of girl in the movie?
+a: ['Mona Gray']
+
+q: Mona discovers that she has an unorthodox talent for what?
+a: ['teaching']
+
+q: What was the occupation of Mona's father?
+a: ['teacher']
+

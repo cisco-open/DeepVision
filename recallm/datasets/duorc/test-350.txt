@@ -1,0 +1,95 @@
+PARAGRAPH
+New York City. Manic songwriter Jack Morell (Steve Guttenberg) (a thin reference to the Village People's founder and composer Jacques Morelli) quits his job at a local record store after one too many insults and demands by his tough-minded and homophobic boss for Jack has gotten a big break to moonlight as the DJ at local disco Saddle Tramps. His roommate Samantha Simpson (Valerie Perrine), a supermodel newly retired at the peak of her success, attends the disco that night and while avoiding advances of the sleazy Saddle Tramps owner Benny Murray (Jack Weston), she sees the response to a song he wrote for her ("Samantha") and agrees to use her connections to get him a record deal.Samantha's connection, ex-boyfriend Steve Waits (Paul Sand), president of Marrakech Records (a reference to Village People record label Casablanca Records), is more interested in getting back with her than in Jack's music and he is more interested in taking business calls from constantly ringing phones than in wooing Samantha (a running gag used throughout the movie), but agrees to listen to a demo.When Samantha decides Jack's vocals won't do, she recruits neighbor and Saddle Tramps waiter/go-go boy Felipe Rose (an Indian), fellow model David "Scar" Hodo (a construction worker, who daydreams of stardom in the solo number "I Love You To Death"), and finds Saddle Tramps regular dancer Randy Jones (a cowboy) on the streets of Greenwich Village, offering dinner in return for their participation.Meanwhile, Simpson's former agent Sydne Channing (Tammy Grimes) orders her long suffering personal assistant, Girl Friday Lulu Brecht (Marilyn Sokol) to attend, hoping to lure the star back. Ron White (Bruce Jenner), a lawyer from St. Louis, is mugged by an elderly woman on his way to deliver a cake Samantha's sister sent, and shows up at Samantha and Jack's apartment angry and on edge. Brecht gets Jack high on pot, which unnerves him when Samantha's best friend and fellow model/dancer Alicia Edwards (Altovise Davis) shows up and brings along singing motorcycle cop Ray Simpson. Jack records the quartet on an upbeat song ("Magic Night"). The uptight Ron, pawed all night by the man-hungry Brecht, is overwhelmed by the culture shock of it all, and walks out.The next day, Samantha runs into Ron, who apologizes, proffers the excuse that he's a Gemini, and follows her home. Spilling leftover lasagna on himself, Simpson and Morell help him off with his trousers before Morell leaves and Simpson and White spend the night. Newly interested in helping, Ron offers his Wall Street office to hold auditions.At the audtions, among dozens of rock star wannabies and lame singing by several audtionees, Glenn M. Hughes, a black-leather clad motorcycle biker (the leatherman) who works as a toll collector at the Brooklyn Battery Tunnel, arrives and accidently stumbles into the auditions where he shows off his talent when he climbs atop a piano for a rendition of "Danny Boy". Glenn and Alex Briley, (a G.I. National Guard soldier), whom works as a stagehand at a theater where Alicia works, join for the team. Now a sextet, they get their name from an offhand remark by Ron's socialite mother Norma (Barbara Rush). Ron's more uptight boss, Richard Montgomery, overwhelmed by the carnival atmosphere, insists the firm not represent the group, and Ron quits.Ron's new idea for rehearsal space is the local YMCA, where a production number set to the song ("YMCA") features its macho athletic denizens in various states of undress.That evening, the group cuts a demo ("Liberation") for Marrakech, but Steve sees limited appeal and Samantha refuses his paltry contract offer. Reluctant to use her own savings, Samantha and her enterouge decide to self-finance by throwing a pay-party.To bankroll the party, Samantha acquiesces to Channing's plea to return for a TV ad campaign for milk, on the condition the Village People are featured. The lavish number ("Milkshake") begins as Samantha pours milk for six little boys in the archetypal costumes with the promise they'll grow up to be the Village People. The advertisers want nothing to do with such a concept, and refuse to air the spot. Norma then steps in to invite the group to debut at her charity fundraiser in San Francisco. Samantha lures Steve by promising a romantic weekend but Ron is taken aback by the inference she'd go through with the seduction, and Samantha breaks up with him.On his private jet, Steve prepares for a tryst but it's Jack and his former chorine mother Helen (June Havoc) who show up, to hash out a contract. Initially reluctant, Helen charms Steve with her kreplach and before long they're negotiating the T-shirt merchandising for the Japanese market.In San Francisco, in the dressing room before the show, Ron is relieved to learn Samantha didn't travel with Steve, and proposes. At one point, Montgomery shows up to rehire Ron as junior partner representing the group. Following a set by The Ritchie Family ("Give Me a Break"), the Village People make a triumphant debut, singing "Can't Stop the Music" to a cheering crowd.
+
+
+QUESTIONS
+q: What was the name of the song that Jack wrote for Sam?
+a: ['("Samantha")']
+
+q: How does the group get their name?
+a: ['Offhand remark by norma']
+
+q: Who does Ron propose to?
+a: ['Samantha']
+
+q: Who is Steve waiting for on his private plane?
+a: ['Samantha']
+
+q: What do the advertiser refuse to do with the TV ad?
+a: ['Air the spot']
+
+q: Who rehires Ron as a junior partner?
+a: ['Montgomery']
+
+q: What is Ron's astrological sign?
+a: ['Gemini']
+
+q: Randy Jones is found on the streets where?
+a: ['Greenwich villiage']
+
+q: What is Glenn's audition song?
+a: ['Danny Boy']
+
+q: Which popular 1970's American Disco group inspired Jack Morell's name?
+a: ["the Village People's"]
+
+q: Who seduces Steve?
+a: ['Samantha']
+
+q: What is the name of the girl friday?
+a: ['LuLu Brecht']
+
+q: Where was Ron's idea for a rehearsal space?
+a: ['YMCA']
+
+q: Who did the group cut a demo for?
+a: ['Marrakech']
+
+q: How are Ron and Richard related?
+a: ["Richard is Ron's boss."]
+
+q: What musical number is playing in the TV ad?
+a: ['Milkshake']
+
+q: Who is "the cowboy"?
+a: ['Saddle Tramps regular dancer Randy Jones']
+
+q: What city is Norma's charity fundraiser in?
+a: ['San Francisco']
+
+q: What is Ron's most likely profession?
+a: ['lawyer']
+
+q: Who's vocals does Sam decide won't do?
+a: ["Jack's"]
+
+q: Who is Ron's boss?
+a: ['Ron White (Bruce Jenner), a lawyer from St. Louis.']
+
+q: Who gets Jack high?
+a: ['Lulu Brecht']
+
+q: What lavish number begins as Sam pours milk for six little boys in the archetypal costumes ?
+a: ['("Milkshake")']
+
+q: What is Glenn Hughes profession?
+a: ['toll collector']
+
+q: What is the name of Steve's record label?
+a: ['Marrakech Records']
+
+q: Who does Sam lure with a romantic weekend?
+a: ['Steve']
+
+q: For what purpose does Channing make a plea to return for a TV ad campaign for milk?
+a: ['On the condition the Village People are featured']
+
+q: What is David Hodo's nickname
+a: ['"Scar"']
+
+q: What music group must be featured in the TV ad?
+a: ['The Village People']
+
+q: The construction worker is whom?
+a: ['David "Scar" Hodo']
+

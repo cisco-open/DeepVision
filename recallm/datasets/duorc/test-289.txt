@@ -1,0 +1,17 @@
+PARAGRAPH
+Set in Zlatibor District, an old man named Å½ivojin MarkoviÄ (Aleksandar BerÄek), living in a remote village prays for his grandson Tsane (UroÅ¡ MilovanoviÄ) to go to the city (UÅ¾ice), sell his cow and bring back a wife. In the city he is supposed to meet up with his grandfather's stepbrother, but this man is dead. Instead, he meets this man's two grandsons, two good-natured brothers who are nevertheless small-time criminals and experts in demolition. Tsane soon clicks with these men, and also falls in love with a schoolgirl (Jasna, played by Marija PetronijeviÄ), who he wants to marry as part of his testament with his grandfather (the other parts of the testament are to bring back an icon and a souvenir, which he should buy with the money he gets from selling the cow). He gets involved in this girl's family affairs, rescuing both her and her mother from prostitution and gangsters headed by a man called Bajo (Miki ManojloviÄ), and the new group of people return to the small village in time to celebrate Å½ivojin's wedding to his neighbor, despite the gangsters' best efforts to stop the celebration, which results in a double wedding .
+
+
+QUESTIONS
+q: where is the story set?
+a: ['Bulgaria']
+
+q: whose mother is a prostitute?
+a: ['Jasna']
+
+q: Who's mother is a prostitute?
+a: ["Jasna's mother"]
+
+q: who does tsane meet in the city?
+a: ["grandfather's stepbrother"]
+

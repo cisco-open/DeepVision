@@ -1,0 +1,67 @@
+PARAGRAPH
+The story takes place at St. Mark's, a Catholic boarding school for girls. One day, a young student, Elizabeth, is studying in a classroom on the third floor when, without warning, she is attacked by unseen evil forces. One of St. Mark's priests, Father Drake, attempts to save Elizabeth from the apparently demonic aggressor, but he quickly proves to be powerless against it, and the girl vanishes without a trace.
+The school is immediately shut down, and all of the students are removed from campus by worried families. Five years later, the school reopens. A harsh headmistress, Miss Pearce, rules the girls with an iron fist; Father Drake remains at the school as a teacher, but, because of Elizabeth's disappearance, he has become a drunkard, and was found by Miss Pearce at a bar. Five troubled and unwanted girls are left by their families at the school: Alex, Mara, Cecilia (who is blind), Leah, and Connie. The girls are strictly forbidden to go to the third floor (the site of Elizabeth's disappearance). Cecilia and Mara enter the third floor, prompting Miss Pearce to punish the responsible party. Alex takes the blame and is severely beaten with a ruler.
+Alex begins to have visions of Elizabeth being possessed by a demon. Other strange things begin to happen, revealing that all five girls possess supernatural gifts. Connie is a "conduit", or a magnet for spirit activity, Leah can pass through objects (though not doors or walls), Cecilia has "second sight" or what the viewer could interpret as ESP, Mara can heal recent wounds (she heals Alex after her beating), and Alex has telekinesis.
+It is revealed that Miss Pearce has brought the girls to the school for a very specific reason and is seen conjuring them to a pentagram on the third floor, after which Connie appears to be possessed. Connie attempts to drown Leah and the demon passes into her while Connie falls dead. The possessed Leah (who can now pass through doors) goes to confront Father Drake, at which time the name of the demon is revealed: Legion. They argue, Father Drake attempts to exorcise her, and Leah uses her newfound demon powers to stab him with gold crucifixes. Alex, Mara, and Cecilia have been reading Elizabeth's journal, which appeared after Connie's possession, and have learned enough about Legion to know that they need to escape. They split up to search for the others, Mara finding Father Drake, Alex finding Connie, and Cecilia running into the demon.
+After a prolonged fight where Cecilia is severely bloodied and Leah's head is smashed in with a book, Legion moves on to Cecilia and grants her "first sight". Terrified, Mara and Alex try to flee, but Ms. Pearce locks them in and breaks Mara's healing hand. It is revealed that Ms. Pearce is Elizabeth's sister, and is trying to save her from Legion. Mara and Alex then hole up in the bedroom and use Connie's spellbook to create a protective circle. Cecilia/Legion finds them and, while she cannot initially penetrate the circle, uses her own blood to cover over the lines and then possesses Mara.
+Miss Pearce is in another part of the building, chanting. Elizabeth's body slowly begins to appear before vanishing again. Mara is chasing Alex, who gets stabbed in the stomach. Miss Pearce begs Legion to let Elizabeth go, but is told that they only have four girls and the deal was for five. Alex then uses her own powers of telekinesis to force Legion out of Mara and into Miss Pearce before ramming the demon's head through a crucifix. Mara and Alex collapse and, presumably several hours later, Mara awakes and heals herself, but is unable to heal Alex in time. She begins to leave and encounters Virgil (a man in monkish robes, who appears to be a type of groundskeeper and is seen briefly throughout the movie). Elizabeth comes running down the stairs, whole and alive, and greets him as father (cue Mara's exit). He is happy and excited, until a bloody Miss Pearce grabs him by the throat and transfers Legion to him. Elizabeth screams and cries as the film ends.
+
+
+QUESTIONS
+q: Which student is blind?
+a: ['Cecilia.']
+
+q: Who is the headmistress of the school?
+a: ['Miss Pearce.']
+
+q: What power does Alex have?
+a: ['telekinesis.']
+
+q: Who tries to save Elizabeth?
+a: ['Miss Pearce by attempting to offer the girls in exchange for her sister, Elizabeth.']
+
+q: Who does Alex force Legion into?
+a: ['Miss Pierce']
+
+q: What does a possessed Connie try to do to Leah?
+a: ['drwon her']
+
+q: What does the possessed Connie  attempt to do?
+a: ['Drown Leah']
+
+q: What is the name of the demon?
+a: ['Legion']
+
+q: When the demon possesses Leah, what can it do?
+a: ['Pass through doors']
+
+q: What happens to Elizabeth?
+a: ['attacked by evil forces']
+
+q: What does Leah use to stab Father Drake?
+a: ['gold crucifixes']
+
+q: How does Leah use her new found demon powers?
+a: ['stab father drake with a crucifix']
+
+q: Who is seen conjuring the girls to a Pentagram on the third floor?
+a: ['Alex']
+
+q: How does Elizabeth great  Virgil as she comes running down the stairs?
+a: ['as father']
+
+q: What is St. Marks?
+a: ['place']
+
+q: What does Legion grant Cecilia?
+a: ['first sight']
+
+q: What is the name of the school where the movie takes place?
+a: ["St. Mark's"]
+
+q: Who is revealed as having ESP?
+a: ['Cecilia']
+
+q: When did St. Marks reopen after being shut down?
+a: ['Five years later']
+

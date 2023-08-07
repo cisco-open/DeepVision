@@ -1,0 +1,41 @@
+PARAGRAPH
+Rizwan Khan (Tanay Chheda) is a Muslim child who grew up with his brother Zakir and his mother Razia Khan (Zarina Wahab) in a middle-class family in the section of Mumbai. Rizwan is different from other children, however. He has certain gifts, particularly a special ability to repair mechanical things. His difference leads to special tutoring from a reclusive scholar and extra attention from his mother, both of which lead to heightened jealousy from his brother Zakir, who eventually leaves his family for a life in the United States.
+Despite this resentment, as an adult Zakir (Jimmy Shergill) sponsors Rizwan (Shah Rukh Khan) to come and live with him in San Francisco after the death of their mother. It is at this time that Zakir's wife, Haseena, a psychologist, diagnoses Rizwan with Asperger's syndrome. Despite his limitations, Rizwan begins to work for Zakir as a sales rep for Zakir's company, a skin care product line. In the process he meets a Hindu woman, Mandira (Kajol) and her young son, Sameer from a previous marriage. Mandira owns a successful high-end salon and is drawn to Rizwan's vulnerable honesty. Despite Zakir's hostility to the match and that it is forbidden for a Muslim man to marry a woman from religions other than from other Abrahamic faiths, Khan and Mandira marry and settle down in the fictional town of Banville. They live next door to Mark and Sarah Garrick and their young son, Reese. Both Mandira and Sameer take Rizwan's last name as their own.
+The Khans' perfect existence gets disrupted, however, after the September 11 attacks on New York City. Mark, a journalist, is sent to cover the war in Afghanistan and dies there, much to both Sarah and Reese's distress. At the same time, the Khan family begins to experience hostility in their community, as well as other Muslims too and Reese begins to turn against Sam as well. One afternoon, an argument between them turns into a racially motivated schoolyard fight between Sameer and a gang of older students. Reese, acting on behalf of Sameer, tries to stop the fight, but is held back and Sameer, who pushes the gang to their temper by swearing at them, is finally finished off when a gang member kicks a soccer ball at him. Sameer later dies from his injuries. The gang then silences Reese by threatening to beat him up if he tells the authorities about it. A shattered Mandira blames Rizwan for Sameer's death, stating that Sameer "died only because his name was Khan." She then tells Rizwan that she no longer wants to be with him. When he asks her what he has to do to be together with Mandira, she sarcastically tells him that he has to tell the people of the United States and the President that his name is Khan and that he is not a terrorist.
+Rizwan takes Mandira's request seriously, and thus sets out on a journey that takes him from one US state to another, in order to first meet President and later the new President-elect. During this quest, he travels to Wilhemina, Georgia and befriends Mama Jenny and her son Joel. It is revealed that Mama Jenny's husband, Joel's father, who was a U.S Army soldier, also died in the war in Afghanistan. Later, in Los Angeles, he prays in a mosque and overhears violent rhetoric from Dr. Faisal Rahman. He reports this to the FBI but there is no response at that moment. Later, while waiting in a crowd to meet President George W. Bush and repeating again and again, "My name is Khan and I am not a terrorist," Rizwan is arrested and placed in a prison by police who misinterpret his statement thinking he said he was a terrorist.
+While in the prison he is interrogated as a terrorist suspect and meets the psychiatrist Radha who believes he is innocent. He is later released after a media campaign by some Indian student reporters Raj, Komal and Bobby Ahuja who prove his innocence by unearthing his attempts to inform the FBI about Faisal Rahman. After his release, he returns to hurricane-hit Wilhemina to help Mama Jenny and her son. His efforts attract media attention and numerous Muslims come to help as well, including Zakir and Haseena.
+At the same time, a remorseful Reese confesses to Mandira and reveals the identities of the gang who killed Sameer. Mandira then simply says that it is still not enough. She then informs Detective Garcia who has been assisting her on the case, and Detective Garcia arrests the gang. Mandira later gets a call from Sarah to forgive Rizwan, "I've lost my husband; don't lose him."
+Mandira realises her error, she joins Rizwan in Georgia, and their love rekindles. However, at the moment she arrives, Rizwan is stabbed by one of Dr. Faisal Rahman's followers, who accuses him of being a traitor to Islam, and Rizwan is rushed to the hospital. With Mandira's help, Rizwan survives and meets President-elect Barack Obama who tells him, "Your name is Khan and you are not a terrorist". The film concludes with Rizwan and Mandira going back home.
+
+
+QUESTIONS
+q: who is a Muslim child?
+a: ['Rizwan Khan']
+
+q: who having Asperger's syndrome?
+a: ['Rizwan Khan']
+
+q: Rizwan begins to work for Zakir as what?
+a: ['A sales rep']
+
+q: who grew up with his brother Zakir and his mother ?
+a: ['Rizwan Khan']
+
+q: Who is a Musolin child who grew up with his brother Zakir and his mother (Zarina Wahab)?
+a: ['Rizwan kahn']
+
+q: A shattered Mandira blames Rizwan for who's death?
+a: ['Sameer']
+
+q: who is different from the other children ?
+a: ['Rizwan Khan']
+
+q: Rizwan Khan's difference leads to special what?
+a: ['Special tutoring and extra attention from his mother']
+
+q: Rizwan Khan has a special ability to repair any what that is broken?
+a: ['Mechanical things']
+
+q: Zakir's psychologist wife diagnoses Rizwan as having what?
+a: ["Asberger's syndrome"]
+

@@ -1,0 +1,32 @@
+PARAGRAPH
+Former President of the United States Monroe "Eagle" Cole retires to his vacation home in the town of Mooseport, Maine to escape the clutches of ex-wife Charlotte. Harold "Handy" Harrison is the local plumber of Mooseport, who also owns a hardware store.
+Following the death of the town mayor, the town council decides to approach former president Cole about running for the office. Cole agrees because, as it turns out, if he holds the office, his Mooseport house can serve as his office and, therefore, can no longer be divided up or sold off in his divorce settlement. Unbeknownst to Harrison, his name has also been entered into the race. When Harrison finds out Cole is running, he decides to step down, until he notices an unwitting Cole make a pass at Handy's girlfriend of six years, veterinarian Dr. Sally Mannis, who recently broke up with him because he was taking the relationship too slow and had not yet proposed marriage to her. Handy believes that, by becoming mayor, he can show Sally he is a responsible decision maker and win her back.
+Tensions rise following the arrival of ex-wife and Cole campaign spoiler Charlotte. Cole's team, led by long-time executive secretary and eventual love interest Grace Sutherland and presidential aide Will Bullard, bring in the big guns in the form of campaign strategist Bert Langdon, who becomes Cole's campaign manager as he complains of a boring life since Cole retired from the presidency. As the campaigns progress, Cole and Harrison each become obsessed with winning the race at all costs, although Harrison refuses to resort to any dirty tricks, making Cole realize that in all his years of running for elections this may be his toughest as he is taking on an honest man.
+Eventually, on the night before the election, both candidates (for different reasons - Cole is trying to get sympathy votes, Harrison just wants to end all of this and is confident Cole would be a good mayor) urge the voters to vote for the other candidate by saying that neither of them will vote for themselves. Harrison fulfills his promise, but Cole votes for himself anyway. Upon the revelation that Cole won by one vote, his conscience gets the better of him and he concedes the match to Harrison. However, Harrison lies that he voted for himself as well, and declines office, so Cole ends up as mayor once again. Harrison then reveals to Sally that he conceded the election because Cole needs the mayorship more than he does and that all he really wanted was to propose marriage to her, which he does. As Handy is proposing to Sally, Monroe also proposes to Grace. The film ends with Bert Langdon telling Handy that he ran an excellent campaign and offers to be his campaign manager for Governor of Maine, which Handy jokingly shows some interest in when he realizes a governor has certain authority over mayors.
+
+
+QUESTIONS
+q: what is the name of the town that monroe moves to?
+a: ['Mooseport']
+
+q: what kind of store does harold harrison own?
+a: ['hardware store']
+
+q: what is monroe coleus nickname?
+a: ['Eagle']
+
+q: what positio is he asked to run for in mooseport?
+a: ['Mayor']
+
+q: who asks monroe cole to run for mayor?
+a: ['the town council']
+
+q: wherer does cole have to move after his divorce?
+a: ['Mooseport,  Maine']
+
+q: what was monroe's previous occupation?
+a: ['President of the United States']
+
+q: who is cole running against in the mayor race?
+a: ['Harold "Handy" Harrison']
+

@@ -1,0 +1,89 @@
+PARAGRAPH
+The time is the indeterminate future. A virus, deliberately released in 1996 in multiple locations around the world, has killed off five billion people. Survivors have established an elaborate underground civilization because the earth's surface is considered uninhabitable by humans. From time to time prisoners "volunteer" to don protective gear and gather specimens of insects from the surface to test for the presence of the virus.One such prisoner is James Cole, who after retrieving samples is given the chance to go back in time to 1996 and find information about the group believed responsible, known as "The Army of 12 Monkeys." Throughout the ensuing episodes, Cole finds himself remembering, as if in dreams, various things that he witnessed as a child, including the killing of a man in an airport. This persists as a theme throughout the film.Miscalculation sends Cole to 1990, and he finds himself incarcerated in an insane asylum. His psychiatrist, Kathryn Railly, thinks she has met him before, but his ravings are incoherent to her. Eventually Cole is sent to an insane asylum where he is locked up with other lunatics. There he meets Jeffrey Goines, who is definitely off the wall, but who tries to help him escape, handing him a key to the day room. Cole is quickly recaptured and restrained in an isolation room. When Railly & her boss, Dr Fletcher, enter the room to check on Cole, he has vanished, snatched back to his present time by the scientists who sent him there. He is interrogated and given a second chance to complete his mission. A second miscalculation sends him to the battlefields of World War I, where he is wounded in the leg. As he crawls around naked and in pain from his wound, he is suddenly propelled into the future.Arriving in 1996, Cole kidnaps Dr. Railly and tries to convince her that he is from the future. He finds that Jeffrey Goines, whose father is a famous virologist, is now out of the asylum, working for his father, and has formed "The Army of 12 Monkeys." Cole is now racing against time, and after a few mishaps, finally decides that he wants to stay in 1996 with Dr. Railly, surrendering to the inevitable destruction of human life.They travel to Philadelphia, eventually finding a shabby storefront, the headquarters of Jeffrey Goines' Army of the 12 Monkeys. The organization claims they've severed their ties with Jeffrey because he'd become too unpredictable and radical.By this time, Dr. Railly has become convinced that somehow Cole knows something--his predictions of the outcome of minor events is too uncanny. The discovery of a World War I bullet in Cole's leg forces her to check a photograph from her own research, taken on the battlefield which, impossibly, shows Cole in the trenches. She becomes convinced that "The Army of 12 Monkeys" indeed poses a threat, and she persuades Cole to take up his cause again.They travel to Jeffrey's father's mansion where Cole ties her up and leaves her in the woods. In the middle of a fundraising dinner, Cole meets with Jeffrey. Jeffrey rambles about how Cole had given him the idea to release a virus that would destroy most of humanity. Cole leaves, chased by security from the mansion and finds Railly in the woods. While he rants about wanting to stay in Railly's time, he suddenly disappears.Railly continues her investigation of the clues Cole was collecting and makes her way to a shabby storefront in the western district of Philadelphia she believes is the headquarters for the Army of the 12 Monkeys. While she pounds on their door, Cole suddenly appears. He's now convinced himself that he is delusional and wants Railly to help him. Inside the storefront, Jeffrey is rambling about how Railly found him, that she must have processed his thoughts through a complex computer system to predict his next location. He and his loyal followers leave with him to carry out their plans.An essential element in the communication between Cole's past and present is a telephone number where he can leave a message for the scientists of his own present. When Goines and his "Army" release all the animals in the zoo to roam the streets of New York, and then posts flyers declaring "We did it!" Cole realizes that the "Army" is not the threat, and he leaves a phone message to that effect. Shortly after, Jose, a fellow "volunteer" from the present, approaches Cole with orders for him to complete his mission and hands him a revolver. Cole initially refuses, but then notices a guard from the present glaring at him. Jose makes it clear Dr Railly will be killed if Cole does not comply.Meanwhile, the police are after Cole for kidnapping Dr. Railly. In an airport, while attempting with Cole to elude capture, Dr. Railly recognizes Dr Peters, a man who worked with Jeffrey Goines's father in the virology lab and "an apocalypse nut". She rushes to inform Cole of this and frantically identifies him, along with his travel plans, with Jose overhearing this. The man goes through airport screening and manages to persuade security that his biological samples--one for each of the many cities on his itinerary--are harmless. Dr. Railly alerts Cole, and they attempt to stop the man. To Dr. Railly's horror, Cole is shot by the police while chasing the real perpetrator, who escapes to board his plane. Cole's death is witnessed by a boy named James, who is with his parents: the young Cole.On the plane, Peters takes his seat and starts a conversation with his fellow passenger. We recognize her as the woman lead scientist from Cole's present. Cole had stated once the virus was located, a scientist would be sent back to study it in its original unmutated form, so that a cure could be developed in the present. She identifies herself as "Jones" and cryptically says she's "in insurance."
+
+
+QUESTIONS
+q: Who is fatally shot by police?
+a: ['Cole.']
+
+q: During what historical period is Cole wounded?
+a: ['21 years']
+
+q: Where does Railly recognize Dr. Peters from?
+a: ['man who worked with Jeffrey Goines\'s father in the virology lab and "an apocalypse nut".']
+
+q: Who is the founder of the Army of the Twelve Monkeys?
+a: ['Jeffrey Goines']
+
+q: What does Jose give to Cole when he confronts him?
+a: ['A revolver']
+
+q: What does Railly confont Cole with?
+a: ['not mentioned']
+
+q: Who gives Cole a handgun?
+a: ['Jose']
+
+q: Who kidnaps Railly from the venue?
+a: ['cole']
+
+q: WHAT IS THE NAME OF THE PERSON SELECTED FOR THE MISSION?
+a: ['Cole']
+
+q: Where does Cole leave the last message for the scientists?
+a: ['On a recorded phone message']
+
+q: What year does the virus wipe out almost all of humanity?
+a: ['1996']
+
+q: What does Jose instruct Cole to do?
+a: ['To complete his mission.', 'Order to complete his mission']
+
+q: Who diagnosed Cole with a mental problem?
+a: ['His psychiatrist, Kathryn Railly']
+
+q: Who did Cole encounter in the mental institution?
+a: ['Jeffrey Goines']
+
+q: Peters is aboard the plane with what?
+a: ['His biological samples.']
+
+q: Who is cole  chasing  ?
+a: ['Peters.']
+
+q: Why does Railly takes Cole to Philadelphia
+a: ['To find the Army of 12 Monkeys']
+
+q: Where does Cole leave his message?
+a: ['Telephone Number']
+
+q: What does Jose give to Cole?
+a: ['Jose gives Cole a gun.']
+
+q: Where did Cole end up the second time he was able to go back in time?
+a: ['battle fields of world war 1']
+
+q: In what year was Cole initially supposed to arrive in Baltimore?
+a: ['1996']
+
+q: What part of the body injured when Cole went back to World War I?
+a: ['leg']
+
+q: Where do Cole and Railly decide to go before the plague?
+a: ['Philadelphia']
+
+q: Where does Cole force Railly to take him to?
+a: ['Philadelphia']
+
+q: who does  cole die near ?
+a: ['A boy named James.']
+
+q: James Cole is a prisoner living in a subterranean shelter beneath what city?
+a: ['not mentioned']
+
+q: IN WHICH YEAR DID DEADLY VIRUS WIPED OUT HUMANITY ?
+a: ['1996']
+
+q: In what year were Cole and Goines in the asylum together?
+a: ['1990']
+

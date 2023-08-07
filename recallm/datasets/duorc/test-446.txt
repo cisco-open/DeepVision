@@ -1,0 +1,110 @@
+PARAGRAPH
+Gay Austrian fashion reporter Brüno is fired from his own television show, Funkyzeit mit Brüno (Funkytime with Brüno) after disrupting a Milan Fashion week catwalk, and his lover Diesel (Clifford Bañagale) leaves him for another man. Accompanied by his assistant's assistant, Lutz (Gustaf Hammarsten), he travels to the United States to become "the biggest Austrian superstar since Hitler".Brüno unsuccessfully attempts an acting career as an extra on NBC's Medium. He then interviews Paula Abdul, using Mexican chairpeople in place of furniture, then produces a celebrity interview pilot, showing him dancing erotically, criticizing Jamie-Lynn Spears' fetus with reality TV star Brittny Gastineau, unsuccessfully stalking and attempting to "interview" actor Harrison Ford, and closing with a close-up of his penis being swung around before his peehole screams then zooming into it. A focus group audience who review the pilot hate it, calling it "worse than cancer". Other advice suggests creating a sex tape, so Brüno interviews Ron Paul (unwittingly "played" by himself) whom Brüno mistakes for drag queen RuPaul. While waiting in a hotel room for a staged technical problem to be fixed, Brüno hits on Paul, who leaves angrily and calls him "queer as blazes".Brüno consults a spiritualist (Gary Williams) to contact the deceased Rob Pilatus of Milli Vanilli for advice, miming various sex acts on the invisible "Pilatus". He consults charity PR consultants Nicole and Suzanne DeFosset to select a world problem to maximize his fame, choosing the Israeli-Palestinian conflict. He flies to Jerusalem to interview former Mossad agent Yossi Alpher and Palestinian politician Ghassan Khatib and confuses hummus and Hamas. In an interview with Israeli and Palestinian professors he sings his own "Dove of Peace" while forcing the two to caress each other's hands. He also meets with Ayman Abu Aita, subtitled as "terrorist group leader, Al-Aqsa Martyrs' Brigades" in a location described as a Palestinian refugee camp in Lebanon (actually a restaurant near Bethlehem), where he hopes to be kidnapped.[4][5] Brüno insults Abu Aita's hair then says that "King Osama" looks like a dirty wizard or a homeless Santa Claus. Abu Aita's translator orders Brüno to leave. He stops off in Nairobi to pick up a few things, including a child, saying he is "black gold".Brüno interviews parents of child models, asking if their children would be ready to lose a lot of weight, undergo liposuction, be near "antiquated heavy machinery" or "amateur science", or be dressed in Nazi uniforms. On a talk show hosted by Richard Bey, he shows the African American audience a baby named O.J., whom he acquired in Africa by "swapping him" for a U2 Product Red iPod. He shows photographs of the boy covered with bees, on a crucifix and in a jacuzzi next to adults in a 69 position. The audience is appalled and social services take the baby from Brüno, driving him to depression, later found at a diner gorging on high-carb junk food. Lutz carries him back to a hotel room. After a night of sex, they awake to find themselves trapped in a bondage mechanism, unable to find the key. They call a hotel engineer for help and are asked to leave. After accosting a group of anti-gay protesters from the Westboro Baptist Church while still in bondage gear and boarding a bus, Brüno and Lutz remove their equipment at Madison County Office of Alternative Sentencing and Release in Huntsville, AL [6] after being arrested. Lutz says he loves Brüno but Brüno tells him he does not love him, having been influenced by "carb goggles". Lutz leaves Brüno.After realizing the biggest names in Hollywood are straight (citing Tom Cruise, Kevin Spacey and John Travolta), Brüno consults two Christian gay converters to help him become heterosexual. He attempts activities, such as joining the National Guard, going hunting in Alabama, learning karate and attending a swingers party at which he is whipped by a dominatrix (Michelle McLaren). These attempts end miserably due to Bruno's failure to keep his gay traits hidden, but he vows to become straight.Eight months later, a now-heterosexual Brüno, under the alias "Straight Dave", hosts a cage-fight match in Arkansas, "Straight Dave's Man Slammin' Maxout". Lutz appears at the event and calls Brüno a faggot. The two fight, only to rekindle their love, making out and stripping in front of the spectators who throw objects into the cage. The clip gets international press and the now-famous Brüno attempts to marry Lutz and get O.J. back in exchange for a MacBook Pro. Brüno records a charity song, "Dove of Peace", featuring Bono, Elton John, Chris Martin, Snoop Dogg, Sting and Slash at Abbey Road Studios.
+
+
+QUESTIONS
+q: What does Paul call Bruno when leaving the hotel room upset?
+a: ['Queer as blazes']
+
+q: Who does Bruno interview?
+a: ['Paula Abdul']
+
+q: What is Bruno's alias after he turns straight?
+a: ['Straight Dave']
+
+q: Who carries Bruno back to the hotel room?
+a: ['Lutz']
+
+q: Who does Bruno want the spiritualist to contact?
+a: ['the deceased Rob Pilatus of Milli Vanilli', 'the deceased Rob Pilatus of Milli Vanilli for advice']
+
+q: Where is Bruno Gehard from?
+a: ['Fance']
+
+q: Who does Br_no first interview?
+a: ['Paula Abdul']
+
+q: What does the focus group reviewing Bruno's pilot call it?
+a: ['Worse than cancer']
+
+q: Who does Bruno mistake Ron Paul for?
+a: ['RuPaul']
+
+q: Who was interviewing parents of hte child?
+a: ['Brüno', 'Brno']
+
+q: What is title of Bruno's charity song?
+a: ['"Dove of Peace" is the title of his charity song.', '"Dove of Peace"']
+
+q: Who calls Bruno a faggot?
+a: ['Lutz']
+
+q: Why does Bruno want Rob Pilatus contacted?
+a: ['To ask for advice']
+
+q: Who does Bruno criticize Jamie-Lynn Spears' fetus with?
+a: ['Brittny Gastineau']
+
+q: What does Br_no want to become?
+a: ['He wants to become the biggest Austrian superstar']
+
+q: What does Bruno use instead of chairs when interviewing Paula Abdul?
+a: ['Mexican chairpeople']
+
+q: Who carried Bruno back to a hotel room?
+a: ['Lutz']
+
+q: What is the name of the Palestinian politician?
+a: ['Ghassan Khatib']
+
+q: Where does Bruno fly to?
+a: ['Jerusalem']
+
+q: Who was hosting the talk show?
+a: ['Richard Bey']
+
+q: Who does Bruno claim to mistake Ron Paul for?
+a: ['him for drag queen RuPaul']
+
+q: Who gets fired?
+a: ['Gay Austrian fashion reporter Brno is fired from from his own television show', 'Brüno Gehard']
+
+q: What does Bruno confuse Hamas with ?
+a: ['hummus', 'he  confuses hummus and Hamas']
+
+q: What does Bruno do in Nairobi?
+a: ['to pick up a few things, including a child, saying he is "black gold"', 'pick up a few things, including a child']
+
+q: Does Bruno mime the playing of a drum or various sex acts on the invisible "Pilatus"?
+a: ['miming various sex acts on the invisible "Pilatus".']
+
+q: Who consults two Christian gay converters?
+a: ['Brüno', 'Brno']
+
+q: What is the name of the cage-fight?
+a: ["Straight Dave's Man Slammin' Maxout"]
+
+q: Where is the cage-match held?
+a: ['Arkansas']
+
+q: What does Bruno want to become?
+a: ['the biggest Austrian superstar since Hitler']
+
+q: Who does Bruno first interview?
+a: ['Paula Abdul']
+
+q: What two characters try to get married?
+a: ['Brno and Lutz']
+
+q: Where does Bruno gorge on high-carb junk food?
+a: ['A diner']
+
+q: What do the focus group call the pilot?
+a: ['worse than cancer', '"worse than cancer"']
+
+q: What was the name of the talk show host?
+a: ['Richard Bey']
+
+q: Who does Br_no claim to mistake Ron Paul for?
+a: ['RuPaul']
+

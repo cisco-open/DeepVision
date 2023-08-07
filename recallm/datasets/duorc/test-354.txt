@@ -1,0 +1,27 @@
+PARAGRAPH
+Spanning several cities and over a decade, Summer Palace tells the story of Yu Hong (played by Hao Lei), a young woman from the border-city of Tumen, who is accepted to the fictional Beiqing University, a name that evokes either Peking University ("Beida") or Tsinghua University ("Qinghua"). While in school, Yu Hong meets Li Ti, her best friend (played by Hu Lingling), and Zhou Wei, her college boyfriend and the love of her life (played by Guo Xiaodong). The film is divided into two parts. The first begins in the late 1980s (subtitles inform the audience of the place and year at various points in the film), as Yu Hong enters the university. Lonely and isolated despite the cramped living conditions, Yu Hong eventually befriends another student, Li Ti, who introduces her to her boyfriend Ruo Gu (played by Zhang Xianmin), and Ruo Gu's friend Zhou Wei. Yu Hong and Zhou Wei embark upon a passionate but volatile love affair just as political forces are moving towards Tiananmen Square.
+Two events then bring the first half of the film to a close: First, Zhou Wei, incensed at the jealousy and emotional instability of his girlfriend, begins to have an affair with Li Ti; and second, the crackdown occurs on the students on Tiananmen Square and on the campus of Beida. During all of this, Yu Hong's old boyfriend Xiao Jun (played by Cui Jin) from Tumen arrives and the two of them leave, Yu Hong deciding that she will drop out from the university.
+The film then fast forwards several years, as Lou Ye intersperses the travels of his three main characters with news footage of the end of the Cold War, and the 1997 Hong Kong handover. Yu Hong has left Tumen again, first for Shenzhen, and then for the central China city of Wuhan, while Li Ti and Ruo Gu have moved to Berlin. Yu Hong is unable to forget Zhou Wei, and has empty affairs with a married man and a kind but quiet mailroom worker. The film follows her disaffection with society and her use of sex as a substitute for contentment. Eventually discovering that she is pregnant, Yu Hong gets an abortion and moves to Chongqing where she marries.
+Li Ti, Ruo Gu, and Zhou Wei, meanwhile, live a quiet life as expatriates in Berlin. While Li Ti and Zhou Wei still occasionally make love, the former quietly realizes that the latter does not love her. Though the three friends appear happy, when Zhou Wei plans to return home to China and settle in the city of Chongqing, Li Ti suddenly commits suicide. There he connects with former classmates who in turn point him to Yu Hong's email address.
+After more than ten years, Zhou Wei and Yu Hong at last reunite in the resort city of Beidaihe. While they embrace, they ask each other, "Now what?" When Yu Hong leaves, ostensibly to buy drinks, Zhou Wei understands that they can never be together and leaves as well.
+
+
+QUESTIONS
+q: Who does Yu Hong fall in love with?
+a: ['Zhou Wei']
+
+q: Where does Yo Hong study?
+a: ['Beiqing University']
+
+q: In what country does Yu live?
+a: ['China']
+
+q: Who begins to demonstrate, demanding freedom and democracy?
+a: ['the students in Tiananmen Square']
+
+q: Whose memories are Zhou fleeing?
+a: ['Yu Hong']
+
+q: Where did Yu Hong leave for the university?
+a: ['Tumen']
+

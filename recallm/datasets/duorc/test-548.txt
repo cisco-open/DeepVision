@@ -1,0 +1,26 @@
+PARAGRAPH
+David is an edgy 52 year old divorced white South African professor teaching the romantic poets when he befriends a student and they begin an affair. She is uneasy about the relationship and there is clearly an imbalance of power. David is disciplined by the university and is forced to resign. He is unrepentant about fulfilling his desires.
+David heads off to visit his adult lesbian daughter, Lucy, who is farming in the bush. He finds her living alone, but in a business partnership with Petrus a black farmer, who has settled adjoining land.
+While staying with Lucy, David helps out at the voluntary animal clinic, mostly helping destroy unwanted dogs. He becomes involved with Lucy's friend who runs the clinic.
+When Petrus is away, they are attacked by three youths. Lucy is raped and they are robbed. David suspects that Petrus is involved and soon it is revealed that one of the attackers is related to Petrus' wife.
+David urges Lucy to prosecute her attacker, but Lucy wants to make peace with her community and wants the protection of Petrus and his family. She has become pregnant as a result of the rape and chooses to have the child.
+David gains insight into his abuse of power and visits the family of the student with whom he had the affair. He seeks their forgiveness.
+Lucy makes an arrangement with Petrus and she becomes his tenant in return for his alliance and protection. David moves into the township and continues his work with the animal clinic. He accepts Lucy's compromise.David Lurie (John Malkovich), twice-divorced and dissatisfied with his job as an English professor in post-apartheid South Africa, finds his life falling apart. When he seduces one of his students, Melanie (Antoinette Engel) and does nothing to protect himself from the consequences, he is dismissed from his teaching position, and goes to live with his lesbian daughter Lucy (Jessica Haines), who shares a farm in the Eastern Cape with trusted black worker Petrus (Eric Ebouaney). For a time, his daughter's influence and natural rhythms of the farm promise to harmonise his discordant life. But the balance of power in the country is shifting. In the aftermath of a vicious attack by three black youths, he is forced to come to terms with the changes in society - as well as his disgrace. [D-Man2010]
+
+
+QUESTIONS
+q: What does David teach?
+a: ['Romantic poets']
+
+q: Where does Lucy own a farm?
+a: ['The bush']
+
+q: Who is Lucy's farm manager?
+a: ['Petrus']
+
+q: Where is David a professor?
+a: ['South Africa']
+
+q: How many men attack David and Lucy?
+a: ['3']
+

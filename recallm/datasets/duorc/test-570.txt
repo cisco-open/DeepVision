@@ -1,0 +1,35 @@
+PARAGRAPH
+Working with his three friends at their new software development company Skullbocks, Stanford graduate Milo Hoffman (Phillippe) is contacted by CEO Gary Winston (Robbins) of NURV (Never Underestimate Radical Vision) for a very attractive programming position: a fat paycheck, an almost-unrestrained working environment, and extensive creative control over his work. Accepting Winston's offer, Hoffman and his girlfriend, Alice Poulson (Forlani), move to NURV headquarters in Portland, Oregon.Despite development of the flagship product (Synapse, a worldwide media distribution network) being well on schedule, Hoffman soon becomes suspicious of the excellent source code Winston personally provides to him, seemingly when needed most, while refusing to divulge the code's origin.After his best friend, Teddy Chin (Yee Jee Tso), is murdered, Hoffman discovers that NURV is stealing the code they need from programmers around the world including Chin and then killing them to cover their tracks. Hoffman learns that not only does NURV employ an extensive surveillance system to observe and steal code, the company has infiltrated the Justice Department and most of the mainstream media. Even his girlfriend is a plant, an ex-con hired by the company to manipulate him.While searching through a secret NURV database containing surveillance dossiers on employees, he finds that the company has information of a very personal nature about a friend and co-worker, Lisa Calighan (Cook). When he reveals to her that the company has this information, she agrees to help him expose NURV's crimes to the world. Coordinating with one of Hoffman's friends (Dushku) from his old startup, they plan to use a local cable access station to hijack Synapse and broadcast their charges against NURV to the world. However, Calighan turns out to be a double agent, foils Hoffman's plan, and turns him over to Winston.Hoffman had already confronted Poulson and convinced her to side with him against Winston and NURV. When it became clear that Hoffman had not succeeded, a backup plan is put into motion by Poulson, the fourth member of Skullbocks (Tygh Runyan), and the incorruptible internal security firm hired by NURV. As Winston prepares to kill Hoffman, the second team successfully usurps one of NURV's own work centers "Building 21" and transmits the incriminating evidence as well as the Synapse code. Winston and his entourage are publicly arrested for their crimes. After parting ways with the redeemed Poulson, Hoffman rejoins Skullbocks.
+
+
+QUESTIONS
+q: What is the name of the company that owns the base?
+a: ['NURV']
+
+q: What does Lisa agree to do?
+a: ["She agrees to help him expose NURV's crimes to the world."]
+
+q: Who already had confronted Poulson?
+a: ['Milo Hoffman']
+
+q: What is he searching through?
+a: ['a secret NURV database']
+
+q: What does Hoffman hijack to broadcast?
+a: ['Synapse']
+
+q: What is the name of Hoffman's friend from his old startup?
+a: ['Dushku']
+
+q: Where is NURVE headquarters located in Oregon?
+a: ['Portland']
+
+q: Who does he find personal information about?
+a: ['Lisa Callighan.']
+
+q: Who do they coordinate with?
+a: ["One of Hoffman's friends (Dushku) from his old startup."]
+
+q: Who does Calighan turn him over to?
+a: ['Winston']
+

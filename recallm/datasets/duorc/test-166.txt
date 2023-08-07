@@ -1,0 +1,31 @@
+PARAGRAPH
+Michael Cromwell (Tim Allen) is a self-absorbed, successful commodities broker living in New York City. Wanting to marry his new fiancÃ©e Charlotte (Lolita Davidovich), he needs to obtain a final divorce from his first wife, Patricia (JoBeth Williams), who left him some years earlier. Patricia now lives with a semi-Westernised tribe in Canaima National Park, Venezuela. Michael travels there to get her signature on divorce papers, but upon arriving, discovers that he has a 13-year-old son named Mimi-Siku (Sam Huntington).
+Michael attempts to bond with Mimi-Siku in his brief stay with the tribe, and promises to take him to New York "when he is a man." Michael is also given a new name, Baboon, as is a custom in the tribe. That night, Mimi-Siku undergoes the traditional rite of passage of his tribe, who then consider him to be a man. The tribal elder gives Mimi a special task: to become a tribal leader one day, Mimi must bring fire from the Statue of Liberty, and he looks forward to traveling with his father. Against his own protests, Michael brings Mimi-Siku to New York with him. Michael works as a trader at the World Trade Center in building 7.
+Michael's fiancÃ©e, Charlotte, is less than pleased about the unexpected visitor in a loin cloth outfit, who tries to urinate in front of her at a fake tree (as is usual in his tribe), suggests eating her cat, and Maitika, his enormous pet tarantula escapes from his box and into her apartment. Mimi-Siku wears traditional dress during much of his stay in New York. As Michael attempts to adapt Mimi-Siku to city life, cross-cultural misunderstandings occur when Mimi-Siku reverts to customs considered acceptable by his tribe. On climbing the Statue of Liberty to reach the flame, Mimi-Siku is disappointed when he sees that the fire is not real.
+While staying at the home of Michael's partner, Richard Kempster (Martin Short), Mimi-Siku falls in love with Richard's daughter, Karen (Leelee Sobieski). He paints her face and gives her a new name, Ukume, as is the custom in his tribe. Richard resents Mimi's presence in his home due to his influence over Karen and because he cooked and ate his valuable, prize-winning Poecilia latipinna fish. Richard then freaks out when he sees his daughter and Mimi together in a hammock and threatens to send her to an all-girls summer camp.
+The Kempsters and Michael are later targeted by Alex Jovanovic (David Ogden Stiers), a Russian mobster and caviar dealer, who believes that they have cheated him in a business deal. Jovanovic arrives at the Kempsters', and tortures Richard for info. Since he refuses, he tries to amputate Richard's fingers in revenge. By fighting together and utilizing Mimi-Siku's hunting skills (and Maitika), the two families defeat the mobsters.
+Mimi-Siku returns to the Amazon jungle, but before he leaves, his father gives him a satellite phone so they can stay in touch. Michael also presents Mimi with a Statue of Liberty cigarette lighter, which produces fire from the torch and will fulfill Mimi's quest. In return, Mimi gives his father a blowpipe and poisoned darts, telling Michael to practice and come to see him when he can hit flies.
+Shortly afterwards, Michael finds himself disheartened by the rat-race and realizes that his relationship with Charlotte is not working for him anymore. He attempts to kill a fly with his blowpipe on the trading floor of the New York Board of Trade. He hits the fly, but also Langston, his boss, who collapses asleep on the trading floor.
+Michael returns to Lipo-Lipo to see his son and ex-wife, bringing the Kempster family with him for a vacation. Karen and Mimi are reunited, and it is suggested that Michael and Patricia also resume their relationship.
+The film ends with Michael undergoing the rite of passage as Mimi did earlier.
+
+
+QUESTIONS
+q: What is the name of Richard's daughter?
+a: ['Karen']
+
+q: How old is their son,Mimi-Siku?
+a: ['13']
+
+q: Who climbed the Statue Of Liberty?
+a: ['Mimi-Siku']
+
+q: What does Michael Cromwell do for a living?
+a: ['commodities broker']
+
+q: In whose house was Mimi-Siku staying?
+a: ['Richard Kempster (Martin Short)']
+
+q: Who is Michael's first wife?
+a: ['Patricia (JoBeth Williams)']
+

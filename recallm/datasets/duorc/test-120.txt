@@ -1,0 +1,47 @@
+PARAGRAPH
+The film opens with an unknown man drawing and organizing diagrams to the song Silent Night. He picks up his parka coat and leaves.While attending an office Christmas party, David Hargrove (Brian Geraghty) offers to drive his co-worker, Emily Brandt (Alice Eve), home. Reluctantly, he allows his slacker friend Corey Thompson (Josh Peck) to accompany them. On the car ride, Corey asks David to pull up at a 24-hour ATM kiosk. Corey and David enter the ATM to withdraw money, and shortly after, Emily joins them. She tells David the clicker for the car lock isn't working. When the three are about to leave, they turn to see a hooded figure lurking outside who is only known as THE MAN (Mike O'Brian). While Corey suggests they return to the car, Emily and David are reluctant, believing the figure to be a robber. A guy walking his dog, Robert (Robert Huculak), comes into the parking lot walking his dog. The Man walks up to Robert and violently beats him to death like it's nothing. The three watch in horror. They want to call the police, but Corey lost his phone at the party, Davids phone battery is dead, and Emily's phone is in her purse in the car. They try to set off an alarm by banging on the ATM, but nothing happens. While the three are panicking inside, The Man sees them gesturing towards the car. He goes to the car, opens the door, pops the trunk, and removes a few items; a folding lawn chair, a tire iron, and a toolbox. He takes the toolbox and walks around to the back of the kiosk. He cuts off the heat and lights.David decides to reason with The Man. He walks out and attempts to give him an envelope with 500 dollars and other valuables in return for their safety. While giving the money to the hooded figure, he runs back to the car, he grabs Emily's purse, pulls out her phone, and starts dialing 911 when The Man punches through the passenger side window with his gloved hand. He drags David out of the car and is about to kill him when Corey screams from the kiosk. This distracts The Man long enough for David to get up and run back. He drops Emily's phone that has 911 on the screen and just needs the send pressed. He turns back to get it, but The Man is gaining on him and he abandons the phone. David leaps back inside with Emily's purse. The Man stops about ten feet from the door then then walks over and picks up the envelope and Emily's cell phone. He tosses them into Davids trunk. Emily uses her lipstick to write "HELP" on the ATM's window.As the three begin to freeze, a Security Guard (Ernesto Griffith) comes to investigate. He parks his car a few dozen feet from the ATM and gets out. The three yell at him, but he can't hear them over the howling wind. He sees Robert's body and starts to call for help on his radio, but is beaten to death by The Man with the tire iron. The three are left hopeless. Emily starts becoming disoriented from the hypothermia.A few minutes later, a guy with a similar coat to The Man enters the kiosk. Corey and David manage to kill him by strangling him with a pen on a wire. They look outside and see the real Man standing there. They find out the man they killed was named Harold (Glen Thompson) and he stopped in on his way to work. They search him for a phone, but don't find one. Corey grows angry and tired. He takes Harold's coat and runs. He's tripped up by a wire The Man strung across between the car and the pole of an overhead light to create a perimeter. The Man stabs Corey with a screwdriver. He walks back around the kiosk and continues with his project when he spots a fire hose.More hours go by and the temperature continues to fall. David and Emily see that Corey is still alive. They run and grab him. Corey's leg is broken, but they all manage to return to the kiosk before The Man gets to them. Desperate, David tries again to set off an alarm and breaks the ATM camera. While David and Emily attempt to stop Corey's bleeding, The Man pushes David's car up to the door and blocks it from opening. The ATM kiosk begins to fill with cold water through the heating vents. Corey eventually dies of blood loss and hypothermia. David finds a lighter in one of Harold's pockets. He tosses paper into a wastebasket and starts a fire. Emily climbs on David's shoulders and manages to get the flame close enough to the fire alarm to trigger a loud alarm. David slips and Emily falls, smashing her head on a shelf and dies. The security guards car rams into David's car, which crashes through the wall.Angered, David uses Corey's bottle of tequila to create a Molotov Cocktail. He throws it at a hooded man sitting in the lawn chair, only to realize that its the dead Security Guard. The Man has disappeared. The cops come and arrest David. They find five bodies, the bank envelope full of money and valuables in the car trunk, and Emily's phone with 911 on the screen. They review the ATM video tape, but there's no sound and it looks as if David, Corey, and Emily were robbing the ATM and murdering witnesses. The Man is not seen on the footage. (The killer was very clever enough to not approach to within 25 feet of the ATM booth to avoid being seen on the booth's single security camera).In the final scene of the film, the hooded parka figure, his face still unseen, returns to his lair (a locker within a storage facility) where he presumably plans more ATM attacks by showing dozens of maps, blueprints, expert drawings of security camera at ATM booths and surrounding buildings, as well as their ranges and power outlets. It is strongly implied that this unknown and highly intelligent serial killer has been targeting innocent people who happened by ATM booths during late hours to terrorize, and eventually kill, them for months or possibly years now but leaving one survivor to take all the blame for his actions, in which Corey and Emily and all the passerbys that he killed that night were just his latest victims among so many, and David was just his latest fall guy.
+
+
+QUESTIONS
+q: What do David, Emily, and Corey spot lurking in the parking lot?
+a: ['Corey', 'a hooded figure']
+
+q: What does David give away?
+a: ['making him walk']
+
+q: What does David throw at the hooded killer ?
+a: ['an envelope w 500 dollars and other valuables.', 'tequila Molotov cocktail']
+
+q: How does Corey die?
+a: ['dies of blood loss and hypothermia', 'blood loss']
+
+q: What do David and Emily suspect the figure to be?
+a: ['to be a robber.']
+
+q: Where does the hooded man return to to plan other attacks ?
+a: ['his lair (a locker within a storage facility)']
+
+q: How did Corey die?
+a: ['blood loss']
+
+q: Who tried to call the cops?
+a: ['Emily', 'David tried to call the cops']
+
+q: What did Emily write in lipstick on the booth window?
+a: ['Help', 'HELP']
+
+q: How does Emily die?
+a: ['Head on a shelf']
+
+q: What number does David try to call?
+a: ['security guards car', '911']
+
+q: Why doesn't the car start?
+a: ['forced to abandon it']
+
+q: Why did they stop at the ATM?
+a: ['needing to withdraw cash']
+
+q: Who did David give a ride to from the Christmas party?
+a: ['Emily']
+

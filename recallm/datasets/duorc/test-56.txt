@@ -1,0 +1,32 @@
+PARAGRAPH
+Ayed Morrar, an unlikely Palestinian community organizer, unites all Palestinian political factions and Israelis. Together, they wage a lengthy lunch-counter-sit-in-style unarmed struggle to save his village from destruction by Israels Separation Barrier. Victory seems improbable until his 15-year-old daughter, Iltezam, launches a womens contingent that quickly moves to the front lines. They not only save the village, but the Barrier is pushed back behind the Green Line into No Mans Land. In the process, Ayed and Iltezam unleash an inspiring, yet little-known, movement in the Occupied Palestinian Territories that is still gaining ground today. In an action-filled documentary featuring archival footage of this movement from its infancy, Budrus will inspire and challenge audiences worldwide. The movie is directed by award-winning filmmaker Julia Bacha (Control Room, Encounter Point), and produced by Bacha, Palestinian journalist Rula Salameh, and filmmaker and human rights advocate Ronit Avni (formerly of WITNESS, Director of Encounter Point).While this film is about one Palestinian village, it tells a much bigger story about what is possible in the Middle East. Ayed succeeded in doing what many people believe to be impossible: he united all Palestinian factions, including Fatah and Hamas; he brought women to the heart of the struggle through the leadership of his daughter, Iltezam; and he encouraged hundreds of Israelis to cross into Palestinian territory for the first time and join a nonviolent movement.Budrus includes diverse voices from the leaders of the movement to the Israeli border police officers stationed in the village at that time. While many documentaries about the Palestinian-Israeli conflict either romanticize the notion of peace, or dwell entirely on the suffering of victims to the conflict, this film focuses on the success of a Palestinian-led nonviolent movement. The protagonists not only succeeded in moving the separation barrier completely off Palestinian lands, they also build lasting relationships between Fatah, Hamas and Israeli activists that continue to this day and serve as a model to other communities. The story of Budrus represents what could happen in the region -- provided people know about it.Winner, Panorama Audience Award Second Prize, Berlin International Film Festival, 2010Winner, Special Jury Mention, Tribeca Film Festival, 2010Winner, Audience Award, San Francisco International Film Festival, 2010Winner, Honorable Mention for Best Documentary in the Spirit of Freedom Award, Jerusalem International Film Festival 2010Winner, Witness Award at Silverdocs Film Festival, 2010Winner, Honorable Mention of the Jury, Documenta Madrid 10Winner, Amnesty Italia Award, Pesaro Film Festival, 2010Winner, Founders Prize, Best of Fest, Nonfiction, Traverse City Film Festival, 2010Winner, Checkpoints Award, Bergen International Film Festival, 2010Winner, Festival des Libertés Prize, Festival des Libertés, 2010
+
+
+QUESTIONS
+q: what was the population of the town?
+a: ['1,500']
+
+q: what is the subject of the documentary, budrus?
+a: ['The film is about non-violent demonstrations conducted by the residents of Budrus']
+
+q: how many olive trees does the town have?
+a: ['3,000']
+
+q: how many acres of land would be lost?
+a: ['300']
+
+q: what is the town's population?
+a: ['1,500']
+
+q: who is the author or budrus?
+a: ['non-violent movement']
+
+q: how much land did the town loose
+a: ['25,000']
+
+q: who made budrus?
+a: ['Ayed Morrar']
+
+q: who is ayed morrar?
+a: ['Leader of the non-violent movement in Budrus']
+

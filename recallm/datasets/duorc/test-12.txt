@@ -1,0 +1,16 @@
+PARAGRAPH
+The powerful new film from acclaimed auteur Marco Bellocchio (My Mothers Smile, Good Morning, Night, The Wedding Director), VINCERE is a compelling drama based on the littleknown story of Benito Mussolinis first wife. Ida Dalsar (Giovanno Mezzogiorno) and Mussolini (Filippo Timi) begin their liaison in 1914; she is a well-to-do beauty salon owner and he is an impoverished young Socialist and union activist. When Ida sells all her possessions to fund her lover's new newspaper, the rise of Fascism is set into play
+An official selection of the Cannes, Toronto and Telluride Film Festivals, VINCERE is a gripping film that combines drama, archive footage, and music creating a highly cinematic oratorio of enormous emotional force.On the whole Vincere is a dark movie which tries to chart the life of Ida Dalsern, who instantly fell in love with Benito on a train and did her best to help him in his political career, giving him all her money to finance his newspaper Il Popolo dItalia. In return, the Duce treated her cruelly, systematically trying to eliminate these facts (marriage included) from his life. She was maltreated, stalked and eventually locked up in a lunatic bin for life.
+Vincere is roughly based on two books respectively called Mussolins Marriage by Marco Zeni and Mussolinis Secret Child by Alfredo Pieroni, and on Fabrizio Laurenti and Gianfranco Norellis documentary film Mussolinis Secret. Actress Giovanna Mezzogiorno plays Ida Dalser, the first wife, while actor Filippo Timi plays two roles, the young Mussolini and in the second part of the movie Mussolini s secret son, Benito Albino. Despite the faults in the movie, both actors did a great job and their performances left one thirsty for more. [D-Man2010]
+
+
+QUESTIONS
+q: Who's story does the movie relate ?
+a: ['Benito Mussolinis first wife']
+
+q: Who does Ida Dalser fall in love with ?
+a: ['Mussolini']
+
+q: What dictator committed his first wife and son to asylums?
+a: ['the Duce']
+

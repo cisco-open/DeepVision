@@ -1,0 +1,105 @@
+PARAGRAPH
+Ever since his father's suicide, Edward Wilson wants to do good for the world. But he has a habit of making one bad decision after another, which makes his life an unhappy one. In the Second World War he becomes a member of the OSS, an Intelligence Service operating in London. When the Cold War begins the USA transforms the OSS into the CIA, to which Edward Wilson gives his services. But slowly he gets stuck in this web, costing him the love of his life, giving him a very unhappy marriage, and making him even responsible for the unhappy fate of his own son's life, all of which will accumulate during the days of the Bay of Pigs Incident.Detailed Synopsis:
+Washington D.C., April 16, 1961. Edward Wilson (Matt Damon) listens to President Kennedy discuss Fidel Castro and heads to work. A boy asks for change of a dollar on the bus, and the dollar is a code for a spy contact. Edwards obtains permission from his boss Philip Allen (William Hurt) to go to the CIA's Caribbean operations center to make contact. The contact is blown, and Wilson's assistance Ray (John Turturro) advises him there's a traitor.Returning home, Wilson finds an envelope with a videotape of a woman in bed with an unknown man, wanting secrets. The next day, Sam Murach (Alex Baldwin) warns Edward that the top mole suspect is Edward, and leaves him a message at a local cleaners; the FBI is investigating Philip Allen.A flashback to Yale in 1939 shows Edward's membership in Skull & Bones, a secret society. During initiation, Edwards reveals that his father's last words to him were to "never lie." He tells them that he stole his father's suicide note, but never read it. His brothers in Skull & Bones realize he is a good secret-keeper. He is soon contacted by Sam Murach, who asks him to spy on his English professor, Dr. Fredericks (Michael Gambon). He does so, and his professor is forced to resign. Edward also meets Laura (Tammy Blanchard), a deaf student, and falls in love with her. Their relationship is brief, however, as Edward meets 'Clover' Russell (Angelina Jolie), the sister of of Bonesman brother John Russell (Gabriel Macht), and the daughter of a senator. She seduces Edward, and he impregnates her. He also meets General Bill Sullivan (Robert De Niro), who asks him to be a member of the foreign intelligence. Later, after Edward marries Clover, Sullivan sends a request for him to join the intelligence service.In 1961 again, he is approached by Richard Hayes (Lee Pace), who asserts that Edward is a suspect, but Edward refuses to speak to him. Analysis of the videotape he received is underway, focusing on an object on the nightstand. It is stated that the video tape has been deliberately altered to mask some details.Another flashback to 1941 has Edward meeting Philip Allen in London and beginning his intelligence career. He realizes Dr. Fredericks is an intelligence officer, and his assignment at Yale was compromised from Edward's spying. Ray is assigned to him, and they begin setting up networks. He also meets Arch Cummings (Billy Crudip), who advises him that Dr. Fredericks may be the leak. Fredericks knows that Edward is investigating him, and warns Edward to get out while he can. Fredericks is killed.Clover has a baby boy, but Edward is in London and misses the birth. Four years later, in Berlin, Edward meets with Allen again. His new focus is to extract Russian scientists who could potentially build a nuclear bomb. During negotiations for prisoner exchange, he meets Stas Siyanko (Oleg Shtefanko), his counterpart, code-named Ulysses. Ulysses praises Edward for his stoicism, and says Edward's code name is "Mother."While in Berlin, Edward has an affair with Hanna Schiller (Martina Gedeck), and he thinks Clover is having one too. Schiller is later assassinated by Ulysses.When he returns home, his meeting with Clover is awkward and she tells him she now goes by Margaret. Edward gives his son a small ship encased in glass made to look like a pocket watch. Edward and Clover confess their affairs to each other.General Sullivan reappears and offers Edward a job in domestic intelligence. Edward's new post is to disrupt a Mayan dictator. He warns his agent not to travel with his class ring. The agent's finger is sent to him in a sealed coffee container. His home life worsens, and Margaret doesn't understand or trust him, and complains he works too many long days.Several years later, Russian contact Valentin Mironov (John Sessions) provides Edward with information about Ulysses. At a Russian play, Edward meets Laura again, and realizes his personal life has been unfulfilled. They make love, and pictures of his infidelity are sent to Margaret. She leaves, but returns. Edward and his son begin to build their relationship, and he teaches his son how to build a ship in a bottle.Some time later, another Valentin Mironov (Mark Ivanir) asks for asylum. Ray tries to get his real name, including using LSD, which was in its experimentation phase, to extract the truth. This Mironov continues to insist he is the real Mironov and leaps out the window, committing suicide. The first Miranov reasserts his identity but later Edward realizes Miranov was lying when he finds his real passport hidden in a copy of "Ulysses."Edward's son, Edward Jr. (Eddie Redmayne) grows up and tells his father he wants to join the CIA. Edward and Margaret fight about it, and he tells her he doesn't love her; he married her because she was pregnant. Edward Jr. has become a Bonesman, and Edward Sr. asks Margaret to dance, calling her Clover and reliving their first encounter, but she announces that she's leaving him.As Castro gains power, Edward meets with Joseph Palmi (Joe Pesci) in an effort to ease tensions in Cuba. Later, Edward Jr. overhears his father telling Allen about the plans to invade the Bay of Pigs with 1500 troops, and to "keep the noise level down."Final analysis of the videotape reveals three possible locations. This sends Edward to the Congo as he is able to guess the correct location. He finds the room where the video was made, and sees that the object on the nightstand is the gift he gave to his son, now mounted in a glass case. Ulysses arrives and plays the original tape, with Edward Jr. describing what he overhead about Cuba. Ulysses, now revealed as the architect of the tape and the plot to turn Edward, promises to watch out for Edward Jr., as long as Edward Sr. agrees to help Russia when asked. Edward leaves without responding as Ulysses gives him some time.In the next meeting Edward refuses to commit treason for his son and makes the point that Ulysses has no hold over him now that the Cuba affair is over and the U.S.A. has lost. Ulysses realizes the information still has some value and agrees to keep the secret but says he will ask for a favor later. He states that the girl is not trustworthy to either side and asks Edward if he wants her to become part of his family. Edward doesn't answer, and Ulysses nods. As Edward and Clover reunite for Edward Jr.'s wedding, the girl Miriam (Liya Kebede) is thrown from an airplane in the Congo, and never makes it to the church.Philip Allen resigns as the head of CIA, and John Russell (Jr) tells Edward he wants him to be the new head. Later, Edward opens his private safe and reads his father's suicide note and burns it.
+
+
+QUESTIONS
+q: What do the agents administer to the imposter to get him to tell the truth?
+a: ['LSD']
+
+q: Who was the source of the leak
+a: ['Edward Jr.']
+
+q: Edward Jr. overhears his father and Hayes discussing what invasion?
+a: ['Bay of Pigs']
+
+q: In London , who Dr. Fredericks again
+a: ['Dr. Fredericks is an intelligence officer']
+
+q: Who is revealed to be revealed to be a Soviet agent?
+a: ['Edward Jr']
+
+q: What does Edward find in a coffee can?
+a: ["The agent's finger"]
+
+q: Who was invited to join sklull and bones
+a: ['Edward Wilson']
+
+q: What Yale society do both father and son join?
+a: ['Congo']
+
+q: Where do Edward and Hayes meet?
+a: ['CIA']
+
+q: What does Edwards action result in by exposing the professor?
+a: ["The professor's assignment was compromised."]
+
+q: For what purpose did General Sullivan approached edward again?
+a: ['He wanted Edward to disrupt a Mayan dictator.']
+
+q: What is the first assignment?
+a: ['To spy on his professor.']
+
+q: What organization does Edward Wilson work for?
+a: ['CIA']
+
+q: Who is a Soviet agent?
+a: ['Laura']
+
+q: What is Edward's new job at the end?
+a: ['The new head']
+
+q: What was the real name of  mironov
+a: ['Yuri Modin']
+
+q: What is the name of deaf student?
+a: ['Laura']
+
+q: Whom did Edward found as Soviet agent what happened to Her?
+a: ["Later, Edward opens his private safe and reads his father's suicide note and burns it."]
+
+q: Who is trying to gain influence in Central America?
+a: ['The CIA']
+
+q: What was Edward invited to join?
+a: ['foreign intelligence']
+
+q: Who looks into Phillip's finances
+a: ['The FBI']
+
+q: Who asks Edward to join the OSS
+a: ['General Bill Sullivan']
+
+q: What was the secret that edward revealed
+a: ['that he had an affair with Hanna Schiller']
+
+q: Who is killed by being thrown out of a plane?
+a: ['Miriam']
+
+q: Who does Edward have to end a relationship with?
+a: ['Laura']
+
+q: What kind of scientists are being recruited?
+a: ['Who could potentially build a nuclear bomb']
+
+q: Who was going to be on the board of directors?
+a: ['Edward Wilson Sr.']
+
+q: Where does detailed analysis point to? Leopoldville, in the Congo
+a: ['the Congo']
+
+q: What was the of his father
+a: ['his fathers last words were "never lie"']
+
+q: Who is Edward's former sweetheart?
+a: ["'Clover' Russell"]
+
+q: Who are the double agents
+a: ['Cummins and Mirononv']
+
+q: Who are his Colleagues going to work with him?
+a: ['Ray, Arch Cummings']
+
+q: What foreign intelligence organization is formed?
+a: ['The CIA']
+

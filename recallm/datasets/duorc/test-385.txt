@@ -1,0 +1,85 @@
+PARAGRAPH
+The film begins when a couple disappear while having a romantic night out on a yacht near the Pacific Northwest resort community, Grave's Point. The next day, local fisherman Whip Dalton (William Petersen) finds the empty lifeboat from the missing yacht and discovers a large claw stuck into the boat. Whip sends the claw to a university to be analyzed and it ends up in the hands of marine biologist Dr. Herbert Talley (Ronald Guttman), who comes to Graveâs Point claiming it is from the tentacle of a giant squid. The island harbor master Schuyler Graves (Charles Martin Smith) hires Lucas Coven (Larry Drake) to kill the squid after Whip's initial refusal. Coven succeeds in slaying a squid and the carcass is promptly sold by Graves to Sea Land Texas owner Osborne Manning (Denis Arndt). The unmanned sonar detects another, much larger squid which remains unnoticed by the islanders.
+When Whip and Talley aren't allowed to see the squid to examine it, Dr. Talley organizes a submersible expedition to explore the squidâs habitat. After analyzing the carcass of the dead squid, the scientists determine it is just a baby. The information comes too late, however, and the adult squid attacks the submersible, killing everyone on board. Whip angrily blames Graves for the incident which also resulted in the death of Whip's daughter's boyfriend. Graves then blackmails Lucas to resume the hunt for the adult squid or he'll shut Lucas down for illegal trap fishing.
+Lucas resumes the hunt along with Whip's friend, Mike, and another crew member. After enduring stormy weather they decide to head back to shore and continue the hunt the next day. The Squid attacks the boat before they make it to shore, pulling a crew member off with its tentacle and knocking a cargo net on Mike, injuring him. It then attacks Lucas in the helm who fires a couple of shots with his gun at its tentacles. The squid then bites a hole in the hull. With water pouring in, it pulls the entire boat underwater. Whip, after learning that Mike went out to help Lucas comes to the rescue and, finding Mike holding onto a buoy, pulls him out of the water and takes him to the hospital. Whip then agrees to go out and hunt the giant squid but only if he can use his boat and Graves goes with him. He is also accompanied by coast guard officer, Lt. Kathryn Marcus (Karen Sillas), Dr. Talley, and Manning. They plan to snare the squid, reel it in, and shoot it multiple times with darts full of cyanide. The plan succeeds and the squid appears dead. But when the shipâs engine breaks down, Manning reveals that he filled the darts with tranquilizer instead of cyanide so he could take the squid alive back to Sea Land. Whip tries to cut the squid loose, but it wakes up and attacks the ship. Talley, Graves, and Manning are eaten. A coast guard helicopter arrives in time to pick up Kathryn and Whip. As he boards the helicopter, Whip fends the squid off with an axe, chopping open several extra fuel drums and has Kathryn use a flare gun to light his boat on fire cause an explosion that incinerates the squid. The helicopter flies them back to the shore where they reunite with Whip's daughter Dana (Missy Crider).
+
+
+QUESTIONS
+q: What attacks the submersible?
+a: ['The adult giant squid']
+
+q: What are the village women armed with?
+a: ['grenades', 'No Answer']
+
+q: What does Whip fend off the squid with?
+a: ['An axe']
+
+q: Who discovered the couples lifeboat?
+a: ['Whip Dalton']
+
+q: How many members remain on the tank crew?
+a: ['three', 'No Answer']
+
+q: What plain are you wounded and left on?
+a: ['Afghanistan']
+
+q: Who goes with the helicopter instead of staying with Taj?
+a: ['Konstantin']
+
+q: Who orders his men not to shoot at Konstantin
+a: ['Taj']
+
+q: What was Commander Daskal's nickname?
+a: ['There is no Commander Daskal.']
+
+q: What does "nanawatai" mean?
+a: ['There is no reference to nanawatai']
+
+q: Who chases the tank crew?
+a: ['The mujahideen and Koverchenko', 'There is no mention of a tank crew']
+
+q: When island harbor master Graves fails to get Whip to kill the squid who does he send out instead?
+a: ['Lucas']
+
+q: When the claw is analyzed at the university by Dr. Herbert Talley he claims it is from a giant what?
+a: ['Squid']
+
+q: What does  Dr. Herbert Talley think the claw came from?
+a: ['A giant Squid']
+
+q: What are the women coming out to cut up?
+a: ['Your remains']
+
+q: Who does Charles Martin Smith play?
+a: ['Schuyler Graves']
+
+q: Who plays Whip Dalton?
+a: ['William Petersen']
+
+q: What happens when they return to the water hole?
+a: ['The helicopter crew is dead.', 'mother squid attacks']
+
+q: Who is Samad?
+a: ['unsure']
+
+q: What poem is the film with a quotation by?
+a: ['The Young British Soldier']
+
+q: What does the Soviet helicopter offer to do?
+a: ['rescue them', 'no soviet helicopter in script']
+
+q: Whaat is Dr. Talley exploring?
+a: ['The squids habitat']
+
+q: What Pacific Northwest resort community was the couple near when they disappeared?
+a: ["Grave's Point"]
+
+q: Which local fisherman finds the empty lifeboat from the missing yacht?
+a: ['Whip Dalton']
+
+q: What was done to the water hole?
+a: ['poisoned', 'try to kill squid']
+
+q: Who is the poem written by?
+a: ['Rudyard Kipling']
+

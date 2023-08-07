@@ -1,0 +1,17 @@
+PARAGRAPH
+Two friends, Balagopalan (Jayaram) and Jayakumar (Jagathy Sreekumar), own a call service called "We Help" to help people with the assistance of lawyer Madhavan Thampi (Madhu). Balu gets a call from Indu R. Nair, who is the daughter of a businessman. Later, Indu asks Balagoapan to be her bodyguard. But when Jayakumar and Balagopalan visit her home, they discover that Indu has been murdered. Officer Thomas Mathew takes charge of the case. Madhavan tries to find her killer to save Balagopalan and Jayakumar, before it is too late.
+
+
+QUESTIONS
+q: Who sees the first murder?
+a: ['Jayakumar and Balagopalan']
+
+q: Who got killed?
+a: ['Indu']
+
+q: What is the name of the policeman assigned to the case?
+a: ['Thomas Mathew']
+
+q: Is Rachel amish?
+a: ['no']
+

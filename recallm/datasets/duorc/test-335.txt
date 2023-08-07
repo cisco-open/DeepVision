@@ -1,0 +1,131 @@
+PARAGRAPH
+After discussing his plans for retiring by selling on the shares in his security company to his debtors with his partner, André, aging underworld entrepeneur Miles Rennberg (Michael Madison) is paid a surprise visit at his Paris office by aggressive underworld moll Sandra (Asia Argento). Brazenly taunting him with her sexuality, she bluntly dissects their prior relationship - a nightmarish web of masochism, money, manipulation and dependency, pimping her out to dangerous clients in order to gain both a business advantage and perverse personal thrills.She outlines her newest ambition, since their estrangement, of raising the necessary capital to run a nightclub in Beijing. Miles makes no pretence of the fact that he is less interested in the proposal than the woman, and encourages her to visit him at his apartment.Without making any promises, Sandra leaves for her job at an import business, run by a young Chinese married couple: Lester and Sue Wong.Sandra's own import sideline, drug running, is facilitated by her close bond of loyalty with low-ranking employee Lisa. Acting as her driver and lookout, Lisa escorts Sandra to the site of a drug deal that quickly goes sour when her buyer is revealed to be a Narcotics officer. Suspicious after Sandra's cool response to his earler queries about a missing container in a recent shipment, Lester follows Sandra to the deal and accosts Lisa as she waits in the car. He sends Lisa away on his motorcycle and takes her place in the car.After Sandra emerges in a hail of gunfire, Lester drives her away from the scene. Expressing disappointment in her deceit, he takes her back to her apartment where it becomes clear that the two are romantically involved. After their sexual encounter, Lester receives a call from his wife and leaves.Sandra appears to relent and arranges to visit Miles him at his apartment. Goading him with recollections of their misdeeds, she reveals a deep-seated bitterness; she recalls, in particular, an incident where a group of Japanese clients she was entertaining drugged and raped her, and Miles' arousal at hearing the episode recounted in front of his girlfriend. They both drink and end up on the balcony. Sandra undresses and tries to instigate a violent sexual game, apparently of the genre they used to practice, by pinning Miles to the floor of the balcony and choking him with his own belt. Miles warns her off and leads her back inside to show her a pair of handcuffs, which he intends to use on her later in the evening. She expresses reluctance which he nonchalantly waves aside. When she tries to leave, he locks the door and pockets the keys.When he takes a business call, she playfully restrains him with the handcuffs, then brutally shoots him in the head.She quickly retraces her steps through the house, destroying evidence of her presence, and makes a swift exit with Miles' keys. Lester picks her up, gives her a modest sum of cash and the name of a contact in Hong Kong who will arrange her new life, promising to join her soon. Lisa first drives her to a local nightclub to establish an alibi, where the the oppressive atmosphere and the noise provoke an aggressively traumatic and regretful response to her act.Hours behind Lisa, Sandra arrives in Hong Kong. She makes her way to the address of Lester's contact, Mr. Ho, who in turn sends her to a non-descript office somewhere else in the city. She is told that her contact is waiting for her in an adjacent room, but as soon as she enters the door is locked behind her. In the labyrinthine mess of the locked office she eventually discovers the bound and murdered body of Lisa in a chair facing the back wall.A manifestly wealthy, middle-aged Western woman arrives at the office and orders the men to bring Sandra out, chastising them for Lisa's death. Eventually, one of the men in the office is sent in after Sandra. Having switched clothes and positions with the corpse of Lisa, she manages to ambush and kill two of the henchmen and escapes onto the streets. Whilst crossing on a ferry, she cries over her last souvenir of her relationship with Miles, his keys, before dropping them into the water. With little money and no recourse to her credit cards or passport, due to risk of capture and extradition for Miles' murder, Sandra resorts to repeatedly calling Lester.She eventually manages to contact his wife, Sue, who maintains that Lester is unavailable but agrees to meet Sandra in a karaoke club. Sue is evasive and aggressive, revealing that whilst she knew of Sandra's affair with Lester. Sue tells Sandra that she was not her husband's first infidelity and he never really planned to leave his wife to join her. The whole venture was an attempt to raise the investment capital for the Beijing club, an enterprise in which Sue was fully complicit. Whilst she attempts to take everything in, Sue spikes Sandra's drink with a sedative.In a back room, Sandra threatens Sue with a gun and demands more information; Sue pleads her innocence until she manages to talk Sandra into succumbing to the drug's sedative effects. She leaves Sandra unconscious on the floor. The next morning, Sandra wakes in the home of the wealthy Western women who she escaped in the offices earlier. The woman explains that she owes someone a favor and sets Sandra up with papers and well-paid employment elsewhere.Nonetheless, Sandra eschews the easy escape and tracks Lester down in a Hong Kong shopping mall. She follows him up the staircase with an unsheathed knife, but as she prepares to stab him she is interrupted by a group of women coming the other way. Lester enters an expensive restaurant, meets with Miles' business partner, André, and leaves with a sports bag full of cash... ostensibly a payment for Miles' murder, which ensured that his shares did not pass to his unscrupulous creditors. Sandra follows Lester down to the doorway out to the car park, where he hesitates at the threshold as if aware of her presence. At the last moment, however, she finds herself unwilling to either kill or confront him. He walks calmly away with the money, as Sandra turns in the other direction and walks away.
+
+
+QUESTIONS
+q: Who was Sandra having an affair with?
+a: ['Lester']
+
+q: How she retraces her steps?
+a: ['Quickly?']
+
+q: Who does Lester have a sexual encounter with ?
+a: ['Sandra']
+
+q: Who raped Sandra?
+a: ['Japanese clients']
+
+q: What does Lester do with the money?
+a: ['hides is']
+
+q: Who were Miles and Andre?
+a: ['Underworld entrepreneurs']
+
+q: Who does Sandra visit at the apartment?
+a: ['Miles']
+
+q: Who does Sandra call?
+a: ['Lester']
+
+q: What interrupted when she was prepared to stab Lester?
+a: ['guilt']
+
+q: What does Sandra choke Miles with?
+a: ['rope']
+
+q: What country does Sandra arrive?
+a: ['Hong Kong']
+
+q: What does Miles show Sandra that he intends to use on her?
+a: ['gun']
+
+q: Where Sandra eschews the easy escape and tracks Lester down ?
+a: ['hong kong mall']
+
+q: What did she switch with the corpse of Lisa?
+a: ['doll']
+
+q: What does Miles do when Sandra tries to leave?
+a: ['shoots']
+
+q: Where does Sandra wake up?
+a: ['In the home of the wealthy Western women.']
+
+q: Where does Sandra work?
+a: ['An import business']
+
+q: what weapon is Sandra holding?
+a: ['gun']
+
+q: Where does Sandra choke Miles?
+a: ['mall']
+
+q: Who dismisses Lisa and takes her place in the car?
+a: ['Lester']
+
+q: What does Sandra taunt Miles Rennberg with?
+a: ['Her sexuality']
+
+q: Who drives away with the money?
+a: ['Lester']
+
+q: Where does Lester meet at the resturant?
+a: ['miles']
+
+q: What is she raising capital for?
+a: ['A Beijing nightclub.']
+
+q: What did the Japanese clients do to Sandra?
+a: ['hit her']
+
+q: What was her last souvenir of the relationship with Miles?
+a: ['ferry']
+
+q: Who's body does Sandra find?
+a: ['Lisa']
+
+q: Who does Sandra repeatedly call?
+a: ['police']
+
+q: Who does the woman ambush?
+a: ['miles']
+
+q: What did Sandra drop in the water?
+a: ["Miles' keys"]
+
+q: What does Sandra threaten Sue with?
+a: ['A gun']
+
+q: Who serves as Sandra's driver and lookout?
+a: ['Lisa']
+
+q: Who does the Western woman order the men to bring out?
+a: ['bring Sandra out']
+
+q: What does Miles when Sandra tries to leave?
+a: ['warn her']
+
+q: Who pays Miles Rennberg a visit at his Paris office?
+a: ['Sandra']
+
+q: In what city does Sandra track down Lester?
+a: ['Hong Kong']
+
+q: Who did Sandra switch clothes with?
+a: ["Lisa's corpse."]
+
+q: What does Lester leave the resturant with?
+a: ['a sports bag full of cash']
+
+q: Who is sent in after Sandra?
+a: ['one of the men in the office']
+
+q: What does Miles show to Sandra?
+a: ['handcuffs']
+
+q: How does he die?
+a: ['Miles is murdered by sandra']
+
+q: Where does Sue agree to meet Sandra?
+a: ['karaoke club']
+

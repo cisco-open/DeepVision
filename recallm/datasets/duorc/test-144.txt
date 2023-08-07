@@ -1,0 +1,53 @@
+PARAGRAPH
+The movie begins with Mathayus' father, Ashur of Akkad, fighting in battle. He tells a young Mathayus not to join the Black Scorpions, the best warriors of the Emperor of Akkad, but Mathayus ignores him and goes to the games used to recruit boys to join the sacred Black Scorpions. During the games Mathayus encounters his childhood friend Layla, who desires to fight in battle like the men. Sargon, commander of the army, overhears their conversation and detains Layla. Mathayus gets detained as well after attacking Sargon. Sargon is about to execute Mathayus when his father rescues him, but he gets attacked by Sargon. The battle ends with Emperor Hammurabi forgiving them, in return for Mathayus joining the Black Scorpions. This leaves Sargon furious. During the night, Ashur is murdered by Sargon's Scorpion Curse. Mathayus joins the Black Scorpions and vows to be the best fighter because he realizes this is the best way to get vengeance.Years pass and an adult Mathayus is participating in the ceremony to join the Black Scorpions. He has graduated as a master swordsman, the best in his class. During the ceremony they are greeted by the current Emperor, Sargon, who has murdered Hammurabi to seize the throne. During the greeting Sargon recognizes Mathayus and invites him to the palace. That night in the palace, Mathayus declares his loyalty to the Emperor and is rewarded with a night with the emperor's concubines. The next day Mathayus is once again called to the palace, only to find his brother Noa arrested for spreading so-called "false rumors" about the emperor. Mathayus devises a plan to escape. However, during their escape Sargon uses his black magic and releases an "enchanted" arrow, killing Noa.Mathayus then encounters his friend, Layla. They escape together to Egypt in a boat. During the trip they meet a Greek named Aristophanes(or 'Ari' for short) who becomes their new accomplice. Ari devises a plan to kill the "cursed" Sargon, the only way being to go to the underworld and retrieve a magical sword from a legendary hero. To go to the underworld, they must first kill the Minotaur guarding the portal that leads there.Mathayus succeeds in killing the fable monster with the help of several prisoners who were mercenaries that owed a debt to his father. Another one of the them, a Chinese acrobat named Fong, becomes their new accomplice. To get the prisoners to join in the journey, Ari promises that the underworld is filled with riches. They enter the portal to the underworld, which is a great puzzle that only Ari could decipher. The answer to the puzzle was Asha's last words to Mathayus "Have faith." As they're walking through the desert of the underworld, it suddenly turns into a swamp, filled with dead corpses, traps, and fully awakened bodies. In the swamp only Fong, Ari, Mathayus, Layla, and one of the prisoners survive. One of the prisoners is captured by a tree and killed offscreen, and another is killed by an undead creature after reaching for gold and jewelry. Once in the palace of Lady Astarte, the goddess of Love and War, they encounter the Lady, who tries to seduce Mathayus. Layla initiates a fight with Astarte, and during this diversion, Ari and Fong acquire the sword, the group escapes. They pass back through the portal before an hour has passed, avoiding a curse that would turn them into stone, except for the mercenary whose stays too long because his greed causes him to try to get a ruby ring.They go back to Akkad, only to find that Sargon is planning on sacrificing the whole town to Lady Astarte in exchange for the ultimate power, the power of a god. To accomplish this, Sargon imprisons everyone in the town's coliseum and burn them alive. Layla and Fong help by killing the guards and putting out the fire before it reached the townspeople. Mathayus and Ari go to the King's quarters to confront him. Once they encounter him, Mathayus and Sargon fight hand-to-hand, while Ari writes down the details for his epic poem. Mathayus asks for the magical sword but Ari betrays him by throwing the sword to Sargon. Mathayus uses his dagger to break the sword, amazing Sargon. Ari then gives Mathayus the real sword. It was all part of Ari's plan to fool Sargon. Ari then tells Sargon, "Never trust a Greek." Sargon transforms into the monstrous Scorpion King, but after a long battle Mathayus succeeds in killing the monster by impaling him with the sword. Sargon is dead. Astarte confronts Mathayus, and she threatens to kill him, and he tells her he will join her soon enough.The day after, Hammurabi's son is declared the true emperor. Mathayus finally kisses Layla while recovering from his wounds. Layla admits she no longer wishes to lead the life of a soldier and wants to settle down. The movie ends with Ari's narration of how now Mathayus prefers to live a life of adventure and is traveling in the desert, and one day he will come back and become the Scorpion King. These events lead to the original 2002 film, The Scorpion King.
+
+
+QUESTIONS
+q: what is set to fire?
+a: ['towns coliseum']
+
+q: What is the name of the ancient city?
+a: ['Akkad']
+
+q: Who hands the sword to Sargon?
+a: ['Ari']
+
+q: Who set the city of Akkad on fire?
+a: ['Sargon']
+
+q: Who frees Layla?
+a: ['Mathayus']
+
+q: Who is childhood friend of Layla?
+a: ['Mathayus']
+
+q: What is the name of Chinese Captive?
+a: ['Fung']
+
+q: Who disarmed Mathayus?
+a: ['Sargon']
+
+q: Who has won the right to be king?
+a: ['Mathayus']
+
+q: who asks for more dark powers?
+a: ['Astarte', 'sargon']
+
+q: who orders sargon to get sword?
+a: ['a Greek named Aristophanes']
+
+q: Who steals the throne of Akkad?
+a: ['Sargon']
+
+q: What sword does Mathayus use?
+a: ['Sword of Damocles']
+
+q: What does Mathayus intend to get in Egypt?
+a: ['the Spear of Osiris']
+
+q: What does Sargon turn into?
+a: ['machine']
+
+q: where the group reach?
+a: ['Akkad', 'underworld']
+

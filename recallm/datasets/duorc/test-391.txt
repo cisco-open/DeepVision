@@ -1,0 +1,33 @@
+PARAGRAPH
+Hu Te et al. escape the burning Shaolin temple after the Qing soldiers destroyed it in Shaolin Temple. The group of 5 decide to develop secret codes to identify fellow patriots, enlist those patriots and eventually meet up again to escape to the south away from the Qings, and also identify the traitor who sold out Shaolin temple. Ma Fu Yi (the traitor, played by Wang Lung Wei), joins the Qing top fighters to eliminate the rebels but is exposed by Ma Chao-Tsing who gets captured by Ma Fu Yi. Hu meets up with a group of Shaolin men secretly posing as bandits to rescue Ma as their leader is killed in the process, thus the bandits join the rest of the Shaolin patriots.
+Suffering continuous defeats at the hands of the Qing kung fu experts, the 5 patriots return to the Shaolin temple ruins to perfect their kung fu and take revenge for their destroyed temple and dead comrades.
+
+
+QUESTIONS
+q: What is developed to identify fellow patriots?
+a: ['Secret codes']
+
+q: Who captures Ma Chao-Tsing?
+a: ['Ma Fu Yi']
+
+q: Who is the traitor?
+a: ['Ma Fu Yi']
+
+q: who are the shaolin's rivals?
+a: ['Qing Dynasty']
+
+q: Who exposes the traitor?
+a: ['Ma chao-tsing']
+
+q: Who destroyed the Shaolin temple?
+a: ['Qing soldiers']
+
+q: who plays ma fu yi?
+a: ['Wang Lung Wei']
+
+q: who captured ma chao-tsing?
+a: ['Ma Fu Yi']
+
+q: Where do the patriots perfect their kung fu?
+a: ['Shaolin Temple']
+

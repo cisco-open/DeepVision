@@ -1,0 +1,10 @@
+PARAGRAPH
+The film's title character is an insurance broker who lives a quiet, unassuming existence â and who secretly keeps a 10-year-old boy called Wolfgang in his soundproof basement. He sexually abuses the boy, but they otherwise have somewhat of a fatherâson relationship. In the evenings, after Michael locks the door and closes the blinds, Wolfgang is allowed into the living room for dinner and to watch TV. When in hospital after an accident, Michael is in a hurry to be released and return to Wolfgang. When Wolfgang gets sick Michael digs a grave in the woods, in case Wolfgang dies. However, he recovers. The boy writes a letter to his parents, to be mailed by Michael, but Michael does not send it and lies to Wolfgang, saying his parents donât want him back.
+Sometimes he takes the boy on a pleasure trip outside the town, where people do not know Michael. On one occasion he goes on a skiing trip with friends for multiple days, leaving extra food for Wolfgang, who has water, a toilet, simple cooking facilities and a TV in his room.
+Seeing that Wolfgang is lonely, Michael promises to bring another child for company. Together they assemble a bunk bed in advance. Michael attempts to abduct another boy by luring him away, but the boy is called back by his father, who scolds him for walking off with a stranger. Michael tells Wolfgang that he did not succeed in providing him a friend. One day Wolfgang throws boiling water into Michael's face, nearly blinding him, but does not succeed in escaping. Due to the burns inflicted upon him in the attack, Michael takes his car and attempts to seek medical attention but dies in an accident. After the funeral Michael's mother is about to discover the boy when the film ends.
+
+
+QUESTIONS
+q: What is Michael's mission?
+a: ['Provide a friend for Wolfgang']
+

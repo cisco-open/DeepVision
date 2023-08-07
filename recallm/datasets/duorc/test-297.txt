@@ -1,0 +1,37 @@
+PARAGRAPH
+In 1930, fishermen in the small Catalan port of Esperanza make a grim discovery in their nets, the bodies of a man and a woman. The resultant ringing of church bells in the village brings the local police and the resident archaeologist, Geoffrey Fielding (Harold Warrender), to the beach. Fielding returns to his villa, and, breaking the "fourth wall", retells the story of these two people to the audience.
+Esperanza's small group of English expatriates revolves around Pandora Reynolds (Ava Gardner), an American nightclub singer and femme fatale. All the men love her (or believe that they do), but Pandora is unable to love anyone.
+She tests her admirers by demanding they give up something they value, citing Geoffrey Fielding's quote that the "measure of love is how much you are willing to sacrifice for it." One of her admirers (Marius Goring) even commits suicide in front of Pandora and her friends by drinking wine that he has laced with poison, but Pandora apparently shows indifference.
+Pandora agrees to marry a land-speed record holder, Stephen Cameron (Nigel Patrick), after he sends his racing car tumbling into the sea at her request. That same night, the Dutch captain Hendrick van der Zee (James Mason) arrives in Esperanza. Pandora swims out to his yacht and finds him painting a picture of her posed as her namesake, Pandora, whose actions brought an end to the earthly paradise in Greek mythology. Hendrick appears to fall in love with Pandora, and he moves into the same hotel complex as the other expatriates.
+Geoffrey and Hendrick become friends, collaborating to seek background information on Geoffrey's local finds. One of these relics is a notebook written in Old Dutch, which confirms Geoffrey's suspicion that Hendrick van der Zee is the Flying Dutchman, a 16th-century ship captain who murdered his wife, believing her to be unfaithful. He blasphemed against God at his murder trial, where he was sentenced to death.
+The evening before his execution, a mysterious force opened the Dutchman's prison doors and allowed him to escape to his waiting ship, where in a dream it was revealed to him that his wife was innocent and he was doomed to sail the seas for eternity unless he could find a woman who loved him enough to die for him. Every seven years, the Dutchman could go ashore for six months to search for that woman.
+Despite her impending wedding to Stephen, Pandora declares her love for Hendrick, but he is unwilling to have her die for his sake, and tries to provoke her into hating him.
+Pandora is also loved by Juan Montalvo (Mario Cabre), an arrogant, famous bullfighter, who murders Hendrick out of jealousy. But as soon as Montalvo leaves, Hendrick comes back to life as if nothing had happened. He attends the bullfight the next day, and when Montalvo sees him in the audience, he becomes petrified with fear and is fatally gored by the bull. Before dying, Montalvo tells Pandora about his murder of his romantic rival, leaving her confused.
+On the eve of her wedding, Pandora asks Geoffrey if he knows anything about Hendrick that will clear up her confusion. Once he sees the Flying Dutchman preparing to sail away, he hands her his translation of the notebook. However, the Dutchman's yacht is becalmed. On learning the truth, Pandora swims out to Hendrick again. He shows her a small portrait of his murdered wife. She and Pandora look exactly alike. Hendrik explains they are man and wife and that through her he has been given the chance to escape his doom, but he rejected it because it would cost her death. Pandora is undaunted, however. That night, there is a fierce storm at sea. The next morning, the bodies of Pandora and the Dutchman are recovered.
+
+
+QUESTIONS
+q: How many years does the dutchman have to wait to go onshore?
+a: ['seven']
+
+q: What profession is Pandora's husbdand Stephen?
+a: ['land speed record holder']
+
+q: Who poisons himself?
+a: ['Marius Goring']
+
+q: Who asks Hendrick to translate a dutch legend?
+a: ['Geoffrey']
+
+q: Where are Pandora and Hendrick found dead?
+a: ["on Hendrick's yacht in the sea"]
+
+q: What does Pandora ask Stephen to do, to prove his love to her?
+a: ['send his racing car tumbling into the sea']
+
+q: How often is the Dutchman allowed to go on shore?
+a: ['every seven years']
+
+q: What country does Pandora Reynolds live in?
+a: ['Esperanza']
+

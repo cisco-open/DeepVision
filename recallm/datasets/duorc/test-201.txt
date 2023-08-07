@@ -1,0 +1,21 @@
+PARAGRAPH
+This film is about the blind, in particular about the lives and feelings of blind children and the principal of their school. Sparsh refers to the sensation and feeling of touch upon which blind people rely in the absence of sight.
+The story opens with Anirudh Parmar (Naseeruddin Shah) as the principal of Navjivan Andhvidyalay, a school for the blind that educates about 200 blind children. Anirudh has a dark and lonely existence for the most part. One day, while on his way to the doctor, he hears a lovely song and ends up mesmerized at the singer's door instead of the doctor.
+The voice belongs to Kavita Prasad (Shabana Azmi), a young woman recently widowed after three years of marriage. Kavita, too, prefers a secluded existence. Her childhood friend Manju (Sudha Chopra) is about the only friend she has.
+Manju throws a small party where Kavita and Anirudh meet again. He recognizes her from her voice. During the conversation, he mentions that the school is looking for volunteers to read to, sing to, teach handicrafts and spend time with the children. Kavita is reluctant, but she is urged by Manju and her husband Suresh to strongly consider it. Kavita decides to volunteer.
+As Kavita spends more time at the school, she begins forming a friendship with Anirudh. The friendship grows stronger over time and they become engaged. But their personalities and feelings are different. Anirudh is of strong character: He firmly believes that the blind need help but not pity or charity. (When once, in his office, Kavita attempts to assist him with coffee, he gets enraged at the thought of his guest offering to overcome his obvious difficulty with hospitality.) Kavita, recently bereaved, looks to the school (and Anirudh) as a way towards an ideal, one of sacrificial service. Anirudh gets wind of this and assumes Kavita is simply seeking to fill the void in her life with this form of service. He assumes she accepted the proposal not out of love but as a sacrifice towards a way out of her dark life. During this time, Anirudh's fellow blind friend Dubey (Om Puri) laments that his recently deceased wife was not happy in their marriage.
+Anirudh is shaken, confused and disturbed by all this. He breaks off the engagement (but does not mention the reason to Kavita). She accepts his decision.
+Kavita, now a salaried employee of the school, continues to help the children. The initial coldness between her and Anirudh gives way to friction and eventually, over a series of events at the school, brings up the feelings they were not able to discuss before. The situation spirals downward and one of them must leave the school.
+The movie ends with Anirudh and Kavita being 'touched' by the depth of their feelings for one another and finally seeing a way out.
+
+
+QUESTIONS
+q: Blind people want not sympathy but what?
+a: ['Help']
+
+q: Sparsh doesn't have what?
+a: ['sight']
+
+q: What type of people are featured in the movie Sparsh?
+a: ['blind children and their principal']
+

@@ -1,0 +1,41 @@
+PARAGRAPH
+Rhoda Williams (Brit Marling), a brilliant 17-year-old girl who has spent her young life fascinated by astronomy, is delighted to learn that she has been accepted into MIT. In a reckless celebratory moment, she drinks with friends and drives home intoxicated. Listening to a story on the radio about a recently discovered Earth-like planet, she gazes out her car window at the stars and inadvertently hits a stopped car at an intersection, putting John Burroughs (William Mapother) in a coma and killing his pregnant wife and son. Rhoda is a minor, so her identity is not revealed to John. After serving her juvenile prison sentence, and after four years of isolation, Rhoda continues to shield herself from the world outside, becoming a janitor at a local school, wanting to work "physically," almost as a means to struggle past the potential she has squandered with the decision of a single night.
+After cleaning her former high school for a while and hearing more news stories about the mirror Earth, Rhoda visits John's house after he has recovered, thinking she will apologize for the harm she did to him. He answers the door and she loses her nerve. Instead, she pretends to be a maid offering a free day of cleaning as a marketing tool for Maid in Haven (a New Haven-based maid service). John, who has dropped out of his Yale music faculty position and is now living in a depressed and dirty stupor, agrees to Rhoda's offer. When she finishes, John, who still does not know she is the person who killed his wife and son, asks her to come back next week. Rhoda tells him someone will come, but it may not be her.
+Despite her fear, Rhoda returns to clean and begins to develop a caring relationship with John that eventually becomes more significant and romantic. They like each other and are intelligent and compatible conversationally. Rhoda genuinely wants to be of service to him.
+Rhoda enters an essay contest sponsored by a millionaire entrepreneur who is offering a civilian space flight to the mirror Earth. Rhoda's essay is selected, and she is chosen to be one of the first explorers to travel to the other Earth. Rhoda tells John she has won the space flight, but he asks her not to go. He tells her that they might have something together. Faced with this, she finally decides to confront him with the truth and tells him that she was the one who killed his wife and son. He struggles to accept this information and becomes upset. He forcibly removes her from his house.
+Rhoda hears a scientist postulating in a telecast that the citizens of the mirror Earth might be identical to those on her Earth in every way until the moment they learned of the others' existence. From that point on, the identical people on the different Earths probably began to deviate in small ways, changing their actions. Hearing this, Rhoda realizes that her identical self on the other Earth may not have caused the accident.
+Excited, Rhoda rushes back to John's house, but he is still in shock and will not listen. She breaks into the house, and, unable to talk to John properly, leaves him the ticket to the other Earth, telling him enough information to give him a small hope that his wife and son might be alive on that planet. John accepts the gift and becomes one of the first civilian space travelers to the other Earth.
+Four months later, Rhoda looks up at the sky where Earth 2 is now hidden in fog. She approaches her back door and sees her other self from Earth 2 standing in front of her.
+
+
+QUESTIONS
+q: What did the entrepreneur offer?
+a: ['civilian space flight']
+
+q: What happens the night Rhoda goes and celebrates with her friends and family?
+a: ['hits a stopped car']
+
+q: Who killed John's wife and son?
+a: ['Rhoda']
+
+q: Who plays Rhoda Williams?
+a: ['Brit Marling']
+
+q: Who visits John's house after he has recovered?
+a: ['Rhoda']
+
+q: What job does Rohda get after her accident?
+a: ['janitor']
+
+q: Who does Rhoda pursue a relationship with?
+a: ['John']
+
+q: Who is a high school student?
+a: ['Rhoda Williams']
+
+q: Did Rhoda go to MIT after getting accepted?
+a: ['No']
+
+q: Who genuinely wants to be of service to him?
+a: ['Rhoda']
+

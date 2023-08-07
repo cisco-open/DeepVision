@@ -1,0 +1,37 @@
+PARAGRAPH
+Frank Drebin (Leslie Nielsen) has retired from Police Squad and lives a basically happy life with his wife, Jane Spencer-Drebin (Priscilla Presley). It remains "basically happy" because police work has been Frank's meaning of life, and he feels unhappy about not being able to legally take on criminals anymore. Additionally, Jane tries to push him into siring a child, but Frank does not have the courage to go through this yet. It comes as a blessing to him when his old friends Ed Hocken (George Kennedy) and Nordberg (O.J. Simpson) come by and ask for his help in an investigation. The Police Squad has caught wind that a well-known bomber named Rocco Dillon (Fred Ward), who is currently incarcerated, has been hired by a terrorist (Papshmir, known from the first movie) to conduct a major terrorist act against the United States. An important contact, Tanya Peters (Anna Nicole Smith), Rocco's girlfriend, proves to be a dead end, so Drebin is asked to join Dillon undercover in prison, befriend him, and then leak details of the plan to his colleagues. However, the first part of the mission â by pure accident â proves to be extremely taxing; Jane becomes frustrated both at Frank's sudden unwillingness to engage in his marital duties and the suspicion that he is doing police work again, and storms out of the house.
+Frank joins Rocco in prison, and after winning his trust, the two stage their breakout together. Rocco even manages to persuade his dominant and highly distrustful mother, Muriel (Kathleen Freeman) to take Frank into their house. However, both are loath to tell Frank too many details right away, which is why he is forced to stay around a little longer. In the meantime, Jane joins her friend Louise (Ellen Greene) on a road trip, but in time she realizes that she really misses Frank. When she calls home and receives no reply, she follows a clue Frank had inadvertently left behind to Tanya, where she is promptly taken hostage by Rocco and his mother. Frank is barely able to save her life for the time being, and eventually Rocco reveals his plan: the bomb is to be set off at this year's Academy Award ceremony, with the bomb hidden in the envelope with the nomination of the Best Picture category and triggered when the card is pulled out. (In one scene Tanya Peters (Anna Nicole Smith) is revealed to be a trans woman, in a shadow.)
+At the awarding night, Frank and Jane separate from Rocco's team and frantically begin searching for the bomb, with Frank inflicting his usual chaos on stage during the prelude show. However, Frank and Jane are unable to find the bomb before the nomination for Best Picture has begun. When Frank bursts onto the stage and awkwardly tries to prevent the detonation of the bomb, Rocco and his mother realize what is going on and kidnap Jane, but in the process, Frank loosens an electronic sign which takes out Muriel. Desperate, Rocco decides to detonate the bomb to follow his mother, but Frank manages to catapult Rocco and the bomb out of the awarding hall right into Papshmir's private helicopter (which was circling overhead), with the bomb eliminating all hostile parties involved. Frank and Jane reaffirm their love under the applause of the awarding audience and viewers worldwide. Nine months later, Frank and Nordberg rush into the pediatric ward to witness the birth of Frank's child but in their hurry run into the wrong delivery. Seeing that the baby is African-American, Frank assumes Nordberg is responsible and angrily chases him. Just after they leave, Ed comes out of another hospital room with Jane, who is holding the real baby, unbeknownst to Frank.
+
+
+QUESTIONS
+q: what is drebin asked to do
+a: ['Join Dillon undercover in prison', 'go undercover in a prison']
+
+q: where does frank catapult rocco
+a: ["Into Papshmir's private helicopter", 'into a helicopter']
+
+q: Who does Frank think is the real father of his child?
+a: ['Nordberg']
+
+q: What is Frank and Jane's relationship?
+a: ['Husband and wife']
+
+q: what does rocco persuade his mother to do
+a: ['Take Frank into their house', 'take Frank in']
+
+q: Where does Frank go undercover to get information?
+a: ['Prison']
+
+q: what happens 9 months later
+a: ["Birth of Frank's child", 'Frank and Nordberg rush into the wrong delivery room']
+
+q: What profession did Frank retire from?
+a: ['Police Squad']
+
+q: Who is the evil terrorist in the film?
+a: ['Papshmir']
+
+q: Which award envelope is hiding the bomb?
+a: ['the nomination of the Best Picture category']
+

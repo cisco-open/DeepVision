@@ -1,0 +1,15 @@
+PARAGRAPH
+Tom Stansfield (Ashton Kutcher) is a researcher at a publishing company who works under the tyrannical Jack Taylor (Terence Stamp). Tom has a crush on his boss' daughter, Lisa Taylor (Tara Reid), who is completely controlled by her overprotective father. She reveals to Tom that her father is making her house-sit on the same night as a party she wants to attend, but Tom convinces her to stand up to her father and attend the party anyway. Lisa asks him to come to their house that night, leading Tom to think that she has invited him to the party; in reality, she just wants him to fill in for her - he reluctantly agrees. A comedy of errors ensues, including the return of Lisa's older brother, Red, on the run from drug dealers. Red dumps drugs into the toilet, and instead returns a bag of flour to the drug dealer. One of Tom's tasks is to guard their owl, O-J, which lives in an open cage (it has not been able to fly due to a deep depression, from the loss of a prior mate). When the bird drinks from the toilet polluted with drugs, it flies away. Jack Taylor's ex-secretary Audrey goes to the house to try to earn her job back. After fighting with her boyfriend, she stays over at the house. Lisa returns home after finding out that her boyfriend Hans is cheating on her. Tom hides from her everything that happened and she spends some time with him thinking he is homosexual. He clarifies to her that he's actually straight and she starts to like him. Audrey's friend thinks she has breast cancer and asks Tom to feel her breasts. Lisa walks in on them and is disgusted by the situation.
+T.J., the drug dealer, finds out about the fake drugs and threatens to kill Tom if he doesn't return him his money. T.J. tries to open a safe and steal the money. However, Tom gives him sleeping pills mixed with alcohol which sends him into a coma. Because they think T.J. is dead, Audrey and her friends bury him. Later, T.J. escapes from the grave and threatens to kill Lisa. With Red's help, Tom rescues Lisa and she falls in love with him. He then goes to get her father, but on the way back the owl gets into the car making Tom lose control of the car and crash into the house. They find police officers in the house looking for T.J., who ends up getting arrested. Jack Taylor is enraged by the damages done to the house and throws Tom out. The next day, Jack Taylor hears his son explaining to Lisa how she should stand up to their father and goes back to Tom. Jack realizes his mistakes and gives Tom a promotion.
+
+
+QUESTIONS
+q: Tom has to take care of what animal while his boss is out of town?
+a: ['The owl O-J']
+
+q: Lisa's brother has some dealings with the local what?
+a: ['drug dealers']
+
+q: How many nights will Tom's boss be out of town?
+a: ['one night']
+

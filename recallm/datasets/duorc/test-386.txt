@@ -1,0 +1,59 @@
+PARAGRAPH
+Will Carlson (Brian O'Halloran) is a 20-something loser who lives in a rundown neighborhood in a bad section of New Jersey, where he ekes out a living as a birthday party clown in order to pay the rent for his mean-spirited and abusive mother's (Debbie Karr) nursing home and the rent on own room in a rundown boarding house where he lives. Despite the difficulties of the job, playing a party clown is Will's one escape from the realities of his miserable existence; Bums sleep on the lawn outside his house, kids throw rocks at his passing car, and all people that Will interacts with, from strangers on the street to waitresses at local cafes and restaurants, are downright rude and belligerent. Yet among this misanthropic world Will lives in, he genuinely likes kids, and takes great joy from making them happy on their birthdays since young children are apparenly the only ones who don't treat him like dirt and see his clownish antics as an escape from their own miserable lives with their parents. Will's only real friend is Syd Gilbert (writer-director Bryan Johnson), a former high school friend who makes a living as a laborer and has connections to the local gangs that run the neighborhoods.Struggling to make ends meet, but not wanting to give up his dream job, Will comes up with the idea to be a high-priced "bachelor party clown." Will's idea is that men throwing bachelor parties can hire him as well as a stripper; Will enters the room prior to the "real" entertainment, wearing clown makeup and lingerie, tricking the bachelor into thinking that there was a mix-up and a gay stripper has been sent in lieu of a female one. Will invents the persona of Vulgar the Clown (after his friend, Syd, tells him that the entire idea is "vulgar") and solicits himself in the want-ads. Before long, he is hired to appear at a bachelor party being held at a nearby motel.When Will arrives for the party (wearing stockings, garters, clown makeup, and a trench-coat), he is immediately attacked and brutally beaten up by a violent-tempered, foul-mouthed, middle-aged man, Ed (Jerry Lewkowitz), and his two murderous sons, the equally violent Gino (Matt Maher) and the hulking dim-witted Frankie (Ethan Suplee). The three men then proceed to gang rape Will, taking turns videotaping the attack. The trio hold Will hostage in the motel room for an indeterminate amount of time, during which they subject him to a series of violent and humiliating sexual assaults. Once it's over, the men let Will go, telling him that if he goes to the police, the authorities will question the attack, as Will believed he was attending a bachelor party while dressed in women's lingerie. A tearful Will goes home and spends the remainder of the night and part of the next morning crying while he washes himself clean in the bathtub.Will spends a considerable amount of time after the attack in a crippling depression, which nearly costs him his home as his landlord comes to call demanding the rent money. Will confides in Syd about what the three men did to him, and forces Syd to keep it a secret.Eventually, Will fulfills a promise to appear as a clown at one of his past-clients' children's party. When he gets to the party, Will discovers a hostage crisis is occurring; the violent and estranged father of one of the children, in the middle of divorce proceedings, has kidnapped his own daughter and is threatening to kill her. Still in a suicidal attitude, Will sneaks past the police barricade, breaks into the house, and subdues the father.News reporters capture some of the event on film, and before long the story makes national headlines. Will becomes known as "the hero clown;" the attention and outpouring of support breaks him out of his depression. One day, a local TV producer named Martan Ingram (Kevin Smith) approaches him and offers him a job of having his own TV show for his station. Will is eventually given his own syndicated children's television show with himself playing 'Pappy the Clown'. Will's life seems to improve as he moves into a fancy house in a nicer neighborhood and brings Syd to live with him as his roommate.The media coverage attracts the attention of Ed and his murderous sons (who are still raping, as well as killing, young men while keeping his double life a secret from his second wife). They approach Will and threaten him with a copy of the videotape of him being sodomized and begin to extort money from him. When Will tries to pay the men off, they attack him in a bathroom stall. While Ed and his sons take the money, they still will not let Will off the hook. Will finally strikes an agreement with the men wherein he will come to a motel room and "perform" for them, allowing himself to be taken advantage of again, and they will give him all of the copies of the tape.However, Will secretly plans to ambush and murder all of them with the help of Syd, who purchases two pistols from the local drug dealer named Tuott the Basehead (Jason Mewes).When the time comes, Will finds himself unable to kill his three tormentors. Just as Ed and his sons move in to rape and murder Will, Ed's son Frankie accidentally shoots himself in the face with Will's gun. Then, a shootout ensues with another (unnamed) lowlife at the motel, who breaks into the room to rob them. Both the bum and Ed's other son (Gino) shoot each other to death. Ed panics, and Will chases him through the motel parking lot to a nearby playground. As Will approaches him to shoot him, Ed drops dead of a massive heart attack. His conscience clear, Will retrieves the tape and gives it to Syd to destroy to cover up his past. In the free and clear, Will then goes back to hosting his childrens television show.
+
+
+QUESTIONS
+q: Who is Will going to ambush and kill Ed and his sons with?
+a: ['Two pistols']
+
+q: Where does Ed keep Will hostage?
+a: ['in the motel room']
+
+q: In the extended ending, Syd's note and newspaper article were found by whom?
+a: ['did not see the extended ending.']
+
+q: Does Will like kids?
+a: ['Yes, he loves kids.']
+
+q: What kind of persona does Will invent after his friend Syd tells him that the entire idea is "vulgar"?
+a: ['Vulgar the Clown']
+
+q: Ed's heart failure was attributed to panic and overdose of what illegal drug?
+a: ['no drugs.']
+
+q: Who does Ed hold hostage?
+a: ['Will']
+
+q: What is Will's job ?
+a: ['birthday party clown']
+
+q: What does Will become known as ?
+a: ['the hero clown']
+
+q: Where does Will live?
+a: ['Run down neighborhood in NJ']
+
+q: How does Gino and Frankie know each other?
+a: ['Brothers']
+
+q: Struggling to make ends meet, but not wanting to give up his dream job, who comes up with the idea to be a "bachelor party clown"?
+a: ['Will']
+
+q: In the movie, where is Will hired to appear at a bachelor party?
+a: ['Motel']
+
+q: Was Ed's son Gino killed?
+a: ['Yes']
+
+q: Did Frankie accidentally shoot himself in the face?
+a: ['Yes']
+
+q: Who lives happily ever after
+a: ['Will']
+
+q: What does Ed and his sons threaten Will with?
+a: ['videotape of him being sodomized']
+
+q: What happens when Will tries to pay off Ed and his sons?
+a: ['They attack him in a bathroom stall']
+

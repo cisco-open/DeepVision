@@ -1,0 +1,37 @@
+PARAGRAPH
+Mitchie Torres is an aspiring young musician who hopes to become a professional singer. Mitchie wants to go to a music camp named "Camp Rock". Since the family can not afford the tuition, Mitchie's mother, Connie, arranges to cater food for the camp, thus allowing Mitchie to attend. In return, Mitchie must help her mother out in the kitchen.
+Meanwhile, Shane Gray, the spoiled and arrogant lead singer of the popular music trio Connect 3, has been assigned to be in charge of dance classes for one month at Camp Rock by his band mates Jason and Nate and is forced to record a song with the winner of Final Jam. Shane accidentally hears someone singing on the first day and falls in love with the voice, but does not know the identity of the singer.
+During Opening Jam, Mitchie learns that many of the campers have notable roots and is embarrassed that she was only able to come to the camp because of her mother's catering service. She convinces Tess Tyler, a girl known for her famous mother and her popularity, that her mother is the president of Hot Tunes TV China. Tess, impressed, invites Mitchie to bunk with her group. Caitlyn warns Mitchie that becoming one of Tess's background girls will not be as she expects.
+When Mitchie overhears Shane's new song, she compliments him. Shane, doubtful that his record label and his fans would accept the song, begins to fall for Mitchie. In the cafeteria, Tess and Caitlyn begin to throw spaghetti at each other and Mitchie gets in the middle of the fight. Brown, the owner of the camp, breaks the fight up and Tess frames Caitlyn for the incident. Brown punishes Caitlyn by having her work in the kitchen and Mitchie, who is worried that Caitlyn will learn her secret, does not help her out.
+When Mitchie accidentally enters the kitchen while Caitlyn is working, Caitlyn learns about Mitchie's secret. At Pajama Jam, Mitchie supports Caitlyn when Tess attempts to upstage her show. Mitchie and Caitlyn reconcile.
+Shane spreads the word that he is searching for a girl with "the voice." When Tess sees Mitchie and Shane rowing together, she becomes jealous and after finding out about Mitchie's secret, tells the entire camp. Shane thinks that Mitchie deceived him just to use him and Mitchie is forced out of Tess's group.
+On the eve of Final Jam, Mitchie and Caitlyn are framed by Tess for stealing her charm bracelet and Brown bans them from Final Jam.
+Final Jam arrives and everyone is ready for performances. Peggy and Ella confront Tess and leave her group. Ella performs with Barren and Sander in "Hasta La Vista". After that, Tess performs "2 Stars" and realizes her mom is attending, however she stumbles when her mom has to step out for a call. During the song, Mitchie and Caitlyn realize they can perform and run to the stage. Before the final song, Peggy performs "Here I Am" and reveals her name is actually Margaret Dupree. As Brown announces the final song, the spotlights turn on and he allows Mitchie to perform (saying he knew that they would catch on: as their performance was not in the lineup, thus not in Final Jam). Mitchie performs "This Is Me", which Shane realizes as the voice and soon joins in. Finally, the Connect 3 Members vote and decide that Peggy won the trophy and the song recording. The entire Camp sing We Rock. Backstage, Mitchie and Shane reconcile, and agree to meet next summer.
+In the extended edition, Mitchie, Peggy, Lola, Tess and Ella gather in Caitlyn's garage (now a recording studio) and sing "Our Time Is Here".
+
+
+QUESTIONS
+q: Who is the first friend Mitchie makes at camp?
+a: ['Tess Tyler']
+
+q: What summer camp does Mitchie want to go to?
+a: ['Camp Rock']
+
+q: What is name of gang members along with Shane Gray?
+a: ['Jason and Nate']
+
+q: what is the job of Mitchie Torres 's mom?
+a: ['camp caterer', 'Caterer']
+
+q: Who falls for each other at the end of camp?
+a: ['Mitchie and Shane']
+
+q: Who plays Mitchie Torres?
+a: ['Demi Lovato']
+
+q: What is the name of summer camp?
+a: ['Camp Rock']
+
+q: Who get  jealous of Mitchie and shane friendship?
+a: ['Tess']
+

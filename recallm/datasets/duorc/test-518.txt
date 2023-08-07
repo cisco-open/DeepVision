@@ -1,0 +1,66 @@
+PARAGRAPH
+The film opens as soldiers invade the city of Iolcus. King Aeson's (CiarÃ¡n Hinds) brother Pelias (Dennis Hopper) is leading the charge. Inside the temple he goes to embrace his brother but produces a dagger and kills him during the embrace. This is witnessed by his wife Polymele (Diana Kent) and his son Jason (Jason London). He intends to do the same to Jason but one of the guards rescues him and takes him out of the palace through a secret tunnel.
+It is then revealed that this is a memory, experienced as a nightmare by an older Jason, who awakes. He is then ordered by his uncle to retrieve the golden fleece.
+He recruits a crew from the simple folk of Iolcus, including shepherds and farmers. He is joined by Hercules (Brian Thompson), Orpheus (Adrian Lester), Atalanta (Olga Sosnovska) and the brothers Castor and Pollux. Acastus stows away on the ship. The Argonauts run aground on a strange island in the middle of the ocean that is actually the sea god Poseidon. In the ensuing storm, they lose the map. The crew make their way to the Isle of Lemnos, an island of warrior women, to recover from the experience and repair the ship. The men pleasure themselves with the women while their ship is repaired (except Orpheus and Atalanta) and Jason sleeps with the queen Hypsipyle. Atalanta discovers that the women have killed all the men on the island and are planning to sacrifice the crew. She warns Jason, and the Argonauts flee the island.
+The crew become rebellious and Jason has Zetes, a young man with brilliant vision, see the stars and find their route to Tabletop Island, where they find Phineus. They are attacked by the Harpies - the winged monsters that torment Phineus - and kill them. In return, Phineus tells them the Golden Fleece is in Colchis. Meanwhile, on Colchis, the princess Medea has visions of the crew and her brother Aspyrtes goes out to find them. Jason finds the ship wrecked and rescues Aspyrtes. They approach the "Dark Rocks" and send a dove through before sailing through themselves.
+The ship docks at Colchis and Jason goes ashore with Aspyrtes, Castor and Pollux. Hera asks Eros to shoot Medea so she falls in love with Jason. King Aertes wants Jason killed but Medea convinces him to face the Minoan Bull. Medea gives Jason magic oil that protects Jason from the bull's fire-breath. Jason yokes the bull and ploughs a field and sows it with dragon's teeth. Warriors sprout up from the earth, and Jason tricks them into attacking each other. Medea tells Jason she must go with the Fleece. Aspyrtes overhears this and sends soldiers out after them.
+The other Argonauts debate whether to leave or not. Hercules, Orpheus and Argos sail the ship around the island to make it seem as if they have left while the others hide in the water and then join Jason and Medea. When the soldiers attack, Medea kills her brother and leads them to the Fleece which is guarded by a dragon. Some Argonauts are killed before Jason sets a noose around the dragon's neck and makes it fall off a precipice. They take the Fleece and sail away from Colchis.
+Acastus has been wounded and Medea uses magic to heal him. Atalanta confesses she loves Jason but he says he will marry Medea. She has a vision of her father's death and the two kiss. Zeus attempts to seduce Medea but she says she loves Jason, even when he pulls out Eros's arrow. The ship arrives back in Iolcus and Jason learns his mother killed herself, believing him and Acastus to be dead. They rest in the bay and Acastus steals the Fleece and goes into town. Pelias kills him and takes the Fleece. Medea then goes and says he will marry her. Jason and the others sneak into the palace through the secret tunnel. Argos is killed by one of the guards. Pelias tries to kill Jason but is stabbed by his own knife.
+To cremate the dead Argos, his corpse is burned with the Argo. Then Jason marries Medea and they live happily ever after as King and Queen of Iolcus.
+
+
+QUESTIONS
+q: Who does Hera says is dead?
+a: ['Jason']
+
+q: Who is brought to Mount Olympus?
+a: ['jason']
+
+q: What does Hercules steal?
+a: ['the Fleece']
+
+q: Where do the Argonauts call home?
+a: ['Iolcus']
+
+q: Who is in love with Jason?
+a: ['Medea']
+
+q: What is ship's name?
+a: ['Argo']
+
+q: Jason lost what when he saved Pelias from drowning?
+a: ['A sandal']
+
+q: What is the name of the sea god?
+a: ['Poseidon', '. Poseidon']
+
+q: Who is blind?
+a: ['Phineas (Patrick Troughton)']
+
+q: Jason is on a quest to obtain what prized item?
+a: ['Golden fleece', 'golden fleece']
+
+q: A god warns Pelias to bewre a man who wears what?
+a: ['Aristo']
+
+q: What three characters hold off skeletons while others escape with the Fleece?
+a: ['Jason, together with Phalerus and Castor']
+
+q: How many times Jason can call the aid of Hera?
+a: ['Five']
+
+q: Briseis took sanctuary in what goddess's temple?
+a: ['Hecate']
+
+q: Which country's men compete for honor?
+a: ['Greece']
+
+q: Who is the high priestess of Colchis?
+a: ['medea']
+
+q: What was Acastus trying to steal?
+a: ['the Fleece']
+
+q: Who guides Jason to the Isle of Bronze?
+a: ['Hera']
+

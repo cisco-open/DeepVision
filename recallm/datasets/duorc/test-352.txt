@@ -1,0 +1,11 @@
+PARAGRAPH
+Aist is a middle-aged bachelor who leads a lonely life in the northern town of Neya. Like many of his neighbours, he identifies himself as a Meryan and strives to keep alive the ancient traditions of his people. One day his boss, Miron, informs Aist of the death of his wife Tanya. Later, the pair spend quite some time washing her body and putting coloured threads in her pubic hair. (In their culture, the same ritual is performed on brides-to-be). The two men take her body to Gorbatov (the smallest town in Russia), in order to perform cremation rites on the banks of the Oka River. In the car, they carry with them two Bunting birds. On their way back to Neya, they get lost and are approached by two prostitutes, with whom they have sex. Later on, while crossing "the great Meryan river" (The Volga), on the Kineshma Bridge, the Buntings fly around the car, causing it to crash into the river. Both men drown.
+
+
+QUESTIONS
+q: Who is Miron's wife?
+a: ['Tanya']
+
+q: What animals are brought on the roadtrip?
+a: ['Bunting Birds']
+

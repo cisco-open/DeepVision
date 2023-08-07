@@ -1,0 +1,80 @@
+PARAGRAPH
+After arguing with his sweetheart, Becky Thatcher, Tom Sawyer seeks solace from his friend Huck Finn, who tells him about a mysterious cure for warts that requires them to visit the local cemetery at midnight. While there they witness a murder committed by Injun Joe, who convinces Muff Potter, who also was there but in an inebriated state, that he is guilty of the crime. Tom and Huck promise each other they will not divulge what they have seen.
+When Tom is caught lying about stealing his half-brother Sid's crabapples, his Aunt Polly punishes him by making him whitewash the fence on a Saturday morning. The boy leads his friends to believe he is enjoying the task, and before long they are giving him their treasures in exchange for the privilege of joining in the fun.
+Together with Huck and Joe Harper, Tom runs away from home to become a pirate. The three set off on a raft to Jacksons Island in the Mississippi River, where they remain for three days. Upon returning home, Tom discovers it was thought the three had drowned, and the boys attend their own funeral service at the church.
+At Muff Potter's trial, Tom admits the truth about the murder, but Injun Joe manages to escape. While attending the school picnic near a cavern, Tom and Becky decide to explore it and get lost. As they try to find their way out, they stumble upon Injun Joe and a chest of gold. While angrily pursuing the two children, he falls into a crevasse and is killed. Huck finds Tom and Becky and leads them to safety, together with the treasure.
+
+
+QUESTIONS
+q: What does Tom trick the children of the town to do for him?
+a: ['paint the house for him', 'Whitewash fence']
+
+q: Who is Tom attacked by?
+a: ['Injun Joe.']
+
+q: Where do Tom and Finn end up after their raft capsized?
+a: ['return to town']
+
+q: what sent Sawyer into a romantic daze?
+a: ['An argument with Becky Thatcher']
+
+q: Who gets in between Tom and Becky's relationship?
+a: ['Amy Lawrence']
+
+q: What does Muff decide to do?
+a: ['Sawyer berates Finn for worrying Douglas, and Potter decides to leave the town.']
+
+q: Who attacks Tom?
+a: ['Joe', 'Injun Joe']
+
+q: Tom and Finn paddle down which river?
+a: ['Mississippi', 'The Mississippi River']
+
+q: What is it called when you fire a cannon into a river to bring up bodies from the bottom?
+a: ['backfire', 'dragging the river']
+
+q: Who is the town drunk?
+a: ['Muff Potter']
+
+q: Who decides to leave the town?
+a: ['Tom, Huck, and Joe Harper']
+
+q: Why do Tom and Becky go to McDougal's Cave?
+a: ['They on a picnic near the cave']
+
+q: What do Tom and Huck  find out when they decide to "go home"?
+a: ['They were thought to have drowned']
+
+q: Who got engaged?
+a: ['It does not state anybody got engaged.']
+
+q: What does Muff toss at Joe?
+a: ['shovel', 'torch']
+
+q: Tom and Becky get "engaged" after which event?
+a: ['the trial', 'After becky spills ink of the test results and tom saved her.']
+
+q: Who sees Tom and Huck in the back of the church?
+a: ['deputy bean', 'Judge Thatcher']
+
+q: who framed Muff for the murder
+a: ['Injun Joe']
+
+q: When did Tom's engagement end?
+a: ['It does not state when the engagement ends.']
+
+q: Who does Tom Sawyer play hooky from school with?
+a: ['Huckleberry Finn', 'Huck']
+
+q: What do they plan to revive with the spirit of Hoss Williams?
+a: ['for worrying Douglas, and Potter decides to leave the town.']
+
+q: Whose spirit do Tom Sawyer and Huckleberry Finn plan to use to revive the dead cat?
+a: ['The boys plan to use the spirit of a man on his death bed.']
+
+q: When did Tom and Becky get engaged?
+a: ['It does not state when they got engaged.']
+
+q: What is being held for Tom and Huck when they go home?
+a: ['Their Funeral', 'A funeral is being held for Tom and Huck when they go home.']
+

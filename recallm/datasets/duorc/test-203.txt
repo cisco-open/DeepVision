@@ -1,0 +1,14 @@
+PARAGRAPH
+There have been so many variations on D.H. Lawrences Lady Chatterleys Lover over the past eighty years that it has become almost a genre of its own. Few, however, have been as successful in elucidating Lawrences theme of the psychic need to integrate mind and body into a single life force as Catherine Corsinis Leaving.Suzanne (Kristin Scott-Thomas) is an English woman who tries to leave her French husband Samuel (Yvan Attal) after becoming sexually involved with Spaniard Ivan (Sergi Lopez) an ex-convict who had been hired to build an office for her physiotherapy business in the back yard of their bourgeois estate. Samuel uses every means at his disposal , from cutting off her finances to threatening prison for her lover, to keep her in the house, until she finds but one means of exit.It is to both Corsini and Scott-Thomas credit that such a stale premise has resulted in a movie that succeeds so well as both a celebration of erotic self-discovery and denunciation of patriarchal power structures. Corsini is lean and precise in both her script and direction. The first kiss between the lovers is seen in long shot from an obscure angle that makes the viewer question if anything really happened. Then Corsini cuts to a shot of them in a car, and we expect but do not receive a dialogue concerning the kiss, after which Suzanne is shown in bed with her husband, reading because of an apparent inability to sleep.Scott-Thomas gives a performance of exacting physicality. In the beginning, she is all limbs and no center, observing her own body with curious amusement. Her first tryst with Ivan is accomplished through an almost paralytic clinging, as if she is a dead battery charging itself. Before attaining the perfect harmony of body and mind, there is an interim transformation during which her husband accurately if disparagingly describes her as a bitch in heat.Samuels fury at his wifes defection explodes with the incredulous rage of a factory owner whose workers have gone on strike. You are my wife! he insists, reducing her to a possession without a personal identity. All the rules of civility between human beings are forgotten in the ensuing battle between the former partners in a now ruptured marriage.In transgressing the boundaries of class as well as the limits of sexual fidelity, Suzanne loses her bourgeois privileges and becomes subject to the economic harassment of the those controlling the chains of finance, from the banks to the justice system. In the end, the lovers are outlaws, frolicking in the lusciousness of the natural world, while the distant sound of police sirens echo Raymond Chandlers aphorism that you can say goodbye to just about anything except the cops
+
+
+QUESTIONS
+q: Who did Suzanne's husband hire to build her an office?
+a: ['Spaniard Ivan']
+
+q: What does Suzanne do for a living?
+a: ['sexually involved with Spaniard Ivan']
+
+q: With whom was Suzanne in affair with?
+a: ['Ivan']
+

@@ -1,0 +1,35 @@
+PARAGRAPH
+Japanese/English Version:The Marketing Director (MD) of the Pacific Pharmaceutical company is not pleased with the science show they they are funding because the ratings stink. They need a change.Meanwhile: An American nuclear submarine, the Seahawk, is patrolling the Arctic when it discovers an iceberg that has a greenish glow emanating from it. The captain decides to submerge in order to discover the reason for the phenomenon. The Seahawk discovers there is some 'thing' inside the iceberg but becomes trapped in the iceberg field.The MD engages two explorers to search an island in the Pacific where rumours of a monster exists.The two explorers and an assistant reach the Pacific island which is in the Solomon Island chain but are soon captured by the local natives and taken to their village. The native Chief at first bans them from the island, but by offering him some trinkets, they manage to convince him to allow them to stay for a while longer. A thunderstorm begins and the natives begin a musical ritual to appease their god.In the Arctic, a helicopter continues its search for the Seahawk and eventually sights the yellow marker left by the submarine. Without sighting the sub they see Gojira (Godzilla) emerge from the iceberg. The falling pieces from the iceberg sink the sub in the process. Gojira (Godzilla) swims and wades to the Japanese shore under fire from an army base and being somewhat annoyed, destroys it.The MD is really upset about all the publicity regarding Gojira (Godzilla), with none about his monster, which has still not been found. He contacts the ship to discover how the search is progressing.The natives guide the explorers through the jungle finding what they were looking for; the only problem is that they are too frightened to remain, and return to the village. One of the explorers is hurt and a small boy is sent to fetch some medicine. While he's in the hut gathering the potion, a giant octopus approaches. The boy's mother is looking for him and enters the hut as the octopus attacks the village and they find themselves trapped within. The villagers attack the octopus, and the mother and child manage to escape. At that moment King Kong arrives and battles the giant octopus, sending the creature back to the sea. Feeling thirsty, he drinks the medicine the villagers have created for the explorer and falls asleep. The explorers build a raft and they capture King Kong to bring him back to Japan.Gojira (Godzilla), moving through the Japanese country, begins to cause havoc, destroying a train and many villages on the way. One woman barely manages to escape.Meanwhile at sea, King Kong, still strapped on the raft, begins to awaken before the ship can arrive. His struggles to free himself, and having the raft towed causes the ship to toss every which way. They have no choice but to blow up the raft, thus freeing Kong.The army builds a large pit for trapping Gojira (Godzilla).Kong Kong arrives in Japan and destroys a few villages in the process.King Kong and Gojira (Godzilla) eventuallly meet but when Gojira causes Kong's chest hair to burn, Kong decides the meeting is over and heads off in a different direction.When the trap is ready the army maneuvers Gojira (Godzilla) into it, but it fails to hold him. They release a million volts of electricity which manages to control Gojira (Godzilla). But Kong is unaffected by the electricity and passes through the high power cables without problem.King Kong stops a train and captures a woman (shades of Fay Wray) and takes her to a tall building, showing off his strength. The army is about to attack but is stopped by the woman's brother. They devise a plan to re-capture King Kong by making him sleep as the island natives did. The plan works and the woman is saved. Next they attach helium balloons to the ape intending to take him away toward Mount Fuji.However, once again King Kong wakes but this time he is flying instead of floating and when he looks around notices he is above Gojira (Godzilla). The ropes are cut and King Kong lands on him and a fight begins. At first Gojira (Godzilla) has the upper hand with his fiery breath and strength. But when a storm begins over them, King Kong becomes strong and the fight becomes fairer.Eventually, both King Kong and Gojira (Godzilla) fall into the ocean but only King Kong is seen swimming away. Hopefully this would be the last of Gojira (Godzilla).(Wow, did you notice the size of the mobile phones???)
+
+
+QUESTIONS
+q: How many volts of electricity are in the barrier of power lines?
+a: ['1,000,000']
+
+q: What is discovered on Faro Island?
+a: ['A doctor']
+
+q: who is the Faro monster whick attacked the Faro Island?
+a: ['King Kong']
+
+q: How many men did Tako send to find the monster?
+a: ['2']
+
+q: Who approached Tokyo?
+a: ['Kong']
+
+q: Where do Godzilla and Kong have their final battle?
+a: ['Mt. Fuji']
+
+q: Who digs a large pit laden with explosives?
+a: ['The JSDF']
+
+q: What destroyed the submarine?
+a: ['Godzilla']
+
+q: where did the final battle between king kong and godzilla happen?
+a: ['Mt. Fuji']
+
+q: who is the head of pacific pharmaceuticals?
+a: ['Mr. Tako']
+

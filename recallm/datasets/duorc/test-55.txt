@@ -1,0 +1,20 @@
+PARAGRAPH
+In the main hall at New York's Pennsylvania Station, Davy Gordon (Jamie Smith), a young boxer, sits waiting for his train as he recalls the last few days...Living alone in a small apartment, he becomes attracted to a young woman, named Gloria Price (Irene Kane), who leads a no less solitary existence across the courtyard of his apartment building. He leaves for a fight while she goes to a nightclub where she works as a taxi dancer for its owner, Rapallo (Frank Silvera).Meanwhile, Davy loses the fight and on his return to his apartment, he sees through Gloria's bedroom window that Rapallo is trying to rape her. Davy rushes to her aid and beats Rapallo up who fleas. Shaken, Gloria recounts her life story to Davy about having to support herself and Rapallo who wants her. They decide to leave town and stay with Davy's uncle in Seattle. But first, Davy must collect money owed to him by Albert (Jerry Jarret) his manager. When Gloria phones Rapallo and tells him that she is leaving him for good, Rapallo decides to send out his strong-armed men (Mike Dana, Felice Orlandi, Ralph Roberts and Phil Stevenson) to kill Davy to reclaim his woman.Davy and Gloria go to the taxi dance club where Gloria will pick up her last paycheck and Davy will wait outside on the street for Albert to show up with his money. When two drunken mens club conventioneers steal Davy's coat, he chases off after them in which Albert arrives outside the club and waits for Davy. Just then, two of Rapallo's goons arrive and attack and kill Albert in a vacant alley after they mistake him for Davy.When Davy returns to pick up Gloria, Rapallo realizes that they killed the wrong man and he sends his men out to just grab Gloria by force. When Davy returns to his apartment to pack up and sees Gloria being taken by Rapallo's men, he rushes over, but they get away. Davy is forced to hide when his landlord and two policemen arrive looking for him to question him about Albert's murder. Davy now embarks on a personal quest to find Gloria on his own.The next morning, Davy follows Rapallo from his club to a seedy and desolate part of the Lower East Side where he takes him hostage with a gun and forces him to lead him to Gloria. At the loft, Davy holds Rapallo and his two henchman in check as he unties Gloria. But just then, one henchman lunges at him for the gun and a struggle ensues. Davy is forced to run while Rapallo and one of his thugs chase off after him while one stays behind to watch Gloria. When the henchman left behind lets his guard down, Gloria knocks him on his head and escapes.A climatic chase begins as Davy is pursued across the rooftops by Rapallo and one of his henchmen. When the henchman injurs his foot after jumping from one rooftop to the next, Rapallo leaves him behind to contine chasing after Davy. The chase leads to an old warehouse filled with disembodied shop-window mannequins. Davy engages in a life-or-death struggle with Rapallo, kills him and, believing that he has lost Gloria, leaves alone to catch his train to Seattle.Flashing forward to the present, just as Davy steps up onto the platform to board, Gloria joins him at the last minute and they ride off together.
+
+
+QUESTIONS
+q: Davey is captured on his way to rescue who?
+a: ['Gloria']
+
+q: Where does the train ticket Davey buys go to?
+a: ['Seattle']
+
+q: Who does Davey see attacking Gloria?
+a: ['Rapallos men']
+
+q: Who kidnaps Gloria?
+a: ['Rapallo']
+
+q: Who does Davey gaze upon ?
+a: ['Gloria']
+

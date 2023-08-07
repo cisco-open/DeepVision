@@ -1,0 +1,41 @@
+PARAGRAPH
+Paul Callow (Mackenzie Crook) accidentally runs a man over with his underground train, after the man is pulled on to the tracks by his dog. After a week off he kills a second passenger who falls on to the tracks after having a heart attack.
+Before taking time off for the second accident his colleagues tell him about a little-known 'rule' at London Underground that no-one talks about: three 'under' within a month, and you lose your job - earning yourself ten years' salary in one lump sum. But being off for the next week means that Paul needs to find someone willing to kill themselves by the following Monday.
+Paul sets about trying to find someone prepared to die under his train â and after hearing a report about Holborn Viaduct he comes across Tommy Cassidy (Colm Meaney) attempting to jump off. He grabs his hand and pulls him up but far from being grateful Tommy is angered by Paul's interference and moans about how "do gooders" will not just mind their own business, however upon hearing a police siren he agrees to get in Paul's car.
+While in a bar Paul explains to Tommy that he will pay him if he is willing to jump in front of his train. Tommy is scornful asking what good will the money do him if he has to die. Paul says that he can have one last weekend of fun. Tommy however wants to do something meaningful.
+Tommy agrees to his proposal and decides to spend his last weekend making amends with his estranged family.
+Tommy hires a car and they travel to Liverpool. While there they find that Tommy's wife Rosemary (Imelda Staunton) and daughter Frances (Gemma Arterton) have moved to the Lake District. Paul tags along to protect his investment.
+While in the Lake District Tommy meets with resistance from his wife and daughter. He reconciles with his wife, who reveals she has found a new man. Paul meets the daughter at a local pub and the two get drunk and sleep together.
+On the Sunday morning Tommy tries to talk to his daughter and sees her in bed with Paul, then chases him over some hills before having a mild cardiac attack and being taken to hospital. Tommy and Paul leave to go back to London.
+Paul tells Tommy he does not want to kill him and Tommy insists that he go through with it. On the Monday morning Paul is told by his colleagues that the "three and out" rule was a joke, and that there is no pay off. When the time approaches Paul sees Tommy on the tracks and stops and reports an "animal on the tracks". However, crying and recalling "a deal's a deal", Paul accelerates towards Tommy, who recites William Butler Yeats' poem Lake Isle of Innisfree as the train kills him.
+Distraught, Paul sits at home then begins to write and changes the title of his novel to Three and Out, we see Frances receive a copy of the novel along with Â£10,000 which Paul had promised to Tommy. Hidden behind the cheque is the dedication "In Memory of Tommy Cassidy". Realising her Dad has died, Frankie breaks down in tears. She travels to London and meets Paul, they go deep sea diving with Great White Sharks, Tommy's last wish.
+
+
+QUESTIONS
+q: What's Tommy's wife's name?
+a: ['Rosemary']
+
+q: What is Tommy's daughter's name?
+a: ['Frances']
+
+q: Tommy wants enough money to live it up for how long?
+a: ['one last weekend']
+
+q: How many more people must Paul hit with tre train before he's fired?
+a: ['One']
+
+q: What is the name of the first man Paul convinces to die in front of his train?
+a: ['Tommy Cassidy']
+
+q: What does Paul hit with the train?
+a: ['a man']
+
+q: How many people does Paul have to kill in a month before he is released from his job?
+a: ['3']
+
+q: What does Paul Callow do for a living?
+a: ['Runs underground train']
+
+q: Who does Tommy want to visit in Lake District?
+a: ['Wife and daughter.']
+

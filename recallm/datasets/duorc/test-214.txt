@@ -1,0 +1,35 @@
+PARAGRAPH
+Having attended General Eisenhower's final briefing on the Normandy landings, U.S. Army Major Jeff Pike is sent to Lisbon on June 1, 1944, to confirm with an informant that the Nazis still incorrectly expect the invasion at the Pas de Calais. Pike falls into a trap in Lisbon, where he is drugged into unconsciousness and transported to Germany.
+Pike wakes up in a U.S. Army Hospital. His hair is graying, and he needs glasses to read. He is told it is May 1950 and the hospital is in post-war Occupied Germany. Major Walter Gerber, a U.S. Army psychiatrist, explains that Pike has been having episodes of memory loss for the past few years, ever since he was tortured in Lisbon. He advises Pike that his blocked memories have always resurfaced, helped along by a therapy of remembering events prior to Lisbon and then pushing forward into the blank period. Gerber is assisted by a nurse, the dispassionate Anna Hedler. Pike is provided with letters written by his father, and current photos of his parents. He is shown current newspapers and hears American Forces radio broadcasts, while the hospital grounds are full of American staff and patients.
+Pike is completely taken in by the deception. As part of his "therapy", and after being lulled with summary details of the quick end to the war after the invasion, he recounts the details of the invasion plans, including the location, the code words, troop dispositions and the date, June 5, to his eager listeners. They plan to continue his therapy later that day, rushing off provide the initial information to the German leadership.
+When Pike notices that a nearly invisible paper cut he got the day he left for Lisbon, he realizes that it is a hoax. He confirms it by tricking an "American" soldier into snapping to attention in a reflexively German manner. He confronts Anna, who admits that the date is June 2, 1944. Anna was recruited from the horrific physical, sexual and psychological abuse of a concentration camp (explaining her discomfort at being touched and her dispassionate way) because she was a nurse and spoke English.
+Pike devises a way to salvage the secrecy of the invasion. He sends Anna to tell Gerber that he was on to the plot, while he makes a feeble attempt to escape. Quickly recaptured, he shows Gerber the paper cut ands states that he had been aware soon after waking up. When Gerber points out the intricate details that Pike had provided about Normandy, Pike rebuts that it was easy to recite his well-practiced "cover story" about Normandy.
+Gerber points out that both he and Pike will be in trouble with the German military authorities. He has come to like Pike, having researched him for many months to prepare the plot. Gerber is a German-American psychiatrist who had moved to the Fatherland to provide medical care when the war started. He developed genuine techniques to treat amnesia in traumitized young soldiers returning from the Russian Front, but the military had perverted this purpose. He explains that Pike's vision had been impaired by an injection of atropine.
+After two days of brutal interrogation, Pike and Anna convince SS Officer Schack, who had originally posed as a local restaurant owner, that Pike knew all along about the ruse. Schack now believes the invasion will be at Pas de Calais. Gerber does not, so he sets the clock forward in Pike and Anna's room so they think it is the morning of June 5, then states that the Germans had been surprised at Normandy. Pike lets his guard down and gloats about having distracted Schack from Normandy. Gerber sends an emergency dispatch to Wehrmacht authorities, which Schack reads and belittles, even suggesting Gerber may be a double agent. As it happens, the weather on June 5 is too rough and Eisenhower postpones the invasion by a day. By midday June 5, Gerber is discredited and Schack orders his arrest.
+Gerber knows that Schack will return to kill them, to cover his own blunder, when the Normandy information proves correct. Gerber helps Anna and Pike escape, asking Pike to take his groundbreaking research on amnesiacs to the West. When he hears the news that the Normandy landing has commenced the morning of June 6 he laughs at Schack, showing him that he has taken poison and pointing out that Schack will likely be killed for being failure. Schack pursues the escaped couple on his own.
+The couple flee to a local minister, who Pike had revealed (before realizing the hoax) has helped downed RAF pilots escape to nearby Switzerland. The minister is away but his housekeeper, Elsa, connects them with a middle-aged German border guard, Sgt. Ernst, who never believed the Nazis would survive and accumulates wealth (and learns English) by helping escapees. Pike gives his watch and Anna the rings that formed part of her marriage story. Ernst gives Elsa one of the rings. Schack shows up at the minister's after Ernst and the couple have left for the border â he recognizes Anna's ring on Elsaâs finger and forces her to reveal the escape plan. Schack catches up with Pike and Anna at the border, but Ernst shoots him because he doesn't want Schack to mess up his human-smuggling business. Ernst and Pike arrange Schackâs body to make it look as if he had been killed while trying to escape.
+Safely in Switzerland, Pike and Hedler are put in separate cars. Pike is told he will be taken to the U.S. Embassy, while Anna will be taken to a refugee camp. Anna is still uncomfortable when Pike moves to hug her goodbye, but she does cry as they both depart, her first display of emotion in years.
+
+
+QUESTIONS
+q: Where did Pike accidentally reveal the invasion sites would be?
+a: ['at his therapy']
+
+q: What kind of injury does Pike receive in London that makes him realize that he's only been in the hospital for two days?
+a: ['A nearly invisible paper cut']
+
+q: What city does the story begin in?
+a: ['Lison']
+
+q: What is Pike told he is suffering from?
+a: ['Memory loss']
+
+q: Where does the High Command send Pike to meet with a German double agent?
+a: ['a U.S. Army hospital']
+
+q: How long is Major Gerber given to extract invasion plans from Pike?
+a: ['June 2, 1944']
+
+q: When does the story start?
+a: ['June 1, 1944']
+

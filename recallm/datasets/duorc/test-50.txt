@@ -1,0 +1,39 @@
+PARAGRAPH
+In 1873 New Mexico Territory, an unnamed loner awakens injured in the desert with no memory and with a strange metal object on his wrist. He wanders into the town of Absolution, where preacher Meacham treats his wound. Sheriff Taggart recognizes the stranger as wanted outlaw Jake Lonergan and attempts to arrest him. Jake beats up the posse sent to take him in and nearly escapes, but a woman named Ella Swenson knocks him out. Taggart prepares to transport both Jake and volatile drunk Percy Dolarhyde to Santa Fe for trial.
+Percy's father, Colonel Woodrow Dolarhyde, a ruthless cattle baron, demands Percy be released. He also demands Jake be released to him, since Jake had stolen gold from him. During the standoff, alien spacecraft begin attacking the town. Percy, the sheriff and other townsfolk are abducted by long, whip-like feelers hanging from the bottom of the ships. Jake's shackle unfolds and becomes a weapon; he shoots down a ship, ending the attack.
+Dolarhyde, Ella, and other townsfolk form a posse to track an injured alien that escaped from the downed ship. Meanwhile, Jake travels to an abandoned cabin and, in a flashback, recalls returning to it with stolen gold and then being abducted, along with a woman named Alice, by the aliens. His memories returning, Jake joins up with the posse. During the evening, the group comes upon a capsized paddle wheel steamboat that the aliens apparently dumped miles from any water. They camp in it, and during the night the alien they were tracking kills Meacham, who sacrifices himself to save Emmett, Taggart's grandson.
+By morning, most of the posse has deserted, and those remaining are attacked by Jake's former gang. Jake, who had stolen the gang's loot after their last heist, attempts to retake control but it is foiled. The aliens begin attacking them again and Ella is captured. Jake jumps aboard the ship and attacks the alien pilot, causing the ship to crash fatally wounding Ella.
+The remaining posse is captured by Chiricahua Apache Native Americans, who blame them for the alien attacks. After Ella's corpse is dumped on a fire by a Chiricahua warrior, she is resurrected and emerges from the fire. Ella reveals herself to be from another alien race, who had travelled to Earth to help resist the invaders after they destroyed her home world. The aliens, who are mining gold and abducting people to conduct experiments to find humans' weaknesses, are far stronger and more durable than humans, and have superior weaponry, but are not invulnerable. They can be stabbed and shot to death, but only Jake's gauntlet weapon or a well-aimed shot with a rifle can kill them with a single blast. Ella says the aliens that previously attacked them are just scouts.
+She also claims Jake holds the secret to the aliens' whereabouts and argues they must defeat the aliens before the invaders exterminate all life on earth. After taking medicine offered by the Apaches' medicine man, Jake recalls that Alice was euthanized after she was used in an alien experiment, but he had escaped, inadvertently stealing the gauntlet-like alien weapon encasing his wrist. He then also remembers the location of the aliens' base of operations.
+Armed with this knowledge, the group, now led by Dolarhyde, prepares to attack the aliens' grounded mother ship. Meanwhile, Jake returns to his old gang and persuades them to join the fight. After the humans maneuver the aliens into a ground battle, Jake and Ella board the ship and free the captives, but Jake is captured. Dolarhyde rescues him and both men escape the ship after killing the alien responsible for Alice's death. As the remaining aliens are taking off in their damaged craft, Ella sacrifices herself by entering the ship's core and destroying it by using Jake's wrist gauntlet as a bomb, obliterating the alien ship.
+With the aliens gone the abducted townsfolk begin to remember their pasts. Still a wanted man, Jake decides to leave, though the sheriff and Dolarhyde say they will claim he was killed in the invasion. The citizens intend to reconstruct their town.
+
+
+QUESTIONS
+q: What town did an unnamed loner wander into?
+a: ['Absolution.']
+
+q: Who rescues Jake after he's captured?
+a: ['Dolarhyde']
+
+q: What will bring many new settlers?
+a: ['The settlement being rebuilt.']
+
+q: What did Jake steal from Dolarhyde?
+a: ['gold']
+
+q: What happens when Ella's body is dumped on a fire?
+a: ['she is resurrected']
+
+q: What was the name of Percy's father?
+a: ['Colonel Woodrow']
+
+q: Who knocks out Jake as he tries to escape?
+a: ['Ella Swenson']
+
+q: Who does Meacham sacrifice himself to save?
+a: ['Emmett']
+
+q: What is the name of the preacher in Absolution?
+a: ['Meacham']
+

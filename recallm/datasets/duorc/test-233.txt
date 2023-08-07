@@ -1,0 +1,92 @@
+PARAGRAPH
+Stanley Ipkiss (Jim Carrey), a clerk in an Edge City bank, is a shy, luckless romantic who is regularly bullied by nearly everyone around him, including his boss (Eamonn Roche), his landlady Mrs Peeman (Nancy Fish), and car mechanics. His only friends are his Fox Terrier Milo and his co-worker Charlie (Richard Jeni). Meanwhile, gangster Dorian Tyrell (Peter Greene) runs the exclusive Coco Bongo nightclub while plotting to overthrow his boss Niko (Orestes Matacena). Tyrell sends his singer girlfriend Tina Carlyle (Cameron Diaz) into Stanley's bank with a hidden camera, in preparation to rob the bank. Stanley is smitten with Tina, and she seems to reciprocate. Later that night after being denied entrance to the Coco Bongo, he is stranded with a broken-down rental car at the city's filthy harbor, where he finds a mysterious wooden mask next to a pile of garbage which at first he mistakes to be a drowning man. He takes the object home and jokingly puts it on. The mask wraps around his head, transforming him into a wackily-suited, green-headed, figure, "The Mask", a trickster with reality-bending powers, physical imperviousness and without personal inhibitions who exacts comical revenge on some of Stanley's tormentors and scares a street gang that attempts to mug him.The next morning, Stanley encounters world-weary Edge City detective Lieutenant Kellaway (Peter Riegert) and newspaper reporter Peggy Brandt (Amy Yasbeck), both of whom are investigating the Mask's activities of the previous night. Despite these threats, the temptation to again use the mask is overwhelming and he puts it back on that evening. Needing money to attend Tina's performance at the Coco Bongo, the Mask noisily interrupts Tyrell's bank robbery and steals the targeted money while Tyrell's henchman Freeze (Reginald E. Cathey) is shot by police responding to the disturbance.The Mask buys entry into the Coco Bongo, where he "rocks the joint" by dancing exuberantly with Tina in front of the cheering crowd after Tyrell is called away by Sweet Eddy (Denis Forest). After Freeze dies in Tyrell's arms, Tyrell violently asks who was responsible and Eddy points to the Mask dancing with Tina. At the end of the dance the Mask gives Tina a kiss that literally blows her shoes off, he is then confronted by Tyrell, who pulls out a gun and shoots off a part of the Mask's tie, which transforms back into Stanley's distinctive pajamas. The Mask escapes, while Tyrell is temporarily arrested for the bank robbery by Lt. Kellaway (who also finds the pajama scrap) who is also informed by a policeman that they found Freeze's dead body.Kellaway confronts Stanley at his apartment, just as a weary Stanley discovers all the bank money stuffed in his closet. Stanley later consults an expert on masks named Arthur Neumann (Ben Stein) who tells him that the object is a depiction of Loki, the Norse god of darkness and mischief. Despite this, and with both Tyrell and Lt. Kellaway hunting for him, a more confident Stanley stands up to his boss and arranges for Tina to meet the Mask at the local Landfill Park. The meeting goes badly when the Mask's advances scare Tina away and Lt. Kellaway arrives and attempts to arrest him. The Mask toys with the enraged officer before zooming out of the park and tricking a large group of Edge City police officers into joining him in a mass-performance production of the song Cuban Pete. Stanley manages to get the mask off and Peggy helps him escape, but then betrays him to Tyrell for a $50,000 mob bounty. Tyrell tries on the mask and becomes a demonic monster demanding to know from Stanley where the money he took is. Stanley is then shown in one of the mob cars as Tyrell's henchmen search Stanley's apartment and reclaim the money. Stanley is later literally dumped in Kellaway's lap with a green rubber mask and is thrown into jail.Tina sympathetically visits Stanley in his cell, where he urges her to flee the city. She attempts to do so, but is pursued by Orlando (Nils Allen Stewart) and cornered by Tyrell. Upon being told by Orlando of her attempt to leave the city, Tina is forcefully taken to his raid of a charity ball at the Coco Bongo which is hosted by Niko and attended by the city's elite including the city's mayor Mitchell Tilton (Ivory Ocean). Upon arrival, the Masked Tyrell kills Niko in a gunfight and prepares to destroy both the club and Tina. Meanwhile, Milo helps Stanley break out of his cell, and they go to the club to stop Tyrell eventually dragging Lt. Kellaway along with him.Upon arrival, Stanley tells Lt. Kellaway to call for backup as he sneaks into the Coco Bongo with a gun of his own. After brief initial success with the assistance of Charlie, Stanley is spotted by Orlando and captured before Stanley can do anything. Tina tricks Tyrell into taking off the mask, which is recovered by Milo, turning the dog into a cartoonish pitbull who defeats Tyrell's men, while Stanley fights Dorian himself. Stanley then recovers the mask and wears it one last time, using its abilities to save Tina by swallowing Tyrell's bomb, and then flushing Tyrell down the drain of the club's ornamental fountain leading to his death. The police arrive and arrest Tyrell's remaining henchmen. Mayor Mitchell Tilton witnesses most of this (and deducing that Tyrell was the Mask from the start) and orders Lt. Kellaway to release Stanley. After Stanley, Tina, Charlie, and Milo leave, Mayor Mitchell Tilton tells Lt. Kellaway that he would like to have a word with him.As the sun rises, Stanley, Tina, Milo and Charlie take the mask back down to the harbor, where Tina and Stanley throw it back into the water and share their first kiss. Charlie attempts to retrieve the mask for himself, only to find Milo swimming away with it.
+
+
+QUESTIONS
+q: WHO IS ATTRACTED TO TINA?
+a: ['Stanley']
+
+q: Where does Tina throw the mask?
+a: ['In the water.']
+
+q: Who discovers the mask after Tyrell takes it off?
+a: ['Milo', 'DR. ALLEN BARNES']
+
+q: bizarre trickster known as?
+a: ['The mask.']
+
+q: What happens when Stanley recovers the mask?
+a: ["He saves Tina by swallowing Tyrell's bomb and eventually killing Tyrell.", 'experiences dream-like visions which become increasingly disturbing and violent']
+
+q: What does Tina trick Tyrell into doing?
+a: ['Taking off the mask']
+
+q: What happens after Stanley enters the club?
+a: ['Tyrell is arrested.']
+
+q: What happens when the mask is donned by Milo?
+a: ["Milo turns into a cartoonish pitbull and defeats Tyrell's men"]
+
+q: WHO IS SCARES OFF A STREET?
+a: ['street gang']
+
+q: WHERE IS THE WOOD MASK FIND IT?
+a: ['On the filthy city harbor next to a pile of garbage']
+
+q: Whom does Kellaway suspect to be the bank robber?
+a: ['Stanley']
+
+q: Who interrupts their meeting?
+a: ['Lt. Kellaway', 'barnes']
+
+q: Who is Kellaway?
+a: ['a world-weary Edge City detective']
+
+q: Who does Tina meet in their cell?
+a: ['Stanley']
+
+q: What personal item of Stanley's is the reason he's suspected in the bank robbery?
+a: ['from his suit']
+
+q: WHERE IS THE DENIED ENTRANCE?
+a: ['the Coco Bongo']
+
+q: What reporter does Stanley encounter ?
+a: ['Peggy Brandt']
+
+q: WHAT IS THE NAME OF THIS MOVIE?
+a: ['The Mask', 'the mask']
+
+q: Who does stanley consult?
+a: ['Arthur Neumann']
+
+q: For how much money does Peggy betray Stanley?
+a: ['$50,000']
+
+q: To which establishment was Stanley denied entrance?
+a: ['Coco Bongo']
+
+q: Who captures Tina?
+a: ['Tyrell']
+
+q: With whom does Stanley flee?
+a: ['Peggy']
+
+q: Where does Stanley meet Tina?
+a: ['Landfill Park']
+
+q: Where does Stanley go after locking Kellaway in his car?
+a: ['Orlando.']
+
+q: What does Tina reveal to Stanley?
+a: ['the location of the stolen money']
+
+q: What kind of suit does The Mask wear?
+a: ['a zoot-suit']
+
+q: What is Standley's dog's name?
+a: ['Milo']
+
+q: Where does Stanley lock Kellaway?
+a: ['in his car']
+

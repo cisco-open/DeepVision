@@ -1,0 +1,30 @@
+PARAGRAPH
+This article needs an improved plot summary. (September 2015)
+The swordsman Ogami IttÅ is confronted by a secretive branch of the YagyÅ« clan that practices black magic, including the ability to burrow through the earth. He encounters Kaori, a female expert with knives. And there's Hyouei, an illegitimate son of YagyÅ« Retsudo who kills anyone IttÅ and Daigoro come into contact with. It culminates in a final battle between IttÅ and the combined clan groups under Retsudo on a snow-capped mountain in northern Japan, in which the baby cart becomes a sled. IttÅ defeats the entire army, shooting, stabbing, slashing, dismembering, and beheading the entire army. But the one-eyed Retsudo again gets away, vowing to kill IttÅ another time.
+
+
+QUESTIONS
+q: What one-eyed enemy gets away again?
+a: ['Retsudo']
+
+q: Where is the snow capped mountain that the final battle takes place on?
+a: ['Northern Japan']
+
+q: Which Lone Wolf and Cub movie is this in the series?
+a: ['Lone Wolf and Cub manga series']
+
+q: how many eyes does retsudo have?
+a: ['one-eye']
+
+q: where did itto and the clan groups have the final battle?
+a: ['on a snow-capped mountain in northern Japan']
+
+q: kaori is an expert with what?
+a: ['with knives']
+
+q: Who is the female knife expert?
+a: ['Kaori']
+
+q: What type of magic do the Vagyu clan practice?
+a: ['Black magic']
+

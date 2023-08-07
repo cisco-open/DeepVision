@@ -1,0 +1,86 @@
+PARAGRAPH
+Tilo (Aishwarya Rai), an immigrant from India, is a shopkeeper, an unusually strong clairvoyant, and a chosen Mistress of Spices. The Spices she gives to her customers help them to satisfy their certain needs and desires, such as "sandalwood to dispel painful memories; black cumin seed to protect against evil eye."As a young girl, Tilo was initiated as one of several young Mistresses of Spices by the First Mother (Zohra Sehgal), who warns the girls about certain rules they must follow, or face dire consequences. They are instructed never to leave their respective stores all around the world, physically touch the skin of the people they meet, or use the great and incomprehensible strength and power of the Spices to their own ends.Tilo ends up in the San Francisco Bay Area in a store called "Spice Bazaar". Tilo's customers include Haroun, a cab driver (Nitin Ganatra), a grandfather (Anupam Kher) dealing with an American-born granddaughter Geeta (Padma Lakshmi), Kwesi, a man trying to impress his girlfriend (Adewale Akinnuoye-Agbaje) and Jagjit, a teenager trying to fit in at school (Sonny Gill Dulay).Her life takes a turn one day, when a handsome man on a motorcycle (Dylan McDermott) crashes outside her store. Tilo tends to his injuries while trying to ignore their strong mutual romantic attraction to each other. Her life changes when he touches her and they begin to fall truly, madly in love.But the Spices are suddenly angry and jealous, and things soon start to go sour in her relationships with her other customers. Haroun gets in an accident, Geeta's family situation does not improve, Jagjit falls in with the wrong crowd at school, and Kwesi's girlfriend breaks up with him. Doug comes to meet her that night and sadly tells her that his Native American-born mother had died.Tilo recognizes that the source of these misfortunes is her breaking of the rules. The First Mother comes to her in a vision and scolds her for choosing Doug over the Spices. She vows that she will return to India, and posts a notice about a closing sale. She goes all out to help her customers one last time and tells the Spices that she will spend just one night with Doug, and then she will give herself utterly to them. She closes the store and goes off with Doug for the night. After a sweet night of romantic, passionate love-making, she leaves him a note that she must leave and cannot return, but that she will always truly, madly and deeply love him forever. Then she goes back to the store and sets the Spices on fire, with her at the center of the flames, as a sign of eternal servitude and slavery to the mystical Spices.Doug comes searching for her, and finds the store devastated. But Tilo has not been burned after all; she is still there, alive and barely conscious. There is no sign of a fire, but there has been an earthquake. We see a vision of the First Mother sitting at the beach, telling her that because she demonstrated her willingness to give up everything for the Spices, now she can have everything she desires and the Spices will never desert her again. Doug agrees to help her rebuild the store, and she happily reunites with him as they walk along the beach holding hands; their blossoming romantic relationship as strong and pure as ever.
+
+
+QUESTIONS
+q: Does the First Mother come to her in a car or in a vision?
+a: ['in a vision']
+
+q: Tilo vowed to return which country?
+a: ['India']
+
+q: Who was Doug searching for?
+a: ['Tilo']
+
+q: Who scolds Tilo in her vision?
+a: ['The First Mother']
+
+q: What are the Mistresses of Spices never allowed to physically touch?
+a: ['skin']
+
+q: Is the First Mother happy with her for choosing Doug?
+a: ['no']
+
+q: Who is in the vision?
+a: ['The First Mother']
+
+q: Which spice dispels painful memories?
+a: ['sandalwood']
+
+q: What does Doug crash into Tilo's store?
+a: ['a motorcycle.']
+
+q: Tilo was deeply in love with whom?
+a: ['Doug']
+
+q: Who is sitting on the beach in the vision?
+a: ['First Mother']
+
+q: Was love ever made to Doug?
+a: ['yes']
+
+q: Tilo is an immigrant from where?
+a: ['India']
+
+q: What type of disaster devastated the store?
+a: ['Earth quake']
+
+q: Whose mother died?
+a: ['Doug']
+
+q: Instead of a fire, what happened?
+a: ['an earthquake']
+
+q: Doug agrees to do what?
+a: ['to help rebuild the store']
+
+q: Who will never desert Tilo again?
+a: ['The Spices']
+
+q: How does Doug find the store?
+a: ['devestated']
+
+q: Where does Tilo end up?
+a: ['the beach']
+
+q: Who get in an accident?
+a: ['Haroun']
+
+q: What was Tilo initiated as
+a: ['Mistresses of Spices']
+
+q: Does Tio ever recognize the source of these misfortunes?
+a: ['Yes']
+
+q: What does Tilo recognize as the source of these misfortunes?
+a: ['her breaking of the rules']
+
+q: What is Haroun's job?
+a: ['Cab driver']
+
+q: Doug goes searching for who?
+a: ['Tilo']
+
+q: What did she choose Doug over?
+a: ['the spices']
+

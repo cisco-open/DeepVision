@@ -1,0 +1,50 @@
+PARAGRAPH
+In the summer of 1963, Jeffrey Willis (Matt Dillon) joins some friends for a day of playing Gin rummy at the El Flamingo Club, a private beach resort in Rockaway, Brooklyn. There, he meets the girl of his dreams Carla Sampson (Janet Jones). After the Gin game and being told of the club's strict policy regarding guests, Jeffrey is upset, but not for long, since he immediately landed a job as a car valet and eventually, cabana steward. Jeffrey is a kid from a middle class Brooklyn family and his father (Hector Elizondo) does not approve of him working at the private club.During his first day working there, Jeffrey meets his hero and mentor at the resort is the reigning Gin rummy card game champ, Phil Brody (Richard Crenna). Jeffrey, a winning Gin Rummy player himself, and his friends, admire Brody and how his wins at the Gin rummy table make him seem "psychic," knowing which cards to give up. Brody also takes a liking to Jeffrey, eventually showing him his car business, and gives him hopes that car sales are where he belongs as a career.Jeffrey gets further immersed in the "easy buck," defying his father's guidance. During dinner, Jeffrey notably says he "will not be needing college" and plans to pursue being a car salesman instead. That evening, Jeffrey and his co-workers at The Flamingo also venture to Yonkers Raceway together, risking cash on a horse tip but come up short when the trotter breaks stride.Eventually, Jeffrey leaves home to pursue the sales job. However, Brody, angry that Jeffrey disturbed him during a dance class, reveals to Jeffrey that the job opening at the car dealership is for a stock boy, not as a salesman as Jeffrey had been led to believe was his when he asked for it. Brody encourages Jeffrey to take the stock boy position so he can work his way up. Jeffrey becomes shocked at his mentor's actions and reconsiders college.In the meantime, after spending some romantic time with Carla on the sides throughout the film, she tells Jeffrey that she will be leaving town to attend college out of state. Jeffrey is sad to see her leave, but this inspires him to make a change as he bids her goodbye.Near summer's end on the final week before Labor Day, Jeffrey observes that a regular onlooker, "Big Sid", is feeding signals to Brody, the true cause of Brody's winning ways. When Big Sid and a member of the gin team playing against Brody's team are overcome by the heat, Jeffrey fills in, opposing Brody, and seeking to help win back the unfair profits Brody won from his friends over the course of the summer. Jeffrey and his team eventually win back what was unfairly lost, including a good profit besides. Realizing the mistakes he made in rejecting his father's good advice, Jeffrey makes up with his father in a touching final scene at Larry's Fish House ("Any Fish You Wish"), where his family is dining and joins them for dinner.
+
+
+QUESTIONS
+q: Brody angry for what purpose?
+a: ['Angry that Jeffrey disturbed him during a dance class']
+
+q: Why does Jeffrey leave home?
+a: ['To pursue the sales job']
+
+q: where did jeffrey leaves?
+a: ['Home']
+
+q: What game are Jeffrey and Gin good at?
+a: ['Gin']
+
+q: What is Phil Brody (Crenna)?
+a: ['Gin rummy card game champ']
+
+q: When does Jeffrey say he "will not be needing college?"
+a: ['During dinner']
+
+q: why was jeffrey shocked?
+a: ['His mentor betrayed him']
+
+q: who is feeding signals?
+a: ['Big Sid']
+
+q: Where does Jeffrey make up with his dad?
+a: ["Larry's Fish House"]
+
+q: brody encourage to jeffrey for what purpose?
+a: ['To take the stock boy position to work his way up to car salesman']
+
+q: Where do Jeffrey and his co-workers go?
+a: ['Yonkers Raceway']
+
+q: who is playing against brody's team?
+a: ['Big Sid and a member of the gin']
+
+q: Who is Jeffrey's mentor?
+a: ['Phil Brody']
+
+q: Who is the girl of Jeffrey's dreams
+a: ['Carla Sampson']
+
+q: Where does Jeffrey Willis join his friends for a day of Gin rummy
+a: ['El Flamingo Club']
+

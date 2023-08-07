@@ -1,0 +1,101 @@
+PARAGRAPH
+Sean (Graham Kosakoski), Ritch (Brody Harms), Wes (Tyler Hoechlin), and Lauren (Kate Todd) celebrate their college graduation by breaking into Saranoc Grotto, a forest in Winnepeg province heavily marked with "No Trespassing" signs and surrounded by a tall fence. While speeding down a dirt road, they hit and kill a grizzly bear cub, sending their Jeep Cherokee into a tree and cracking the radiator. As they argue over whether they should bury the dead cub, they hear its mother coming and run. The vehicle overheats down the road so Wes and Ritch go into the forest to find water. The grizzly bear finds and attacks Ritch. Having heard Ritch's screams to run, Wes inadvertently runs into the bear and it attacks him. The other two arrive and rescue Wes, but are unable to help Ritch. The Bear kills him while the others flee to the Jeep.The vehicle starts again and they leave, but Wes panics and tries to force Sean to turn around and go back for Ritch, causing the car to go over a cliff. Ritch, being more calm, wants to wait for help, but no one knows where they are because they had told their families they were going somewhere else. They winch the vehicle back up to the road, but they cannot get it to start.Sean leaves to jog the 15 kilometers (around 9.3 miles) out of the forest to find help while Wes and Lauren wait at the Jeep. He comes across some run down abandoned buildings where he finds a hunting paraphernalia, a bear trap, and dead animals. As he leaves, the bear appears. He tries to sneak past the bear, but instead he runs into the bear and it throws him on the roof of the shack and then he falls into a chicken coop. Hours later he makes it back to the Jeep, but his leg is injured.Wes decides to climb a tall hill on the other side of the clearing to see if he can get a signal on his cell phone. It does not work and the bear nearly catches him. He quickly climbs back down and gets back to the Jeep though it still will not start. He and Lauren hide in the Jeep with the wounded Sean in the back.The bear follows and climbs on top of the Jeep, smashing up the car and eventually overturning it before leaving as the sun sets. Sean wakes up and tells them about the hunting paraphernalia, crying about wanting to go home before he dies. Wes and Lauren turn the Jeep right side up, load him back in the car, then push the Jeep down the hilly road as a thunderstorm hits. Using the downward momentum and occasionally pushing, they arrive near the buildings. While Lauren is exploring the building with the trap, the bear swings at her through a window sending her back against the trap, which impales her back. She returns to the vehicle where the bear rips off the tailgate and drags away Sean's body.Wes grabs a can of gasoline and pours a trail from the Jeep to the woods. They lure the bear to it and then set the gasoline on fire. The Jeep explodes, but the bear is unharmed. They decide to try another plan and split up. Wes climbs a tree, leaving his blood covered clothes on the ground to fool the bear. While the bear is sniffing at the clothes, Wes accidentally drops a tire iron, calling the bear's attention up. The bear shakes him out of the tree but he escapes and goes to the shack where Lauren has built a trap. They lure the bear into the shack, and use a trigger to close the front door behind it, locking it in. They celebrate and start to leave but the bear breaks out of the shack and they both try to escape. Unfortunately, Wes stumbles and Lauren tries to get him back up, refusing to leave him behind despite his desperate insistence that she should run and try to save herself. As the bear catches up to them, Wes is mauled and killed. Lauren finally makes a run for it, but the bear quickly catches up to her and kills her too.
+
+
+QUESTIONS
+q: Who plays Lauren?
+a: ['Kate Todd']
+
+q: What was marked on the signs?
+a: ['No trespassing']
+
+q: What type of car did the three characters in the movie drive?
+a: ['Cherokee Jeap']
+
+q: Who gets impaled by the trap?
+a: ['Lauren']
+
+q: What does he injure?
+a: ['Legs']
+
+q: What Lauren is exploring the building with?
+a: ['The trap']
+
+q: What type of vehicle are the characters in?
+a: ['Jeep Cherokee']
+
+q: How many friends went into the forest?
+a: ['4']
+
+q: What two people turn the Jeep right side up?
+a: ['Wes and Lauren']
+
+q: Who got killed?
+a: ['Wes, Lauren, and Ritch']
+
+q: Who panics while in the car?
+a: ['Sean']
+
+q: Who's body is being dragged away by the bear?
+a: ["Sean's"]
+
+q: Who gets shaken out of the tree?
+a: ['Wes']
+
+q: What does Lauren impales her back on?
+a: ['A trap']
+
+q: What do the do to the gasoline?
+a: ['The Pour a Trail from the Jeep to the Woods']
+
+q: Who waits for him at the jeep?
+a: ['Ritch']
+
+q: What kind of storm hits as the Jeep roll down the hill?
+a: ['Thunderstorm']
+
+q: What explodes in Wes' first attempt to harm the bear?
+a: ['Jeep']
+
+q: Where do that main characters trespass?
+a: ['Saranoc Grotto, forest']
+
+q: What does Wes climb?
+a: ['a tree']
+
+q: What are they trying to lure?
+a: ['a bear']
+
+q: who gets hurt?
+a: ['Sean']
+
+q: What did they break in to?
+a: ["an abandoned hunter's cabin"]
+
+q: Name one person who was in the car?
+a: ['Sean']
+
+q: Is the bear harmed?
+a: ['nope']
+
+q: Wes pours a trail of gasoline from the jeep to the what?
+a: ['the woods']
+
+q: What are they celebrating?
+a: ['Their college graduation']
+
+q: Who is killed?
+a: ['Lauren']
+
+q: What kind of animal is attacking the car?
+a: ['A bear']
+
+q: Which character is killed by the bear?
+a: ['Wes']
+
+q: What does Wes grab a can of?
+a: ['Gasoline']
+
+q: Who is dragged away by the bear?
+a: ['Sean']
+

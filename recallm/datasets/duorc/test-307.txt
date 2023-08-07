@@ -1,0 +1,39 @@
+PARAGRAPH
+As nuclear explosions ravage New York City, residents of an apartment block rush downstairs to escape from the building, only to be forced into the basement by further explosions. Only eight of the residents â Eva (Lauren German) and her boyfriend Sam (IvÃ¡n GonzÃ¡lez), Josh (Milo Ventimiglia) and his brother Adrien (Ashton Holmes), Josh's friend Bobby (Michael Eklund), Marilyn (Rosanna Arquette) and her daughter Wendi (Abbey Thickson), and Devlin (Courtney B. Vance) â manage to force their way into the building's bomb shelter before the superintendent, Mickey (Michael Biehn), seals the door. The group acclimatises to the cramped surroundings while Mickey asserts his dominance over the shelter and its denizens, much to the chagrin of Josh, Bobby, and Devlin. After some time, the shelter's door is broken open and the shelter is invaded by armed soldiers in biohazard suits; the men's speech is unintelligible and their allegiance remains ambiguous. The men attack the group and seize Wendi, leaving the shelter with her. Devlin and Mickey manage to kill three of the men and Mickey takes a rifle. Josh volunteers to use one of the dead soldier's suits to leave the shelter and search for Wendi.
+Outside of the shelter, Josh finds the area entirely sealed off by plastic sheet tunnels connected to a laboratory. Josh's outfit allows him to explore the lab, where he discovers several unconscious children, including Wendi, in stasis units; their hair shaved off and their eyes bandaged. One of the soldiers checks the ID on Josh's suit and, realising he is an imposter, tears out his breathing apparatus, exposing Josh to the air. Josh flees back to the shelter, killing two of the soldiers on the way. After Josh returns, the soldiers weld the door shut from the outside, trapping everyone within. Time passes; Josh begins to suffer the effects of the radiation and admits to Adrien that he only went outside to find rescue for Adrien and himself. Eva, in a fractured relationship with the meek Sam, grows closer to Adrien. Bobby volunteers to hack up the bodies of the dead soldiers so their decaying remains can be thrown into the toilet's septic tank. Devlin grows suspicious that Mickey is hoarding resources. Marilyn, having been told by Josh that Wendi is dead, enters into a sexual relationship with Bobby.
+Marilyn attempts to convince Eva to sleep with Josh, warning her that the men will want sex. The group grows increasingly angry with Mickey as resources grow scarce, culminating when Devlin discovers Mickey's locked safe room and threatens to taser him if he does not open it. A struggle ensues and Mickey shoots Devlin in the head with the rifle. The group do not believe Mickey's argument of self-defence, and an increasingly ill Josh, and an increasingly deranged Bobby, torture him to gain the code to the safe room. Eva throws the rifle down the toilet to stop Josh using it. Seizing authority, Josh and Bobby are physically and emotionally abusive of Marilyn. Josh makes it clear that he wants Eva, and Sam is unable to stand up for her. Eva and Sam try to protect Marilyn from Josh and Bobby, but are unable to. While Eva is tasked with watching Mickey, Mickey reveals that there is a gun hidden in his safe room.
+Josh and Bobby force Eva to hack up Devlin's corpse when Sam cannot, leaving Eva distraught. Josh and Bobby, both losing their hair to radiation sickness, shave their heads. Mickey informs Eva that there is another way out of the shelter, through the septic tank to the sewer. Eva tries to retrieve the gun, but cannot get past the pair. She finds Marilyn's corpse, the two having beaten her to death. Eva notices her hair is falling out and realizes she is also sick; the shelter is not protecting them from the outside because of the broken door. Eva sends Sam to retrieve the gun while she cuts the power to distract Bobby and lures Josh away with the promise of sex. Josh grows suspicious and rapes Eva, but she fights him off with help from Adrien. Sam retrieves the gun, but as Bobby, Josh, Eva, and Adrien yell instructions at him, Sam shoots and kills Adrien. Josh brutally beats Sam. Bobby turns on Josh and is about to shoot him when Eva cuts his throat with a tin can lid. Eva frees Mickey, who shoots Josh. On his last action, Josh smashes an oil lamp, setting himself alight and causing a fire in the shelter. While Sam and Mickey attempt to put out the blaze, Eva chooses to escape. Eva recovers the biohazard suit and locks herself into the safe room, leaving Mickey and Sam trapped inside the burning shelter.
+Breaking through the toilet into the septic tank below, Eva drops into the tank and finds a ladder to the street. She emerges into the remains of the city and stares blankly at the total devastation.
+
+
+QUESTIONS
+q: Who does Mickey kill with a machine gun?
+a: ['Devlin']
+
+q: How many residents make it into the bomb shelter?
+a: ['Eight']
+
+q: Who wore the bio-hazard suit to investigate outside?
+a: ['josh']
+
+q: What caused the survivors to hide in the shelter initially?
+a: ['nuclear explosion']
+
+q: Who escapes through the septic tank into the ruins of the city?
+a: ['Eva']
+
+q: What was the alternate exit from the Shelter?
+a: ['through the septic tank to the sewer']
+
+q: Who takes control of the Shelter at the beginning?
+a: ['mickey']
+
+q: How do the survivors know they are sick?
+a: ['they start losing their hair']
+
+q: Who escapes at the end?
+a: ['Eva']
+
+q: Who volunteers to leave the shelter to look for Wendi?
+a: ['Josh']
+
