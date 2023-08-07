@@ -50,11 +50,16 @@ def main():
     input_streams = args.input_stream.rstrip(',').split(',')
     output_streams = args.output_stream.rstrip(',').split(',')
 
+    threads = []
+
     for input_stream, output_stream in zip(input_streams, output_streams):
         xreader_writer = RedisStreamXreaderWriter(input_stream, output_stream, conn, None)
         ethosight_service = EthosightService(xreader_writer, args.embeddings)
         thread = threading.Thread(target=ethosight_service.affinity_scores)
         thread.start()
+        threads.append(thread)
+
+    for thread in threads:
         thread.join()
 
 
