@@ -1,0 +1,44 @@
+image_path,label
+airport.png,airport accident
+airport2.png,airport accident
+beachscene.png,lifeguard
+beachscene2.png,palm tree
+burglary.png,burglary
+burglary2.png,burglary
+caraccident.png,car accident
+caraccident2.png,car accident
+caraccident3.png,car accident
+caraccident4.png,car accident
+caraccident5.png,jaywalking
+carbreakin.png,car jacking
+carbreakin2.png,car theft
+cars.jpeg,traffic congestion
+cityscene.png,jaywalking
+cityscene2.png,billboard
+electrocutionrisk.png,child in danger
+fight.png,fighting
+fight2.png,fighting
+fight3.png,fighting
+homeless.png,panhandling
+homeless2.png,panhandling
+homeless3.png,panhandling
+house.png,custom home
+kitchenaccident.png,child in danger
+kitchenaccident2.png,child in danger
+peepingtom.png,peeping tom
+people.jpeg,jaywalking
+peopledining.png,eating out
+peopledining2.png,eating out
+person.jpeg,man
+person2.png,standing
+person3.png,man
+personenteringcar.png,entering car
+personenteringcar2.png,unloading car
+poisonrisk.png,poisoning risk
+policescene.png,police_presence
+prowling.png,car jacking
+riot.png,civil_unrest
+shoplifting.png,shoplifting
+shoplifting2.png,shoplifting
+shoplifting3.png,shoplifting
+wheel.jpeg,wheel

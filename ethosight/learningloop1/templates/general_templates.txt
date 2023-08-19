@@ -1,0 +1,3 @@
+an overhead view of {}
+a completely normal event that is slightly similar to {}
+a safe and normal event that looks a bit like {}

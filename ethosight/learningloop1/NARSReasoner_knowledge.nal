@@ -1,0 +1,20 @@
+//crimes
+<shoplifting --> crime>.
+<theft --> crime>.
+<cartheft --> theft>.
+<murder --> crime>.
+<manslaughter --> homicide>.
+<homicide --> crime>.
+
+//accidents
+<explosition --> accident>.
+<crash --> accident>.
+<carcrash --> crash>.
+<bikecrash --> crash>.
+<truckcrash --> crash>.
+<traincrash --> crash>.
+
+//catastrophes
+<flooding --> catastrophe>.
+<earthquake --> catastrophe>.
+

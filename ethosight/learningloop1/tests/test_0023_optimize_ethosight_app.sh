@@ -1,0 +1,1 @@
+EthosightAppCLI optimize testapp01  

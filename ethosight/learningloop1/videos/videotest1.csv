@@ -1,0 +1,15 @@
+filename,groundtruth
+../videos/Abuse001_x264.mp4, abuse
+../videos/Assault018_x264.mp4, assault
+../videos/Arrest038_x264.mp4, arrest
+../videos/Arson049_x264.mp4, arson
+../videos/Burglary009_x264.mp4, burglary
+../videos/Explosion005_x264.mp4, explosion
+../videos/Fighting006_x264.mp4, fighting
+../videos/Normal_Videos_129_x264.mp4, normal event
+../videos/RoadAccidents002_x264.mp4, road accidents
+../videos/Robbery004_x264.mp4, robbery
+../videos/Shooting001_x264.mp4, shooting
+../videos/Shoplifting031_x264.mp4, shoplifting
+../videos/Stealing029_x264.mp4, stealing
+../videos/Vandalism006_x264.mp4, vandalism

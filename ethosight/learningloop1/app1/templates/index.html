@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Ethosight Image Processing</title>
+</head>
+<body>
+<h1>Ethosight Image Processing</h1>
+<h2>Frozen Reasoning Mode Using ~800 semantic tokens in general.embeddings file</h2>
+<h3>general.embeddings: safety and general scenes in public spaces and residential</h3>
+
+{% if msg %}
+    <h3>{{ msg }}</h3>
+    {% if img_file %}
+        <img src="{{ url_for('static', filename=img_file) }}" alt="Processed image">
+    {% endif %}
+    {% if affinity_scores %}
+        <ul>
+        {% for label, score in affinity_scores %}
+            <li>{{ label }}: {{ score }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+{% endif %}
+
+<form method="post" enctype=multipart/form-data>
+    <input type=file name=file>
+    <input type=submit value=Upload>
+</form>
+
+</body>
+</html>

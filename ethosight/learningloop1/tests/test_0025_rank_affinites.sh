@@ -1,0 +1,1 @@
+EthosightAppCLI rank-affinities testappRankAffinities_01 ./testappRankAffinities_01/affinities/Abuse026_x264_affinities_label_optimization_True.json

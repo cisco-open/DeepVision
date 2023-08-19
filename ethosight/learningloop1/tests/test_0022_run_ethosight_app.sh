@@ -1,0 +1,1 @@
+EthosightAppCLI run testapp01 ../images/shoplifting.png 

@@ -1,0 +1,2 @@
+EthosightCLI embed testoutput/shopliftingblankslate.labels
+

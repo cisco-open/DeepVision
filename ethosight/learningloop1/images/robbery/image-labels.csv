@@ -1,0 +1,15 @@
+image_path,label
+3-abnormal-1.png,robbery
+3-abnormal-2.png,robbery
+3-normal.png,normal event
+306-abnormal-1.png,robbery
+306-abnormal-2.png,robbery
+306-abnormal-3.png,normal event
+372-abnormal-1.png,robbery
+372-abnormal-2.png,normal event
+normal-041-1.png,normal event
+normal-041-2.png,normal event
+normal-041-3.png,normal event
+normal-042-1.png,normal event
+normal-042-2.png,normal event
+normal-042-3.png,normal event

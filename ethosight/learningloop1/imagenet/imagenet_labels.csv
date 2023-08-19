@@ -1,0 +1,1001 @@
+image_path,label
+dummy_image.png,tench
+dummy_image.png,goldfish
+dummy_image.png,great white shark
+dummy_image.png,tiger shark
+dummy_image.png,hammerhead shark
+dummy_image.png,electric ray
+dummy_image.png,stingray
+dummy_image.png,rooster
+dummy_image.png,hen
+dummy_image.png,ostrich
+dummy_image.png,brambling
+dummy_image.png,goldfinch
+dummy_image.png,house finch
+dummy_image.png,junco
+dummy_image.png,indigo bunting
+dummy_image.png,American robin
+dummy_image.png,bulbul
+dummy_image.png,jay
+dummy_image.png,magpie
+dummy_image.png,chickadee
+dummy_image.png,American dipper
+dummy_image.png,kite (bird of prey)
+dummy_image.png,bald eagle
+dummy_image.png,vulture
+dummy_image.png,great grey owl
+dummy_image.png,fire salamander
+dummy_image.png,smooth newt
+dummy_image.png,newt
+dummy_image.png,spotted salamander
+dummy_image.png,axolotl
+dummy_image.png,American bullfrog
+dummy_image.png,tree frog
+dummy_image.png,tailed frog
+dummy_image.png,loggerhead sea turtle
+dummy_image.png,leatherback sea turtle
+dummy_image.png,mud turtle
+dummy_image.png,terrapin
+dummy_image.png,box turtle
+dummy_image.png,banded gecko
+dummy_image.png,green iguana
+dummy_image.png,Carolina anole
+dummy_image.png,desert grassland whiptail lizard
+dummy_image.png,agama
+dummy_image.png,frilled-necked lizard
+dummy_image.png,alligator lizard
+dummy_image.png,Gila monster
+dummy_image.png,European green lizard
+dummy_image.png,chameleon
+dummy_image.png,Komodo dragon
+dummy_image.png,Nile crocodile
+dummy_image.png,American alligator
+dummy_image.png,triceratops
+dummy_image.png,worm snake
+dummy_image.png,ring-necked snake
+dummy_image.png,eastern hog-nosed snake
+dummy_image.png,smooth green snake
+dummy_image.png,kingsnake
+dummy_image.png,garter snake
+dummy_image.png,water snake
+dummy_image.png,vine snake
+dummy_image.png,night snake
+dummy_image.png,boa constrictor
+dummy_image.png,African rock python
+dummy_image.png,Indian cobra
+dummy_image.png,green mamba
+dummy_image.png,sea snake
+dummy_image.png,Saharan horned viper
+dummy_image.png,eastern diamondback rattlesnake
+dummy_image.png,sidewinder rattlesnake
+dummy_image.png,trilobite
+dummy_image.png,harvestman
+dummy_image.png,scorpion
+dummy_image.png,yellow garden spider
+dummy_image.png,barn spider
+dummy_image.png,European garden spider
+dummy_image.png,southern black widow
+dummy_image.png,tarantula
+dummy_image.png,wolf spider
+dummy_image.png,tick
+dummy_image.png,centipede
+dummy_image.png,black grouse
+dummy_image.png,ptarmigan
+dummy_image.png,ruffed grouse
+dummy_image.png,prairie grouse
+dummy_image.png,peafowl
+dummy_image.png,quail
+dummy_image.png,partridge
+dummy_image.png,african grey parrot
+dummy_image.png,macaw
+dummy_image.png,sulphur-crested cockatoo
+dummy_image.png,lorikeet
+dummy_image.png,coucal
+dummy_image.png,bee eater
+dummy_image.png,hornbill
+dummy_image.png,hummingbird
+dummy_image.png,jacamar
+dummy_image.png,toucan
+dummy_image.png,duck
+dummy_image.png,red-breasted merganser
+dummy_image.png,goose
+dummy_image.png,black swan
+dummy_image.png,tusker
+dummy_image.png,echidna
+dummy_image.png,platypus
+dummy_image.png,wallaby
+dummy_image.png,koala
+dummy_image.png,wombat
+dummy_image.png,jellyfish
+dummy_image.png,sea anemone
+dummy_image.png,brain coral
+dummy_image.png,flatworm
+dummy_image.png,nematode
+dummy_image.png,conch
+dummy_image.png,snail
+dummy_image.png,slug
+dummy_image.png,sea slug
+dummy_image.png,chiton
+dummy_image.png,chambered nautilus
+dummy_image.png,Dungeness crab
+dummy_image.png,rock crab
+dummy_image.png,fiddler crab
+dummy_image.png,red king crab
+dummy_image.png,American lobster
+dummy_image.png,spiny lobster
+dummy_image.png,crayfish
+dummy_image.png,hermit crab
+dummy_image.png,isopod
+dummy_image.png,white stork
+dummy_image.png,black stork
+dummy_image.png,spoonbill
+dummy_image.png,flamingo
+dummy_image.png,little blue heron
+dummy_image.png,great egret
+dummy_image.png,bittern bird
+dummy_image.png,crane bird
+dummy_image.png,limpkin
+dummy_image.png,common gallinule
+dummy_image.png,American coot
+dummy_image.png,bustard
+dummy_image.png,ruddy turnstone
+dummy_image.png,dunlin
+dummy_image.png,common redshank
+dummy_image.png,dowitcher
+dummy_image.png,oystercatcher
+dummy_image.png,pelican
+dummy_image.png,king penguin
+dummy_image.png,albatross
+dummy_image.png,grey whale
+dummy_image.png,killer whale
+dummy_image.png,dugong
+dummy_image.png,sea lion
+dummy_image.png,Chihuahua
+dummy_image.png,Japanese Chin
+dummy_image.png,Maltese
+dummy_image.png,Pekingese
+dummy_image.png,Shih Tzu
+dummy_image.png,King Charles Spaniel
+dummy_image.png,Papillon
+dummy_image.png,toy terrier
+dummy_image.png,Rhodesian Ridgeback
+dummy_image.png,Afghan Hound
+dummy_image.png,Basset Hound
+dummy_image.png,Beagle
+dummy_image.png,Bloodhound
+dummy_image.png,Bluetick Coonhound
+dummy_image.png,Black and Tan Coonhound
+dummy_image.png,Treeing Walker Coonhound
+dummy_image.png,English foxhound
+dummy_image.png,Redbone Coonhound
+dummy_image.png,borzoi
+dummy_image.png,Irish Wolfhound
+dummy_image.png,Italian Greyhound
+dummy_image.png,Whippet
+dummy_image.png,Ibizan Hound
+dummy_image.png,Norwegian Elkhound
+dummy_image.png,Otterhound
+dummy_image.png,Saluki
+dummy_image.png,Scottish Deerhound
+dummy_image.png,Weimaraner
+dummy_image.png,Staffordshire Bull Terrier
+dummy_image.png,American Staffordshire Terrier
+dummy_image.png,Bedlington Terrier
+dummy_image.png,Border Terrier
+dummy_image.png,Kerry Blue Terrier
+dummy_image.png,Irish Terrier
+dummy_image.png,Norfolk Terrier
+dummy_image.png,Norwich Terrier
+dummy_image.png,Yorkshire Terrier
+dummy_image.png,Wire Fox Terrier
+dummy_image.png,Lakeland Terrier
+dummy_image.png,Sealyham Terrier
+dummy_image.png,Airedale Terrier
+dummy_image.png,Cairn Terrier
+dummy_image.png,Australian Terrier
+dummy_image.png,Dandie Dinmont Terrier
+dummy_image.png,Boston Terrier
+dummy_image.png,Miniature Schnauzer
+dummy_image.png,Giant Schnauzer
+dummy_image.png,Standard Schnauzer
+dummy_image.png,Scottish Terrier
+dummy_image.png,Tibetan Terrier
+dummy_image.png,Australian Silky Terrier
+dummy_image.png,Soft-coated Wheaten Terrier
+dummy_image.png,West Highland White Terrier
+dummy_image.png,Lhasa Apso
+dummy_image.png,Flat-Coated Retriever
+dummy_image.png,Curly-coated Retriever
+dummy_image.png,Golden Retriever
+dummy_image.png,Labrador Retriever
+dummy_image.png,Chesapeake Bay Retriever
+dummy_image.png,German Shorthaired Pointer
+dummy_image.png,Vizsla
+dummy_image.png,English Setter
+dummy_image.png,Irish Setter
+dummy_image.png,Gordon Setter
+dummy_image.png,Brittany dog
+dummy_image.png,Clumber Spaniel
+dummy_image.png,English Springer Spaniel
+dummy_image.png,Welsh Springer Spaniel
+dummy_image.png,Cocker Spaniel
+dummy_image.png,Sussex Spaniel
+dummy_image.png,Irish Water Spaniel
+dummy_image.png,Kuvasz
+dummy_image.png,Schipperke
+dummy_image.png,Groenendael dog
+dummy_image.png,Malinois
+dummy_image.png,Briard
+dummy_image.png,Australian Kelpie
+dummy_image.png,Komondor
+dummy_image.png,Old English Sheepdog
+dummy_image.png,Shetland Sheepdog
+dummy_image.png,collie
+dummy_image.png,Border Collie
+dummy_image.png,Bouvier des Flandres dog
+dummy_image.png,Rottweiler
+dummy_image.png,German Shepherd Dog
+dummy_image.png,Dobermann
+dummy_image.png,Miniature Pinscher
+dummy_image.png,Greater Swiss Mountain Dog
+dummy_image.png,Bernese Mountain Dog
+dummy_image.png,Appenzeller Sennenhund
+dummy_image.png,Entlebucher Sennenhund
+dummy_image.png,Boxer
+dummy_image.png,Bullmastiff
+dummy_image.png,Tibetan Mastiff
+dummy_image.png,French Bulldog
+dummy_image.png,Great Dane
+dummy_image.png,St. Bernard
+dummy_image.png,husky
+dummy_image.png,Alaskan Malamute
+dummy_image.png,Siberian Husky
+dummy_image.png,Dalmatian
+dummy_image.png,Affenpinscher
+dummy_image.png,Basenji
+dummy_image.png,pug
+dummy_image.png,Leonberger
+dummy_image.png,Newfoundland dog
+dummy_image.png,Great Pyrenees dog
+dummy_image.png,Samoyed
+dummy_image.png,Pomeranian
+dummy_image.png,Chow Chow
+dummy_image.png,Keeshond
+dummy_image.png,brussels griffon
+dummy_image.png,Pembroke Welsh Corgi
+dummy_image.png,Cardigan Welsh Corgi
+dummy_image.png,Toy Poodle
+dummy_image.png,Miniature Poodle
+dummy_image.png,Standard Poodle
+dummy_image.png,Mexican hairless dog (xoloitzcuintli)
+dummy_image.png,grey wolf
+dummy_image.png,Alaskan tundra wolf
+dummy_image.png,red wolf or maned wolf
+dummy_image.png,coyote
+dummy_image.png,dingo
+dummy_image.png,dhole
+dummy_image.png,African wild dog
+dummy_image.png,hyena
+dummy_image.png,red fox
+dummy_image.png,kit fox
+dummy_image.png,Arctic fox
+dummy_image.png,grey fox
+dummy_image.png,tabby cat
+dummy_image.png,tiger cat
+dummy_image.png,Persian cat
+dummy_image.png,Siamese cat
+dummy_image.png,Egyptian Mau
+dummy_image.png,cougar
+dummy_image.png,lynx
+dummy_image.png,leopard
+dummy_image.png,snow leopard
+dummy_image.png,jaguar
+dummy_image.png,lion
+dummy_image.png,tiger
+dummy_image.png,cheetah
+dummy_image.png,brown bear
+dummy_image.png,American black bear
+dummy_image.png,polar bear
+dummy_image.png,sloth bear
+dummy_image.png,mongoose
+dummy_image.png,meerkat
+dummy_image.png,tiger beetle
+dummy_image.png,ladybug
+dummy_image.png,ground beetle
+dummy_image.png,longhorn beetle
+dummy_image.png,leaf beetle
+dummy_image.png,dung beetle
+dummy_image.png,rhinoceros beetle
+dummy_image.png,weevil
+dummy_image.png,fly
+dummy_image.png,bee
+dummy_image.png,ant
+dummy_image.png,grasshopper
+dummy_image.png,cricket insect
+dummy_image.png,stick insect
+dummy_image.png,cockroach
+dummy_image.png,praying mantis
+dummy_image.png,cicada
+dummy_image.png,leafhopper
+dummy_image.png,lacewing
+dummy_image.png,dragonfly
+dummy_image.png,damselfly
+dummy_image.png,red admiral butterfly
+dummy_image.png,ringlet butterfly
+dummy_image.png,monarch butterfly
+dummy_image.png,small white butterfly
+dummy_image.png,sulphur butterfly
+dummy_image.png,gossamer-winged butterfly
+dummy_image.png,starfish
+dummy_image.png,sea urchin
+dummy_image.png,sea cucumber
+dummy_image.png,cottontail rabbit
+dummy_image.png,hare
+dummy_image.png,Angora rabbit
+dummy_image.png,hamster
+dummy_image.png,porcupine
+dummy_image.png,fox squirrel
+dummy_image.png,marmot
+dummy_image.png,beaver
+dummy_image.png,guinea pig
+dummy_image.png,common sorrel horse
+dummy_image.png,zebra
+dummy_image.png,pig
+dummy_image.png,wild boar
+dummy_image.png,warthog
+dummy_image.png,hippopotamus
+dummy_image.png,ox
+dummy_image.png,water buffalo
+dummy_image.png,bison
+dummy_image.png,ram (adult male sheep)
+dummy_image.png,bighorn sheep
+dummy_image.png,Alpine ibex
+dummy_image.png,hartebeest
+dummy_image.png,impala (antelope)
+dummy_image.png,gazelle
+dummy_image.png,arabian camel
+dummy_image.png,llama
+dummy_image.png,weasel
+dummy_image.png,mink
+dummy_image.png,European polecat
+dummy_image.png,black-footed ferret
+dummy_image.png,otter
+dummy_image.png,skunk
+dummy_image.png,badger
+dummy_image.png,armadillo
+dummy_image.png,three-toed sloth
+dummy_image.png,orangutan
+dummy_image.png,gorilla
+dummy_image.png,chimpanzee
+dummy_image.png,gibbon
+dummy_image.png,siamang
+dummy_image.png,guenon
+dummy_image.png,patas monkey
+dummy_image.png,baboon
+dummy_image.png,macaque
+dummy_image.png,langur
+dummy_image.png,black-and-white colobus
+dummy_image.png,proboscis monkey
+dummy_image.png,marmoset
+dummy_image.png,white-headed capuchin
+dummy_image.png,howler monkey
+dummy_image.png,titi monkey
+dummy_image.png,Geoffroy's spider monkey
+dummy_image.png,common squirrel monkey
+dummy_image.png,ring-tailed lemur
+dummy_image.png,indri
+dummy_image.png,Asian elephant
+dummy_image.png,African bush elephant
+dummy_image.png,red panda
+dummy_image.png,giant panda
+dummy_image.png,snoek fish
+dummy_image.png,eel
+dummy_image.png,silver salmon
+dummy_image.png,rock beauty fish
+dummy_image.png,clownfish
+dummy_image.png,sturgeon
+dummy_image.png,gar fish
+dummy_image.png,lionfish
+dummy_image.png,pufferfish
+dummy_image.png,abacus
+dummy_image.png,abaya
+dummy_image.png,academic gown
+dummy_image.png,accordion
+dummy_image.png,acoustic guitar
+dummy_image.png,aircraft carrier
+dummy_image.png,airliner
+dummy_image.png,airship
+dummy_image.png,altar
+dummy_image.png,ambulance
+dummy_image.png,amphibious vehicle
+dummy_image.png,analog clock
+dummy_image.png,apiary
+dummy_image.png,apron
+dummy_image.png,trash can
+dummy_image.png,assault rifle
+dummy_image.png,backpack
+dummy_image.png,bakery
+dummy_image.png,balance beam
+dummy_image.png,balloon
+dummy_image.png,ballpoint pen
+dummy_image.png,Band-Aid
+dummy_image.png,banjo
+dummy_image.png,baluster / handrail
+dummy_image.png,barbell
+dummy_image.png,barber chair
+dummy_image.png,barbershop
+dummy_image.png,barn
+dummy_image.png,barometer
+dummy_image.png,barrel
+dummy_image.png,wheelbarrow
+dummy_image.png,baseball
+dummy_image.png,basketball
+dummy_image.png,bassinet
+dummy_image.png,bassoon
+dummy_image.png,swimming cap
+dummy_image.png,bath towel
+dummy_image.png,bathtub
+dummy_image.png,station wagon
+dummy_image.png,lighthouse
+dummy_image.png,beaker
+dummy_image.png,military hat (bearskin or shako)
+dummy_image.png,beer bottle
+dummy_image.png,beer glass
+dummy_image.png,bell tower
+dummy_image.png,baby bib
+dummy_image.png,tandem bicycle
+dummy_image.png,bikini
+dummy_image.png,ring binder
+dummy_image.png,binoculars
+dummy_image.png,birdhouse
+dummy_image.png,boathouse
+dummy_image.png,bobsleigh
+dummy_image.png,bolo tie
+dummy_image.png,poke bonnet
+dummy_image.png,bookcase
+dummy_image.png,bookstore
+dummy_image.png,bottle cap
+dummy_image.png,hunting bow
+dummy_image.png,bow tie
+dummy_image.png,brass memorial plaque
+dummy_image.png,bra
+dummy_image.png,breakwater
+dummy_image.png,breastplate
+dummy_image.png,broom
+dummy_image.png,bucket
+dummy_image.png,buckle
+dummy_image.png,bulletproof vest
+dummy_image.png,high-speed train
+dummy_image.png,butcher shop
+dummy_image.png,taxicab
+dummy_image.png,cauldron
+dummy_image.png,candle
+dummy_image.png,cannon
+dummy_image.png,canoe
+dummy_image.png,can opener
+dummy_image.png,cardigan
+dummy_image.png,car mirror
+dummy_image.png,carousel
+dummy_image.png,tool kit
+dummy_image.png,cardboard box / carton
+dummy_image.png,car wheel
+dummy_image.png,automated teller machine
+dummy_image.png,cassette
+dummy_image.png,cassette player
+dummy_image.png,castle
+dummy_image.png,catamaran
+dummy_image.png,CD player
+dummy_image.png,cello
+dummy_image.png,mobile phone
+dummy_image.png,chain
+dummy_image.png,chain-link fence
+dummy_image.png,chain mail
+dummy_image.png,chainsaw
+dummy_image.png,storage chest
+dummy_image.png,chiffonier
+dummy_image.png,bell or wind chime
+dummy_image.png,china cabinet
+dummy_image.png,Christmas stocking
+dummy_image.png,church
+dummy_image.png,movie theater
+dummy_image.png,cleaver
+dummy_image.png,cliff dwelling
+dummy_image.png,cloak
+dummy_image.png,clogs
+dummy_image.png,cocktail shaker
+dummy_image.png,coffee mug
+dummy_image.png,coffeemaker
+dummy_image.png,spiral or coil
+dummy_image.png,combination lock
+dummy_image.png,computer keyboard
+dummy_image.png,candy store
+dummy_image.png,container ship
+dummy_image.png,convertible
+dummy_image.png,corkscrew
+dummy_image.png,cornet
+dummy_image.png,cowboy boot
+dummy_image.png,cowboy hat
+dummy_image.png,cradle
+dummy_image.png,construction crane
+dummy_image.png,crash helmet
+dummy_image.png,crate
+dummy_image.png,infant bed
+dummy_image.png,Crock Pot
+dummy_image.png,croquet ball
+dummy_image.png,crutch
+dummy_image.png,cuirass
+dummy_image.png,dam
+dummy_image.png,desk
+dummy_image.png,desktop computer
+dummy_image.png,rotary dial telephone
+dummy_image.png,diaper
+dummy_image.png,digital clock
+dummy_image.png,digital watch
+dummy_image.png,dining table
+dummy_image.png,dishcloth
+dummy_image.png,dishwasher
+dummy_image.png,disc brake
+dummy_image.png,dock
+dummy_image.png,dog sled
+dummy_image.png,dome
+dummy_image.png,doormat
+dummy_image.png,drilling rig
+dummy_image.png,drum
+dummy_image.png,drumstick
+dummy_image.png,dumbbell
+dummy_image.png,Dutch oven
+dummy_image.png,electric fan
+dummy_image.png,electric guitar
+dummy_image.png,electric locomotive
+dummy_image.png,entertainment center
+dummy_image.png,envelope
+dummy_image.png,espresso machine
+dummy_image.png,face powder
+dummy_image.png,feather boa
+dummy_image.png,filing cabinet
+dummy_image.png,fireboat
+dummy_image.png,fire truck
+dummy_image.png,fire screen
+dummy_image.png,flagpole
+dummy_image.png,flute
+dummy_image.png,folding chair
+dummy_image.png,football helmet
+dummy_image.png,forklift
+dummy_image.png,fountain
+dummy_image.png,fountain pen
+dummy_image.png,four-poster bed
+dummy_image.png,freight car
+dummy_image.png,French horn
+dummy_image.png,frying pan
+dummy_image.png,fur coat
+dummy_image.png,garbage truck
+dummy_image.png,gas mask or respirator
+dummy_image.png,gas pump
+dummy_image.png,goblet
+dummy_image.png,go-kart
+dummy_image.png,golf ball
+dummy_image.png,golf cart
+dummy_image.png,gondola
+dummy_image.png,gong
+dummy_image.png,gown
+dummy_image.png,grand piano
+dummy_image.png,greenhouse
+dummy_image.png,radiator grille
+dummy_image.png,grocery store
+dummy_image.png,guillotine
+dummy_image.png,hair clip
+dummy_image.png,hair spray
+dummy_image.png,half-track
+dummy_image.png,hammer
+dummy_image.png,hamper
+dummy_image.png,hair dryer
+dummy_image.png,hand-held computer
+dummy_image.png,handkerchief
+dummy_image.png,hard disk drive
+dummy_image.png,harmonica
+dummy_image.png,harp
+dummy_image.png,combine harvester
+dummy_image.png,hatchet
+dummy_image.png,holster
+dummy_image.png,home theater
+dummy_image.png,honeycomb
+dummy_image.png,hook
+dummy_image.png,hoop skirt
+dummy_image.png,gymnastic horizontal bar
+dummy_image.png,horse-drawn vehicle
+dummy_image.png,hourglass
+dummy_image.png,iPod
+dummy_image.png,clothes iron
+dummy_image.png,carved pumpkin
+dummy_image.png,jeans
+dummy_image.png,jeep
+dummy_image.png,T-shirt
+dummy_image.png,jigsaw puzzle
+dummy_image.png,rickshaw
+dummy_image.png,joystick
+dummy_image.png,kimono
+dummy_image.png,knee pad
+dummy_image.png,knot
+dummy_image.png,lab coat
+dummy_image.png,ladle
+dummy_image.png,lampshade
+dummy_image.png,laptop computer
+dummy_image.png,lawn mower
+dummy_image.png,lens cap
+dummy_image.png,letter opener
+dummy_image.png,library
+dummy_image.png,lifeboat
+dummy_image.png,lighter
+dummy_image.png,limousine
+dummy_image.png,ocean liner
+dummy_image.png,lipstick
+dummy_image.png,slip-on shoe
+dummy_image.png,lotion
+dummy_image.png,music speaker
+dummy_image.png,loupe magnifying glass
+dummy_image.png,sawmill
+dummy_image.png,magnetic compass
+dummy_image.png,messenger bag
+dummy_image.png,mailbox
+dummy_image.png,tights
+dummy_image.png,one-piece bathing suit
+dummy_image.png,manhole cover
+dummy_image.png,maraca
+dummy_image.png,marimba
+dummy_image.png,mask
+dummy_image.png,matchstick
+dummy_image.png,maypole
+dummy_image.png,maze
+dummy_image.png,measuring cup
+dummy_image.png,medicine cabinet
+dummy_image.png,megalith
+dummy_image.png,microphone
+dummy_image.png,microwave oven
+dummy_image.png,military uniform
+dummy_image.png,milk can
+dummy_image.png,minibus
+dummy_image.png,miniskirt
+dummy_image.png,minivan
+dummy_image.png,missile
+dummy_image.png,mitten
+dummy_image.png,mixing bowl
+dummy_image.png,mobile home
+dummy_image.png,ford model t
+dummy_image.png,modem
+dummy_image.png,monastery
+dummy_image.png,monitor
+dummy_image.png,moped
+dummy_image.png,mortar and pestle
+dummy_image.png,graduation cap
+dummy_image.png,mosque
+dummy_image.png,mosquito net
+dummy_image.png,vespa
+dummy_image.png,mountain bike
+dummy_image.png,tent
+dummy_image.png,computer mouse
+dummy_image.png,mousetrap
+dummy_image.png,moving van
+dummy_image.png,muzzle
+dummy_image.png,metal nail
+dummy_image.png,neck brace
+dummy_image.png,necklace
+dummy_image.png,baby pacifier
+dummy_image.png,notebook computer
+dummy_image.png,obelisk
+dummy_image.png,oboe
+dummy_image.png,ocarina
+dummy_image.png,odometer
+dummy_image.png,oil filter
+dummy_image.png,pipe organ
+dummy_image.png,oscilloscope
+dummy_image.png,overskirt
+dummy_image.png,bullock cart
+dummy_image.png,oxygen mask
+dummy_image.png,product packet / packaging
+dummy_image.png,paddle
+dummy_image.png,paddle wheel
+dummy_image.png,padlock
+dummy_image.png,paintbrush
+dummy_image.png,pajamas
+dummy_image.png,palace
+dummy_image.png,pan flute
+dummy_image.png,paper towel
+dummy_image.png,parachute
+dummy_image.png,parallel bars
+dummy_image.png,park bench
+dummy_image.png,parking meter
+dummy_image.png,railroad car
+dummy_image.png,patio
+dummy_image.png,payphone
+dummy_image.png,pedestal
+dummy_image.png,pencil case
+dummy_image.png,pencil sharpener
+dummy_image.png,perfume
+dummy_image.png,Petri dish
+dummy_image.png,photocopier
+dummy_image.png,plectrum
+dummy_image.png,Pickelhaube
+dummy_image.png,picket fence
+dummy_image.png,pickup truck
+dummy_image.png,pier
+dummy_image.png,piggy bank
+dummy_image.png,pill bottle
+dummy_image.png,pillow
+dummy_image.png,ping-pong ball
+dummy_image.png,pinwheel
+dummy_image.png,pirate ship
+dummy_image.png,drink pitcher
+dummy_image.png,block plane
+dummy_image.png,planetarium
+dummy_image.png,plastic bag
+dummy_image.png,plate rack
+dummy_image.png,farm plow
+dummy_image.png,plunger
+dummy_image.png,Polaroid camera
+dummy_image.png,pole
+dummy_image.png,police van
+dummy_image.png,poncho
+dummy_image.png,pool table
+dummy_image.png,soda bottle
+dummy_image.png,plant pot
+dummy_image.png,potter's wheel
+dummy_image.png,power drill
+dummy_image.png,prayer rug
+dummy_image.png,printer
+dummy_image.png,prison
+dummy_image.png,missile
+dummy_image.png,projector
+dummy_image.png,hockey puck
+dummy_image.png,punching bag
+dummy_image.png,purse
+dummy_image.png,quill
+dummy_image.png,quilt
+dummy_image.png,race car
+dummy_image.png,racket
+dummy_image.png,radiator
+dummy_image.png,radio
+dummy_image.png,radio telescope
+dummy_image.png,rain barrel
+dummy_image.png,recreational vehicle
+dummy_image.png,fishing casting reel
+dummy_image.png,reflex camera
+dummy_image.png,refrigerator
+dummy_image.png,remote control
+dummy_image.png,restaurant
+dummy_image.png,revolver
+dummy_image.png,rifle
+dummy_image.png,rocking chair
+dummy_image.png,rotisserie
+dummy_image.png,eraser
+dummy_image.png,rugby ball
+dummy_image.png,ruler measuring stick
+dummy_image.png,sneaker
+dummy_image.png,safe
+dummy_image.png,safety pin
+dummy_image.png,salt shaker
+dummy_image.png,sandal
+dummy_image.png,sarong
+dummy_image.png,saxophone
+dummy_image.png,scabbard
+dummy_image.png,weighing scale
+dummy_image.png,school bus
+dummy_image.png,schooner
+dummy_image.png,scoreboard
+dummy_image.png,CRT monitor
+dummy_image.png,screw
+dummy_image.png,screwdriver
+dummy_image.png,seat belt
+dummy_image.png,sewing machine
+dummy_image.png,shield
+dummy_image.png,shoe store
+dummy_image.png,shoji screen / room divider
+dummy_image.png,shopping basket
+dummy_image.png,shopping cart
+dummy_image.png,shovel
+dummy_image.png,shower cap
+dummy_image.png,shower curtain
+dummy_image.png,ski
+dummy_image.png,balaclava ski mask
+dummy_image.png,sleeping bag
+dummy_image.png,slide rule
+dummy_image.png,sliding door
+dummy_image.png,slot machine
+dummy_image.png,snorkel
+dummy_image.png,snowmobile
+dummy_image.png,snowplow
+dummy_image.png,soap dispenser
+dummy_image.png,soccer ball
+dummy_image.png,sock
+dummy_image.png,solar thermal collector
+dummy_image.png,sombrero
+dummy_image.png,soup bowl
+dummy_image.png,keyboard space bar
+dummy_image.png,space heater
+dummy_image.png,space shuttle
+dummy_image.png,spatula
+dummy_image.png,motorboat
+dummy_image.png,spider web
+dummy_image.png,spindle
+dummy_image.png,sports car
+dummy_image.png,spotlight
+dummy_image.png,stage
+dummy_image.png,steam locomotive
+dummy_image.png,through arch bridge
+dummy_image.png,steel drum
+dummy_image.png,stethoscope
+dummy_image.png,scarf
+dummy_image.png,stone wall
+dummy_image.png,stopwatch
+dummy_image.png,stove
+dummy_image.png,strainer
+dummy_image.png,tram
+dummy_image.png,stretcher
+dummy_image.png,couch
+dummy_image.png,stupa
+dummy_image.png,submarine
+dummy_image.png,suit
+dummy_image.png,sundial
+dummy_image.png,sunglasses
+dummy_image.png,sunglasses
+dummy_image.png,sunscreen
+dummy_image.png,suspension bridge
+dummy_image.png,mop
+dummy_image.png,sweatshirt
+dummy_image.png,swim trunks / shorts
+dummy_image.png,swing
+dummy_image.png,electrical switch
+dummy_image.png,syringe
+dummy_image.png,table lamp
+dummy_image.png,tank
+dummy_image.png,tape player
+dummy_image.png,teapot
+dummy_image.png,teddy bear
+dummy_image.png,television
+dummy_image.png,tennis ball
+dummy_image.png,thatched roof
+dummy_image.png,front curtain
+dummy_image.png,thimble
+dummy_image.png,threshing machine
+dummy_image.png,throne
+dummy_image.png,tile roof
+dummy_image.png,toaster
+dummy_image.png,tobacco shop
+dummy_image.png,toilet seat
+dummy_image.png,torch
+dummy_image.png,totem pole
+dummy_image.png,tow truck
+dummy_image.png,toy store
+dummy_image.png,tractor
+dummy_image.png,semi-trailer truck
+dummy_image.png,tray
+dummy_image.png,trench coat
+dummy_image.png,tricycle
+dummy_image.png,trimaran
+dummy_image.png,tripod
+dummy_image.png,triumphal arch
+dummy_image.png,trolleybus
+dummy_image.png,trombone
+dummy_image.png,hot tub
+dummy_image.png,turnstile
+dummy_image.png,typewriter keyboard
+dummy_image.png,umbrella
+dummy_image.png,unicycle
+dummy_image.png,upright piano
+dummy_image.png,vacuum cleaner
+dummy_image.png,vase
+dummy_image.png,vaulted or arched ceiling
+dummy_image.png,velvet fabric
+dummy_image.png,vending machine
+dummy_image.png,vestment
+dummy_image.png,viaduct
+dummy_image.png,violin
+dummy_image.png,volleyball
+dummy_image.png,waffle iron
+dummy_image.png,wall clock
+dummy_image.png,wallet
+dummy_image.png,wardrobe
+dummy_image.png,military aircraft
+dummy_image.png,sink
+dummy_image.png,washing machine
+dummy_image.png,water bottle
+dummy_image.png,water jug
+dummy_image.png,water tower
+dummy_image.png,whiskey jug
+dummy_image.png,whistle
+dummy_image.png,hair wig
+dummy_image.png,window screen
+dummy_image.png,window shade
+dummy_image.png,Windsor tie
+dummy_image.png,wine bottle
+dummy_image.png,airplane wing
+dummy_image.png,wok
+dummy_image.png,wooden spoon
+dummy_image.png,wool
+dummy_image.png,split-rail fence
+dummy_image.png,shipwreck
+dummy_image.png,sailboat
+dummy_image.png,yurt
+dummy_image.png,website
+dummy_image.png,comic book
+dummy_image.png,crossword
+dummy_image.png,traffic or street sign
+dummy_image.png,traffic light
+dummy_image.png,dust jacket
+dummy_image.png,menu
+dummy_image.png,plate
+dummy_image.png,guacamole
+dummy_image.png,consomme
+dummy_image.png,hot pot
+dummy_image.png,trifle
+dummy_image.png,ice cream
+dummy_image.png,popsicle
+dummy_image.png,baguette
+dummy_image.png,bagel
+dummy_image.png,pretzel
+dummy_image.png,cheeseburger
+dummy_image.png,hot dog
+dummy_image.png,mashed potatoes
+dummy_image.png,cabbage
+dummy_image.png,broccoli
+dummy_image.png,cauliflower
+dummy_image.png,zucchini
+dummy_image.png,spaghetti squash
+dummy_image.png,acorn squash
+dummy_image.png,butternut squash
+dummy_image.png,cucumber
+dummy_image.png,artichoke
+dummy_image.png,bell pepper
+dummy_image.png,cardoon
+dummy_image.png,mushroom
+dummy_image.png,Granny Smith apple
+dummy_image.png,strawberry
+dummy_image.png,orange
+dummy_image.png,lemon
+dummy_image.png,fig
+dummy_image.png,pineapple
+dummy_image.png,banana
+dummy_image.png,jackfruit
+dummy_image.png,cherimoya (custard apple)
+dummy_image.png,pomegranate
+dummy_image.png,hay
+dummy_image.png,carbonara
+dummy_image.png,chocolate syrup
+dummy_image.png,dough
+dummy_image.png,meatloaf
+dummy_image.png,pizza
+dummy_image.png,pot pie
+dummy_image.png,burrito
+dummy_image.png,red wine
+dummy_image.png,espresso
+dummy_image.png,tea cup
+dummy_image.png,eggnog
+dummy_image.png,mountain
+dummy_image.png,bubble
+dummy_image.png,cliff
+dummy_image.png,coral reef
+dummy_image.png,geyser
+dummy_image.png,lakeshore
+dummy_image.png,promontory
+dummy_image.png,sandbar
+dummy_image.png,beach
+dummy_image.png,valley
+dummy_image.png,volcano
+dummy_image.png,baseball player
+dummy_image.png,bridegroom
+dummy_image.png,scuba diver
+dummy_image.png,rapeseed
+dummy_image.png,daisy
+dummy_image.png,yellow lady's slipper
+dummy_image.png,corn
+dummy_image.png,acorn
+dummy_image.png,rose hip
+dummy_image.png,horse chestnut seed
+dummy_image.png,coral fungus
+dummy_image.png,agaric
+dummy_image.png,gyromitra
+dummy_image.png,stinkhorn mushroom
+dummy_image.png,earth star fungus
+dummy_image.png,hen of the woods mushroom
+dummy_image.png,bolete
+dummy_image.png,corn cob
+dummy_image.png,toilet paper

@@ -1,0 +1,5 @@
+analyzeImageMethod: analyzeImage_precompiled
+embeddings_path: general_00796.embeddings
+labels_path: general_00796.labels
+output_type: affinityScores
+reasoner_type: chatgpt

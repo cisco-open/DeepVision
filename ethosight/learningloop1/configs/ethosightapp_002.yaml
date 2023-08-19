@@ -1,0 +1,93 @@
+################## basic app configuration
+analyzeImageMethod: analyzeImage_precompiled
+embeddings_path: general_00796.embeddings
+labels_path: general_00796.labels
+output_type: affinityScores
+reasoner_type: chatgpt
+
+################## configure the label space optimization
+label_space_optimization:
+  enabled: true 
+  rerun: false # if true, will rerun the optimization even if a results file exists,
+                # otherwise will just load the most recent results file
+#  method: "semantic_relations"
+  method: "semantic_similarity"
+  parameters:
+    threshold: .8
+    max_labels: 10 # this is the max per ground truth label (not total) 
+
+general_templates:
+  enabled: true
+  template_path: "../templates/general_templates.txt"
+
+################## configure the benchmark
+benchmark:
+  enabled: true 
+  batch_mode: true 
+  batchsize: 200
+  image_dir: "../images/robbery"
+# ground_truth_path can be a .txt file or a .csv
+# .txt : labels only
+# .csv : filename, label pairs ... first row in file is assumed to be a header and is ignored
+#  ground_truth_path: "../images/robbery/image-labels2.csv" #only one label per video
+  ground_truth_path: "../images/robbery/image-labels.csv"  #labeled correctly per frame
+#  ground_truth_path: "../embeddings/ucf-crime.txt" 
+  top_n: 5
+  bootstrapMode: true # if true, EthosightApp.optimize will start with GT labels
+  save_affinities: true # if true, will save the affinity scores to a file
+
+  # video 
+  extracted_video_dir: "../extracted_videos"
+  # both
+  verbose: false
+  skip_pre_optimization: true # if true, will skip the pre-optimization for video benchmarking
+
+################## configure the mapper
+mapper:
+  enabled: true 
+  threshold: 26 
+  normal_label_name: "normal event"
+
+  # modes: 
+  #   - passthrough - pass input affinity scores through to output
+  #   - labelToLabelAffinity01 - uses affinity between expanded labels and ground truth labels
+  #   - compositeLabels01 - create composite labels from input affinity scores, no reasoning
+  #   - reasoning01 - create composite labels from input affinity scores, with reasoning 
+  mode: 'passthrough'
+#  mode: 'labelToLabelAffinity01'
+
+video:
+  skip_frames: 0 # number of frames to skip when processing video. 0 means process all frames, 1 means process every other frame, etc.
+  label_mapping: "longest_period"
+  # modes: 
+  #   - majority - rank the labels by the number of frames
+  #   - longest_period - rank the labels by the number of consecutive frames
+  #   - periods_count - rank the labels by the number of periods
+
+################## If enabled, will not run phase 1 (we will not calculate the affinity scores)
+# phase 1: run entire benchmarking pipeline, input is definition of ground truth
+#          including labels and either image files or video files using our .csv format
+#          output configurable and may include the affinity scores, 
+#          the label space optimization, and the mapper
+#          for phase 1 video pipeline, all affinity scores are saved to json files, 
+#             and the location is the <<Ethosight App directory>>/affinities directory
+#          other outputs from phase 1 are configurable such as lso* files, etc...
+# phase 2: 
+#         input is the affinity scores from phase 1, specifically the json affinity scores file
+#         need to confirm that the affinity score json filename makes sense for the image case
+#         output is configurable, may be a re-run of the shan-video-mapper, or may be a visualization analytics run
+#         or may be be running the full EthosightLearningLoop algorithms on the affinity scores alone, or possibly also including images
+phase2_configuration: 
+  enabled: true
+  # mode:
+  #  - shan-video-mapper - use the shan-video-mapper to map the labels, reuse existing phase1 shan-video-mapper
+  mode: 'shan-video-mapper' 
+
+
+################## visualization configuration
+visualization:
+  enabled: true
+  top_n_affinity: 10 # if zero, do not show affinity scores, otherwise show top n
+  show_distinct: true
+  gt_temporal_graph: true # if true, show the ground truth temporal graph
+  gt_summary_temporal_graph: true # if true, show the ground truth summary temporal graph
