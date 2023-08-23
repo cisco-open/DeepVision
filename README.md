@@ -4,6 +4,8 @@ Deep Vision is a serverless edge platform for explainable perception challenges 
 
 Deep Vision targets several key problems including improving analytics accuracy on spatio-temporal data, self-supervised learning, lifelong learning and creating explainable models.  
 
+We currently have 3 Deep Vision applications, RecalM, VQPy interface, and Ethosight (integration in process). 
+
 ### Getting Started
 
 The system can be run in any environment supporting GPU and docker (NVIDIA [extension](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/user-guide.html) as well). Make sure you have updated GPU driver on the host machine.  
