@@ -30,16 +30,16 @@ from PIL import ImageFont
 from flask import Flask, Response
 import json
 import pickle
-from typing import List
+from typing import Any, List
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
 from utils.Utility import is_lt_eq_threshold
 
 import ast
 
-NO_RISK = 0
-WARNING = 1
-ALARM = 2
+NO_RISK = "no_risk"
+WARNING = "warning"
+ALARM = "alarm"
 
 class StreamItem:
     def __init__(self, redis_connection, stream_name):
@@ -88,7 +88,10 @@ class VideoFrameStreamItem(StreamItem):
 
 class QueryEntry:
     def __init__(self, entry):
-        self.in_region = entry["in_region"]
+        self.track_id = entry["track_id"]
+        self.center = entry["center"]
+        self.in_region_time = entry["in_region_time"]
+        self.loitering = entry["loitering"]
         self.object_bbox = entry["tlbr"]
         self.x1 = self.object_bbox[0]
         self.y1 = self.object_bbox[1]
@@ -96,17 +99,16 @@ class QueryEntry:
         self.y2 = self.object_bbox[3]
 
     def get(self):
-        return self.in_region, self.x1, self.y1, self.x2, self.y2
+        return self.in_region_time, self.loitering, self.x1, self.y1, self.x2, self.y2
 
 class VideoQueryStreamItem(StreamItem):
     def get_query_data(self):
         if self.data is not None:
             query_results = json.loads(self.data[b'query'].decode('utf-8'))
             frame_id = query_results["frame_id"]
-            loitering_person_center_tlbr = query_results["Person"]
-            return [QueryEntry(person) for person in loitering_person_center_tlbr]
+            return [QueryEntry(person) for person in query_results["Person"]], frame_id
         else:
-            return None
+            return None, None 
 
     def get_next_stream_item(self):
         if self.ref_id is None:
@@ -116,8 +118,7 @@ class VideoQueryStreamItem(StreamItem):
             if resp:
                 key, messages = resp[0]
                 self.ref_id, self.data = messages[0]
-                return True
-            return False
+            return True
 
 class RedisImageStream(object):
     def __init__(self, conn, args):
@@ -139,7 +140,7 @@ class RedisImageStream(object):
         return img.tobytes()
 
     def get_last(self):
-        success = self.query_stream.get_last_stream_item()
+        success = self.query_stream.get_next_stream_item()
         if success:
             frame_ref_id = self.query_stream.ref_id
             assert frame_ref_id is not None
@@ -151,19 +152,27 @@ class RedisImageStream(object):
             draw = ImageDraw.Draw(img)
             draw.polygon(ast.literal_eval(args.polygon), outline='red', width=5)
 
-            query_results = self.query_stream.get_query_data()
+            query_results, frame_id = self.query_stream.get_query_data()
             if query_results is not None:
                 for query_entry in query_results:
-                    in_region, x1, y1, x2, y2 = query_entry.get()
-                    if in_region == WARNING:
+                    in_region_time, loitering, x1, y1, x2, y2 = query_entry.get()
+                    if loitering == WARNING:
                         color = (0, 165, 255)
-                        message = "Warning: loitering"
-                    else:
+                        loitering_message = "Warning: loitering"
+                    elif loitering == ALARM:
                         color = (0, 0, 255)
-                        message = "Alarm! Loitering!"
+                        loitering_message = "Alarm! Loitering!"
+                    else:
+                        color = (0, 255, 0)
                     draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=color)
-                    fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 30)
-                    draw.text(xy=(x1, y1 - 30), text=message, fill=color, font=fnt)
+                    # draw in region time at the bottom of the bounding box with color of the bounding box
+                    fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 20)
+                    draw.text(xy=(x1, y2), text=f"Time in region: {in_region_time}s", fill=color, font=fnt)
+
+                    if loitering == WARNING or loitering == ALARM:
+                        # draw loitering message at the top of the bounding box with color of the bounding box
+                        fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 30)
+                        draw.text(xy=(x1, y1 - 30), text=loitering_message, fill=color, font=fnt)
 
             arr = np.array(img)
             ret, img = cv2.imencode('.jpg', arr)
