@@ -21,10 +21,11 @@ from utils.RedisStreamXreaderWriter import RedisStreamXreaderWriter
 from utils.constants import REDISTIMESERIES, REDISTIMESERIES_PORT, MODEL_RUN_LATENCY, BOUNDING_BOXES_LATENCY, FRAMERATE
 
 
-NO_RISK = 0
-WARNING = 1
-ALARM = 2
+NO_RISK = "no_risk"
+WARNING = "warning"
+ALARM = "alarm"
 
+TOLERANCE = 10
 
 # Construct Person VObj to express VQPy query
 class Person(VObjBase):
@@ -46,19 +47,59 @@ class Person(VObjBase):
         tlbr = values["tlbr"]
         return (tlbr[:2] + tlbr[2:]) / 2
 
-    @vobj_property(inputs={"bottom_center": 150})
-    def in_region(self, values):
-        bottom_centers = values["bottom_center"]
-
-        def point_in_region(x):
-            return x is not None and \
-                vqpy.query.utils.within_regions(REGIONS)(x)
-        nframes_warning = 60
-        if all(list(map(point_in_region, bottom_centers))):
+    @vobj_property(inputs={"in_region_time": 0})
+    def loitering(self, values):
+        cur_in_region_time = values["in_region_time"]
+        if cur_in_region_time >= TIME_ALARM:
             return ALARM
-        if all(list(map(point_in_region, bottom_centers[-nframes_warning:]))):
+        if cur_in_region_time >= TIME_WARNING:
             return WARNING
         return NO_RISK
+
+    @vobj_property(inputs={"in_region_frames": 0, "fps": 0, "in_region": 0})
+    def in_region_time(self, values):
+        cur_in_region_frames = values["in_region_frames"]
+        fps = values["fps"]
+        if not values["in_region"]:
+            return 0
+        return round(cur_in_region_frames / fps, 2)
+
+    @vobj_property(inputs={"in_region": TOLERANCE, "in_region_frames": TOLERANCE})
+    def in_region_frames(self, values):
+        """
+        Return the number of frames that the person is in region continuously.
+        If the person is out of region for longer than TOLERANCE, return 0.
+        If the person is out of region cur frame and within TORLERANCE,
+          the in_region_frames is the same as that of last frame.
+        If the person is untracked and tracked again within in TORLENCE frames,
+          the time is accumulated. Otherwise, the in_region_frames is 0.
+        """
+        in_region_values = values["in_region"]
+        # Get the last valid in_region_frames. If person is lost and tracked
+        # again, the in_region_frames for lost frames are None.
+        last_valid_in_region_frames = 0
+        for value in reversed(values["in_region_frames"]):
+            if value is not None:
+                last_valid_in_region_frames = value
+                break
+        this_in_region = in_region_values[-1]
+        if this_in_region:
+            return last_valid_in_region_frames + 1
+        else:
+            # The person is out of region for longer than TOLERANCE frames
+            if last_valid_in_region_frames == in_region_values[0]:
+                return 0
+            else:
+                return last_valid_in_region_frames
+
+    @vobj_property(inputs={"bottom_center": 0})
+    def in_region(self, values):
+        bottom_center = values["bottom_center"]
+        if bottom_center is not None and vqpy.query.utils.within_regions(
+            REGIONS
+        )(bottom_center):
+            return True
+        return False
 
 
 # Construct VQPy query
@@ -67,13 +108,16 @@ class People_loitering_query(QueryBase):
         self.person = Person()
 
     def frame_constraint(self):
-        return (self.person.in_region == ALARM) | (
-            self.person.in_region == WARNING
-        )
+        return self.person.in_region_time > 0
 
     def frame_output(self):
-        return (self.person.center, self.person.tlbr, self.person.in_region)
-
+        return (
+            self.person.track_id,
+            self.person.center,
+            self.person.tlbr,
+            self.person.loitering,
+            self.person.in_region_time,
+        )
 
 # Customize a VQPy video reader
 class RedisStreamVideoReader(CustomizedVideoReader):
@@ -135,6 +179,16 @@ if __name__ == "__main__":
         default=("[(360, 367), (773, 267), (1143, 480), (951, 715), (399, 715)]"),
         help="polygon to define the region of interest",
     )
+    parser.add_argument(
+        "--time_warning",
+        default=4,
+        help="time to trigger warning",
+    )
+    parser.add_argument(
+        "--time_alarm",
+        default=10,
+        help="time to trigger alarm",
+    )
     args = parser.parse_args()
 
     url = urlparse(args.redis)
@@ -149,6 +203,8 @@ if __name__ == "__main__":
     gpu_calculator = GPUCalculator(ts_manager, 15)
 
     REGIONS = [ast.literal_eval(args.polygon)]
+    TIME_WARNING = args.time_warning
+    TIME_ALARM = args.time_alarm
 
     redis_stream_video_reader = RedisStreamVideoReader(xreader_writer, fps=args.fps)
     query_executor = vqpy.init(
@@ -163,20 +219,26 @@ if __name__ == "__main__":
     query_run_monitor.start_timer()
     for result in results:
         query_run_monitor.end_timer()
-        ref_id = result["ref_id"]
+        ref_id = result.pop("ref_id")
         # stream_output format
         # {
         #     "frame_id": 0,
         #     "Person": [
         #           # Person 1
-        #           {'center': array([563.10626 ,  12.468067], dtype=float32),
-        #           'tlbr': array([  0.        ,   0.        , 1126.2125    ,  24.936134  ], dtype=float32),
-        #           'in_region': 0}
+        #           {
+        #            "track_id": 1, 
+        #            "center": [987.3499755859375, 288.8272399902344],
+        #            "tlbr": [929.621826171875, 181.52011108398438, 1045.078125, 396.1343688964844],
+        #            "loitering": "alarm",
+        #            "in_region_time": 18.6}
         #           # Person 2
+        #           {
+        #            "track_id": 2,
+        #            ...
+        #           }
         #         ]
         # }
         gpu_calculator.add()
-        query_result = {k: v for k, v in result.items() if k != "ref_id"}
-        xreader_writer.write_message({'query': json.dumps(query_result, cls=NumpyEncoder)}, ref_id)
+        xreader_writer.write_message({'query': json.dumps(result, cls=NumpyEncoder)}, ref_id)
         query_run_monitor.start_timer()
     query_run_monitor.end_timer()
