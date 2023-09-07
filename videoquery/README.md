@@ -19,4 +19,4 @@ To shutdown the service: ```./run query down```
 
 By clicking on the "Video Query" dashboard, you can visualize the query results.
 
-![loitering-Visualization](./loitering-demo.gif)
+![loitering-Visualization](./loitering-demo-19s.gif)
