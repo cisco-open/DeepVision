@@ -181,12 +181,14 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--time_warning",
-        default=4,
+        default=4.0,
+        type=float,
         help="time to trigger warning",
     )
     parser.add_argument(
         "--time_alarm",
-        default=10,
+        default=10.0,
+        type=float,
         help="time to trigger alarm",
     )
     args = parser.parse_args()
@@ -210,7 +212,7 @@ if __name__ == "__main__":
     query_executor = vqpy.init(
          custom_video_reader=redis_stream_video_reader,
         query_obj=People_loitering_query(),
-        verbose=True,
+        verbose=False,
         additional_frame_fields=["ref_id"],
         output_per_frame_results=True,
     )
