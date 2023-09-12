@@ -1,6 +1,5 @@
 import vqpy
 from typing import List, Tuple, Dict
-import numpy as np
 import ast
 
 from vqpy.frontend.vobj import VObjBase, vobj_property
@@ -13,7 +12,6 @@ from urllib.parse import urlparse
 from argparse import ArgumentParser
 from urllib.parse import urlparse
 import pickle
-import numpy as np
 import json
 from redis import Redis
 from Monitor import GPUCalculator, MMTMonitor, TSManager
@@ -56,15 +54,15 @@ class Person(VObjBase):
             return WARNING
         return NO_RISK
 
-    @vobj_property(inputs={"in_region_frames": 0, "fps": 0, "in_region": 0})
+    @vobj_property(inputs={"in_region_frames": 0, "fps": 0})
     def in_region_time(self, values):
         cur_in_region_frames = values["in_region_frames"]
         fps = values["fps"]
-        if not values["in_region"]:
+        if not cur_in_region_frames:
             return 0
         return round(cur_in_region_frames / fps, 2)
 
-    @vobj_property(inputs={"in_region": TOLERANCE, "in_region_frames": TOLERANCE})
+    @vobj_property(inputs={"in_region": 0, "in_region_frames": TOLERANCE})
     def in_region_frames(self, values):
         """
         Return the number of frames that the person is in region continuously.
@@ -74,20 +72,20 @@ class Person(VObjBase):
         If the person is untracked and tracked again within in TORLENCE frames,
           the time is accumulated. Otherwise, the in_region_frames is 0.
         """
-        in_region_values = values["in_region"]
+        in_region = values["in_region"]
         # Get the last valid in_region_frames. If person is lost and tracked
         # again, the in_region_frames for lost frames are None.
         last_valid_in_region_frames = 0
-        for value in reversed(values["in_region_frames"]):
+        hist_in_region_frames = reversed(values["in_region_frames"][:-1])
+        for value in hist_in_region_frames:
             if value is not None:
                 last_valid_in_region_frames = value
                 break
-        this_in_region = in_region_values[-1]
-        if this_in_region:
+        if in_region:
             return last_valid_in_region_frames + 1
         else:
             # The person is out of region for longer than TOLERANCE frames
-            if last_valid_in_region_frames == in_region_values[0]:
+            if last_valid_in_region_frames == values["in_region_frames"][0]:
                 return 0
             else:
                 return last_valid_in_region_frames
