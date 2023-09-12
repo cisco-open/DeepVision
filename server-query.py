@@ -34,6 +34,7 @@ from typing import Any, List
 from utils.DVDisplayChannel import DVDisplayChannel, DVMessage
 from pprint import pformat, pprint
 from utils.Utility import is_lt_eq_threshold
+from collections import defaultdict
 
 import ast
 
@@ -86,7 +87,7 @@ class VideoFrameStreamItem(StreamItem):
         else:
             return None, None
 
-class QueryEntry:
+class LoiteringQueryEntry:
     def __init__(self, entry):
         self.track_id = entry["track_id"]
         self.center = entry["center"]
@@ -101,12 +102,30 @@ class QueryEntry:
     def get(self):
         return self.in_region_time, self.loitering, self.x1, self.y1, self.x2, self.y2
 
+
+class QueueQueryEntry:
+    def __init__(self, entry):
+        self.track_id = entry["track_id"]
+        self.in_region_time = entry["in_region_time"]
+        self.object_bbox = entry["tlbr"]
+        self.x1 = self.object_bbox[0]
+        self.y1 = self.object_bbox[1]
+        self.x2 = self.object_bbox[2]
+        self.y2 = self.object_bbox[3]
+
+    def get(self):
+        return self.track_id, self.in_region_time, self.x1, self.y1, self.x2, self.y2
+
+
 class VideoQueryStreamItem(StreamItem):
     def get_query_data(self):
         if self.data is not None:
             query_results = json.loads(self.data[b'query'].decode('utf-8'))
             frame_id = query_results["frame_id"]
-            return [QueryEntry(person) for person in query_results["Person"]], frame_id
+            if args.application == "queue":
+                return [QueueQueryEntry(person) for person in query_results["Person"]], frame_id
+            elif args.application == "loitering":
+                return [LoiteringQueryEntry(person) for person in query_results["Person"]], frame_id
         else:
             return None, None 
 
@@ -139,6 +158,18 @@ class RedisImageStream(object):
         ret, img = cv2.imencode('.jpg', blank_image)
         return img.tobytes()
 
+    def random_color(self, object_id):
+        """Random a color according to the input seed."""
+        random.seed(object_id)
+        colors = sns.color_palette().as_hex()
+        color = random.choice(colors)
+        return color
+    
+    def get_color(self, object_id):
+        colors = sns.color_palette().as_hex()
+        color_index = object_id % len(colors)
+        return colors[color_index]
+
     def get_last(self):
         success = self.query_stream.get_next_stream_item()
         if success:
@@ -150,29 +181,70 @@ class RedisImageStream(object):
                 return self._blank_image()
             img = Image.fromarray(img_data)
             draw = ImageDraw.Draw(img)
-            draw.polygon(ast.literal_eval(args.polygon), outline='red', width=5)
+
+            if args.application == "queue":
+                draw.polygon(ast.literal_eval(args.polygon), outline='yellow', width=5)
+            elif args.application == "loitering":
+                draw.polygon(ast.literal_eval(args.polygon), outline='red', width=5)
 
             query_results, frame_id = self.query_stream.get_query_data()
+            aggregrated_query_results = defaultdict(list)
             if query_results is not None:
                 for query_entry in query_results:
-                    in_region_time, loitering, x1, y1, x2, y2 = query_entry.get()
-                    if loitering == WARNING:
-                        color = (0, 165, 255)
-                        loitering_message = "Warning: loitering"
-                    elif loitering == ALARM:
-                        color = (0, 0, 255)
-                        loitering_message = "Alarm! Loitering!"
-                    else:
-                        color = (0, 255, 0)
-                    draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=color)
-                    # draw in region time at the bottom of the bounding box with color of the bounding box
-                    fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 20)
-                    draw.text(xy=(x1, y2), text=f"Time in region: {in_region_time}s", fill=color, font=fnt)
+                    if args.application == "loitering":
+                        in_region_time, loitering, x1, y1, x2, y2 = query_entry.get()
+                        if loitering == WARNING:
+                            color = (0, 165, 255)
+                            loitering_message = "Warning: loitering"
+                        elif loitering == ALARM:
+                            color = (0, 0, 255)
+                            loitering_message = "Alarm! Loitering!"
+                        else:
+                            color = (0, 255, 0)
+                        draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=color)
+                        # draw in region time at the bottom of the bounding box with color of the bounding box
+                        fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 20)
+                        draw.text(xy=(x1, y2), text=f"Time in region: {in_region_time}s", fill=color, font=fnt)
 
-                    if loitering == WARNING or loitering == ALARM:
-                        # draw loitering message at the top of the bounding box with color of the bounding box
-                        fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 30)
-                        draw.text(xy=(x1, y1 - 30), text=loitering_message, fill=color, font=fnt)
+                        if loitering == WARNING or loitering == ALARM:
+                            # draw loitering message at the top of the bounding box with color of the bounding box
+                            fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 30)
+                            draw.text(xy=(x1, y1 - 30), text=loitering_message, fill=color, font=fnt)
+                    
+                    elif args.application == "queue":
+                        track_id, in_region_time, x1, y1, x2, y2 = query_entry.get()
+                        aggregrated_query_results["in_region_time"].append(in_region_time)
+                        color = self.get_color(track_id)
+                        draw.rectangle(((x1, y1), (x2, y2)), width=5, outline=color)
+                        # draw in region time at the top of the bounding box with color of the bounding box
+                        fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 20)
+                        text_position = (x1, y1 - 20)
+                        text = f"{in_region_time}s"
+                        text_bbox = draw.textbbox(text_position, text, font=fnt)
+                        draw.rectangle(text_bbox, fill=color)
+                        draw.text(xy=text_position, text=text, fill=(255, 255, 255), font=fnt)
+            
+            # draw aggregration results
+            if args.application == "queue":
+                in_region_times = aggregrated_query_results["in_region_time"]
+                num_in_region = len(in_region_times)
+                if num_in_region == 0:
+                    text = "No one in the queue"
+                else:
+                    # draw number of people, min/max/average in region time in the right corner of frame in seperate lines
+                    # with font color of red and text background of white and transparency of 50%
+                    text = f"Number of people: {num_in_region}\n"
+                    average_in_region_time = round(sum(in_region_times) / len(in_region_times), 2)
+                    text += f"Average waiting time: {average_in_region_time}s\n"
+                    min_in_region_time = round(min(in_region_times), 2)
+                    text += f"Min waiting time: {min_in_region_time}s\n"
+                    max_in_region_time = round(max(in_region_times), 2)
+                    text += f"Max waiting time: {max_in_region_time}s"
+                fnt = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 20)
+                text_position = (img.width - 320, 0)
+                text_bbox = draw.textbbox(text_position, text, font=fnt)
+                draw.rectangle(text_bbox, fill=(255, 255, 255, 128))
+                draw.text(xy=text_position, text=text, fill=(255, 0, 0), font=fnt)
 
             arr = np.array(img)
             ret, img = cv2.imencode('.jpg', arr)
@@ -223,6 +295,7 @@ if __name__ == '__main__':
     parser.add_argument('--videoThreshold', help='Video source stream timing threshold', type=int)
     parser.add_argument("--polygon", default="[(360, 367), (773, 267), (1143, 480), (951, 715), (399, 715)]",
                         help="polygon to define the region of interest", )
+    parser.add_argument("--application", choices=["loitering", "queue"], type=str, default="loitering")
     args = parser.parse_args()
 
     # Set up Redis connection
