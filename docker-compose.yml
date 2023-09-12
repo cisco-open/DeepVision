@@ -98,7 +98,7 @@ services:
       context: ./
       dockerfile: ./videoquery/Dockerfile
     container_name: "video_query"
-    command: bash -c 'source activate vqpy && python loitering.py --fps ${OUTPUT_FPS} --redis ${REDIS_URL} --time_warning ${TIME_WARNING} --time_alarm ${TIME_ALARM} --polygon "${AREA_OF_INTEREST}"'
+    entrypoint: ["/entrypoint.sh"]
     deploy:
       resources:
         reservations:
@@ -111,6 +111,8 @@ services:
         condition: service_healthy
     profiles:
       - query
+    env_file:
+      - videoquery/.env
     environment:
       - DEFAULT_CACHE_DIR=/cache/vqpy
       - PYTHONPATH=$PYTHONPATH:/shared_classes:/videoquery/vqpy
@@ -138,7 +140,7 @@ services:
     container_name: "producer_query_vision"
     ports:
       - "5002:5001"
-    command: bash -c 'python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} --maxlen ${MAX_LEN} ${INPUT_FILE} --webcam ${CAMERA} & python3 server-query.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD} --polygon "${AREA_OF_INTEREST}"'
+    command: bash -c 'python3 producer.py -u ${REDIS_URL} --inputFps ${INPUT_FPS} --outputFps ${OUTPUT_FPS} --maxlen ${MAX_LEN} ${INPUT_FILE} --webcam ${CAMERA} & python3 server-query.py -u ${REDIS_URL} --videoThreshold ${VIDEO_THRESHOLD} --application ${APPLICATION} --polygon "${AREA_OF_INTEREST}"'
     depends_on:
       redis:
         condition: service_healthy

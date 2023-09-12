@@ -40,3 +40,5 @@ RUN pip install 'vqpy @ git+https://github.com/vqpy/vqpy.git'
 RUN pip install redis
 COPY ./videoquery/ /videoquery
 WORKDIR /videoquery
+
+COPY ./videoquery/entrypoint.sh /entrypoint.sh
