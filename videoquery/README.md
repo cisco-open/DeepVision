@@ -8,7 +8,7 @@ For more information about the VQPy framework, please refer to the [VQPy GitHub 
 
 Using the constructs provided by VQPy, various video queries can be easily formulated. Here are some examples of queries made possible with the Deep Vision + VQPy integration:
 
-#### [Loitering detection](loitering.py)
+#### [Loitering detection](.loitering.py)
 
 **Description**: Detects and sends alerts when individuals loiter in designated areas beyond set time thresholds.
 
@@ -16,7 +16,7 @@ Using the constructs provided by VQPy, various video queries can be easily formu
 
 ![loitering-Visualization](./doc/loitering-demo-19s.gif)
 
-#### [Queue Analysis]()
+#### [Queue Analysis](.queue_analysis.py)
 
 **Description**: Analyze queue metrics such as the number of people waiting, average/min/max waiting times, etc.
 
@@ -52,7 +52,7 @@ Ensure you are in the root directory of the DeepVision project.
   ./run query down
   ```
 
->  **Tip**: You can easily switch between query applications or modify query configurations via the `videoquery/.env` file.
+  **Tip**: You can easily switch between query applications or modify query configurations via the `videoquery/.env` file.
 
 ## Visualization Dashboard
 
