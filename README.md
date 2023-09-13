@@ -43,6 +43,9 @@ DeepVision
 ### RecallM
 [RecallM](./recallm/) provides a system capable of natural language analytics by supplementing Large Language Models with an updatable, persistent memory mechanism. Click [here](./recallm/) for more details.
 
+### VQPy
+[VQPy](./videoquery/) VQPy is an object-oriented video analytics language that enables users to modularly express and compose video queries. Click [here](./videoquery/) for more details.
+
 ### Documentation
 
 Detailed documentation can be found [here](docs/index.md).
