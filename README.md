@@ -35,12 +35,16 @@ DeepVision
  ├── docs (documentation)
  ├── grafana (grafana provisioning and configuration)
  ├── recallm (system for temporal context understanding with NLP)
+ ├── videoquery (express query on video (supported with VQPy))
  ├── tracking (containing tacking module and submudules (MMtracking))
  └── tracklet (tracking utility data structures and classes)
 ```
 
 ### RecallM
 [RecallM](./recallm/) provides a system capable of natural language analytics by supplementing Large Language Models with an updatable, persistent memory mechanism. Click [here](./recallm/) for more details.
+
+### VQPy
+[VQPy](./videoquery/) VQPy is an object-oriented video analytics language that enables users to modularly express and compose video queries. Click [here](./videoquery/) for more details.
 
 ### Documentation
 
