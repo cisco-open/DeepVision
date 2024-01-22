@@ -1,0 +1,15 @@
+# The type of reasoner to be used by Ethosight
+# Valid options: "chatgpt", "langchain", "llamaindex", "narsgpt", "nars"
+# support "no reasoner defined"
+reasoner_type: "chatgpt"
+
+# The method that Ethosight will use to analyze images
+# Valid options: "analyzeImage_precompiled", "analyzeImage_method1", etc...
+analyzeImageMethod: "analyzeImage_precompiled"
+
+# The path to the embeddings file to be used by the precompiled image analysis method
+embeddings_path: "general.embeddings"
+
+# The type of output that will be produced by the Ethosight instance
+# Valid options: "affinityScores", "groundTruthClass"
+output_type: "affinityScores"

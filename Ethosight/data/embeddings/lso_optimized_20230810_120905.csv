@@ -1,0 +1,273 @@
+Event,Label
+normal event,normal_event
+Traffic Adherence,not_normal_event
+Fleeing Individuals,not_normal_event
+Peaceful Interaction,normal_event
+Prowling,not_normal_event
+shooting,not_normal_event
+Safe Handling,normal_event
+Unauthorised Access,not_normal_event
+Violent Gestures,not_normal_event
+Mysterious Intruder,not_normal_event
+legal transaction,normal_event
+Physical Assault,not_normal_event
+Handcuffs,not_normal_event
+Skid Marks,not_normal_event
+Chaos,not_normal_event
+Unusual Activities,not_normal_event
+assault,not_normal_event
+Aggressive body language,not_normal_event
+Regular shopping,normal_event
+Friendly Interaction,normal_event
+non-threatening posture,normal_event
+Quick_Transactions,not_normal_event
+Suspect,not_normal_event
+Peaceful Gathering,normal_event
+Burglary,not_normal_event
+Non-Threatening Movements,normal_event
+Physical Conflict,not_normal_event
+Constant surveillance,not_normal_event
+Non-ignited structure,not_normal_event
+Casual conversation,normal_event
+Trespassing,not_normal_event
+Overcrowding,not_normal_event
+Debris,not_normal_event
+Leaving without paying,not_normal_event
+General Public Activity,normal_event
+Alarmed Individuals,not_normal_event
+Retail theft,not_normal_event
+Safe Environment,normal_event
+Friendly Gestures,normal_event
+Non-threatening body language,normal_event
+leaving store legally,normal_event
+Fire,not_normal_event
+Threatening Gestures,not_normal_event
+Rioting,not_normal_event
+Free-of-damage scene,normal_event
+Fire Accelerant,not_normal_event
+Vandalism occurrence,not_normal_event
+shoplifting,not_normal_event
+Plantlife,normal_event
+Weapon Presence,not_normal_event
+regular nightly activities,normal_event
+Concealed Identity,not_normal_event
+Normal Traffic Flow,normal_event
+Rapid Movement,not_normal_event
+Emergency Services,not_normal_event
+Damaged Property,not_normal_event
+Regular pedestrian activity,normal_event
+Panic,not_normal_event
+peaceful activity,normal_event
+Child,normal_event
+Disrupted Order,not_normal_event
+Suspicious Objects,not_normal_event
+peaceful interaction with staff,normal_event
+Emergency Response,not_normal_event
+Assault action,not_normal_event
+Safe Crossing,normal_event
+Lawful gathering,normal_event
+Police_Presence,not_normal_event
+Scenic Views,normal_event
+Unusual_Body_Language,not_normal_event
+Theft activity,not_normal_event
+Law-abiding Citizens,normal_event
+Physical Altercations,not_normal_event
+Tampering with Property,not_normal_event
+Shoplifting,not_normal_event
+Friendly gesture,normal_event
+Possession of Dangerous Objects,not_normal_event
+Peaceful communication,normal_event
+Unusual Activity,not_normal_event
+Safe Driving,normal_event
+customer waiting in line,normal_event
+Drug Use,not_normal_event
+Parking Vehicle,normal_event
+entering payment details,normal_event
+Normal Commotion,normal_event
+Aggressive Body Language,not_normal_event
+Alert,not_normal_event
+Regular business operation,normal_event
+Orderly arrangement,normal_event
+Loitering,not_normal_event
+Casual Interaction,normal_event
+authorized access,normal_event
+abuse,not_normal_event
+Detainees,not_normal_event
+Public leisure activity,normal_event
+Stealing Action,not_normal_event
+Disarray or Chaos,not_normal_event
+Smoke,not_normal_event
+Theft,not_normal_event
+placid neighborhood interaction,normal_event
+Casual walking,normal_event
+daily sanitation routines,normal_event
+Person with Mask,not_normal_event
+Authorized entry,normal_event
+Non-Violent Scene,normal_event
+Abnormal Night Activity,not_normal_event
+Damage to Property,not_normal_event
+Warning Signs,not_normal_event
+normal pedestrian activity,normal_event
+Distress Signals,not_normal_event
+Fire extinguisher,not_normal_event
+innocent behavior,normal_event
+Physical Contact,not_normal_event
+Civil behavior,normal_event
+Person Injured,not_normal_event
+Vandalism Activity,not_normal_event
+explosion,not_normal_event
+High Risk Areas,not_normal_event
+Multiple visits same aisle,not_normal_event
+Suspicious Movement,not_normal_event
+Suspicious Behaviors,not_normal_event
+Normal interaction,normal_event
+Normal Walk Pattern,normal_event
+Property Damage,not_normal_event
+regular pedestrian,normal_event
+Absence of Weapons,normal_event
+Legal activity,normal_event
+arson,not_normal_event
+Stealth_Behavior,not_normal_event
+Aggression,not_normal_event
+Orderly conduct,normal_event
+Law Enforcement Equipment,not_normal_event
+Personal Communication,normal_event
+Cooperative engagement,normal_event
+Clear Roadway,normal_event
+bagging purchased items,normal_event
+Background harmony,normal_event
+Confrontational Stance,not_normal_event
+Crime Scene,not_normal_event
+Intimidation Actions,not_normal_event
+Looting incidents,not_normal_event
+No Collision,normal_event
+Law Enforcement Vehicles,not_normal_event
+Normal Walking,normal_event
+Firefighters,not_normal_event
+Vehicle with proper parking,normal_event
+Individual Distress,not_normal_event
+Legal operations,normal_event
+Tampering item's packaging,not_normal_event
+Lawful Activity,normal_event
+Public Transport Use,normal_event
+stealing,not_normal_event
+Blocked Roadway,not_normal_event
+Non-Aggressive Behavior,normal_event
+Shopping Activity,normal_event
+Water source,normal_event
+Unusual Night Activity,not_normal_event
+Night Activity,not_normal_event
+Unusual movement,not_normal_event
+Illegal activities,not_normal_event
+calm public gathering,normal_event
+Physical Altercation,not_normal_event
+Illegal Possession,not_normal_event
+Casual Attire,normal_event
+Playful activity,normal_event
+idle browsing,normal_event
+price checking,normal_event
+vandalism,not_normal_event
+Abrupt Actions,not_normal_event
+Suspicious Activity,not_normal_event
+Safe exchange,normal_event
+Sudden Movements,not_normal_event
+Unalarmed individuals,normal_event
+Use of Force,not_normal_event
+Casual Activities,normal_event
+Rapid Temperature Increase,not_normal_event
+Regular commerce activities,normal_event
+arrest,not_normal_event
+Segurity Uniforms,not_normal_event
+Illegal Dumping,not_normal_event
+Aggressive Behavior,not_normal_event
+Unrestricted Access,not_normal_event
+Peaceful behavior,normal_event
+Traffic Violation,not_normal_event
+Suspicious Behavior,not_normal_event
+Crowd Gathering,not_normal_event
+Peaceful Gatherings,normal_event
+Flames,not_normal_event
+Typical vehicle parking,normal_event
+Snow,normal_event
+Cash_Handover,not_normal_event
+Broken Windows,not_normal_event
+Forceful Entry,not_normal_event
+Calm interaction,normal_event
+Routine Behavior,normal_event
+Unattended Package,not_normal_event
+frequent postal deliveries,not_normal_event
+Harassment,not_normal_event
+friendly interaction,normal_event
+Normal traffic,normal_event
+Weapon,not_normal_event
+fighting,not_normal_event
+Safe environment,normal_event
+Vehicle Collision,not_normal_event
+No Crime Activity,normal_event
+Safe Behavior,normal_event
+Threatening_Behavior,not_normal_event
+Graffiti Presence,not_normal_event
+Flame,not_normal_event
+standard retail transactions,normal_event
+Traffic flow,normal_event
+product placement,normal_event
+Suspicious behavior,not_normal_event
+In-store concealment,not_normal_event
+Traffic Rule Adherence,normal_event
+Violence Indication,not_normal_event
+Gun Presence,not_normal_event
+Hidden Identity,not_normal_event
+Unusual gatherings,not_normal_event
+Absence of graffiti,normal_event
+Non-flammable object,normal_event
+Normal Road Traffic,normal_event
+Calm environment,normal_event
+Law Enforcement Interaction,not_normal_event
+Secure Environment,normal_event
+Police Presence,not_normal_event
+Recreational Activities,normal_event
+consumer purchase,normal_event
+Off-hour activities,not_normal_event
+Public Disturbance,not_normal_event
+Explosion,not_normal_event
+robbery,not_normal_event
+Ignition Source,not_normal_event
+Victim,not_normal_event
+Normal loitering,normal_event
+Vandalism,not_normal_event
+Normal shopping behavior,normal_event
+Unattended goods,not_normal_event
+Daylight,normal_event
+Broken Glass,not_normal_event
+Normal Interactions,normal_event
+routinely public transportation operations,normal_event
+Everyday Activities,normal_event
+Forced Entry,not_normal_event
+Positive Gathering,normal_event
+Abnormal Movement,not_normal_event
+Large Crowds,not_normal_event
+casual browsing,normal_event
+Non-violent actions,normal_event
+Food Consumption,normal_event
+Masks_or_Disguises,not_normal_event
+Unusual Gathering,not_normal_event
+product examination,normal_event
+burglary,not_normal_event
+Normal pedestrian movement,normal_event
+Customer service interaction,normal_event
+Public gathering,normal_event
+Proper Parking,normal_event
+Pedestrian Compliance,normal_event
+Unidentified Individuals,not_normal_event
+regular business operations,normal_event
+Disruptive Behavior,not_normal_event
+Weapon presence,not_normal_event
+Regular Manoeuvers,normal_event
+Peaceful gathering,normal_event
+road accidents,not_normal_event
+ordinary vehicular traffic,normal_event
+Rain,normal_event
+Damage,not_normal_event
+Arrest Action,not_normal_event
+purchasing activity,normal_event
+Lighted Locations,normal_event

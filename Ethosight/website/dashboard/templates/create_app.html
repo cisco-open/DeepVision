@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Create a New Ethosight Application</h1>
+
+<form method="post">
+    {% csrf_token %}
+    <label for="name">Application Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <label for="analytics">Analytics:</label>
+    <textarea id="analytics" name="analytics" rows="4" required></textarea><br><br>
+
+    <label for="config">Configuration:</label>
+    <select id="config" name="config">
+        {% for config in configs %}
+            <option value="{{ config.title }}">{{ config.title }}</option>
+        {% endfor %}
+    </select><br><br>
+
+    <input type="submit" value="Create Application">
+</form>
+
+<a href="{% url 'dashboard' %}">Back to Dashboard</a>
+{% endblock %}
+

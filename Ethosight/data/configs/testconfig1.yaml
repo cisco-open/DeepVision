@@ -1,0 +1,132 @@
+analyzeImageMethod: analyzeImage_precompiled
+benchmark:
+  batch_mode: true
+  batchsize: 256
+  bootstrapMode: true
+  enabled: true
+  extracted_video_dir: ../extracted_videos
+  ground_truth_labels_path: ../datasets/ucf-crime/ucf-crime.txt
+  ground_truth_path: /home/hmlatapie/devactive/home/Ethosight/images/robbery/image-labels.csv
+  image_dir: /home/hmlatapie/devactive/home/Ethosight/images/robbery
+  normallabel: normal event
+  save_affinities: true
+  skip_pre_optimization: true
+  top_n: 5
+  verbose: false
+embeddings_path: lso_optimized_20230810_120905.embeddings
+general_templates:
+  enabled: false
+  template_path: ../templates/general_templates.txt
+label_space_optimization:
+  enabled: true
+  method: semantic_similarity
+  parameters:
+    max_labels: 10
+    threshold: 0.8
+  rerun: false
+labels_path: lso_optimized_20230810_120905.labels
+mapper:
+  affinity_minthreshold:
+    enabled: false
+    normallabel: normal event
+    threshold: 26
+  enabled: true
+  hardmapfile: ../datasets/ucf-crime/ucf-crime-hardmap.txt
+  mode: hardmap01
+  prompt: "Please analyze the following aggregated and ranked affinity scores from\
+    \ video footage  and return 'normal event' or one of the following labels: 'abuse',\
+    \ 'arrest', 'arson', 'assault', 'burglary', 'explosion', 'fighting', 'road accidents',\
+    \ 'robbery', 'shooting',  'shoplifting', 'stealing', 'vandalism' that best characterizes\
+    \ the most important event in the scene.  please return only 'normal event' or\
+    \  one of these listed labels as the label with no  extra text or  delimiters\
+    \ of any kind. if unsure, return the nearest applicable label erring on the side\
+    \ of potential health, safety, and security labels from our list  ('abuse', 'arrest',\
+    \ 'arson', 'assault', 'burglary', 'explosion', 'fighting', 'road accidents', 'robbery',\
+    \ 'shooting',  'shoplifting', 'stealing', 'vandalism', 'normal event'). here are\
+    \ the affinity scores <<{affinityScores}>>. Just do your best. No extraneous characters.\
+    \  \n"
+  prompt2: 'Return a label we will use to help analyze an image.  The context is to
+    identify crime behavior versus normal behavior.  The camera angles may be overhead
+    or normal more horizontal security camera angles.  Please analyze the following
+    input label and return ''normal event'' or ''crime event''  <<{label}>> please
+    return only ''normal event'' or ''crime event'' as the label with no  extra text
+    or delimiters of any kind.
+
+    '
+  prompt_1: 'Please analyze this input label <<{label}>> and return ''normal event''
+    or one of the following potential labels: ''abuse'', ''arrest'', ''arson'', ''assault'',
+    ''burglary'', ''explosion'', ''fighting'', ''road accidents'', ''robbery'', ''shooting'',  ''shoplifting'',
+    ''stealing'', ''vandalism''. please return only ''normal event'' or  one of these
+    crime event labels as the label with no  extra text or  delimiters of any kind.
+    if unsure, return the nearest applicable label erring on the side of potential
+    health, safety, and security labels.
+
+    '
+  prompt_20230813_2152: 'Please analyze this input label <<{label}>> and return ''normal
+    event'' or one of the following potential labels: ''abuse'', ''arrest'', ''arson'',
+    ''assault'', ''burglary'', ''explosion'', ''fighting'', ''road accidents'', ''robbery'',
+    ''shooting'',  ''shoplifting'', ''stealing'', ''vandalism''. please return only
+    ''normal event'' or  one of these crime event labels as the label with no  extra
+    text or  delimiters of any kind. if unsure, return the nearest applicable label.
+
+    '
+  prompt_20230813_225106: 'Please analyze this input label <<{label}>> and return
+    ''normal event'' or one of the following potential labels: ''abuse'', ''arrest'',
+    ''arson'', ''assault'', ''burglary'', ''explosion'', ''fighting'', ''road accidents'',
+    ''robbery'', ''shooting'',  ''shoplifting'', ''stealing'', ''vandalism''. please
+    return only ''normal event'' or  one of these listed labels as the label with
+    no  extra text or  delimiters of any kind. if unsure, return the nearest applicable
+    label erring on the side of potential health, safety, and security labels from
+    our list. here are some affinity scores you may take into consideration when selecting
+    the best label from our list: <<{affinityScores}>>. Just do your best. No extraneous
+    characters. one of the labels from our list or ''normal event'' only. thank you.
+
+    '
+  prompt_20230813_231755: "Please analyze the following affinity scores and return\
+    \ 'normal event' or one of the following labels: 'abuse', 'arrest', 'arson', 'assault',\
+    \ 'burglary', 'explosion', 'fighting', 'road accidents', 'robbery', 'shooting',\
+    \  'shoplifting', 'stealing', 'vandalism' that best characterizes the scene. \
+    \ please return only 'normal event' or  one of these listed labels as the label\
+    \ with no  extra text or  delimiters of any kind. if unsure, return the nearest\
+    \ applicable label erring on the side of potential health, safety, and security\
+    \ labels from our list  ('abuse', 'arrest', 'arson', 'assault', 'burglary', 'explosion',\
+    \ 'fighting', 'road accidents', 'robbery', 'shooting',  'shoplifting', 'stealing',\
+    \ 'vandalism', 'normal event'). here are the affinity scores <<{affinityScores}>>.\
+    \ Just do your best. No extraneous characters.  \n"
+  prompt_20230813_233003: "Please analyze the following aggregated and ranked affinity\
+    \ scores from video footage  and return 'normal event' or one of the following\
+    \ labels: 'abuse', 'arrest', 'arson', 'assault', 'burglary', 'explosion', 'fighting',\
+    \ 'road accidents', 'robbery', 'shooting',  'shoplifting', 'stealing', 'vandalism'\
+    \ that best characterizes the most important event in the scene.  please return\
+    \ only 'normal event' or  one of these listed labels as the label with no  extra\
+    \ text or  delimiters of any kind. if unsure, return the nearest applicable label\
+    \ erring on the side of potential health, safety, and security labels from our\
+    \ list  ('abuse', 'arrest', 'arson', 'assault', 'burglary', 'explosion', 'fighting',\
+    \ 'road accidents', 'robbery', 'shooting',  'shoplifting', 'stealing', 'vandalism',\
+    \ 'normal event'). here are the affinity scores <<{affinityScores}>>. Just do\
+    \ your best. No extraneous characters.  \n"
+  prompt_20230814_000118: "Please analyze the following aggregated and ranked affinity\
+    \ scores from  security camera video footage and return 'normal event' or one\
+    \ of the following labels: 'abuse', 'arrest', 'arson', 'assault', 'burglary',\
+    \ 'explosion', 'fighting', 'road accidents', 'robbery', 'shooting',  'shoplifting',\
+    \ 'stealing', 'vandalism' that best characterizes the most important event in\
+    \ the scene.  please return only 'normal event' or  one of these listed labels\
+    \ as the label with no  extra text or  delimiters of any kind. if unsure, return\
+    \ the nearest applicable label erring on the side of potential health, safety,\
+    \ and security labels from our list  ('abuse', 'arrest', 'arson', 'assault', 'burglary',\
+    \ 'explosion', 'fighting', 'road accidents', 'robbery', 'shooting',  'shoplifting',\
+    \ 'stealing', 'vandalism', 'normal event'). here are the affinity scores <<{affinityScores}>>.\
+    \ Just do your best. No extraneous characters.  \n"
+  threshold: 26
+  verbose: true
+output_type: affinityScores
+phase2:
+  maxiterations: 200
+reasoner_type: chatgpt
+video:
+  label_mapping: periods_count
+  normal_label_name: normal event
+  skip_frames: 0
+visualization:
+  show_distinct: true
+  top_n_affinity: 100

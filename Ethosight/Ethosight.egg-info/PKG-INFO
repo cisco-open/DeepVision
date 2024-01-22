@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Ethosight
+Version: 0.1.0
+Summary: A package for media analysis with Ethosight
+Author: Hugo Latapie
+Author-email: hlatapie@cisco.com
+Keywords: media analysis,ethosight
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers

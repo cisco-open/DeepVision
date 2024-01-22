@@ -1,0 +1,5 @@
+export EthosightBackend=core
+export EthosightBackendURL=http://localhost:8000
+export ETHOSIGHT_APP_BASEDIR=/home/hmlatapie/devactive/home/Ethosight/website/EthosightAppBasedir
+export EthosightYAMLDirectory=/home/hmlatapie/devactive/home/Ethosight/configs
+

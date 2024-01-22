@@ -1,0 +1,5 @@
+[console_scripts]
+EthosightAppCLI = Ethosight.EthosightAppCLI:cli
+EthosightCLI = Ethosight.EthosightCLI:cli
+EthosightDatasetCLI = Ethosight.EthosightDatasetCLI:cli
+EthosightMediaAnalyzerCLI = Ethosight.EthosightMediaAnalyzerCLI:cli

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethosight</title>
+    <!-- You can include other meta tags, CSS files, or JavaScript files here -->
+</head>
+<body>
+    <header>
+        <h1>Ethosight Platform</h1>
+        <!-- You can include navigation or other header elements here -->
+    </header>
+    <main>
+        {% block content %}
+        <!-- Content from child templates will be inserted here -->
+        {% endblock %}
+    </main>
+    <footer>
+        <p>&copy; 2023 Ethosight. All rights reserved.</p>
+    </footer>
+
+{% block javascript %}{% endblock %}
+</body>
+</html>
+

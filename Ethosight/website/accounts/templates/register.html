@@ -1,0 +1,29 @@
+<form method="post"> 
+    {% csrf_token %} 
+    
+    <label>Full Name:</label> 
+    <input type="text" name="full_name" required> 
+
+    <label>Email:</label> 
+    <input type="email" name="email" required> 
+
+    <label>Username:</label> 
+    <input type="text" name="username" required> 
+
+    <label>Password:</label> 
+    <input type="password" name="password" required> 
+
+    <label>Access Code:</label> 
+    <input type="text" name="access_code"> 
+
+    <input type="submit" value="Register"> 
+
+    <!-- Button to Request Access Code -->
+    <input type="submit" name="request_code" value="Request Access Code">
+
+
+</form> 
+
+{% if error %} 
+<p>{{ error }}</p> 
+{% endif %}

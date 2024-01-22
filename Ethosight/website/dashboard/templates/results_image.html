@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Analysis Results</h1>
+
+<h2>Selected Model: {{ selected_app_name }}</h2>
+
+{% if image_url %}
+    <img src="{{ image_url }}" alt="Analyzed Image" width="600">
+{% endif %}
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Affinity Score</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for label, score in results %}
+        <tr>
+            <td>{{ label }}</td>
+            <td>{{ score }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<h3>Add New Labels</h3>
+<form method="post" action="{% url 'add_labels' %}">
+    {% csrf_token %}
+    <textarea name="new_labels" rows="5" cols="50" placeholder="Enter labels separated by commas"></textarea>
+    <br>
+    <input type="hidden" name="image_url" value="{{ image_url }}">
+    <input type="hidden" name="selected_app_name" value="{{ selected_app_name }}">
+    <input type="submit" value="Add Labels">
+</form>
+
+<a href="{% url 'model_interaction' %}">Back to Model Interaction</a>
+
+{% endblock %}

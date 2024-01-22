@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Welcome, {{ request.user.username }}!</h1>
+
+<h2>Your Ethosight Applications</h2>
+{% if user_apps %}
+    <ul>
+    {% for app in user_apps %}
+    <li data-id="{{ app.id }}">
+        <strong>{{ app.name }}</strong><br>
+        Analytics: {{ app.analytics }}<br>
+        Images Processed: {{ app.images_processed }}<br>
+        Videos Analyzed: {{ app.videos_analyzed }}<br>
+        <!-- Add delete link here -->
+        <button class="delete-btn">Delete</button>
+    </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>You have no Ethosight applications yet. <a href="{% url 'create_app' %}">Create one now!</a></p>
+{% endif %}
+
+<h2>Recent Uploaded Media</h2>
+<!-- You can also display recent uploaded media, datasets, or any other pertinent user-specific data here -->
+
+<h2>Quick Actions</h2>
+<ul>
+    <li><a href="{% url 'create_app' %}">Create a new Ethosight Application</a></li>
+    <li><a href="{% url 'model_interaction' %}">Interact with Models</a></li>
+</ul>
+{% endblock %}
+
+{% block javascript %}
+<script>
+        // Define the getCookie function
+    function getCookie(name) {
+        let value = "; " + document.cookie;
+        let parts = value.split("; " + name + "=");
+        if (parts.length === 2) return parts.pop().split(";").shift();
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        const deleteButtons = document.querySelectorAll(".delete-btn");
+    
+        deleteButtons.forEach(button => {
+            button.addEventListener("click", function() {
+                const appId = this.closest("li").getAttribute("data-id");
+                
+                // Confirm deletion with the user
+                if (!confirm("Are you sure you want to delete this app?")) {
+                    return;
+                }
+                
+                // Send AJAX request to delete the app
+                fetch(`delete_app/${appId}/`, {
+                    method: "POST",
+                    headers: {
+                        "X-CSRFToken": getCookie("csrftoken"),
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === "success") {
+                        // Remove the app from the list without refreshing
+                        this.closest("li").remove();
+                        alert(data.message);
+                    } else {
+                        alert(`Error: ${data.message}`);
+                    }
+                })
+                .catch(error => {
+                    alert(`An error occurred: ${error}`);
+                });
+            });
+        });
+    });
+</script>
+{% endblock %}

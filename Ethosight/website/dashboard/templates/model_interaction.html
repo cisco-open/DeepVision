@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Interact with Models</h1>
+
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="image">Upload Image:</label>
+    <input type="file" id="image" name="image"><br><br>
+
+    <label for="video">Upload Video:</label>
+    <input type="file" id="video" name="video"><br><br>
+
+    <label for="dataset">Upload Dataset:</label>
+    <input type="file" id="dataset" name="dataset"><br><br>
+
+    <label for="cycles">Specify Cumulative Learning Cycles:</label>
+    <input type="number" id="cycles" name="cycles"><br><br>
+
+    <label for="ethosightApp">Select EthosightApp:</label>
+    <select id="ethosightApp" name="ethosightApp">
+        {% for app_name in ethosight_apps %}
+            <option value="{{ app_name }}">{{ app_name }}</option>
+        {% endfor %}
+    </select>
+    <br><br>
+
+    <input type="submit" value="Analyze">
+</form>
+
+<img id="imagePreview" src="#" alt="Image Preview" width="300" style="display: none;">
+
+{% if image_url %}
+    <img src="{{ image_url }}" alt="Uploaded Image" width="300">
+{% endif %}
+
+<a href="{% url 'dashboard' %}">Back to Dashboard</a>
+
+<script>
+    document.getElementById("image").addEventListener("change", function (event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const preview = document.getElementById("imagePreview");
+                preview.src = e.target.result;
+                preview.style.display = "block";
+            };
+            reader.readAsDataURL(file);
+        }
+    });
+</script>
+
+{% endblock %}
