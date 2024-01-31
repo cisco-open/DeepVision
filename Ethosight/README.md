@@ -8,18 +8,21 @@
 
 > **Note:** The conda environment is currently named `imagebind`. This will be changed to `ethosight` in a future update.
 
-1. If you're setting up for the first time, create the environment using the provided `environment.yml` file:
+1. If you're setting up for the first time, create the environment using the provided `environment.yml` file in `/install` subfolder:
 
     ```bash
-    conda env create -f environment.yml
+    conda env create -f install/environment.yml
     ```
 
 2. If you're updating an existing environment, use the following command instead:
 
     ```bash
-    conda env update --name imagebind --file environment.yml
+    conda env update --name imagebind --file install/environment.yml
     ```
-
+3. Then activate the conda environmet:  
+   ```
+   conda activate imagebind
+   ```
 ### Installing Ethosight
 
 After setting up the environment, you can install Ethosight using pip:
@@ -30,7 +33,7 @@ pip install -e .
 
 ## Running the System
 
-Before running the system, ensure that the Consul server is running. You can start the Consul server with the following command:
+Before running the system, ensure that you have installed [Consul](https://developer.hashicorp.com/consul/install) and [consul-template](https://github.com/hashicorp/consul-template?tab=readme-ov-file#installation), and ensure that the Consul server is running. You can start the Consul server with the following command:
 ```bash
 consul agent -dev
 ```
@@ -44,7 +47,7 @@ Next, ensure that the 'ethosight-nginx' Docker container is running. This contai
 Here's how to run the `run_nginx.sh` script:
 
 ```bash
-./run_nginx.sh
+./bin/run_nginx.sh
 ```
 
 After the 'ethosight-nginx' Docker container is running, you can execute the `run_consultemplate.sh` script. This script uses consul-template to dynamically update the Nginx configuration file based on the `nginx.template`. After the configuration file is updated, the script triggers a reload of the Nginx configuration inside the 'ethosight-nginx' Docker container.
@@ -52,7 +55,7 @@ After the 'ethosight-nginx' Docker container is running, you can execute the `ru
 You can run this script with the following command:
 
 ```bash
-./run_consultemplate.sh
+./bin/run_consultemplate.sh
 ```
 
 ## Running Ethosight GPU Servers
@@ -62,7 +65,7 @@ To run Ethosight GPU Servers, you can use the `runserver.sh` script with the `ru
 Here's how to run the `runserver.sh` script:
 
 ```bash
-./runserver.sh runserver
+./bin/runserver.sh runserver
 ```
 
 ## Utilizing Multiple GPU Servers
@@ -80,14 +83,14 @@ Before starting the Django server, ensure that the PostgreSQL server is running.
 Here's how to run the `runpostgress.sh` script:
 
 ```bash
-./runpostgress.sh
+./website/runpostgress.sh
 ``````
 
-Once the PostgreSQL server is running, you can start the Django server. Make sure you're in the directory where `manage.py` is located, then run the following command:
+Once the PostgreSQL server is running, you can start the Django web app inside /website folder. Run the following command:
 
 ```bash
-python manage.py runserver 8080
+./website/runwebapp.sh
 ```
 
-This command starts the Django development server. By default, the server runs on `localhost` on port `8000`. You can view your application by navigating to `http://localhost:8080` in your web browser.
+This command starts the Django development server. By default, the server runs on `localhost` on port `8000`. You can view your application by navigating to `http://localhost:8000` in your web browser.
 

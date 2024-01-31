@@ -44,8 +44,8 @@ class ComputeAffinityScoresBatchedInput(BaseModel):
     batch_size: int = 32   
 
 class EthosightRESTServer: 
-    def __init__(self, mode="blocking", host="0.0.0.0", port=8000, consul_url="localhost", consul_port=8500, gpu=0):
-        self.core = EthosightCore(gpu=gpu)
+    def __init__(self, mode="blocking", host="0.0.0.0", port=8000, consul_url="localhost", consul_port=8500, gpu=0, reasoner=""):
+        self.core = EthosightCore(reasoner=reasoner, gpu=gpu)
         self.app = FastAPI()
         self.lock = threading.Lock()
         self.mode = mode
