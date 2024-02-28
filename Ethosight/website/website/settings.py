@@ -151,10 +151,10 @@ STATICFILES_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'email-smtp.us-east-1.amazonaws.com'
-EMAIL_PORT = 587  # Typically 587 for TLS or 465 for SSL
-EMAIL_USE_TLS = True  # Or EMAIL_USE_SSL = True if using SSL
-EMAIL_USE_SSL = False
-EMAIL_HOST_USER = 'AKIA2XIYHNOLG45YDV5G'
-EMAIL_HOST_PASSWORD = 'BHpYbWBYlRKF02ynIoh60ovZ9OJLsn7Ybx8j4MHYX+gw'
+EMAIL_HOST = os.environ.get('EMAIL_HOST', 'email-smtp.us-east-1.amazonaws.com')
+EMAIL_PORT = int(os.environ.get('EMAIL_PORT', 587))  # Convert to int, as os.environ.get returns a string
+EMAIL_USE_TLS = os.environ.get('EMAIL_USE_TLS', 'True') == 'True'  # Convert string to boolean
+EMAIL_USE_SSL = os.environ.get('EMAIL_USE_SSL', 'False') == 'True'  # Convert string to boolean
+EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER', '')
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD', '')
 

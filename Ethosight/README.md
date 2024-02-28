@@ -60,9 +60,8 @@ You can run this script with the following command:
 
 ## Running Ethosight GPU Servers
 
-You can run Ethosight system as client server system or as core system that scales on multiple GPU servers
-Before running you should set up environment variables in `bin/env_variables_setup.sh`
-Then pls run.
+Before running you can modify and set up environment variables in `bin/env_variables_setup.sh` to be appropriate for your system.
+Then source them to your session.
 
 `source ./bin/env_variables_setup.sh`
 
