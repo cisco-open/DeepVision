@@ -33,7 +33,7 @@ class EthosightApp:
             if not base_dir:
                 raise EthosightAppException("ETHOSIGHT_APP_BASEDIR environment variable is not defined.")
         if not os.path.isdir(base_dir):
-            raise EthosightAppException(f"Base directory {base_dir} is not a valid directory.")
+            raise EthosightAppException(f"Base directory {base_dir} is not a valid directory. Please define a valid directory using ETHOSIGHT_APP_BASEDIR environment variable")
         
         # Ensure the app_dir is an absolute path 
         self.app_dir = os.path.join(base_dir, app_name)
@@ -50,8 +50,9 @@ class EthosightApp:
         self.embeddings_path = self.config.get('embeddings_path')
         self.labels_path = self.config.get('labels_path')
         self.setActiveEmbeddingsFromFile(self.embeddings_path, self.labels_path)
-        self.groundTruthEmbeddings(makeActive=False)
-        self.reasoner = ChatGPTReasoner()
+        if self.config['benchmark']['enabled']:
+            self.groundTruthEmbeddings(makeActive=False)
+        self.reasoner = self.config['reasoner_type']
 
     def load_config(self, config_file):
         # Assuming the load_config function reads the YAML config file 

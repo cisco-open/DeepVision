@@ -65,6 +65,7 @@ class EthosightMediaAnalyzer:
         'chatgpt': ChatGPTReasoner,
         'langchain': LangchainReasoner,
         'llamaindex': LlamaIndexReasoner,
+        '': ''
 #        'narsgpt': NARSGPTReasoner,
 #        'nars': NARSReasoner,
     }
@@ -116,6 +117,8 @@ class EthosightMediaAnalyzer:
         ReasonerClass = self.REASONER_CLASSES.get(reasoner_type)
         if ReasonerClass is None:
             raise ValueError(f"Invalid reasoner type: {reasoner_type}")
+        if ReasonerClass == '':
+            return ''
         return ReasonerClass()  # assuming reasoner classes have no-arg constructor
 
 

@@ -15,9 +15,8 @@ import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-ETHOSIGHT_APP_BASE_DIR = os.environ.get('DjangoEthosightAppBaseDir', '/home/hmlatapie/devactive/home/Ethosight/website/EthosightAppBasedir') 
-CONFIG_YAML_DIRECTORY = os.environ.get('EthosightYAMLDirectory', 
-    '/home/hmlatapie/devactive/home/Ethosight/configs')
+ETHOSIGHT_APP_BASE_DIR = os.environ.get('DjangoEthosightAppBaseDir', '')
+CONFIG_YAML_DIRECTORY = os.environ.get('EthosightYAMLDirectory', '')
  
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 MEDIA_URL = '/media/'

@@ -1,6 +1,8 @@
-import requests 
-import os 
+import requests
+import os
 from Ethosight.EthosightCore import EthosightCore
+from Ethosight.EthosightRESTServer import EthosightRESTServer
+from fastapi.testclient import TestClient
 import logging
 import base64
 import numpy as np
@@ -16,42 +18,44 @@ def tensor_to_base64(tensor):
     # Encode the byte array to base64 string
     return base64.b64encode(numpy_bytes).decode('utf-8')
 
-class EthosightRESTClient(EthosightCore): 
 
-    def __init__(self, url, model=None, reasoner=None): 
-        model="EthosightRESTClientHasNoModel"
-        super().__init__(model, reasoner) 
-        self.url = url 
+class RESTClientHelper(EthosightCore):
+
+    def __init__(self, model=None, reasoner=''):
+        model = "EthosightRESTClientHasNoModel"
+        super().__init__(model, reasoner)
+        self.url = ''
+        server = EthosightRESTServer(mode='blocking', host='127.0.0.1', port=8000, consul_url='localhost', consul_port=8500,
+                                     gpu=0, reasoner='')
+        self.client = TestClient(server.app)
         logging.basicConfig(level=logging.DEBUG)
 
     def compute_label_embeddings(self, labels, batch_size=1200):
-        payload = { 
-            "labels": labels, 
-            "batch_size": batch_size 
+        payload = {
+            "labels": labels,
+            "batch_size": batch_size
         }
-        
-        logging.debug(f"Sending request to {self.url}/compute_label_embeddings with payload: {payload}")
-        
-        response = requests.post(f"{self.url}/compute_label_embeddings", json=payload)
-        
+
+        logging.debug(f"Sending request to /compute_label_embeddings with payload: {payload}")
+
+        response = self.client.post("/compute_label_embeddings", json=payload)
+
         # Log the response status code and content
         logging.debug(f"Received response with status code: {response.status_code}")
-        #logging.debug(f"Response content: {response.text}")
-        
-        response.raise_for_status()
-        
+
         serialized_embeddings = json.loads(response.json()["embeddings"])  # Deserialize the JSON string into a dictionary
+
         deserialized_embeddings = self._deserialize_embeddings(serialized_embeddings)
-        
-        return deserialized_embeddings
-    
+
+        return response.status_code, deserialized_embeddings
+
     def _deserialize_embeddings(self, serialized_embeddings):
         # Convert the serialized embeddings back to tensors
         deserialized_embeddings = {}
         for label, base64_str in serialized_embeddings.items():
             deserialized_embeddings[label] = self._base64_to_tensor(base64_str)
         return deserialized_embeddings
-    
+
     def _base64_to_tensor(self, base64_str):
         # Decode the base64 string to a numpy byte array
         np_bytes = base64.b64decode(base64_str)
@@ -61,6 +65,27 @@ class EthosightRESTClient(EthosightCore):
         tensor = torch.from_numpy(np_array)
         return tensor
 
+    def compute_affinity_scores_orig(self, label_to_embeddings, image_path, normalize_fn='linear', scale=1, verbose=True, batch_size=32):
+        # Serialize the label_to_embeddings dictionary
+        serializable_embeddings = {label: tensor_to_base64(embedding) for label, embedding in label_to_embeddings.items()}
+
+        # Construct the data_content dictionary
+        data_content = {
+            "label_to_embeddings": json.dumps(serializable_embeddings),
+            "normalize_fn": normalize_fn,
+            "scale": scale,
+            "verbose": verbose,
+            "batch_size": batch_size
+        }
+
+        # Attach the image as a file
+        files = {"image_path": (os.path.basename(image_path), open(image_path, 'rb'))}
+
+        # Send the POST request with data_content directly as the data parameter
+        response = self.client.post("/compute_affinity_scores", data=data_content, files=files)
+
+        # Check for 422 response and print the server's error message
+        return response
 
     def compute_affinity_scores(self, label_to_embeddings, image_path, normalize_fn='linear', scale=1, verbose=True):
         # Serialize the label_to_embeddings dictionary as before
@@ -69,8 +94,8 @@ class EthosightRESTClient(EthosightCore):
         # Construct the data_content dictionary
         serialized_data = json.dumps({
             "label_to_embeddings": serializable_embeddings,
-            "normalize_fn": normalize_fn, 
-            "scale": scale, 
+            "normalize_fn": normalize_fn,
+            "scale": scale,
             "verbose": verbose,
         })
 
@@ -81,15 +106,16 @@ class EthosightRESTClient(EthosightCore):
         }
 
         # Send the POST request
-        response = requests.post(f"{self.url}/compute_affinity_scores", files=files)
-        
+        # response = requests.post(f"{self.url}/compute_affinity_scores", files=files)
+        response = self.client.post("/compute_affinity_scores", files=files)
+
         # Check for 422 response and print the server's error message
         if response.status_code == 422:
             print("Server validation error:", response.text)
             return None
-        
-        response.raise_for_status() 
-        
+
+        response.raise_for_status()
+
         # Parse the response to get the results in the desired format
         result = response.json()
         result_dict = {
@@ -104,18 +130,19 @@ class EthosightRESTClient(EthosightCore):
                 print(f"{label}: {score}")
             print("\n")
 
-        return result_dict
+        return response.status_code, result_dict
 
-    def compute_affinity_scores_batched(self, label_to_embeddings, image_paths, normalize_fn='linear', scale=1, verbose=True, batch_size=32): 
+
+    def compute_affinity_scores_batched(self, label_to_embeddings, image_paths, normalize_fn='linear', scale=1, verbose=True, batch_size=32):
         # Serialize the label_to_embeddings dictionary as before
         serializable_embeddings = {label: tensor_to_base64(embedding) for label, embedding in label_to_embeddings.items()}
         # Serialize the data into a JSON string
-        payload = json.dumps({ 
-            "label_to_embeddings": serializable_embeddings, 
-            "normalize_fn": normalize_fn, 
-            "scale": scale, 
-            "verbose": verbose, 
-            "batch_size": batch_size 
+        payload = json.dumps({
+            "label_to_embeddings": serializable_embeddings,
+            "normalize_fn": normalize_fn,
+            "scale": scale,
+            "verbose": verbose,
+            "batch_size": batch_size
         })
 
         # Create a list of files to send (including the serialized data and the images)
@@ -124,8 +151,9 @@ class EthosightRESTClient(EthosightCore):
             *[(f"image_paths", (os.path.basename(path), open(path, 'rb'))) for path in image_paths]
         ]
 
-        response = requests.post(f"{self.url}/compute_affinity_scores_batched", files=files) 
-        response.raise_for_status() 
+        #response = requests.post(f"{self.url}/compute_affinity_scores_batched", files=files)
+        response = self.client.post("/compute_affinity_scores_batched", files=files)
+        response.raise_for_status()
 
         # Don't forget to close the files after the request
         for _, (_, file) in files[1:]:
@@ -141,4 +169,4 @@ class EthosightRESTClient(EthosightCore):
             }
             processed_results.append(processed_entry)
 
-        return processed_results
+        return response.status_code, processed_results

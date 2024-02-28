@@ -14,7 +14,7 @@ import json
 import torch.nn.functional as F
 
 class EthosightCore:
-    def __init__(self, model=None, reasoner=None, gpu=0):
+    def __init__(self, model=None, reasoner='', gpu=0):
         #gpu=none means use cpu
         self.ethosight_dir = get_install_path('Ethosight')
         if model is None:
