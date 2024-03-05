@@ -97,5 +97,19 @@ Once the PostgreSQL server is running, you can start the Django web app inside /
 ./website/runwebapp.sh
 ```
 
-This command starts the Django development server. By default, the server runs on `localhost` on port `8000`. You can view your application by navigating to `http://localhost:8000` in your web browser.
+If no need to create a super user and migrations are done, you can simply run the application  
+
+```bash
+python website/manage.py runserver 8080
+```
+You can view your application by navigating to `http://localhost:8080` in your web browser.  
+You can create your own ethosight configuration by accessing `http://localhost:8080/admin`.
+You can find an example in `./configs` folder.  
+
+## Registering new users.
+For registering new users, you have to provide mail sending environment variables in `bin/env_variables_setup.sh` 
+and request an access code in the registration form. The admin users should approve pending users from the admin panel.  
+If there's no capability to handle mail sending, you can generate
+access codes manually using `genaccesscodes.py`, and use that access code in the form without requesting.
+
 

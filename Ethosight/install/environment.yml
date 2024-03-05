@@ -110,7 +110,7 @@ dependencies:
       - ftfy==6.1.1
       - fvcore==0.1.5.post20221221
       - gevent==23.9.0.post1
-      - geventhttpclient==2.0.2
+      - geventhttpclient==2.0.11
       - google-api-core==2.11.1
       - google-api-python-client==2.93.0
       - google-auth==2.22.0
@@ -159,6 +159,7 @@ dependencies:
         #      - langsmith==0.0.15
       - llama-index==0.7.13
       - lxml==4.9.3
+      - locust==2.24.0
       - markupsafe==2.1.2
       - marshmallow==3.20.1
       - matplotlib-inline==0.1.6

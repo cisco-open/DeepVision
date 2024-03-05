@@ -65,27 +65,6 @@ class RESTClientHelper(EthosightCore):
         tensor = torch.from_numpy(np_array)
         return tensor
 
-    def compute_affinity_scores_orig(self, label_to_embeddings, image_path, normalize_fn='linear', scale=1, verbose=True, batch_size=32):
-        # Serialize the label_to_embeddings dictionary
-        serializable_embeddings = {label: tensor_to_base64(embedding) for label, embedding in label_to_embeddings.items()}
-
-        # Construct the data_content dictionary
-        data_content = {
-            "label_to_embeddings": json.dumps(serializable_embeddings),
-            "normalize_fn": normalize_fn,
-            "scale": scale,
-            "verbose": verbose,
-            "batch_size": batch_size
-        }
-
-        # Attach the image as a file
-        files = {"image_path": (os.path.basename(image_path), open(image_path, 'rb'))}
-
-        # Send the POST request with data_content directly as the data parameter
-        response = self.client.post("/compute_affinity_scores", data=data_content, files=files)
-
-        # Check for 422 response and print the server's error message
-        return response
 
     def compute_affinity_scores(self, label_to_embeddings, image_path, normalize_fn='linear', scale=1, verbose=True):
         # Serialize the label_to_embeddings dictionary as before

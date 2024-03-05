@@ -26,15 +26,6 @@ def test_compute_label_embeddings_endpoint(compute_label_embeddings):
     assert status_code == 200
     assert "Electronics" in data and "Unauthorized Vehicle" in data and "Unattended Item" in data
 
-
-def test_compute_affinity_scores_422(compute_label_embeddings):
-    label_to_embeddings = compute_label_embeddings["embeddings"][1]  # Assuming this returns the embeddings directly
-    image_path = compute_label_embeddings["image_path"]
-    response = client.compute_affinity_scores_orig(label_to_embeddings=label_to_embeddings, image_path=image_path)
-
-    assert response.status_code == 422
-
-
 def test_compute_affinity_scores(compute_label_embeddings):
     label_to_embeddings = compute_label_embeddings["embeddings"][1]
     image_path = compute_label_embeddings["image_path"]
