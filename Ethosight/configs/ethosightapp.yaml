@@ -1,41 +1,43 @@
 ################# basic app configuration
-analyzeImageMethod: analyzeImage_precompiled
-embeddings_path: baseline.embeddings
-labels_path: baseline.labels
-output_type: affinityScores
-reasoner_type: chatgpt
+analyzeImageMethod: analyzeImage_precompiled # Default method from EthosightMediaAnalyzer
+embeddings_path: baseline.embeddings # Embeddings file located in embeddings folder
+labels_path: baseline.labels # Labels file located in embeddings folder
+output_type: affinityScores # The output result format
+reasoner_type: '' # ChatGPT reasoner or others ... If no reasoning just empty string
 
 ################## configure the label space optimization
 label_space_optimization:
   enabled: true
-  rerun: false # if true, will rerun the optimization even if a results file exists,
+  rerun: true # if true, will rerun the optimization even if a results file exists,
                 # otherwise will just load the most recent results file
-#  method: "semantic_relations"
-  method: "semantic_similarity"
+#  method: "semantic_relations" "semantic_similarity"
+  method: "semantic_similarity" # Default semantic_similarity
   parameters:
     threshold: .8
-    max_labels: 10 # this is the max per ground truth label (not total) 
+    max_labels: 10 # this is the max per ground truth label (not total)
 
 general_templates:
-  enabled: false
+  enabled: true
   template_path: "../templates/general_templates.txt"
 
 ################## configure the benchmark
+# if benchmark is enabled it does benchmarking during optimization
 benchmark:
   enabled: true
   batch_mode: true
   batchsize: 256
-  image_dir: "/home/hmlatapie/devactive/home/Ethosight/images/robbery"
+  #Images directory where to perform benchmarks
+  image_dir: "/home/vahagn/projects/EthosightNew/benchmark/images/robbery"
   # normallabel used to compute benchmark anomaly metrics
   normallabel: "normal event"
 # ground_truth_path can be a .txt file or a .csv
 # .txt : labels only
 # .csv : filename, label pairs ... first row in file is assumed to be a header and is ignored
 #  ground_truth_path: "../images/robbery/image-labels2.csv" #only one label per video
-  ground_truth_path: "/home/hmlatapie/devactive/home/Ethosight/images/robbery/image-labels.csv"  #labeled correctly per frame
+  ground_truth_path: "/home/vahagn/projects/EthosightNew/benchmark/images/robbery/image-labels.csv"  #labeled correctly per frame
 
   #normally ground_truth_path .csv contains all the labels so that is all you need
-  #however, if ground_truth_labels_path is specified, it will be used to generate 
+  #however, if ground_truth_labels_path is specified, it will be used to generate
   #   the ground truth labels and embeddings files
   #if not set and the system needs to generate, the csv will be used
   #as long as your .csv has all the labels, you don't need to set this
@@ -53,23 +55,23 @@ benchmark:
 mapper:
   enabled: true
   # affinity_minthreshold is the minimum affinity score to consider a label
-  #  if the affinity score is below the threshold, the label is set to 
+  #  if the affinity score is below the threshold, the label is set to
   #   normallabel
   affinity_minthreshold:
     enabled: false
     threshold: 26
     normallabel: "normal event"
   threshold: 26 #is this needed for video?
-  # modes: 
+  # modes:
   #   - passthrough - pass input affinity scores through to output
   #   - labelToLabelAffinity01 - uses affinity between expanded labels and ground truth labels
   #   - compositeLabels01 - create composite labels from input affinity scores, no reasoning
-  #   - reasoning01 - create composite labels from input affinity scores, with reasoning 
+  #   - reasoning01 - create composite labels from input affinity scores, with reasoning
   #  mode: 'passthrough'
   #mode: 'labelToLabelAffinity01'
   #mode: 'gpt4mode' #uses gpt4 to generate labels... input is the single top label
 #  mode: 'gpt4mode2' #uses gpt4 to generate labels, input is the top n affinity scores
-  #submode: normallabelonly #only remap the normal label 
+  #submode: normallabelonly #only remap the normal label
   mode: 'hardmap01'
   hardmapfile: '../datasets/ucf-crime/ucf-crime-hardmap.txt'
 #  prompt: "Return a label we will use to help analyze an image. The context is to identify crime behavior versus normal behavior. The camera angles may be overhead or normal more horizontal security camera angles. Please analyze the following input label and return 'normal event' or 'crime event' <<{label}>> please return only 'normal event' or 'crime event' as the label with no extra text or delimiters of any kind."
@@ -194,7 +196,7 @@ video:
   skip_frames: 0
   normal_label_name: "normal event"
   label_mapping: "periods_count"
-  # modes: 
+  # modes:
   #   - majority - rank the labels by the number of frames
   #   - longest_period - rank the labels by the number of consecutive frames
   #   - periods_count - rank the labels by the number of periods

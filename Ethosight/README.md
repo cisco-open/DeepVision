@@ -103,7 +103,7 @@ If no need to create a super user and migrations are done, you can simply run th
 python website/manage.py runserver 8080
 ```
 You can view your application by navigating to `http://localhost:8080` in your web browser.  
-You can create your own ethosight configuration by accessing `http://localhost:8080/admin`.
+You can create your own ethosight [configuration](#ethosight-configuration) by accessing `http://localhost:8080/admin`.
 You can find an example in `./configs` folder.  
 
 ## Registering new users.
@@ -112,4 +112,40 @@ and request an access code in the registration form. The admin users should appr
 If there's no capability to handle mail sending, you can generate
 access codes manually using `genaccesscodes.py`, and use that access code in the form without requesting.
 
+## Ethosight Configuration
 
+`ethosight.yml` file is the setup configuration for the ethosight application. 
+You can find the example file inside `./configs` folder with all possible configurations and their explanations.
+
+
+## CLI
+Besides main application represented as UI. Ethosight provides CLI for all core classes and functionalities like
+EthosightAppCLI, EthosightCLI, EthosightDatasetCLI, EthosightMediaAnalyzerCLI.
+
+The main one is EthosightAppCLI with bunch of useful methods. Some of them are still on implementation.
+
+* create_app (app_dir, config_file) - creates new application
+  * app_dir - the location where the application will be created and run along with config files, embeddings, labels
+  * config_file - *.yml config file path 
+* delete_app (app_dir) - deletes application located in app_dir
+  * app_dir - the application directory
+* benchmark (app_dir) - Computes accuracy on a directory of images
+  * Computes accuracy on a directory of images.
+* optimize(app_dir) - optimizes the EthosightApp
+  * app_dir - the application directory
+* run(app_dir, image) - Runs the EthosightApp on a single image
+  * app_dir - the application directory
+  * image - image file path
+* benchmark_video (app_dir, video_gt_csv_filename) - Runs video benchmarking on a video
+  * app_dir - the application directory
+  * video_gt_csv_filename - video file names with ground truths
+* rank_affinities (app_dir, json_file_path) - ranks affinities from json results
+  * app_dir - the application directory
+  * json_file_path - json file path containing already computed affinity scores
+* phase2videobenchmarks (app_dir, phase2_groundtruth_csv) - runs benchmarks on all of the affinity score json files contained in the csv file. these are produced by phase1 Ethosight processing of video datasets
+  * app_dir - the application directory
+  * phase2_groundtruth_csv - the csv file path
+* add_labels (app_dir, labels) - Adds new labels to the EthosightApp
+  * app_dir - the application directory
+  * labels - new labels specified
+   
