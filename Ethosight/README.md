@@ -70,7 +70,7 @@ To run Ethosight GPU Servers, you can use the `runserver.sh` script with the `ru
 Here's how to run the `runserver.sh` script:
 
 ```bash
-./bin/runserver.sh runserver
+./bin/runserver.sh runserver --host <HOST_NAME> --port <PORT_NUMBER> --gpu <GPU_NUMBER>
 ```
 
 ## Utilizing Multiple GPU Servers
@@ -91,7 +91,7 @@ Here's how to run the `runpostgress.sh` script:
 ./website/runpostgress.sh
 ``````
 
-Once the PostgreSQL server is running, you can start the Django web app inside /website folder. Run the following command:
+Once the PostgreSQL server is running, you can start the Django web app inside /website folder. Run the following command if you are running first time the web application:
 
 ```bash
 ./website/runwebapp.sh
@@ -122,8 +122,9 @@ You can find the example file inside `./configs` folder with all possible config
 Besides main application represented as UI. Ethosight provides CLI for all core classes and functionalities like
 EthosightAppCLI, EthosightCLI, EthosightDatasetCLI, EthosightMediaAnalyzerCLI.
 
-The main one is EthosightAppCLI with bunch of useful methods. Some of them are still on implementation.
+The main one is `EthosightAppCLI` with bunch of useful methods. Some of them are still on implementation.
 
+#### EthosightAppCLI
 * create_app (app_dir, config_file) - creates new application
   * app_dir - the location where the application will be created and run along with config files, embeddings, labels
   * config_file - *.yml config file path 
@@ -148,4 +149,27 @@ The main one is EthosightAppCLI with bunch of useful methods. Some of them are s
 * add_labels (app_dir, labels) - Adds new labels to the EthosightApp
   * app_dir - the application directory
   * labels - new labels specified
-   
+
+#### EthosightCLI
+*  embed (filename) - Compute the label embeddings from a file of labels
+   * filename - The name of the file with the labels. Each line in the file should contain one label.
+              The embeddings will be saved to a file with the same name, but with '.embeddings' as the extension.
+*  affinities (image_filename, embeddings_filename, output_filename) - Compute affinity scores for an image with respect to the embeddings stored in a file. Save these scores to another file. The default filename for saving is the base name of the image file with the extension ".affinities".
+   * image_filename - the image file path to compute affinities for
+   * embeddings_filename - embeddings file path to use for affinities computing
+   * output_filename (optional) - the output file name
+*  reason (use_case, label_affinity_scores, prompt_type, outfile, debug=False) - takes in a set of labels with their respective affinity scores, and generates a new set of labels based on the existing ones
+   * use_case - The use case for the reasoner. Default is "{USE_CASE_DEFAULT}"
+   * label_affinity_scores - The affinity scores for labels. Can be a string of labels or a path to a file. Default is an empty string
+   * prompt_type - The type of prompt for the reasoner. Can be "blank_slate" or "iterative". Default is "{PROMPT_TYPE_DEFAULT}"
+   * outfile - Output file name to write new labels. Default: reasoner.labels.
+*  summarize (label_affinity_scores, outfile, debug=False) - takes in a set of labels with their respective affinity scores, and generates a new set of labels based on the existing ones
+   * label_affinity_scores - file path containing labels with affinity scores
+   * outfile - the output file for newly generated labels
+
+
+### Performance stress testing.
+
+The project has capability to load test itself. For your environment setup you can run the command:  
+`locust -f Ethosight/tests/locustfile.py`  
+Then open `localhost:8089` it will open Locust UI, then you can start load testing for your environment.  
