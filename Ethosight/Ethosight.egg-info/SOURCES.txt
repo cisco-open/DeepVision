@@ -18,6 +18,7 @@ Ethosight/ReasonerInterface.py
 Ethosight/__init__.py
 Ethosight/langchain_reasoner.py
 Ethosight/llama_index_reasoner.py
+Ethosight/shared_models.py
 Ethosight/utils.py
 Ethosight.egg-info/PKG-INFO
 Ethosight.egg-info/SOURCES.txt
