@@ -275,6 +275,11 @@ class EthosightCore:
         top_labels = sorted_labels[:100]
         top_scores = sorted_scores[:100]
 
+        # Clear memory
+        del vision_embeddings, raw_scores, unique_label_embeddings, inputs
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()  # Clear unused memory
+
         # Return the labels and scores as a dictionary
         return {'labels': top_labels, 'scores': top_scores}
 
