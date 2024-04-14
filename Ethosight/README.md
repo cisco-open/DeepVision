@@ -21,7 +21,7 @@
     ```
 3. Then activate the conda environmet:  
    ```
-   conda activate imagebind
+   conda activate ethosight
    ```
 ### Installing Ethosight
 
