@@ -1,4 +1,4 @@
-name: imagebind
+name: ethosight 
 channels:
   - conda-forge
   - defaults
