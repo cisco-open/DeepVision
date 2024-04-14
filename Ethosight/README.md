@@ -17,7 +17,7 @@
 2. If you're updating an existing environment, use the following command instead:
 
     ```bash
-    conda env update --name imagebind --file install/environment.yml
+    conda env update --name ethosight --file install/environment.yml
     ```
 3. Then activate the conda environmet:  
    ```
