@@ -1457,6 +1457,10 @@ class EthosightApp:
             for label in current_labels:
                 file.write(f"{label}\n")
 
+        if not added_labels:
+            print("No new labels added.")
+            return
+
         # compute the new embeddings
         new_embeddings = self.ethosight.compute_label_embeddings(added_labels)
 
