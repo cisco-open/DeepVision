@@ -76,7 +76,7 @@ mapper:
   hardmapfile: '../datasets/ucf-crime/ucf-crime-hardmap.txt'
 #  prompt: "Return a label we will use to help analyze an image. The context is to identify crime behavior versus normal behavior. The camera angles may be overhead or normal more horizontal security camera angles. Please analyze the following input label and return 'normal event' or 'crime event' <<{label}>> please return only 'normal event' or 'crime event' as the label with no extra text or delimiters of any kind."
   prompt_1: >
-    Please analyze this input label <<{label}>> and return 'normal event' or one of
+    Analyze this input label <<{label}>> and return 'normal event' or one of
     the
     following potential labels: 'abuse', 'arrest', 'arson', 'assault',
     'burglary', 'explosion', 'fighting', 'road accidents', 'robbery', 'shooting',  'shoplifting',
@@ -87,12 +87,12 @@ mapper:
 
 # SOA anomaly and 20% top1
   prompt: >
-    Please analyze the following aggregated and ranked affinity scores from video
+    Analyze the following aggregated and ranked affinity scores from video
     footage  and return 'normal event' or one of the
     following labels: 'abuse', 'arrest', 'arson', 'assault',
     'burglary', 'explosion', 'fighting', 'road accidents', 'robbery', 'shooting',  'shoplifting',
     'stealing', 'vandalism' that best characterizes the most important
-    event in the scene.  please return only 'normal event' or  one of these listed
+    event in the scene. Return only 'normal event' or  one of these listed
     labels as the label with no  extra text or  delimiters of any kind. if unsure,
     return the nearest applicable label erring on
     the side of potential health, safety, and security labels from our list  ('abuse',

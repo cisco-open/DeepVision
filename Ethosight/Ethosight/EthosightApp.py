@@ -532,9 +532,9 @@ class EthosightApp:
         # Find the most similar label in the ground truth
         default_prompt = ("Return a label we will use to help analyze an image. The context is to "
                   "identify crime behavior versus normal behavior. The camera angles may be "
-                  "overhead or normal more horizontal security camera angles. Please analyze "
+                  "overhead or normal more horizontal security camera angles. Analyze "
                   "the following input label and return 'normal event' or 'crime event' "
-                  "<<{label}>> please return only 'normal event' or 'crime event' as the "
+                  "<<{label}>> return only 'normal event' or 'crime event' as the "
                   "label with no extra text or delimiters of any kind.")
         prompt = self.config['mapper'].get('prompt', default_prompt)
         formatted_prompt = prompt.format(label=label, affinityScores=affinities)
@@ -551,9 +551,9 @@ class EthosightApp:
         # Find the most similar label in the ground truth
         default_prompt = ("Return a label we will use to help analyze an image. The context is to "
                   "identify crime behavior versus normal behavior. The camera angles may be "
-                  "overhead or normal more horizontal security camera angles. Please analyze "
-                  "the following input label and return 'normal event' or 'crime event' "
-                  "<<{label}>> please return only 'normal event' or 'crime event' as the "
+                  "overhead or normal more horizontal security camera angles. Analyze "
+                  "the following input label <<{label}>> "
+                  "return only 'normal event' or 'crime event' as the "
                   "label with no extra text or delimiters of any kind.")
         prompt = self.config['mapper'].get('prompt', default_prompt)
         formatted_prompt = prompt.format(label=label)

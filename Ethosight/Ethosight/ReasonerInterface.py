@@ -42,14 +42,14 @@ class AbstractReasoner(ABC):
         """
         Generate the blank slate (bootstrap) prompt
         """
-        return f"Create a comma-separated list of 30 important labels we will use to analyze an image via an affinity metric focused on the use case {self.use_case_prompt}. no extraneous text or characters other than the comma separated list please."
+        return f"Create a comma-separated list of 30 important labels we will use to analyze an image via an affinity metric focused on the use case {self.use_case_prompt}. no extraneous text or characters other than the comma separated list."
 
     def iterative_learning_prompt(self, label_affinities):
         """
         Generate the iterative learning prompt
         """
         assert label_affinities is not None, "Must provide label affinities for iterative reasoning."
-        return f"Given the following affinity scores: {label_affinities}, please analyze these affinity scores for an image focusing on the use case {self.use_case_prompt}. Based on your analysis, create a comma-separated list of important labels for a more insightful analysis within the context of {self.use_case_prompt}. no extraneous text or characters other than the comma separated list please."
+        return f"Given the following affinity scores: {label_affinities}, analyze these affinity scores for an image focusing on the use case {self.use_case_prompt}. Based on your analysis, create a comma-separated list of important labels for a more insightful analysis within the context of {self.use_case_prompt}. no extraneous text or characters other than the comma separated list."
 
     def get_prompt(self, label_affinities=None, prompt_type='blank_slate'):
         """
