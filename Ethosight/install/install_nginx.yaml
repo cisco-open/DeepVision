@@ -6,7 +6,7 @@
   tasks:
     - name: Ensure nginx script is present in /usr/local/bin
       copy:
-        src: "{{ playbook_dir }}/run_nginx.sh"
+        src: "{{ playbook_dir }}/files/run_nginx.sh"
         dest: /usr/local/bin/run_nginx.sh
         mode: '0755'
 
