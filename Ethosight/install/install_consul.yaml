@@ -1,0 +1,49 @@
+---
+- name: Install Consul
+  hosts: all
+  become: yes
+
+  vars:
+    consul_version: "1.12.2"
+    consul_download_url: "https://releases.hashicorp.com/consul/{{ consul_version }}/consul_{{ consul_version }}_linux_amd64.zip"
+    consul_install_dir: "/usr/local/bin"
+    consul_config_dir: "/etc/consul.d"
+    consul_data_dir: "/opt/consul"
+
+  tasks:
+    - name: Install unzip
+      apt:
+        name: unzip
+        state: present
+
+    - name: Download Consul
+      get_url:
+        url: "{{ consul_download_url }}"
+        dest: "/tmp/consul.zip"
+
+    - name: Unzip Consul
+      unarchive:
+        src: "/tmp/consul.zip"
+        dest: "{{ consul_install_dir }}"
+        remote_src: yes
+
+    - name: Create Consul configuration directory
+      file:
+        path: "{{ consul_config_dir }}"
+        state: directory
+
+    - name: Create Consul data directory
+      file:
+        path: "{{ consul_data_dir }}"
+        state: directory
+
+    - name: Create Consul SystemD service
+      template:
+        src: consul.service.j2
+        dest: /etc/systemd/system/consul.service
+
+    - name: Start and enable Consul service
+      systemd:
+        name: consul
+        state: started
+        enabled: yes

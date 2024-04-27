@@ -1,0 +1,14 @@
+---
+- name: Update and Upgrade All Packages
+  hosts: myhosts
+  become: yes  # Run tasks with sudo
+  tasks:
+    - name: Update apt cache
+      apt:
+        update_cache: yes
+        cache_valid_time: 3600  # Optional: Avoid updating the cache if it has been updated in the last hour
+
+    - name: Upgrade all packages
+      apt:
+        upgrade: dist
+

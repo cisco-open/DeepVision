@@ -1,0 +1,49 @@
+---
+- name: Install and Configure Consul Template
+  hosts: all
+  become: yes
+
+  vars:
+    consul_template_version: "0.29.0"
+    consul_template_download_url: "https://releases.hashicorp.com/consul-template/{{ consul_template_version }}/consul-template_{{ consul_template_version }}_linux_amd64.zip"
+    consul_template_install_dir: "/usr/local/bin"
+    consul_template_config_dir: "/etc/consul-template.d"
+
+  tasks:
+    - name: Install unzip
+      apt:
+        name: unzip
+        state: present
+
+    - name: Download Consul Template
+      get_url:
+        url: "{{ consul_template_download_url }}"
+        dest: "/tmp/consul-template.zip"
+
+    - name: Unzip Consul Template
+      unarchive:
+        src: "/tmp/consul-template.zip"
+        dest: "{{ consul_template_install_dir }}"
+        remote_src: yes
+
+    - name: Create Consul Template configuration directory
+      file:
+        path: "{{ consul_template_config_dir }}"
+        state: directory
+
+    - name: Create Consul Template configuration file
+      template:
+        src: consul-template.hcl.j2
+        dest: "{{ consul_template_config_dir }}/consul-template.hcl"
+
+    - name: Create Consul Template SystemD service
+      template:
+        src: consul-template.service.j2
+        dest: /etc/systemd/system/consul-template.service
+
+    - name: Start and enable Consul Template service
+      systemd:
+        name: consul-template
+        state: started
+        enabled: yes
+

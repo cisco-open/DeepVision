@@ -1,0 +1,13 @@
+[Unit]
+Description=Nginx Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/run_nginx.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
+
