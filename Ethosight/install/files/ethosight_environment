@@ -1,4 +1,4 @@
-
+#!/bin/bash
 # Copyright 2022 Cisco Systems, Inc. and its affiliates
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,7 +15,6 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
-#!/bin/bash
 
 # EthosightBackend type client
 # Not modifiable
@@ -24,11 +23,11 @@ export EthosightBackend=client
 # EthosightBackendURL is pointing to nginx running
 export EthosightBackendURL=http://localhost:80
 # DjangoEthosightAppBaseDir points to the app created on ui side
-export DjangoEthosightAppBaseDir=/home/ubuntu/DeepVision/Ethosight/website/EthosightAppBasedir
+export DjangoEthosightAppBaseDir=/home/ubuntu/lxdshared/DeepVision/Ethosight/website/EthosightAppBasedir
 # EthosightYAMLDirectory points the created config yaml file location
-export EthosightYAMLDirectory=/home/ubuntu/DeepVision/Ethosight/configs
+export EthosightYAMLDirectory=/home/ubuntu/lxdshared/DeepVision/Ethosight/configs
 # ETHOSIGHT_APP_BASEDIR points to ethosight app created
-export ETHOSIGHT_APP_BASEDIR=/home/ubuntu/DeepVision/Ethosight/website/EthosightAppBasedir
+export ETHOSIGHT_APP_BASEDIR=/home/ubuntu/lxdshared/DeepVision/Ethosight/website/EthosightAppBasedir
 # Email sending variables to send access codes to client users. You can modify as per your environment
 export EMAIL_HOST=email-smtp.us-east-1.amazonaws.com
 export EMAIL_PORT=587

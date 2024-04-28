@@ -46,6 +46,12 @@
         dest: "/etc/consul-template.d/nginx.template"  # Destination on the server
         mode: '0644'
 
+    - name: Deploy consul-template run script
+      copy:
+        src: run_consultemplate.sh
+        dest: /usr/local/bin/run_consultemplate.sh
+        mode: '0755'
+
     - name: Setup Consul Template SystemD service
       template:
         src: consul-template.service.j2
