@@ -1,14 +1,14 @@
-#!/bin/bash
-
-# Load environment variables, if any
-source /etc/environment
-
-# Define paths
-TEMPLATE_PATH="/etc/consul-template.d/nginx.template"  # Path where nginx.template is stored
-CONFIG_PATH="/tmp/nginx/nginx.conf"  # Output path for the rendered configuration
-
-# Logging setup
+#!/usr/bin/bash
 LOG_FILE="/var/log/consul-template.log"
+TEMPLATE_PATH="/etc/consul-template.d/nginx.template"
+CONFIG_PATH="/tmp/nginx/nginx.conf"
+
+# Check and load Ethosight specific environment variables
+if [ -f /etc/ethosight_environment ]; then
+    source /etc/ethosight_environment
+else
+    echo "$(date): Ethosight environment file not found, skipping load." >> $LOG_FILE
+fi
 
 # Logging the start
 echo "$(date): Starting consul-template..." >> $LOG_FILE

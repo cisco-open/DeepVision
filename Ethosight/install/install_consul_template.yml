@@ -10,6 +10,12 @@
     consul_template_config_dir: "/etc/consul-template.d"
 
   tasks:
+    - name: Deploy Ethosight specific environment file
+      copy:
+        src: files/ethosight_environment
+        dest: /etc/ethosight_environment
+        mode: '0644'
+
     - name: Install unzip
       apt:
         name: unzip
