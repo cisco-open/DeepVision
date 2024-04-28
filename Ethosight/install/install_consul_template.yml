@@ -19,31 +19,50 @@
       get_url:
         url: "{{ consul_template_download_url }}"
         dest: "/tmp/consul-template.zip"
+        mode: '0644'
 
     - name: Unzip Consul Template
       unarchive:
         src: "/tmp/consul-template.zip"
         dest: "{{ consul_template_install_dir }}"
         remote_src: yes
+      notify:
+        - Clean up downloaded zip
 
     - name: Create Consul Template configuration directory
       file:
         path: "{{ consul_template_config_dir }}"
         state: directory
 
-    - name: Create Consul Template configuration file
-      template:
-        src: consul-template.hcl.j2
-        dest: "{{ consul_template_config_dir }}/consul-template.hcl"
+    - name: Deploy nginx template file
+      copy:
+        src: files/nginx.template  # This assumes the file is in the 'files' directory of your Ansible project
+        dest: "/etc/consul-template.d/nginx.template"  # Destination on the server
+        mode: '0644'
 
-    - name: Create Consul Template SystemD service
+    - name: Setup Consul Template SystemD service
       template:
         src: consul-template.service.j2
         dest: /etc/systemd/system/consul-template.service
 
-    - name: Start and enable Consul Template service
+    - name: Enable and Start Consul Template service
       systemd:
         name: consul-template
         state: started
         enabled: yes
 
+  handlers:
+    - name: Clean up downloaded zip
+      file:
+        path: "/tmp/consul-template.zip"
+        state: absent
+
+    - name: Reload SystemD
+      systemd:
+        daemon_reload: yes
+
+    - name: Restart consul-template service
+      systemd:
+        name: consul-template
+        state: restarted
+        enabled: yes
