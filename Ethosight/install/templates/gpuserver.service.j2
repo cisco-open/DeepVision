@@ -1,13 +1,13 @@
 [Unit]
-Description=GPU Server
+Description=Ethosight GPU Server Service
 After=network.target
 
 [Service]
-ExecStart=/opt/scripts/run_gpuserver.sh
+User=ubuntu
+Group=ubuntu
+ExecStart=/opt/scripts/gpuserver_startup.sh
 Restart=always
-User=root
-Group=root
+RestartSec=10
 
 [Install]
 WantedBy=multi-user.target
-

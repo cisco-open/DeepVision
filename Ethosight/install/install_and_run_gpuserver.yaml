@@ -3,16 +3,21 @@
   hosts: all
   become: yes
 
+  vars:
+    ethosight_gpus:
+      - 0
+      - 1
+
   tasks:
     - name: Create scripts directory
       file:
         path: /opt/scripts
         state: directory
 
-    - name: Copy run_gpuserver.sh script
-      copy:
-        src: scripts/run_gpuserver.sh
-        dest: /opt/scripts/run_gpuserver.sh
+    - name: Generate startup script
+      template:
+        src: gpuserver_startup.sh.j2
+        dest: /opt/scripts/gpuserver_startup.sh
         mode: '0755'
 
     - name: Create systemd service unit
@@ -29,3 +34,4 @@
         name: gpuserver
         state: started
         enabled: yes
+  

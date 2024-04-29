@@ -34,6 +34,7 @@ setup(
             'EthosightAppCLI = Ethosight.EthosightAppCLI:cli',
         ],
     },
+    scripts=['bin/runserver.py'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',],
