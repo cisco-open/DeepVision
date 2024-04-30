@@ -168,7 +168,7 @@ class EthosightRESTServer:
             #logging.debug(f"Incoming data: {data_content}")
 
             # Read the image content 
-            image_temp_path = f"temp_{uuid.uuid4()}_{image.filename}" 
+            image_temp_path = f"/tmp/temp_{uuid.uuid4()}_{image.filename}" 
             with open(image_temp_path, "wb") as buffer: 
                 buffer.write(image.file.read())
 
