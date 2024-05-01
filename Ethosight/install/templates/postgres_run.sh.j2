@@ -15,3 +15,8 @@ else
            -p {{ postgres_port }}:5432 \
            -d postgres
 fi
+
+# Wait for the container to keep running
+while docker ps -f name=djangopostgres | grep -wq djangopostgres; do
+    sleep 10
+done
