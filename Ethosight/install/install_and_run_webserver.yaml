@@ -5,6 +5,12 @@
   vars_files:
     - uservars.yml
   vars:
+    # Add these to your vars file
+    postgres_password: mysecretpassword
+    postgres_db: mydatabase
+    postgres_user: postgres  # Default user
+    postgres_port: 5432
+
     django_user: ubuntu
     django_group: ubuntu
     django_project_dir: /home/ubuntu/lxdshared/DeepVision/Ethosight/website 
@@ -20,15 +26,29 @@
         dest: "{{ environment_vars_file_path }}"
         mode: 0755
 
-    - name: Deploy Django runserver script
+    - name: Deploy PostgreSQL run script
       template:
-        src: django_runserver.sh.j2
-        dest: /usr/local/bin/django_runserver.sh
+        src: templates/postgres_run.sh.j2
+        dest: /usr/local/bin/postgres_run.sh
         mode: 0755
 
-    - name: Deploy Django runserver script from template
+    - name: Deploy PostgreSQL systemd service
       template:
-        src: django_runserver.sh.j2
+        src: postgres.service.j2
+        dest: /etc/systemd/system/postgres.service
+      notify:
+        - reload systemd
+        - restart postgres service
+
+    - name: Enable and start PostgreSQL service
+      systemd:
+        name: postgres.service
+        enabled: yes
+        state: started
+
+    - name: Deploy Django runserver script
+      template:
+        src: templates/django_runserver.sh.j2
         dest: /usr/local/bin/django_runserver.sh
         mode: 0755
 
@@ -48,4 +68,9 @@
     - name: restart django service
       systemd:
         name: django.service
+        state: restarted
+
+    - name: restart postgres service
+      systemd:
+        name: postgres.service
         state: restarted
