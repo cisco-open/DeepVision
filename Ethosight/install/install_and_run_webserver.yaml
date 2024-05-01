@@ -60,6 +60,15 @@
         - reload systemd
         - restart django service
 
+    - name: Enable and start Django service
+      systemd:
+        name: django.service
+        enabled: yes
+        state: started
+      notify:
+        - reload systemd
+        - restart django service
+
   handlers:
     - name: reload systemd
       systemd:
