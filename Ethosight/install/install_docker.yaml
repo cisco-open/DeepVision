@@ -3,6 +3,17 @@
   hosts: all
   become: yes  # Use sudo to run the commands
   tasks:
+    - name: Remove potentially conflicting Docker packages
+      apt:
+        name:
+          - docker
+          - docker-engine
+          - docker.io
+          - docker-ce
+        state: absent
+        force_apt_get: yes
+        purge: yes
+
     - name: Install required packages
       apt:
         name:
@@ -31,8 +42,8 @@
 
     - name: Add user to the Docker group
       user:
-        name: "{{ ansible_user_id }}"
-        groups: docker
+        name: "{{ ansible_user_id }}" # this user is your root user as we are using become: yes,
+        groups: docker # which might be different from your session user, and you will have to add your user to docker group manually
         append: yes
 
     - name: Ensure Docker is started and enabled
@@ -40,4 +51,3 @@
         name: docker
         enabled: yes
         state: started
-
