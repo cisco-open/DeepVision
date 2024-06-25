@@ -1,0 +1,23 @@
+#!/bin/bash
+
+source /home/ubuntu/miniconda3/etc/profile.d/conda.sh
+conda activate ethosight
+
+# Function to start the runserver processes
+start_runserver() {
+    {% for gpu in ethosight_gpus %}
+    runserver.py runserver --gpu {{ gpu }} --port {{ 8000 + gpu }} &
+    {% endfor %}
+    wait
+}
+
+# Function to stop the runserver processes
+stop_runserver() {
+    pkill -f "runserver.py runserver"
+}
+
+# Trap SIGTERM signal and stop the runserver processes
+trap stop_runserver SIGTERM
+
+# Start the runserver processes
+start_runserver

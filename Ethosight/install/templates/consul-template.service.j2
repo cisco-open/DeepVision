@@ -1,0 +1,15 @@
+[Unit]
+Description=Consul Template for Nginx Configuration
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/run_consultemplate.sh
+Restart=on-failure
+RestartSec=10s
+User=ubuntu
+Group=ubuntu
+
+[Install]
+WantedBy=multi-user.target
+

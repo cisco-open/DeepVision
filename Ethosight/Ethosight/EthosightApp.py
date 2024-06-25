@@ -1,3 +1,20 @@
+
+# Copyright 2022 Cisco Systems, Inc. and its affiliates
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
 from .EthosightMediaAnalyzer import EthosightMediaAnalyzer, EthosightOutput 
 from .LabelSpaceOptimization import SemanticRelationsOptimization, SemanticSimilarityOptimization
 from ruamel.yaml import YAML
@@ -33,7 +50,7 @@ class EthosightApp:
             if not base_dir:
                 raise EthosightAppException("ETHOSIGHT_APP_BASEDIR environment variable is not defined.")
         if not os.path.isdir(base_dir):
-            raise EthosightAppException(f"Base directory {base_dir} is not a valid directory.")
+            raise EthosightAppException(f"Base directory {base_dir} is not a valid directory. Please define a valid directory using ETHOSIGHT_APP_BASEDIR environment variable")
         
         # Ensure the app_dir is an absolute path 
         self.app_dir = os.path.join(base_dir, app_name)
@@ -50,8 +67,9 @@ class EthosightApp:
         self.embeddings_path = self.config.get('embeddings_path')
         self.labels_path = self.config.get('labels_path')
         self.setActiveEmbeddingsFromFile(self.embeddings_path, self.labels_path)
-        self.groundTruthEmbeddings(makeActive=False)
-        self.reasoner = ChatGPTReasoner()
+        if self.config['benchmark']['enabled']:
+            self.groundTruthEmbeddings(makeActive=False)
+        self.reasoner = self.config['reasoner_type']
 
     def load_config(self, config_file):
         # Assuming the load_config function reads the YAML config file 
@@ -1438,6 +1456,10 @@ class EthosightApp:
         with open(self.labels_path, 'w') as file:
             for label in current_labels:
                 file.write(f"{label}\n")
+
+        if not added_labels:
+            print("No new labels added.")
+            return
 
         # compute the new embeddings
         new_embeddings = self.ethosight.compute_label_embeddings(added_labels)

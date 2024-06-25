@@ -1,0 +1,91 @@
+---
+- name: Install Consul
+  hosts: all
+  become: yes
+  vars:
+    consul_version: "1.12.2"
+    consul_download_url: "https://releases.hashicorp.com/consul/{{ consul_version }}/consul_{{ consul_version }}_linux_amd64.zip"
+    consul_install_dir: "/usr/local/bin"
+    consul_config_dir: "/etc/consul.d"
+    consul_data_dir: "/opt/consul"
+    consul_config_file: "consul.json"
+    consul_datacenter: "dc1"
+    consul_log_level: "INFO"
+    consul_server: true
+    consul_bind_address: "127.0.0.1"
+    consul_client_address: "127.0.0.1"
+    consul_bootstrap_expect: 1
+    consul_ui_enable: true
+
+  tasks:
+    - name: Create consul user and group
+      user:
+        name: consul
+        system: yes
+        home: /etc/consul.d
+        shell: /sbin/nologin
+        state: present
+
+    - name: Install unzip
+      apt:
+        name: unzip
+        state: present
+
+    - name: Download Consul
+      get_url:
+        url: "{{ consul_download_url }}"
+        dest: "/tmp/consul.zip"
+
+    - name: Unzip Consul
+      unarchive:
+        src: "/tmp/consul.zip"
+        dest: "{{ consul_install_dir }}"
+        remote_src: yes
+
+    - name: Create Consul configuration directory
+      file:
+        path: "{{ consul_config_dir }}"
+        state: directory
+
+    - name: Create Consul data directory
+      file:
+        path: "{{ consul_data_dir }}"
+        state: directory
+
+    - name: Ensure Consul data directory exists with correct permissions
+      file:
+        path: "{{ consul_data_dir }}"
+        state: directory
+        owner: consul
+        group: consul
+        mode: '0750'
+
+    - name: Create Consul configuration file
+      template:
+        src: templates/consul.json.j2
+        dest: "{{ consul_config_dir }}/{{ consul_config_file }}"
+      notify:
+        - Restart consul service
+
+    - name: Create Consul systemd service
+      template:
+        src: templates/consul.service.j2
+        dest: /etc/systemd/system/consul.service
+      notify:
+        - Reload systemd
+
+    - name: Start and enable Consul service
+      systemd:
+        name: consul
+        state: started
+        enabled: yes
+
+  handlers:
+    - name: Reload systemd
+      systemd:
+        daemon_reload: yes
+
+    - name: Restart consul service
+      systemd:
+        name: consul
+        state: restarted

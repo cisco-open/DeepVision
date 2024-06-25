@@ -1,0 +1,37 @@
+---
+- name: Install and run run_gpuserver.sh as a systemd service
+  hosts: all
+  become: yes
+
+  vars:
+    ethosight_gpus:
+      - 0
+      - 1
+
+  tasks:
+    - name: Create scripts directory
+      file:
+        path: /opt/scripts
+        state: directory
+
+    - name: Generate startup script
+      template:
+        src: gpuserver_startup.sh.j2
+        dest: /opt/scripts/gpuserver_startup.sh
+        mode: '0755'
+
+    - name: Create systemd service unit
+      template:
+        src: gpuserver.service.j2
+        dest: /etc/systemd/system/gpuserver.service
+
+    - name: Reload systemd daemon
+      systemd:
+        daemon_reload: yes
+
+    - name: Start and enable gpuserver service
+      systemd:
+        name: gpuserver
+        state: started
+        enabled: yes
+  

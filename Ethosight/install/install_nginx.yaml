@@ -1,0 +1,43 @@
+---
+- name: Install and Manage Nginx Script and Configuration as a Service
+  hosts: all
+  become: yes  # Required for permissions to write to /usr/local/bin and /tmp
+
+  tasks:
+    - name: Ensure nginx script is present in /usr/local/bin
+      copy:
+        src: "{{ playbook_dir }}/files/run_nginx.sh"
+        dest: /usr/local/bin/run_nginx.sh
+        mode: '0755'
+
+    - name: Ensure the /tmp/nginx directory exists
+      file:
+        path: /tmp/nginx
+        state: directory
+        mode: '0755'
+
+    - name: Copy nginx configuration file to /tmp/nginx
+      copy:
+        src: "{{ playbook_dir }}/files/nginx.conf"
+        dest: /tmp/nginx/nginx.conf
+
+    - name: Deploy nginx systemd service file
+      template:
+        src: nginx.service.j2
+        dest: /etc/systemd/system/nginx.service
+      notify:
+        - reload systemd
+        - restart nginx
+
+  handlers:
+    - name: reload systemd
+      systemd:
+        daemon_reload: yes
+
+    - name: restart nginx
+      systemd:
+        name: nginx
+        state: restarted
+        enabled: yes
+
+

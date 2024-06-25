@@ -1,0 +1,11 @@
+{
+  "datacenter": "{{ consul_datacenter }}",
+  "data_dir": "{{ consul_data_dir }}",
+  "log_level": "{{ consul_log_level }}",
+  "node_name": "{{ ansible_hostname }}",
+  "server": {{ consul_server | lower }},
+  "bind_addr": "{{ consul_bind_address }}",
+  "client_addr": "{{ consul_client_address }}",
+  "bootstrap_expect": {{ consul_bootstrap_expect }},
+  "ui": {{ consul_ui_enable | lower }}
+}

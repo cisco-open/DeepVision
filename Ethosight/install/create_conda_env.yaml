@@ -1,0 +1,23 @@
+---
+- name: Setup Conda environment and install core package
+  hosts: all
+  become: no
+
+  vars:
+    playbook_dir: "{{ playbook_dir | default(lookup('env', 'PWD')) }}"
+    conda_env_path: "{{ playbook_dir }}/environment.yml"
+    ethosight_path: "{{ playbook_dir }}/.."
+
+  tasks:
+    - name: Create Conda environment from file
+      shell: conda env create -f "{{ conda_env_path }}"
+      args:
+        executable: /bin/bash
+
+    - name: Activate environment and install core package
+      shell: |
+        source "$(conda info --base)/etc/profile.d/conda.sh"
+        conda activate $(head -1 "{{ conda_env_path }}" | cut -d' ' -f2)
+        pip install -e "{{ ethosight_path }}"
+      args:
+        executable: /bin/bash

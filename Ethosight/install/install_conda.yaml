@@ -1,0 +1,44 @@
+---
+- name: Install and Initialize Miniconda
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Download Miniconda installer
+      get_url:
+        url: "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh"
+        dest: "/tmp/Miniconda3-latest-Linux-x86_64.sh"
+        mode: '0755'
+
+    - name: Install Miniconda
+      shell: bash /tmp/Miniconda3-latest-Linux-x86_64.sh -b -p /opt/miniconda3
+      args:
+        creates: /opt/miniconda3/bin/conda
+
+    - name: Initialize Conda for all users
+      shell: |
+        source /opt/miniconda3/etc/profile.d/conda.sh
+        conda init bash
+      args:
+        executable: /bin/bash
+
+    - name: Ensure Conda is in the PATH for all users
+      lineinfile:
+        path: /etc/profile
+        line: 'export PATH="/opt/miniconda3/bin:$PATH"'
+        create: yes
+
+    - name: Append Conda init script to bashrc
+      lineinfile:
+        path: "/home/ubuntu/.bashrc"
+        line: 'source /opt/miniconda3/etc/profile.d/conda.sh'
+        create: yes
+        state: present
+
+    - name: Ensure Conda base environment is activated on shell login
+      lineinfile:
+        path: "/home/ubuntu/.bashrc"
+        line: 'conda activate base'
+        create: yes
+        state: present
+

@@ -1,0 +1,53 @@
+---
+- name: Install Docker
+  hosts: all
+  become: yes  # Use sudo to run the commands
+  tasks:
+    - name: Remove potentially conflicting Docker packages
+      apt:
+        name:
+          - docker
+          - docker-engine
+          - docker.io
+          - docker-ce
+        state: absent
+        force_apt_get: yes
+        purge: yes
+
+    - name: Install required packages
+      apt:
+        name:
+          - apt-transport-https
+          - ca-certificates
+          - curl
+          - software-properties-common
+        state: present
+        update_cache: yes
+
+    - name: Add Docker’s official GPG key
+      ansible.builtin.apt_key:
+        url: https://download.docker.com/linux/ubuntu/gpg
+        state: present
+
+    - name: Set up the stable repository
+      ansible.builtin.apt_repository:
+        repo: deb [arch=amd64] https://download.docker.com/linux/ubuntu {{ ansible_lsb.codename }} stable
+        state: present
+
+    - name: Install Docker Engine
+      apt:
+        name: docker-ce
+        state: present
+        update_cache: yes
+
+    - name: Add user to the Docker group
+      user:
+        name: "{{ ansible_user_id }}" # this user is your root user as we are using become: yes,
+        groups: docker # which might be different from your session user, and you will have to add your user to docker group manually
+        append: yes
+
+    - name: Ensure Docker is started and enabled
+      systemd:
+        name: docker
+        enabled: yes
+        state: started

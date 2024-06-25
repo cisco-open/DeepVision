@@ -1,0 +1,85 @@
+---
+- name: Setup Django Systemd Service
+  hosts: all
+  become: yes
+  vars_files:
+    - uservars.yml
+  vars:
+    # Add these to your vars file
+    postgres_password: mysecretpassword
+    postgres_db: mydatabase
+    postgres_user: postgres  # Default user
+    postgres_port: 5432
+
+    django_user: ubuntu
+    django_group: ubuntu
+    django_project_dir: /home/ubuntu/lxdshared/DeepVision/Ethosight/website 
+    django_port: 8080
+    conda_path: /home/ubuntu/miniconda3
+    conda_environment: ethosight
+    environment_vars_file_path: /home/ubuntu/lxdshared/DeepVision/Ethosight/bin/environment_vars.sh
+
+  tasks:
+    - name: Deploy environment variables file
+      template:
+        src: environment_vars.sh.j2
+        dest: "{{ environment_vars_file_path }}"
+        mode: 0755
+
+    - name: Deploy PostgreSQL run script
+      template:
+        src: templates/postgres_run.sh.j2
+        dest: /usr/local/bin/postgres_run.sh
+        mode: 0755
+
+    - name: Deploy PostgreSQL systemd service
+      template:
+        src: postgres.service.j2
+        dest: /etc/systemd/system/postgres.service
+      notify:
+        - reload systemd
+        - restart postgres service
+
+    - name: Enable and start PostgreSQL service
+      systemd:
+        name: postgres.service
+        enabled: yes
+        state: started
+
+    - name: Deploy Django runserver script
+      template:
+        src: templates/django_runserver.sh.j2
+        dest: /usr/local/bin/django_runserver.sh
+        mode: 0755
+
+    - name: Setup Django systemd service
+      template:
+        src: django.service.j2
+        dest: /etc/systemd/system/django.service
+      notify:
+        - reload systemd
+        - restart django service
+
+    - name: Enable and start Django service
+      systemd:
+        name: django.service
+        enabled: yes
+        state: started
+      notify:
+        - reload systemd
+        - restart django service
+
+  handlers:
+    - name: reload systemd
+      systemd:
+        daemon_reload: yes
+
+    - name: restart django service
+      systemd:
+        name: django.service
+        state: restarted
+
+    - name: restart postgres service
+      systemd:
+        name: postgres.service
+        state: restarted

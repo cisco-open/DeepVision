@@ -1,0 +1,23 @@
+[Unit]
+Description=Nginx Service
+# Ensures that the network and Docker are available before starting this service
+After=network.target docker.service
+Requires=docker.service
+Wants=network.target
+
+[Service]
+# Specifies the type of startup and service integration
+Type=simple
+# Defines under which user the service will run
+User=ubuntu
+# Command to start your service
+ExecStart=/usr/local/bin/run_nginx.sh
+# Service restart policy
+Restart=always
+# Delay before service restart
+RestartSec=5s
+
+[Install]
+# Specifies when this service should be automatically started
+WantedBy=multi-user.target
+

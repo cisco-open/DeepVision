@@ -1,3 +1,20 @@
+
+# Copyright 2022 Cisco Systems, Inc. and its affiliates
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
 """
 Django settings for website project.
 
@@ -15,9 +32,8 @@ import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-ETHOSIGHT_APP_BASE_DIR = os.environ.get('DjangoEthosightAppBaseDir', '/home/hmlatapie/devactive/home/Ethosight/website/EthosightAppBasedir') 
-CONFIG_YAML_DIRECTORY = os.environ.get('EthosightYAMLDirectory', 
-    '/home/hmlatapie/devactive/home/Ethosight/configs')
+ETHOSIGHT_APP_BASE_DIR = os.environ.get('DjangoEthosightAppBaseDir', '')
+CONFIG_YAML_DIRECTORY = os.environ.get('EthosightYAMLDirectory', '')
  
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 MEDIA_URL = '/media/'
@@ -152,10 +168,10 @@ STATICFILES_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'email-smtp.us-east-1.amazonaws.com'
-EMAIL_PORT = 587  # Typically 587 for TLS or 465 for SSL
-EMAIL_USE_TLS = True  # Or EMAIL_USE_SSL = True if using SSL
-EMAIL_USE_SSL = False
-EMAIL_HOST_USER = 'AKIA2XIYHNOLG45YDV5G'
-EMAIL_HOST_PASSWORD = 'BHpYbWBYlRKF02ynIoh60ovZ9OJLsn7Ybx8j4MHYX+gw'
+EMAIL_HOST = os.environ.get('EMAIL_HOST', 'email-smtp.us-east-1.amazonaws.com')
+EMAIL_PORT = int(os.environ.get('EMAIL_PORT', 587))  # Convert to int, as os.environ.get returns a string
+EMAIL_USE_TLS = os.environ.get('EMAIL_USE_TLS', 'True') == 'True'  # Convert string to boolean
+EMAIL_USE_SSL = os.environ.get('EMAIL_USE_SSL', 'False') == 'True'  # Convert string to boolean
+EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER', '')
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD', '')
 

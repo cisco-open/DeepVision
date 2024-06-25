@@ -1,0 +1,17 @@
+[Unit]
+Description=Consul Service Discovery Agent
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/local/bin/consul agent -config-dir={{ consul_config_dir }}
+User=consul
+Group=consul
+ExecReload=/bin/kill -HUP $MAINPID
+KillSignal=SIGTERM
+Restart=on-failure
+RestartSec=10s
+
+[Install]
+WantedBy=multi-user.target
+

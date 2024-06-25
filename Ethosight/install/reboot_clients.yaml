@@ -1,0 +1,9 @@
+---
+- name: Reboot Client Machines
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Rebooting the machine
+      reboot:
+

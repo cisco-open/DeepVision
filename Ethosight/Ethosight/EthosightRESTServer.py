@@ -1,3 +1,20 @@
+
+# Copyright 2022 Cisco Systems, Inc. and its affiliates
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
 #!/usr/bin/env python3
 from fastapi import FastAPI, HTTPException, UploadFile, File, Depends, status, Form
 from fastapi.encoders import jsonable_encoder
@@ -44,8 +61,8 @@ class ComputeAffinityScoresBatchedInput(BaseModel):
     batch_size: int = 32   
 
 class EthosightRESTServer: 
-    def __init__(self, mode="blocking", host="0.0.0.0", port=8000, consul_url="localhost", consul_port=8500, gpu=0):
-        self.core = EthosightCore(gpu=gpu)
+    def __init__(self, mode="blocking", host="0.0.0.0", port=8000, consul_url="localhost", consul_port=8500, gpu=0, reasoner=""):
+        self.core = EthosightCore(reasoner=reasoner, gpu=gpu)
         self.app = FastAPI()
         self.lock = threading.Lock()
         self.mode = mode
@@ -138,216 +155,6 @@ class EthosightRESTServer:
             logging.debug("Computed embeddings")
             return {"embeddings": serialized_result}
 
-
-#    def _initialize_compute_affinity_scores_route(self): 
-#        @self.app.post("/compute_affinity_scores") 
-#        @self.process_request 
-#        def compute_affinity_scores_endpoint(data: ComputeAffinityScoresInput, image_path: UploadFile = File(...)): 
-#            logging.debug(f"Received request with data: {data} and image: {image_path.filename}")
-#            image_temp_path = f"temp_{uuid.uuid4()}_{image_path.filename}" 
-#            with open(image_temp_path, "wb") as buffer: 
-#                buffer.write(image_path.file.read()) 
-#
-#            result = self.core.compute_affinity_scores(data.label_to_embeddings, image_temp_path, data.normalize_fn, data.scale, data.verbose)
-#            os.remove(image_temp_path) 
-#            #logging.debug(f"Computed affinity scores: {result}")
-#            logging.debug("Computed affinity scores")
-#            return result 
-#    def _initialize_compute_affinity_scores_route(self): 
-#        @self.app.post("/compute_affinity_scores") 
-#        @self.process_request 
-#        def compute_affinity_scores_endpoint(data: ComputeAffinityScoresInput, image_path: UploadFile = File(...)): 
-#            logging.debug(f"Incoming request body: {request.body()}")
-#
-#            logging.debug(f"Received request with data: {data} and image: {image_path.filename}")
-#
-#            # Temporary storage for the uploaded image
-#            image_temp_path = f"temp_{uuid.uuid4()}_{image_path.filename}" 
-#
-#            # Save the uploaded image to temporary storage
-#            with open(image_temp_path, "wb") as buffer: 
-#                buffer.write(image_path.file.read()) 
-#
-#            # Compute the affinity scores
-#            try:
-#                affinity_scores_result = self.core.compute_affinity_scores(data.label_to_embeddings, image_temp_path, data.normalize_fn, data.scale, data.verbose)
-#            except Exception as e:
-#                os.remove(image_temp_path)
-#                logging.error(f"Error computing affinity scores: {e}")
-#                raise e  # You might want to raise a custom error or message to the client
-#
-#            os.remove(image_temp_path) 
-#
-#            # Serialize the scores for transmission
-#            affinity_scores_result['scores'] = tensor_to_base64(torch.tensor(affinity_scores_result['scores']))
-#            
-#            logging.debug("Computed affinity scores")
-#            return affinity_scores_result
-    
-    def _initialize_compute_affinity_scores_route_orig(self): 
-        @self.app.post("/compute_affinity_scores") 
-        @self.process_request 
-        def compute_affinity_scores_endpoint(data: ComputeAffinityScoresInput, image_path: UploadFile = File(...)): 
-            logging.debug(f"Incoming data: {data}")
-            logging.debug(f"Incoming image_path: {image_path.filename}")
-
-            # Temporary storage for the uploaded image
-            image_temp_path = f"temp_{uuid.uuid4()}_{image_path.filename}" 
-
-            # Save the uploaded image to temporary storage
-            with open(image_temp_path, "wb") as buffer: 
-                buffer.write(image_path.file.read()) 
-
-            # Compute the affinity scores
-            try:
-                affinity_scores_result = self.core.compute_affinity_scores(
-                    data.label_to_embeddings, 
-                    image_temp_path, 
-                    data.normalize_fn, 
-                    data.scale, 
-                    data.verbose, 
-                    data.batch_size  # Include batch_size here
-                )
-            except Exception as e:
-                os.remove(image_temp_path)
-                logging.error(f"Error computing affinity scores: {e}")
-                raise e  # Raise a custom error or message to the client
-
-            os.remove(image_temp_path) 
-
-            # Serialize the scores for transmission
-            affinity_scores_result['scores'] = tensor_to_base64(torch.tensor(affinity_scores_result['scores']))
-
-            logging.debug("Computed affinity scores")
-            return affinity_scores_result
-
-# this returns a 422
-    def _initialize_compute_affinity_scores_route_mock1(self): 
-        @self.app.post("/compute_affinity_scores") 
-        @self.process_request 
-        def compute_affinity_scores_endpoint(data: ComputeAffinityScoresInput, image_path: UploadFile = File(...)): 
-            logging.debug(f"Incoming data: {data}")
-            logging.debug(f"Incoming image_path: {image_path.filename}")
-
-            # Temporary storage for the uploaded image
-            image_temp_path = f"temp_{uuid.uuid4()}_{image_path.filename}" 
-
-            # Save the uploaded image to temporary storage
-            with open(image_temp_path, "wb") as buffer: 
-                buffer.write(image_path.file.read()) 
-
-            # Mock the computation for now
-            affinity_scores_result = {
-                "labels": ["mock_label_1", "mock_label_2"],
-                "scores": ["0.9", "0.1"]
-            }
-
-            os.remove(image_temp_path)
-
-            logging.debug("Mocked affinity scores")
-            return affinity_scores_result
-
-    def _initialize_compute_affinity_scores_route_mock2(self): 
-        @self.app.post("/compute_affinity_scores") 
-        @self.process_request 
-        def compute_affinity_scores_endpoint(data: dict, image_path: UploadFile = File(...)): 
-            logging.debug(f"Incoming data: {data}")
-            logging.debug(f"Incoming image_path: {image_path.filename}")
-
-            # Extract label_to_embeddings from the data
-            label_to_embeddings = data.get("label_to_embeddings", {})
-            logging.debug(f"label_to_embeddings: {label_to_embeddings}")
-
-            # Temporary storage for the uploaded image
-            image_temp_path = f"temp_{uuid.uuid4()}_{image_path.filename}" 
-
-            # Save the uploaded image to temporary storage
-            with open(image_temp_path, "wb") as buffer: 
-                buffer.write(image_path.file.read()) 
-
-            # Here you can process the image if needed.
-            # Since we're mocking the actual processing and just focusing on the flow, 
-            # this step can be skipped for now.
-
-            # Clean up the temporary image
-            os.remove(image_temp_path)
-
-            # Mock response
-            affinity_scores_result = {
-                "labels": ["mock_label_1", "mock_label_2"],
-                "scores": ["0.9", "0.1"]
-            }
-
-            logging.debug("Mocked affinity scores")
-            return affinity_scores_result
-
-    def _initialize_compute_affinity_scores_route_mock3(self):
-        @self.app.post("/compute_affinity_scores")
-        @self.process_request
-        def compute_affinity_scores_endpoint(data: UploadFile = File(...), image: UploadFile = File(...)):
-            logging.debug(f"Incoming image filename: {image.filename}")
-
-            # Extract and parse JSON data
-            data_content_str = data.file.read().decode('utf-8')
-            data_content = json.loads(data_content_str)
-
-            logging.debug(f"Incoming data: {data_content}")
-
-            # Read the image content (for this mock, we won't do anything with it)
-            image_content = image.file.read()
-
-            # Mock response
-            affinity_scores_result = {
-                "labels": ["mock_label_1", "mock_label_2"],
-                "scores": ["0.9", "0.1"]
-            }
-
-            logging.debug("Mocked affinity scores")
-            return affinity_scores_result
-
-    def _initialize_compute_affinity_scores_route_almostworking(self):
-        @self.app.post("/compute_affinity_scores")
-        @self.process_request
-        def compute_affinity_scores_endpoint(data: UploadFile = File(...), image: UploadFile = File(...)):
-            # Extract and parse JSON data
-            data_content_str = data.file.read().decode('utf-8')
-            data_content = json.loads(data_content_str)
-            
-            logging.debug(f"Incoming data: {data_content}")
-            logging.debug(f"Incoming image filename: {image.filename}")
-
-            # Deserialize the label_to_embeddings
-            label_to_embeddings = {label: self._base64_to_tensor(embedding_b64) for label, embedding_b64 in data_content['label_to_embeddings'].items()}
-           
-            # Temporary storage for the uploaded image
-            image_temp_path = f"temp_{uuid.uuid4()}_{image.filename}" 
-
-            # Save the uploaded image to temporary storage
-            with open(image_temp_path, "wb") as buffer: 
-                buffer.write(image.file.read()) 
-
-            # Compute the affinity scores
-            try:
-                affinity_scores_result = self.core.compute_affinity_scores(
-                    label_to_embeddings, 
-                    image_temp_path, 
-                    data_content['normalize_fn'], 
-                    data_content['scale'], 
-                    data_content['verbose'], 
-                )
-            except Exception as e:
-                os.remove(image_temp_path)
-                logging.error(f"Error computing affinity scores: {e}")
-                raise e  # Raise a custom error or message to the client
-
-            os.remove(image_temp_path)
-
-            # Serialize the scores for transmission
-            affinity_scores_result['scores'] = tensor_to_base64(torch.tensor(affinity_scores_result['scores']))
-
-            logging.debug("Computed affinity scores")
-            return affinity_scores_result
-
     def _initialize_compute_affinity_scores_route(self):
         @self.app.post("/compute_affinity_scores")
         @self.process_request
@@ -361,7 +168,7 @@ class EthosightRESTServer:
             #logging.debug(f"Incoming data: {data_content}")
 
             # Read the image content 
-            image_temp_path = f"temp_{uuid.uuid4()}_{image.filename}" 
+            image_temp_path = f"/tmp/temp_{uuid.uuid4()}_{image.filename}" 
             with open(image_temp_path, "wb") as buffer: 
                 buffer.write(image.file.read())
 
@@ -394,68 +201,6 @@ class EthosightRESTServer:
 
             logging.debug("Computed affinity scores")
             return affinity_scores_result
-
-#generates our old friend the 422 unprocessable entity :)
-    def _initialize_compute_affinity_scores_batched_route_orig(self): 
-        @self.app.post("/compute_affinity_scores_batched") 
-        @self.process_request 
-        def compute_affinity_scores_batched_endpoint(data: ComputeAffinityScoresBatchedInput, image_paths: List[UploadFile] = File(...)): 
-            logging.debug(f"Received batched request with data: {data}")
-            saved_image_paths = [] 
-            for image_file in image_paths: 
-                image_temp_path = f"temp_{uuid.uuid4()}_{image_file.filename}" 
-                with open(image_temp_path, "wb") as buffer: 
-                    buffer.write(image_file.file.read()) 
-                saved_image_paths.append(image_temp_path) 
-
-            result = self.core.compute_affinity_scores_batched(data.label_to_embeddings, saved_image_paths, data.normalize_fn, data.scale, data.verbose, data.batch_size)
-            for path in saved_image_paths: 
-                os.remove(path) 
-            logging.debug(f"Computed batched affinity scores: {result}")
-            return result
-
-#not aligned with client data
-    def _initialize_compute_affinity_scores_batched_route_bug1(self): 
-
-        @self.app.post("/compute_affinity_scores_batched", response_model=List[Dict[str, List[str]]])
-        @self.process_request 
-        def compute_affinity_scores_batched_endpoint(data: UploadFile = File(...), image_paths: List[UploadFile] = File(...)): 
-            logging.debug(f"Received batched request with data: {data.filename}")
-            
-            # Extract and parse JSON data
-            data_content_str = data.file.read().decode('utf-8')
-            data = json.loads(data_content_str)
-
-            saved_image_paths = [] 
-            for image_file in image_paths: 
-                image_temp_path = f"temp_{uuid.uuid4()}_{image_file.filename}" 
-                with open(image_temp_path, "wb") as buffer: 
-                    buffer.write(image_file.file.read()) 
-                saved_image_paths.append(image_temp_path) 
-
-            # Decode the base64 encoded tensors
-            decoded_embeddings = {label: base64_to_tensor(embedding_base64) for label, embedding_base64 in data.label_to_embeddings.items()}
-
-            result = self.core.compute_affinity_scores_batched(
-                label_to_embeddings=decoded_embeddings,
-                image_paths=image_files,
-                normalize_fn=data.normalize_fn,
-                scale=data.scale,
-                verbose=data.verbose,
-                batch_size=data.batch_size
-            )
-
-            for path in saved_image_paths: 
-                os.remove(path) 
-            
-            # Serialize the result
-            result_serialized = [{
-                'labels': entry['labels'],
-                'scores': [str(score) for score in entry['scores']]
-            } for entry in result]
-
-            logging.debug(f"Serialized batched affinity scores: {result_serialized}")
-            return jsonable_encoder(result_serialized)
 
     def _initialize_compute_affinity_scores_batched_route(self):
         @self.app.post("/compute_affinity_scores_batched", response_model=List[Dict[str, List[str]]])

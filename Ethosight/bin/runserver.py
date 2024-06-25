@@ -1,4 +1,19 @@
 #!/usr/bin/env python3
+# Copyright 2022 Cisco Systems, Inc. and its affiliates
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
 import click
 import os
 import uvicorn
@@ -17,13 +32,14 @@ def cli():
 @click.option('--consul-url', default='localhost', help='URL for Consul server. Default is "localhost".')
 @click.option('--consul-port', default=8500, type=int, help='Port for Consul server. Default is 8500.')
 @click.option('--gpu', default=0, type=int, help='GPU to use. Default is 0.')
-def runserver(host, port, log_level, mode, consul_url, consul_port, gpu):
+@click.option('--reasoner', default='', help='Reasoner type like ChatGPTReasoner. Default is no reasoner')
+def runserver(host, port, log_level, mode, consul_url, consul_port, gpu, reasoner):
     """
     Run the Ethosight REST Server with the specified options.
     """
     # Assuming the EthosightRESTServer class accepts the consul_url and consul_port as arguments.
     # If not, you'll need to adjust the instantiation accordingly.
-    server = EthosightRESTServer(mode=mode, host=host, port=port, consul_url=consul_url, consul_port=consul_port, gpu=gpu)
+    server = EthosightRESTServer(mode=mode, host=host, port=port, consul_url=consul_url, consul_port=consul_port, gpu=gpu, reasoner=reasoner)
     uvicorn.run(server.app, host=host, port=port, log_level=log_level)
 
 @cli.command()

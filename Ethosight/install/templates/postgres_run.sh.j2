@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Set the desired database name
+DB_NAME="{{ postgres_db }}"
+
+# Check if the PostgreSQL container exists and start it if it does
+if [ $(docker ps -a -f name=djangopostgres | grep -w djangopostgres | wc -l) -eq 1 ]; then
+    docker start djangopostgres
+else
+    # Run the PostgreSQL container if it does not exist
+    docker run --name djangopostgres \
+           -e POSTGRES_PASSWORD={{ postgres_password }} \
+           -e POSTGRES_USER={{ postgres_user }} \
+           -e POSTGRES_DB=$DB_NAME \
+           -p {{ postgres_port }}:5432 \
+           -d postgres
+fi
+
+# Wait for the container to keep running
+while docker ps -f name=djangopostgres | grep -wq djangopostgres; do
+    sleep 10
+done

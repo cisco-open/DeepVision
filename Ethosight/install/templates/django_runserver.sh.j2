@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Source Conda environment script to enable 'conda' command
+source {{ conda_path }}/etc/profile.d/conda.sh
+
+# Activate the specific Conda environment
+conda activate {{ conda_environment }}
+
+source {{ environment_vars_file_path }}
+
+# Starting Django Development Server
+echo "Starting Django Development Server on port {{ django_port }}..."
+python {{ django_project_dir }}/manage.py runserver 0.0.0.0:{{ django_port }}

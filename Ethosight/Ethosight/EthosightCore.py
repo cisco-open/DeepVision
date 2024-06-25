@@ -1,3 +1,20 @@
+
+# Copyright 2022 Cisco Systems, Inc. and its affiliates
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# SPDX-License-Identifier: Apache-2.0
+
 import os
 import torch
 from models import imagebind_model
@@ -14,7 +31,7 @@ import json
 import torch.nn.functional as F
 
 class EthosightCore:
-    def __init__(self, model=None, reasoner=None, gpu=0):
+    def __init__(self, model=None, reasoner='', gpu=0):
         #gpu=none means use cpu
         self.ethosight_dir = get_install_path('Ethosight')
         if model is None:
@@ -257,6 +274,11 @@ class EthosightCore:
 
         top_labels = sorted_labels[:100]
         top_scores = sorted_scores[:100]
+
+        # Clear memory
+        del vision_embeddings, raw_scores, unique_label_embeddings, inputs
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()  # Clear unused memory
 
         # Return the labels and scores as a dictionary
         return {'labels': top_labels, 'scores': top_scores}

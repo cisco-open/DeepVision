@@ -1,0 +1,16 @@
+---
+- name: Install inotify-tools on Ubuntu Servers
+  hosts: all
+  become: yes  # Necessary to obtain root privileges for installing packages
+
+  tasks:
+    - name: Update apt cache
+      apt:
+        update_cache: yes
+        cache_valid_time: 3600  # Cache valid for 1 hour to avoid unnecessary repository updates
+
+    - name: Install inotify-tools
+      apt:
+        name: inotify-tools
+        state: present
+

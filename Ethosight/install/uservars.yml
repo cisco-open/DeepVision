@@ -1,0 +1,16 @@
+---
+# General application settings
+EthosightBackend: client
+EthosightBackendURL: "http://localhost:80"
+DjangoEthosightAppBaseDir: "/home/ubuntu/lxdshared/DeepVision/Ethosight/website/EthosightAppBasedir"
+EthosightYAMLDirectory: "/home/ubuntu/lxdshared/DeepVision/Ethosight/configs"
+ETHOSIGHT_APP_BASEDIR: "/home/ubuntu/lxdshared/DeepVision/Ethosight/website/EthosightAppBasedir"
+
+# Email settings for sending access codes
+# Use your own settings
+EMAIL_HOST: ""
+EMAIL_PORT: 0
+EMAIL_USE_TLS: true
+EMAIL_USE_SSL: false
+EMAIL_HOST_USER: ""
+EMAIL_HOST_PASSWORD: ""

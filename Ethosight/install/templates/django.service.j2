@@ -1,0 +1,17 @@
+[Unit]
+Description=Django Development Server Managed by Systemd
+#After=network.target 
+After=network.target postgres.service
+Requires=postgres.service
+
+[Service]
+Type=simple
+User={{ django_user }}
+Group={{ django_group }}
+WorkingDirectory={{ django_project_dir }}
+ExecStart=/usr/local/bin/django_runserver.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

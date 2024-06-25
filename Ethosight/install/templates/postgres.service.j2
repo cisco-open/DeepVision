@@ -1,0 +1,13 @@
+[Unit]
+Description=PostgreSQL Docker Container Service
+After=docker.service
+Requires=docker.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/postgres_run.sh
+Restart=always
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
