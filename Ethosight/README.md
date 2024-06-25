@@ -6,7 +6,11 @@
 
 ### Setting Up the Environment
 
-> **Note:** The conda environment is currently named `imagebind`. This will be changed to `ethosight` in a future update.
+
+
+> **Note:** These are the steps that for manual installation which are **deprecated** right now, cause currently we are using Ansible for installation and state management.  
+> You can ignore the steps until *'Registering new users'* part.
+> Please follow these instructions the installation and running: [installations](install/readme.md)
 
 1. If you're setting up for the first time, create the environment using the provided `environment.yml` file in `/install` subfolder:
 
