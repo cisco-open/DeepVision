@@ -3,6 +3,9 @@
   hosts: all
   become: yes
 
+  vars_files:
+    - vars/global_vars.yaml
+
   vars:
     consul_template_version: "0.29.0"
     consul_template_download_url: "https://releases.hashicorp.com/consul-template/{{ consul_template_version }}/consul-template_{{ consul_template_version }}_linux_amd64.zip"
@@ -10,6 +13,14 @@
     consul_template_config_dir: "/etc/consul-template.d"
 
   tasks:
+    - name: Ensure log file exists with correct permissions
+      file:
+        path: /var/log/consul-template.log
+        state: touch
+        owner: "{{ service_user }}"
+        group: "{{ service_group }}"
+        mode: '0644'
+
     - name: Deploy Ethosight specific environment file
       copy:
         src: files/ethosight_environment
@@ -48,7 +59,7 @@
 
     - name: Deploy consul-template run script
       copy:
-        src: run_consultemplate.sh
+        src: "{{ playbook_dir }}/files/run_consultemplate.sh"
         dest: /usr/local/bin/run_consultemplate.sh
         mode: '0755'
 

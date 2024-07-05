@@ -1,0 +1,6 @@
+service_user: "vahagn"
+service_group: "vahagn"
+playbook_dir: "{{ playbook_dir | default(lookup('env', 'PWD')) }}"
+conda_env_path: "{{ playbook_dir }}/environment.yml"
+ethosight_path: "{{ playbook_dir }}/.."
+conda_base: "/opt/miniconda3"

@@ -7,8 +7,8 @@ Type=simple
 ExecStart=/usr/local/bin/run_consultemplate.sh
 Restart=on-failure
 RestartSec=10s
-User=ubuntu
-Group=ubuntu
+User={{ service_user }}
+Group={{ service_group }}
 
 [Install]
 WantedBy=multi-user.target

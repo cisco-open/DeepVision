@@ -3,6 +3,9 @@
   hosts: all
   become: yes  # Required for permissions to write to /usr/local/bin and /tmp
 
+  vars_files:
+    - vars/global_vars.yaml
+
   tasks:
     - name: Ensure nginx script is present in /usr/local/bin
       copy:
@@ -14,6 +17,8 @@
       file:
         path: /tmp/nginx
         state: directory
+        owner: "{{ service_user }}"
+        group: "{{ service_group }}"
         mode: '0755'
 
     - name: Copy nginx configuration file to /tmp/nginx

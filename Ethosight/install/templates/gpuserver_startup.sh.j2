@@ -1,7 +1,8 @@
 #!/bin/bash
 
-source /home/ubuntu/miniconda3/etc/profile.d/conda.sh
+source "{{ conda_base }}/etc/profile.d/conda.sh"
 conda activate ethosight
+pip install -e "{{ ethosight_path }}"
 
 # Function to start the runserver processes
 start_runserver() {

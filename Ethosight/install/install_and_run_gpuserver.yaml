@@ -3,6 +3,9 @@
   hosts: all
   become: yes
 
+  vars_files:
+    - vars/global_vars.yaml
+
   vars:
     ethosight_gpus:
       - 0
@@ -13,11 +16,16 @@
       file:
         path: /opt/scripts
         state: directory
+        owner: "{{ service_user }}"
+        group: "{{ service_group }}"
+        mode: '0755'
 
     - name: Generate startup script
       template:
         src: gpuserver_startup.sh.j2
         dest: /opt/scripts/gpuserver_startup.sh
+        owner: "{{ service_user }}"
+        group: "{{ service_group }}"
         mode: '0755'
 
     - name: Create systemd service unit
