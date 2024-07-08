@@ -14,3 +14,9 @@
         state: restarted
         enabled: yes
 
+    - name: Restart consule-template
+      systemd:
+        name: consul-template
+        state: restarted
+        enabled: yes
+

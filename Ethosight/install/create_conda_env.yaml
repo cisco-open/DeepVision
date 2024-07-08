@@ -3,10 +3,8 @@
   hosts: all
   become: no
 
-  vars:
-    playbook_dir: "{{ playbook_dir | default(lookup('env', 'PWD')) }}"
-    conda_env_path: "{{ playbook_dir }}/environment.yml"
-    ethosight_path: "{{ playbook_dir }}/.."
+  vars_files:
+    - vars/global_vars.yaml
 
   tasks:
     - name: Create Conda environment from file

@@ -9,7 +9,8 @@ Wants=network.target
 # Specifies the type of startup and service integration
 Type=simple
 # Defines under which user the service will run
-User=ubuntu
+User={{ service_user }}
+Group={{ service_group }}
 # Command to start your service
 ExecStart=/usr/local/bin/run_nginx.sh
 # Service restart policy

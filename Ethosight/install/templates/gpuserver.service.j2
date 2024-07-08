@@ -3,8 +3,8 @@ Description=Ethosight GPU Server Service
 After=network.target
 
 [Service]
-User=ubuntu
-Group=ubuntu
+User={{ service_user }}
+Group={{ service_group }}
 ExecStart=/opt/scripts/gpuserver_startup.sh
 Restart=always
 RestartSec=10
