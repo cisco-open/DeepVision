@@ -19,7 +19,6 @@ import time
 
 from utils.constants import GPU_METRICS_CMD, MEMORY_USED, MEMORY_TOTAL, GPU_UTILIZATION, MEMORY_UTILIZATION, GPU_TEMP
 
-# Later migrate to utils
 class TSManager:
     def __init__(self, redis_conn):
         self.redis_conn = redis_conn
