@@ -15,13 +15,13 @@
 # SPDX-License-Identifier: Apache-2.0
 
 numpy
-jinja2==3.1.1
+jinja2==3.1.4
 opencv-python>=4.0.1.23
 redis
 
 torch
 flask
-Pillow==9.3.0
+Pillow==10.3.0
 seaborn
 redistimeseries
 
