@@ -38,7 +38,10 @@ RUN pip install mmdet==2.28.1
 
 ENV FORCE_CUDA="1"
 
+RUN git clone https://github.com/open-mmlab/mmflow.git /mmtracking/mmflow
 COPY ./tracking /mmtracking
 WORKDIR /mmtracking
 RUN pip install -r requirements.txt
 RUN pip install -v -e mmtracking/
+RUN pip install -r mmflow/requirements/build.txt
+RUN pip install -v -e mmflow/

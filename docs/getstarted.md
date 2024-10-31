@@ -50,13 +50,19 @@ The script includes the following service profiles:
     To provide env file when starting haidetection service
 
 ./run haidetection up ./config/.env --build
+    
+    To provide specific env file for example optical flow
+
+./run optical_flow up config/.env.opticalflow --build
+
 
 Note: If an invalid profile name is given, the script will display a "Invalid profile" error message and print the help message.
 
 ### Configuration
-It's pretty simple to configure and change tracking model and corresponding accuracy score using parameters inside `.env` file in the root directory. Just use commenting and uncommenting approach.  
-There are other configurable properties described in `.env` file (details are placed in the file itself).  
-Also action recognition can be configured using `.env` file. There are many recognition models you can find [here](https://github.com/open-mmlab/mmaction2/tree/main/configs/recognition) and just replace `AR_MODEL_CONF` variable's value with the desired algo name without '.py' extension.  
+1. It's pretty simple to configure and change tracking model and corresponding accuracy score using parameters inside `.env.*` file in the `config` directory. Just use commenting and uncommenting approach.  
+2. There are other configurable properties described in `config/.env` file (details are placed in the file itself).  
+3. Also action recognition can be configured using `config/.env` file. There are many recognition models you can find [here](https://github.com/open-mmlab/mmaction2/tree/main/configs/recognition) and just replace `AR_MODEL_CONF` variable's value with the desired algo name without '.py' extension. The most specific configuration is `config/.env.actionrec`.   
+4. For Optical Flow configuration just use `optical_flow` profile and `config/.env.opticalflow` configuration to get the best experience. To change optical flow model algo just change `FLOW_MODEL_CONF` variable value to one of these *.py config files found [here](https://github.com/open-mmlab/mmflow/tree/master/configs) 
 
 ### For Webserver and grafana dashboard
 
