@@ -7,3 +7,6 @@
 [submodule "recallm/chroma"]
 	path = recallm/chroma
 	url = https://github.com/chroma-core/chroma.git
+[submodule "videoquery/vqpy"]
+	path = videoquery/vqpy
+	url = https://github.com/vqpy/vqpy.git
